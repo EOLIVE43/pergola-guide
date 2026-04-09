@@ -1,0 +1,163 @@
+{
+  "piliers": [
+    {
+      "id": "bioclimatique",
+      "titre": "Pergola Bioclimatique",
+      "slug": "pergola-bioclimatique",
+      "mot_cle": "pergola bioclimatique",
+      "volume": 250310,
+      "description": "Tout savoir sur la pergola bioclimatique : prix, dimensions, matériaux et conseils d'installation.",
+      "secondaires": [
+        {"titre": "Pergola bioclimatique 4x3", "slug": "pergola-bioclimatique-4x3", "mot_cle": "pergola bioclimatique 4x3", "volume": 12100},
+        {"titre": "Pergola bioclimatique 6x4", "slug": "pergola-bioclimatique-6x4", "mot_cle": "pergola bioclimatique 6x4", "volume": 3600},
+        {"titre": "Pergola bioclimatique 6x3", "slug": "pergola-bioclimatique-6x3", "mot_cle": "pergola bioclimatique 6x3", "volume": 2900},
+        {"titre": "Pergola bioclimatique 3x3", "slug": "pergola-bioclimatique-3x3", "mot_cle": "pergola bioclimatique 3x3", "volume": 2400},
+        {"titre": "Prix pergola bioclimatique", "slug": "prix-pergola-bioclimatique", "mot_cle": "pergola bioclimatique prix", "volume": 2400},
+        {"titre": "Pergola bioclimatique aluminium", "slug": "pergola-bioclimatique-aluminium", "mot_cle": "pergola bioclimatique aluminium", "volume": 1600},
+        {"titre": "Pergola bioclimatique bois", "slug": "pergola-bioclimatique-bois", "mot_cle": "pergola bioclimatique bois", "volume": 880},
+        {"titre": "Pergola solaire", "slug": "pergola-solaire", "mot_cle": "pergola solaire", "volume": 3600},
+        {"titre": "Lames orientables pergola", "slug": "lames-orientables-pergola", "mot_cle": "lames orientables pergola", "volume": 590}
+      ]
+    },
+    {
+      "id": "bois",
+      "titre": "Pergola en Bois",
+      "slug": "pergola-bois",
+      "mot_cle": "pergola bois",
+      "volume": 213210,
+      "description": "Guide complet sur les pergolas en bois : essences, traitement, entretien et modèles.",
+      "secondaires": [
+        {"titre": "Pergola bois adossée", "slug": "pergola-bois-adossee", "mot_cle": "pergola bois adossée", "volume": 2400},
+        {"titre": "Pergola bois autoportante", "slug": "pergola-bois-autoportante", "mot_cle": "pergola bois autoportante", "volume": 880},
+        {"titre": "Pergola bois sur mesure", "slug": "pergola-bois-sur-mesure", "mot_cle": "pergola bois sur mesure", "volume": 720},
+        {"titre": "Pergola bois traité", "slug": "pergola-bois-traite", "mot_cle": "pergola bois traité", "volume": 590},
+        {"titre": "Pergola bois douglas", "slug": "pergola-bois-douglas", "mot_cle": "pergola bois douglas", "volume": 480},
+        {"titre": "Pergola bois exotique", "slug": "pergola-bois-exotique", "mot_cle": "pergola bois exotique", "volume": 320},
+        {"titre": "Pergola bois pas cher", "slug": "pergola-bois-pas-cher", "mot_cle": "pergola bois pas cher", "volume": 480},
+        {"titre": "Entretien pergola bois", "slug": "entretien-pergola-bois", "mot_cle": "entretien pergola bois", "volume": 590}
+      ]
+    },
+    {
+      "id": "toiture",
+      "titre": "Toiture & Couverture Pergola",
+      "slug": "pergola-toiture",
+      "mot_cle": "toiture pergola",
+      "volume": 105690,
+      "description": "Toutes les options de couverture pour votre pergola : verre, polycarbonate, toile, zinc.",
+      "secondaires": [
+        {"titre": "Pergola toit en verre", "slug": "pergola-toit-verre", "mot_cle": "pergola toit verre", "volume": 1600},
+        {"titre": "Pergola polycarbonate", "slug": "pergola-polycarbonate", "mot_cle": "pergola polycarbonate", "volume": 1300},
+        {"titre": "Pergola bâche et toile", "slug": "pergola-bache-toile", "mot_cle": "bache pergola", "volume": 1900},
+        {"titre": "Pergola toit plat", "slug": "pergola-toit-plat", "mot_cle": "pergola toit plat", "volume": 720},
+        {"titre": "Pergola toit en zinc", "slug": "pergola-toit-zinc", "mot_cle": "pergola zinc", "volume": 480},
+        {"titre": "Pergola voile d'ombrage", "slug": "pergola-voile-ombrage", "mot_cle": "voile ombrage pergola", "volume": 1600},
+        {"titre": "Toile pour pergola", "slug": "toile-pergola", "mot_cle": "toile pour pergola", "volume": 2900},
+        {"titre": "Pergola store banne", "slug": "pergola-store-banne", "mot_cle": "pergola store banne", "volume": 720}
+      ]
+    },
+    {
+      "id": "dimensions",
+      "titre": "Dimensions de Pergola",
+      "slug": "pergola-dimensions",
+      "mot_cle": "dimensions pergola",
+      "volume": 92060,
+      "description": "Toutes les dimensions de pergola disponibles : 3x3, 4x3, 4x4, 6x4 et sur mesure.",
+      "secondaires": [
+        {"titre": "Pergola 3x3", "slug": "pergola-3x3", "mot_cle": "pergola 3x3", "volume": 2900},
+        {"titre": "Pergola 4x3", "slug": "pergola-4x3", "mot_cle": "pergola 4x3", "volume": 2900},
+        {"titre": "Pergola 4x4", "slug": "pergola-4x4", "mot_cle": "pergola 4x4", "volume": 1900},
+        {"titre": "Pergola 6x4", "slug": "pergola-6x4", "mot_cle": "pergola 6x4", "volume": 1000},
+        {"titre": "Pergola 6x3", "slug": "pergola-6x3", "mot_cle": "pergola 6x3", "volume": 720},
+        {"titre": "Pergola sur mesure", "slug": "pergola-sur-mesure", "mot_cle": "pergola sur mesure", "volume": 2900},
+        {"titre": "Petite pergola moins de 20m²", "slug": "petite-pergola", "mot_cle": "petite pergola", "volume": 720},
+        {"titre": "Grande pergola plus de 20m²", "slug": "grande-pergola", "mot_cle": "grande pergola", "volume": 480}
+      ]
+    },
+    {
+      "id": "aluminium",
+      "titre": "Pergola Aluminium",
+      "slug": "pergola-aluminium",
+      "mot_cle": "pergola aluminium",
+      "volume": 64270,
+      "description": "Guide complet sur les pergolas en aluminium : modèles, prix, avantages et entretien.",
+      "secondaires": [
+        {"titre": "Pergola aluminium adossée", "slug": "pergola-aluminium-adossee", "mot_cle": "pergola aluminium adossée", "volume": 720},
+        {"titre": "Pergola aluminium autoportante", "slug": "pergola-aluminium-autoportante", "mot_cle": "pergola aluminium autoportante", "volume": 480},
+        {"titre": "Pergola aluminium 4x3", "slug": "pergola-aluminium-4x3", "mot_cle": "pergola aluminium 4x3", "volume": 880},
+        {"titre": "Pergola aluminium 6x4", "slug": "pergola-aluminium-6x4", "mot_cle": "pergola aluminium 6x4", "volume": 1000},
+        {"titre": "Pergola aluminium sur mesure", "slug": "pergola-aluminium-sur-mesure", "mot_cle": "pergola aluminium sur mesure", "volume": 590},
+        {"titre": "Pergola aluminium pas cher", "slug": "pergola-aluminium-pas-cher", "mot_cle": "pergola aluminium pas cher", "volume": 480},
+        {"titre": "Pergola aluminium haut de gamme", "slug": "pergola-aluminium-haut-de-gamme", "mot_cle": "pergola aluminium haut de gamme", "volume": 320}
+      ]
+    },
+    {
+      "id": "stores",
+      "titre": "Stores & Occultation Pergola",
+      "slug": "pergola-stores-occultation",
+      "mot_cle": "store pergola",
+      "volume": 61210,
+      "description": "Solutions d'occultation pour pergola : stores, rideaux, voiles et brise-vues.",
+      "secondaires": [
+        {"titre": "Store pergola zip", "slug": "store-pergola-zip", "mot_cle": "store pergola zip", "volume": 720},
+        {"titre": "Store pergola vertical", "slug": "store-pergola-vertical", "mot_cle": "store vertical pergola", "volume": 590},
+        {"titre": "Rideau pergola extérieur", "slug": "rideau-pergola-exterieur", "mot_cle": "rideau pergola", "volume": 2400},
+        {"titre": "Voile d'ombrage pergola", "slug": "voile-ombrage-pergola", "mot_cle": "voile ombrage pergola", "volume": 1600},
+        {"titre": "Pergola stores latéraux", "slug": "pergola-stores-lateraux", "mot_cle": "pergola stores latéraux", "volume": 480},
+        {"titre": "Rideau imperméable pergola", "slug": "rideau-impermeable-pergola", "mot_cle": "rideau imperméable pergola", "volume": 390},
+        {"titre": "Brise-vue pergola", "slug": "brise-vue-pergola", "mot_cle": "brise vue pergola", "volume": 320}
+      ]
+    },
+    {
+      "id": "prix",
+      "titre": "Prix & Budget Pergola",
+      "slug": "prix-pergola",
+      "mot_cle": "prix pergola",
+      "volume": 29620,
+      "description": "Tous les prix des pergolas en France : budget, devis et comparatifs par gamme.",
+      "secondaires": [
+        {"titre": "Prix pergola bioclimatique", "slug": "prix-pergola-bioclimatique", "mot_cle": "prix pergola bioclimatique", "volume": 2400},
+        {"titre": "Prix pergola bois", "slug": "prix-pergola-bois", "mot_cle": "prix pergola bois", "volume": 1000},
+        {"titre": "Prix pergola aluminium", "slug": "prix-pergola-aluminium", "mot_cle": "prix pergola aluminium", "volume": 1000},
+        {"titre": "Prix pergola sur mesure", "slug": "prix-pergola-sur-mesure", "mot_cle": "prix pergola sur mesure", "volume": 720},
+        {"titre": "Pergola pas cher moins de 500€", "slug": "pergola-pas-cher", "mot_cle": "pergola pas cher", "volume": 3600},
+        {"titre": "Pergola milieu de gamme", "slug": "pergola-milieu-gamme", "mot_cle": "pergola milieu de gamme", "volume": 210},
+        {"titre": "Pergola haut de gamme", "slug": "pergola-haut-de-gamme", "mot_cle": "pergola haut de gamme", "volume": 210},
+        {"titre": "Devis pergola", "slug": "devis-pergola", "mot_cle": "devis pergola", "volume": 480}
+      ]
+    },
+    {
+      "id": "installation",
+      "titre": "Installation & Pose Pergola",
+      "slug": "installation-pergola",
+      "mot_cle": "installation pergola",
+      "volume": 23130,
+      "description": "Comment installer une pergola : pose, fixation, fondations et réglementation.",
+      "secondaires": [
+        {"titre": "Installer pergola soi-même", "slug": "installer-pergola-soi-meme", "mot_cle": "installer pergola soi-même", "volume": 880},
+        {"titre": "Pergola sur dalle béton", "slug": "pergola-dalle-beton", "mot_cle": "pergola dalle béton", "volume": 720},
+        {"titre": "Pergola sur terrasse bois", "slug": "pergola-terrasse-bois", "mot_cle": "pergola terrasse bois", "volume": 590},
+        {"titre": "Fixation pergola au mur", "slug": "fixation-pergola-mur", "mot_cle": "fixation pergola mur", "volume": 480},
+        {"titre": "Fondations pergola", "slug": "fondations-pergola", "mot_cle": "fondations pergola", "volume": 320},
+        {"titre": "Permis de construire pergola", "slug": "permis-construire-pergola", "mot_cle": "permis construire pergola", "volume": 590},
+        {"titre": "Déclaration préalable pergola", "slug": "declaration-prealable-pergola", "mot_cle": "déclaration préalable pergola", "volume": 590}
+      ]
+    },
+    {
+      "id": "terrasse",
+      "titre": "Pergola Terrasse & Jardin",
+      "slug": "pergola-terrasse-jardin",
+      "mot_cle": "pergola terrasse jardin",
+      "volume": 53230,
+      "description": "Pergola pour terrasse et jardin : idées, inspirations et aménagements extérieurs.",
+      "secondaires": [
+        {"titre": "Pergola petite terrasse", "slug": "pergola-petite-terrasse", "mot_cle": "pergola petite terrasse", "volume": 720},
+        {"titre": "Pergola jardin plantes grimpantes", "slug": "pergola-jardin-plantes-grimpantes", "mot_cle": "pergola jardin plantes grimpantes", "volume": 720},
+        {"titre": "Pergola bord de piscine", "slug": "pergola-piscine", "mot_cle": "pergola piscine", "volume": 880},
+        {"titre": "Pergola cuisine extérieure", "slug": "pergola-cuisine-exterieure", "mot_cle": "pergola cuisine extérieure", "volume": 480},
+        {"titre": "Pergola avec éclairage", "slug": "pergola-eclairage", "mot_cle": "éclairage pergola", "volume": 720},
+        {"titre": "Pergola avec chauffage", "slug": "pergola-chauffage", "mot_cle": "chauffage pergola", "volume": 480},
+        {"titre": "Pergola avec mobilier", "slug": "pergola-mobilier", "mot_cle": "pergola mobilier extérieur", "volume": 320}
+      ]
+    }
+  ]
+}
