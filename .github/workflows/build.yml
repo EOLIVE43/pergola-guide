@@ -1,0 +1,51 @@
+name: Pergola Site Builder
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Mode : full (site complet) ou blog (article quotidien)'
+        required: true
+        default: 'blog'
+        type: choice
+        options:
+          - blog
+          - full
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install anthropic
+
+      - name: Construire le site
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'blog' }}"
+          python build_site.py $MODE
+
+      - name: Commit et push
+        run: |
+          git config user.name "Pergola Bot"
+          git config user.email "bot@pergola-guide.fr"
+          git add -A
+          git diff --staged --quiet || git commit -m "🌿 Mise à jour site - $(date +'%d/%m/%Y')"
+          git push
