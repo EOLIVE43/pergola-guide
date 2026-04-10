@@ -22,9 +22,9 @@ from datetime import datetime
 from pathlib import Path
 
 # ─── CONFIG ───────────────────────────────────────────────
-SITE_URL  = "https://eolive43.github.io/pergola-guide"
-SITE_NOM  = "Pergola Guide France"
-SITE_LOGO = "🏡 Pergola Guide France"
+SITE_URL = "https://www.guide-pergola.fr"
+SITE_NOM  = "Pergola Guide"
+SITE_LOGO = "🏡 Guide Pergola"
 
 # ─── CONFIG ADSENSE ───────────────────────────────────────
 # Pour activer AdSense le moment venu :
