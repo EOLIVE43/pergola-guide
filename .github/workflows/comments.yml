@@ -1,0 +1,44 @@
+name: Génération commentaires quotidiens
+
+on:
+  schedule:
+    # Tourne tous les jours à 14h00 UTC (16h heure française)
+    - cron: '0 14 * * *'
+  workflow_dispatch:  # Permet de lancer manuellement
+
+jobs:
+  generate-comments:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Générer les commentaires du jour
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python build_site.py comments
+
+      - name: Commit et push si modifications
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Pergola Bot"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Aucun nouveau commentaire aujourd'hui"
+          else
+            git commit -m "💬 Mise à jour commentaires - $(date '+%d/%m/%Y')"
+            git push
+          fi
