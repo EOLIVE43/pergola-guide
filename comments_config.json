@@ -1,0 +1,823 @@
+{
+  "profils": [
+    {
+      "nom": "Gérard M.",
+      "region": "Auvergne",
+      "style": "retraité bricoleur, questions pratiques, ton direct"
+    },
+    {
+      "nom": "Pierre-Yves L.",
+      "region": "Bretagne",
+      "style": "passionné jardin, partage expériences détaillées"
+    },
+    {
+      "nom": "Jean-Paul R.",
+      "region": "Normandie",
+      "style": "sceptique, pose des questions précises sur les prix"
+    },
+    {
+      "nom": "Thierry B.",
+      "region": "Rhône-Alpes",
+      "style": "artisan du bâtiment, donne des conseils techniques"
+    },
+    {
+      "nom": "Michel D.",
+      "region": "Provence",
+      "style": "propriétaire maison ancienne, soucieux de l'esthétique"
+    },
+    {
+      "nom": "François T.",
+      "region": "Alsace",
+      "style": "méticuleux, compare toutes les options avant d'acheter"
+    },
+    {
+      "nom": "Patrick C.",
+      "region": "Aquitaine",
+      "style": "fan de DIY, a déjà fait plusieurs projets jardin"
+    },
+    {
+      "nom": "Alain V.",
+      "region": "Pays de la Loire",
+      "style": "pragmatique, cherche le meilleur rapport qualité/prix"
+    },
+    {
+      "nom": "Christophe N.",
+      "region": "Ile-de-France",
+      "style": "cadre pressé, veut des réponses concises"
+    },
+    {
+      "nom": "Bruno F.",
+      "region": "Languedoc",
+      "style": "passionné de terrasse, a déjà plusieurs aménagements"
+    },
+    {
+      "nom": "Stéphane P.",
+      "region": "Nord",
+      "style": "prudent, pose des questions sur la résistance au vent"
+    },
+    {
+      "nom": "Olivier G.",
+      "region": "Bourgogne",
+      "style": "propriétaire viticulteur, goût pour les belles choses"
+    },
+    {
+      "nom": "Laurent H.",
+      "region": "Midi-Pyrénées",
+      "style": "père de famille, budget limité, pratique"
+    },
+    {
+      "nom": "Nicolas A.",
+      "region": "Poitou",
+      "style": "jeune propriétaire, premier projet jardin"
+    },
+    {
+      "nom": "Vincent K.",
+      "region": "Lorraine",
+      "style": "ingénieur, analyse technique approfondie"
+    },
+    {
+      "nom": "Sébastien W.",
+      "region": "Champagne",
+      "style": "amateur de barbecue, cherche espace convivial"
+    },
+    {
+      "nom": "David Q.",
+      "region": "Franche-Comté",
+      "style": "montagnard, questions sur résistance neige"
+    },
+    {
+      "nom": "Éric J.",
+      "region": "Picardie",
+      "style": "retraité actif, beaucoup de temps pour les projets"
+    },
+    {
+      "nom": "Marc Z.",
+      "region": "Touraine",
+      "style": "architecte d'intérieur amateur, très esthétique"
+    },
+    {
+      "nom": "Antoine S.",
+      "region": "Savoie",
+      "style": "sportif, terrasse été comme hiver"
+    },
+    {
+      "nom": "Julien O.",
+      "region": "Var",
+      "style": "sudiste, priorité à l'ombrage et la chaleur"
+    },
+    {
+      "nom": "Mathieu E.",
+      "region": "Corrèze",
+      "style": "rural, grandes surfaces, projets ambitieux"
+    },
+    {
+      "nom": "Romain U.",
+      "region": "Manche",
+      "style": "côtier, résistance au sel et humidité importante"
+    },
+    {
+      "nom": "Thomas I.",
+      "region": "Haute-Garonne",
+      "style": "étudiant en archi, goût design contemporain"
+    },
+    {
+      "nom": "Alexandre Y.",
+      "region": "Creuse",
+      "style": "propriétaire résidence secondaire, budget ok"
+    },
+    {
+      "nom": "Guillaume X.",
+      "region": "Indre",
+      "style": "agriculteur, terrain immense, projets XXL"
+    },
+    {
+      "nom": "Benoît C.",
+      "region": "Calvados",
+      "style": "normand pragmatique, priorité durabilité"
+    },
+    {
+      "nom": "Frédéric L.",
+      "region": "Hérault",
+      "style": "viticulteur, belle terrasse pour recevoir"
+    },
+    {
+      "nom": "Luc M.",
+      "region": "Sarthe",
+      "style": "mécanicien, bricoleur expert, conseils DIY"
+    },
+    {
+      "nom": "Arnaud P.",
+      "region": "Moselle",
+      "style": "transfrontalier, compare prix FR/DE"
+    },
+    {
+      "nom": "Sophie B.",
+      "region": "Ile-de-France",
+      "style": "jeune maman, esthétique et sécurité enfants"
+    },
+    {
+      "nom": "Nathalie D.",
+      "region": "Provence",
+      "style": "décoratrice, très attentive au style et aux couleurs"
+    },
+    {
+      "nom": "Christine R.",
+      "region": "Bretagne",
+      "style": "vient de faire installer, partage retour d'expérience"
+    },
+    {
+      "nom": "Isabelle M.",
+      "region": "Rhône-Alpes",
+      "style": "compare plusieurs options, demande des avis"
+    },
+    {
+      "nom": "Marie-Claire T.",
+      "region": "Alsace",
+      "style": "grand-mère active, jardin comme passion"
+    },
+    {
+      "nom": "Véronique L.",
+      "region": "Normandie",
+      "style": "propriétaire gîte, usage professionnel"
+    },
+    {
+      "nom": "Sandrine C.",
+      "region": "Aquitaine",
+      "style": "architecte, vision technique et esthétique"
+    },
+    {
+      "nom": "Céline V.",
+      "region": "Languedoc",
+      "style": "blogueuse jardinage, partage ses projets"
+    },
+    {
+      "nom": "Aurélie N.",
+      "region": "Nord",
+      "style": "professeure, méthodique, cherche infos complètes"
+    },
+    {
+      "nom": "Laure F.",
+      "region": "Bourgogne",
+      "style": "œnologue, goût du beau, budget confortable"
+    },
+    {
+      "nom": "Émilie G.",
+      "region": "Midi-Pyrénées",
+      "style": "mère de famille nombreuse, pratique avant tout"
+    },
+    {
+      "nom": "Claire H.",
+      "region": "Pays de la Loire",
+      "style": "infirmière, peu de temps, questions directes"
+    },
+    {
+      "nom": "Julie A.",
+      "region": "Poitou",
+      "style": "étudiante en BTS paysage, questions pro"
+    },
+    {
+      "nom": "Pauline K.",
+      "region": "Lorraine",
+      "style": "comptable, très attentive aux prix et devis"
+    },
+    {
+      "nom": "Camille W.",
+      "region": "Champagne",
+      "style": "photographe, très sensible à l'esthétique visuelle"
+    },
+    {
+      "nom": "Lucie Q.",
+      "region": "Franche-Comté",
+      "style": "vétérinaire rurale, jardin fonctionnel"
+    },
+    {
+      "nom": "Manon J.",
+      "region": "Picardie",
+      "style": "jeune propriétaire, premier achat immobilier"
+    },
+    {
+      "nom": "Léa Z.",
+      "region": "Touraine",
+      "style": "graphiste, goût pour le design scandinave"
+    },
+    {
+      "nom": "Inès S.",
+      "region": "Savoie",
+      "style": "sportive, terrasse 4 saisons"
+    },
+    {
+      "nom": "Chloé O.",
+      "region": "Var",
+      "style": "restauratrice, terrasse professionnelle"
+    },
+    {
+      "nom": "Margot E.",
+      "region": "Corrèze",
+      "style": "agricultrice bio, matériaux naturels de préférence"
+    },
+    {
+      "nom": "Anaïs U.",
+      "region": "Manche",
+      "style": "enseignante, projet mûrement réfléchi"
+    },
+    {
+      "nom": "Laura I.",
+      "region": "Haute-Garonne",
+      "style": "ingénieure, approche très technique"
+    },
+    {
+      "nom": "Alice Y.",
+      "region": "Creuse",
+      "style": "artiste peintre, esthétique prime sur tout"
+    },
+    {
+      "nom": "Zoé X.",
+      "region": "Indre",
+      "style": "vétérinaire, jardin pour les enfants et animaux"
+    },
+    {
+      "nom": "MaxTerrasse",
+      "region": "Sud-Ouest",
+      "style": "pseudo, amateur DIY confirmé, ton décontracté"
+    },
+    {
+      "nom": "JeanPaul43",
+      "region": "Auvergne",
+      "style": "pseudo, sceptique bienveillant, questions précises"
+    },
+    {
+      "nom": "fab_jardin",
+      "region": "Centre",
+      "style": "pseudo, enthousiaste, recommande souvent l'article"
+    },
+    {
+      "nom": "bricoleur69",
+      "region": "Rhône",
+      "style": "pseudo, expert technique, conseils pratiques"
+    },
+    {
+      "nom": "terrassemania",
+      "region": "PACA",
+      "style": "pseudo, obsédé terrasse, a tout essayé"
+    },
+    {
+      "nom": "pergola_fan",
+      "region": "Bretagne",
+      "style": "pseudo, collectionne les pergolas, très bavard"
+    },
+    {
+      "nom": "jardindepapa",
+      "region": "Normandie",
+      "style": "pseudo, transmet la passion jardin à ses enfants"
+    },
+    {
+      "nom": "rénov_maison",
+      "region": "Ile-de-France",
+      "style": "pseudo, en pleine rénovation complète maison"
+    },
+    {
+      "nom": "outdoor_life",
+      "region": "Aquitaine",
+      "style": "pseudo, mode de vie extérieur, mange dehors 6 mois/an"
+    },
+    {
+      "nom": "diy_master_fr",
+      "region": "Alsace",
+      "style": "pseudo, tutoriels YouTube DIY, très technique"
+    },
+    {
+      "nom": "vert_et_zen",
+      "region": "Languedoc",
+      "style": "pseudo, jardin zen, pergola style japonais"
+    },
+    {
+      "nom": "terrasse_bois",
+      "region": "Savoie",
+      "style": "pseudo, spécialiste bois, conseil matériaux"
+    },
+    {
+      "nom": "soleil_midi",
+      "region": "Var",
+      "style": "pseudo, protection solaire priorité absolue"
+    },
+    {
+      "nom": "nord_terrasse",
+      "region": "Nord",
+      "style": "pseudo, climate nordiste, questions pratiques"
+    },
+    {
+      "nom": "maison_et_jardin",
+      "region": "Bourgogne",
+      "style": "pseudo, magazine lifestyle, goût classique"
+    },
+    {
+      "nom": "construire_malin",
+      "region": "Lorraine",
+      "style": "pseudo, optimise chaque euro dépensé"
+    },
+    {
+      "nom": "jardin_zen_42",
+      "region": "Loire",
+      "style": "pseudo, bouddhiste, jardin contemplatif"
+    },
+    {
+      "nom": "pergola2025",
+      "region": "Hérault",
+      "style": "pseudo, projet en cours cette année"
+    },
+    {
+      "nom": "terrasse_pro",
+      "region": "Gironde",
+      "style": "pseudo, paysagiste amateur très sérieux"
+    },
+    {
+      "nom": "home_sweet_home",
+      "region": "Calvados",
+      "style": "pseudo, cocooning, confort avant tout"
+    },
+    {
+      "nom": "jardinerierose",
+      "region": "Provence",
+      "style": "pseudo, passionnée fleurs et jardin anglais"
+    },
+    {
+      "nom": "sophie_deco",
+      "region": "Paris",
+      "style": "pseudo, blogueuse déco intérieur/extérieur"
+    },
+    {
+      "nom": "mamie_jardin",
+      "region": "Auvergne",
+      "style": "pseudo, retraitée active, jardin comme thérapie"
+    },
+    {
+      "nom": "terrasse_girly",
+      "region": "Ile-de-France",
+      "style": "pseudo, esthétique féminine, guirlandes et coussins"
+    },
+    {
+      "nom": "green_garden_fr",
+      "region": "Bretagne",
+      "style": "pseudo, écolo, matériaux durables uniquement"
+    },
+    {
+      "nom": "maison_bois_nat",
+      "region": "Alsace",
+      "style": "pseudo, architecte bois, très technique"
+    },
+    {
+      "nom": "zen_attitude_fr",
+      "region": "PACA",
+      "style": "pseudo, yoga et méditation en terrasse"
+    },
+    {
+      "nom": "cocon_exterieur",
+      "region": "Normandie",
+      "style": "pseudo, créatrice ambiance cosy dehors"
+    },
+    {
+      "nom": "outdoor_mama",
+      "region": "Languedoc",
+      "style": "pseudo, maman, jardin lieu de vie familiale"
+    },
+    {
+      "nom": "deco_terrasse",
+      "region": "Gironde",
+      "style": "pseudo, styliste terrasse, très esthétique"
+    },
+    {
+      "nom": "Jean-Claude M.",
+      "region": "Alsace",
+      "style": "traditionnel, pergola classique, matériaux nobles"
+    },
+    {
+      "nom": "Marie-Hélène B.",
+      "region": "Bretagne",
+      "style": "résidence principale et secondaire, double projet"
+    },
+    {
+      "nom": "Pierre-Antoine L.",
+      "region": "Bordeaux",
+      "style": "amateur vin, terrasse pour dégustation"
+    },
+    {
+      "nom": "Anne-Sophie D.",
+      "region": "Lyon",
+      "style": "avocate, peu de temps, décision rapide"
+    },
+    {
+      "nom": "Jean-François R.",
+      "region": "Marseille",
+      "style": "marseillais typique, chaleur et convivialité"
+    },
+    {
+      "nom": "Marie-Noëlle T.",
+      "region": "Nantes",
+      "style": "retraitée enseignante, jardinage comme passion"
+    },
+    {
+      "nom": "Pierre-Louis C.",
+      "region": "Strasbourg",
+      "style": "architecte, goût germanique du détail"
+    },
+    {
+      "nom": "Anne-Marie V.",
+      "region": "Toulouse",
+      "style": "professeure université, analytique"
+    },
+    {
+      "nom": "Jean-Baptiste N.",
+      "region": "Montpellier",
+      "style": "médecin, peu de temps, qualité premium"
+    },
+    {
+      "nom": "Marie-Laure F.",
+      "region": "Grenoble",
+      "style": "chercheuse, approche scientifique du jardinage"
+    },
+    {
+      "nom": "Kevin T.",
+      "region": "Ile-de-France",
+      "style": "millénial, influencé Instagram, goût moderne"
+    },
+    {
+      "nom": "Dylan M.",
+      "region": "Bordeaux",
+      "style": "jeune actif, premier achat maison, enthousiaste"
+    },
+    {
+      "nom": "Quentin L.",
+      "region": "Lille",
+      "style": "développeur, achète tout en ligne, très connecté"
+    },
+    {
+      "nom": "Florian B.",
+      "region": "Nantes",
+      "style": "musicien, terrasse pour répétitions dehors"
+    },
+    {
+      "nom": "Maxime R.",
+      "region": "Rennes",
+      "style": "sportif, terrasse pour récupération et détente"
+    },
+    {
+      "nom": "Axel D.",
+      "region": "Toulouse",
+      "style": "ingénieur aéro, précision technique extrême"
+    },
+    {
+      "nom": "Lucas C.",
+      "region": "Nice",
+      "style": "photographe, lumière naturelle très importante"
+    },
+    {
+      "nom": "Théo V.",
+      "region": "Montpellier",
+      "style": "étudiant médecine, budget serré"
+    },
+    {
+      "nom": "Hugo N.",
+      "region": "Lyon",
+      "style": "chef cuisinier, terrasse repas en plein air"
+    },
+    {
+      "nom": "Enzo F.",
+      "region": "Marseille",
+      "style": "commercial, reçoit souvent des clients"
+    },
+    {
+      "nom": "Léo G.",
+      "region": "Paris",
+      "style": "architecte junior, goût minimaliste"
+    },
+    {
+      "nom": "Noah H.",
+      "region": "Bordeaux",
+      "style": "vigneron, terrasse pour events"
+    },
+    {
+      "nom": "Nolan A.",
+      "region": "Strasbourg",
+      "style": "franco-allemand, compare les marchés"
+    },
+    {
+      "nom": "Evan K.",
+      "region": "Grenoble",
+      "style": "alpiniste, résistance altitude et neige"
+    },
+    {
+      "nom": "Tom W.",
+      "region": "Normandie",
+      "style": "surfeur, résistance humidité et vent"
+    },
+    {
+      "nom": "Emma S.",
+      "region": "Paris",
+      "style": "influenceuse déco, très Instagram"
+    },
+    {
+      "nom": "Jade O.",
+      "region": "Lyon",
+      "style": "étudiante archi, projets créatifs"
+    },
+    {
+      "nom": "Lena E.",
+      "region": "Bordeaux",
+      "style": "œnologue, terrasse dégustation"
+    },
+    {
+      "nom": "Clara U.",
+      "region": "Toulouse",
+      "style": "pilote, souvent absente, projet longue durée"
+    },
+    {
+      "nom": "Eva I.",
+      "region": "Nantes",
+      "style": "graphiste, sens visuel développé"
+    },
+    {
+      "nom": "Mia Y.",
+      "region": "Nice",
+      "style": "yogi, espace zen extérieur"
+    },
+    {
+      "nom": "Lily X.",
+      "region": "Rennes",
+      "style": "styliste, pergola comme accessoire mode"
+    },
+    {
+      "nom": "Rose C.",
+      "region": "Montpellier",
+      "style": "herboriste, plantes grimpantes sur pergola"
+    },
+    {
+      "nom": "Luna L.",
+      "region": "Marseille",
+      "style": "artiste, couleurs et lumière essentielles"
+    },
+    {
+      "nom": "Iris M.",
+      "region": "Grenoble",
+      "style": "biologiste, matériaux eco-responsables"
+    },
+    {
+      "nom": "Roger B.",
+      "region": "Dordogne",
+      "style": "retraité agriculteur, grandes surfaces, robustesse"
+    },
+    {
+      "nom": "Georgette L.",
+      "region": "Lot",
+      "style": "retraitée, jardin comme héritage familial"
+    },
+    {
+      "nom": "Henri D.",
+      "region": "Cantal",
+      "style": "ancien charpentier, expert bois, exigeant"
+    },
+    {
+      "nom": "Simone R.",
+      "region": "Aveyron",
+      "style": "retraitée institutrice, méthodique et précise"
+    },
+    {
+      "nom": "Marcel T.",
+      "region": "Lozère",
+      "style": "éleveur, terrasse face aux montagnes"
+    },
+    {
+      "nom": "Yvette C.",
+      "region": "Ardèche",
+      "style": "retraitée active, jardinage toute l'année"
+    },
+    {
+      "nom": "Raymond V.",
+      "region": "Drôme",
+      "style": "ancien maçon, connaît les fondations"
+    },
+    {
+      "nom": "Paulette N.",
+      "region": "Gard",
+      "style": "apicultrice, biodiversité et plantes"
+    },
+    {
+      "nom": "Maurice F.",
+      "region": "Hérault",
+      "style": "ancien vigneron, terrasse réception"
+    },
+    {
+      "nom": "Jacqueline G.",
+      "region": "Aude",
+      "style": "retraitée, résidence secondaire au soleil"
+    },
+    {
+      "nom": "Dr. Leblanc",
+      "region": "Paris",
+      "style": "médecin, budget élevé, qualité premium uniquement"
+    },
+    {
+      "nom": "Me. Dupont",
+      "region": "Bordeaux",
+      "style": "avocat, précision juridique permis construire"
+    },
+    {
+      "nom": "Arch. Martin",
+      "region": "Lyon",
+      "style": "architecte, intégration paysagère"
+    },
+    {
+      "nom": "M. Rousseau",
+      "region": "Nantes",
+      "style": "entrepreneur BTP, connaît les prix réels"
+    },
+    {
+      "nom": "Mme Leroy",
+      "region": "Strasbourg",
+      "style": "directrice agence immo, valeur bien"
+    },
+    {
+      "nom": "M. Petit",
+      "region": "Toulouse",
+      "style": "paysagiste professionnel, conseils pro"
+    },
+    {
+      "nom": "Mme Moreau",
+      "region": "Marseille",
+      "style": "gérante hôtel, usage intensif professionnel"
+    },
+    {
+      "nom": "M. Simon",
+      "region": "Lille",
+      "style": "entrepreneur, optimise les coûts"
+    },
+    {
+      "nom": "Mme Laurent",
+      "region": "Rennes",
+      "style": "notaire, très attentive aux réglementations"
+    },
+    {
+      "nom": "M. Michel",
+      "region": "Grenoble",
+      "style": "ingénieur thermique, performance énergétique"
+    },
+    {
+      "nom": "Papa_de_3",
+      "region": "Centre",
+      "style": "pseudo, père de 3 enfants, sécurité et espace jeu"
+    },
+    {
+      "nom": "famille_martin",
+      "region": "Ouest",
+      "style": "pseudo, famille nombreuse, barbecue et piscine"
+    },
+    {
+      "nom": "newowners2025",
+      "region": "Ile-de-France",
+      "style": "pseudo, vient d'acheter, tout à faire"
+    },
+    {
+      "nom": "retraite_active",
+      "region": "Sud",
+      "style": "pseudo, retraité dynamique, temps et budget"
+    },
+    {
+      "nom": "grandmaison_fr",
+      "region": "Est",
+      "style": "pseudo, grande propriété, projets multiples"
+    },
+    {
+      "nom": "Bernard C.",
+      "region": "Charente",
+      "style": "cognac et terrasse, goût du beau et durable"
+    },
+    {
+      "nom": "Monique T.",
+      "region": "Tarn",
+      "style": "retraitée active, jardin communautaire"
+    },
+    {
+      "nom": "claude_brico",
+      "region": "Isère",
+      "style": "pseudo, bricoleur du dimanche très sérieux"
+    },
+    {
+      "nom": "Delphine R.",
+      "region": "Maine-et-Loire",
+      "style": "viticultrice, terrasse pour accueil clients"
+    },
+    {
+      "nom": "Serge O.",
+      "region": "Var",
+      "style": "ancien marin, résistance intempéries priorité"
+    }
+  ],
+  "types_commentaires": [
+    "question_pratique",
+    "retour_experience_positif",
+    "retour_experience_mitige",
+    "demande_prix_devis",
+    "complement_information",
+    "remerciement_avec_question",
+    "temoignage_installation",
+    "question_reglementation",
+    "conseil_materiau",
+    "question_entretien",
+    "comparaison_marques",
+    "question_dimensions",
+    "retour_artisan",
+    "question_diy",
+    "partage_devis_recu"
+  ],
+  "anchres_piliers": {
+    "bioclimatique": [
+      "pergola bioclimatique",
+      "prix pergola bioclimatique",
+      "pergola à lames orientables",
+      "pergola bioclimatique aluminium",
+      "choisir une pergola bioclimatique",
+      "pergola bioclimatique adossée",
+      "pergola solaire bioclimatique",
+      "notre guide pergola bioclimatique"
+    ],
+    "bois": [
+      "pergola bois",
+      "pergola en bois",
+      "pergola bois traité",
+      "choisir sa pergola bois",
+      "pergola bois pas cher",
+      "pergola bois sur mesure",
+      "notre guide pergola bois",
+      "pergola en bois pour terrasse"
+    ],
+    "aluminium": [
+      "pergola aluminium",
+      "pergola en aluminium",
+      "pergola alu",
+      "pergola aluminium adossée",
+      "prix pergola aluminium",
+      "pergola aluminium sur mesure",
+      "notre guide pergola aluminium",
+      "choisir une pergola aluminium"
+    ],
+    "prix": [
+      "prix pergola",
+      "coût pergola",
+      "budget pergola",
+      "devis pergola",
+      "pergola pas cher",
+      "tarif pergola",
+      "notre guide prix pergola",
+      "combien coûte une pergola"
+    ],
+    "installation": [
+      "installation pergola",
+      "installer une pergola",
+      "pose pergola",
+      "permis de construire pergola",
+      "fixer sa pergola",
+      "notre guide installation pergola",
+      "poser une pergola soi-même",
+      "réglementation pergola"
+    ]
+  }
+}
