@@ -25,6 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configurer Python
         uses: actions/setup-python@v5
@@ -38,6 +39,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          REPLICATE_API_KEY: ${{ secrets.REPLICATE_API_KEY }}
         run: |
           MODE="${{ github.event.inputs.mode || 'blog' }}"
           python build_site.py $MODE
@@ -48,4 +50,4 @@ jobs:
           git config user.email "bot@pergola-guide.fr"
           git add -A
           git diff --staged --quiet || git commit -m "🌿 Mise à jour site - $(date +'%d/%m/%Y')"
-          git push
+          git push origin HEAD:${{ github.ref_name }}
