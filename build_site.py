@@ -91,13 +91,26 @@ def construire_header(archi, niveau="racine", pilier_actuel=None):
     PILIERS_MENU = ["bioclimatique", "bois", "aluminium", "prix", "installation"]
     for p in [p for p in archi["piliers"] if p["id"] in PILIERS_MENU]:
         actif = "active" if pilier_actuel and p["id"] == pilier_actuel else ""
-        prefix = "../" if niveau in ["secondaire", "blog"] else ""
+        if niveau == "racine":
+            lien_pilier = f"piliers/{p['slug']}.html"
+            lien_sec = f"secondaires/{p['id']}"
+        elif niveau == "pilier":
+            lien_pilier = f"{p['slug']}.html"
+            lien_sec = f"../secondaires/{p['id']}"
+        elif niveau == "secondaire":
+            lien_pilier = f"../../piliers/{p['slug']}.html"
+            lien_sec = f"../{p['id']}"
+        else:  # blog
+            lien_pilier = f"../../piliers/{p['slug']}.html"
+            lien_sec = f"../../secondaires/{p['id']}"
+
         sous_liens = ""
         for s in p["secondaires"]:
-            sous_liens += f'<a href="{prefix}secondaires/{p["id"]}/{s["slug"]}.html">{s["titre"]}</a>\n'
+            sous_liens += f'<a href="{lien_sec}/{s["slug"]}.html">{s["titre"]}</a>\n'
+
         menus += f"""
         <div class="menu-item {actif}">
-          <a href="{prefix}piliers/{p['slug']}.html" class="menu-pilier">{p['titre']}</a>
+          <a href="{lien_pilier}" class="menu-pilier">{p['titre']}</a>
           <div class="sous-menu">{sous_liens}</div>
         </div>"""
 
