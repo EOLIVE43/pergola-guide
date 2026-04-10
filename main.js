@@ -100,3 +100,19 @@ fetch(prefix + 'articles.json')
 
   })
   .catch(() => {});
+// ─── LIEN PARTENARIATS FOOTER ─────────────────────────────
+// Ajoute automatiquement le lien "Partenariats" dans le footer
+// sur toutes les pages sans avoir à tout régénérer
+(function() {
+  var footerLinks = document.querySelector('footer p:last-child');
+  if (footerLinks) {
+    var prefix = '';
+    var path = window.location.pathname;
+    if (path.indexOf('/secondaires/') !== -1 || path.indexOf('/blog/') !== -1) {
+      prefix = '../../';
+    } else if (path.indexOf('/piliers/') !== -1) {
+      prefix = '../';
+    }
+    footerLinks.innerHTML += ' · <a href="' + prefix + 'partenariats.html">Partenariats</a>';
+  }
+})();
