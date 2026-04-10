@@ -114,7 +114,12 @@ def construire_header(archi, niveau="racine", pilier_actuel=None):
           <div class="sous-menu">{sous_liens}</div>
         </div>"""
 
-    prefix_home = "../" if niveau in ["secondaire", "blog"] else ""
+    # ✅ CORRECTION : secondaire et blog sont à 2 niveaux de profondeur
+    if niveau in ["secondaire", "blog"]:
+        prefix_home = "../../"
+    else:
+        prefix_home = ""
+
     return f"""<header>
   <div class="container header-inner">
     <a href="{prefix_home}index.html" class="logo">{SITE_LOGO}</a>
@@ -128,7 +133,7 @@ def construire_header(archi, niveau="racine", pilier_actuel=None):
 </header>"""
 
 def construire_footer(niveau="racine"):
-    prefix = "../" if niveau in ["secondaire", "blog"] else ""
+    prefix = "../../" if niveau in ["secondaire", "blog"] else ""
     return f"""<footer>
   <div class="container">
     <p>© 2025 EOLIZ — {SITE_NOM}</p>
