@@ -88,7 +88,8 @@ def slugify(texte):
 def construire_header(archi, niveau="racine", pilier_actuel=None):
     """Génère le header avec menu dynamique."""
     menus = ""
-    for p in archi["piliers"]:
+    PILIERS_MENU = ["bioclimatique", "bois", "aluminium", "prix", "installation"]
+    for p in [p for p in archi["piliers"] if p["id"] in PILIERS_MENU]:
         actif = "active" if pilier_actuel and p["id"] == pilier_actuel else ""
         prefix = "../" if niveau in ["secondaire", "blog"] else ""
         sous_liens = ""
