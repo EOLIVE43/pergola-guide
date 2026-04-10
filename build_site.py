@@ -423,8 +423,7 @@ def construire_footer(niveau="racine"):
     return f"""<footer>
   <div class="container">
     <p>© 2025 EOLIZ — {SITE_NOM}</p>
-    <p><a href="{prefix}mentions-legales.html">Mentions légales</a>
-     · <a href="{prefix}sitemap.xml">Sitemap</a></p>
+    <p><a href="{prefix}mentions-legales.html">Mentions légales</a></p>
   </div>
 </footer>"""
 
