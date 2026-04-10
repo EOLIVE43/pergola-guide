@@ -1,0 +1,1542 @@
+{
+  "bioclimatique": {
+    "principal": "pergola bioclimatique",
+    "volume_principal": 60500,
+    "secondaires": [
+      {
+        "kw": "pergola bioclimatique",
+        "vol": 60500,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3",
+        "vol": 12100,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergolas bioclimatique",
+        "vol": 5400,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 6x4",
+        "vol": 3600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola solaire",
+        "vol": 3600,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola bioclimatique 6x3",
+        "vol": 2900,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique leroy merlin",
+        "vol": 2900,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola bioclimatique 3x3",
+        "vol": 2400,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique prix",
+        "vol": 2400,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola bioclimatique adossée",
+        "vol": 1900,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique",
+        "vol": 1900,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola adossée bioclimatique",
+        "vol": 1600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x4",
+        "vol": 1600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergolas bioclimatiques",
+        "vol": 1600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 brico dépôt",
+        "vol": 1300,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bioclimatique sur mesure",
+        "vol": 1300,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "bioclimatique pergola",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergolas bioclimatique 4x3",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "leroy merlin pergola bioclimatique",
+        "vol": 880,
+        "intent": "Navigational, Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 5x3",
+        "vol": 880,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique adossée 4x3",
+        "vol": 880,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique bois",
+        "vol": 880,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 avec rideau",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 leroy merlin",
+        "vol": 720,
+        "intent": "Navigational, Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique aluminium",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique castorama",
+        "vol": 720,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola bioclimatique retractable",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois bioclimatique",
+        "vol": 720,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 5x4",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique adossée 6x3",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique pas cher",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique rétractable",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "store pergola bioclimatique",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "kit pergola bioclimatique",
+        "vol": 480,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 adossée",
+        "vol": 480,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique autoportée",
+        "vol": 480,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique carrefour",
+        "vol": 480,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola bioclimatique en kit",
+        "vol": 480,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola lames orientables",
+        "vol": 480,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique 4x3",
+        "vol": 480,
+        "intent": "Transactional"
+      }
+    ],
+    "longue_traine": [
+      {
+        "kw": "pergola bioclimatique 4x3",
+        "vol": 12100,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 6x4",
+        "vol": 3600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 6x3",
+        "vol": 2900,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 3x3",
+        "vol": 2400,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique prix",
+        "vol": 2400,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola bioclimatique adossée",
+        "vol": 1900,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 brico dépôt",
+        "vol": 1300,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergolas bioclimatique 4x3",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique adossée 4x3",
+        "vol": 880,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique bois",
+        "vol": 880,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 avec rideau",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 leroy merlin",
+        "vol": 720,
+        "intent": "Navigational, Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique aluminium",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique adossée 6x3",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 adossée",
+        "vol": 480,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique 4x3",
+        "vol": 480,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola bioclimatique adossee",
+        "vol": 390,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "rideau pergola bioclimatique 4x3",
+        "vol": 390,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "store pergola bioclimatique 4x3",
+        "vol": 390,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bioclimatique 4x3 castorama",
+        "vol": 320,
+        "intent": "Navigational, Transactional"
+      }
+    ]
+  },
+  "bois": {
+    "principal": "pergola bois",
+    "volume_principal": 27100,
+    "secondaires": [
+      {
+        "kw": "pergola bois",
+        "vol": 27100,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola en bois",
+        "vol": 4400,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois adossée",
+        "vol": 2400,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois brico dépôt",
+        "vol": 1900,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois fait maison",
+        "vol": 1600,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois pas cher",
+        "vol": 1600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois terrasse",
+        "vol": 1600,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "brico depot pergola bois",
+        "vol": 1300,
+        "intent": "Informational, Navigational"
+      },
+      {
+        "kw": "ma pergola bois",
+        "vol": 1300,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola en bois pour terrasse",
+        "vol": 1300,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "fabriquer pergola bois",
+        "vol": 1000,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fabriquer une pergola en bois",
+        "vol": 1000,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois brico depot",
+        "vol": 1000,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola en bois pas cher",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "terrasse pergola bois",
+        "vol": 1000,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois en kit",
+        "vol": 880,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "plan pergola bois pdf gratuit",
+        "vol": 880,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois 3x3",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois 3x4",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois bioclimatique",
+        "vol": 720,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "pergola bois fabrication maison",
+        "vol": 720,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois leroy merlin",
+        "vol": 720,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola en bois leroy merlin",
+        "vol": 720,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "plan pergola bois",
+        "vol": 720,
+        "intent": "Informational"
+      },
+      {
+        "kw": "plan pour pergola en bois",
+        "vol": 720,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fabriquer pergola en bois",
+        "vol": 590,
+        "intent": "Informational"
+      },
+      {
+        "kw": "jardin pergola bois",
+        "vol": 590,
+        "intent": "Informational"
+      },
+      {
+        "kw": "leroy merlin pergola bois",
+        "vol": 590,
+        "intent": NaN
+      },
+      {
+        "kw": "pergola bois flotté",
+        "vol": 590,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois jardin",
+        "vol": 590,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois moderne",
+        "vol": 590,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois sur terrasse",
+        "vol": 590,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola en bois kit",
+        "vol": 590,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "pergola en bois moderne",
+        "vol": 590,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "toit pergola bois",
+        "vol": 590,
+        "intent": "Informational"
+      },
+      {
+        "kw": "casto pergola bois",
+        "vol": 480,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "castorama pergola en bois",
+        "vol": 480,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "construire pergola bois",
+        "vol": 480,
+        "intent": "Informational"
+      },
+      {
+        "kw": "kit pergola bois",
+        "vol": 480,
+        "intent": "Informational"
+      },
+      {
+        "kw": "kit pergola en bois",
+        "vol": 480,
+        "intent": "Informational, Commercial"
+      }
+    ],
+    "longue_traine": [
+      {
+        "kw": "pergola bois adossée",
+        "vol": 2400,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois fait maison",
+        "vol": 1600,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois pas cher",
+        "vol": 1600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois terrasse",
+        "vol": 1600,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "fabriquer pergola bois",
+        "vol": 1000,
+        "intent": "Informational"
+      },
+      {
+        "kw": "plan pergola bois adossée",
+        "vol": 260,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois adossee",
+        "vol": 210,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois fait maison plan",
+        "vol": 210,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois adossée couverte",
+        "vol": 170,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois adossé",
+        "vol": 140,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois adossée 4x3",
+        "vol": 140,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois adossée fait maison",
+        "vol": 140,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola bois adossée 6x3",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola bois pas cher brico depot",
+        "vol": 110,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola bois pas cher brico dépôt",
+        "vol": 110,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "comment fabriquer pergola bois",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "construire pergola bois adossée",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola bois adosse",
+        "vol": 70,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "pergola bois fait maison prix",
+        "vol": 70,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola bois pas cher leclerc",
+        "vol": 70,
+        "intent": "Navigational"
+      }
+    ]
+  },
+  "aluminium": {
+    "principal": "pergola aluminium",
+    "volume_principal": 9900,
+    "secondaires": [
+      {
+        "kw": "pergola aluminium",
+        "vol": 9900,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola alu",
+        "vol": 2900,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 6x4",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3",
+        "vol": 880,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 3x4",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 3x3",
+        "vol": 590,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3 brico dépôt",
+        "vol": 590,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola aluminium en kit brico dépôt",
+        "vol": 480,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola alu 4x3 brico dépôt",
+        "vol": 390,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola aluminium 4x3 ikea",
+        "vol": 390,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola alu 3x4",
+        "vol": 320,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola alu 4x3",
+        "vol": 320,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3 leroy merlin",
+        "vol": 320,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola aluminium 6x4 castorama",
+        "vol": 320,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola aluminium sur mesure",
+        "vol": 320,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola alu 3x3",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola alu sur mesure",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x4",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 5x3m",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 6x3",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium en kit brico depot",
+        "vol": 260,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola alu adossée",
+        "vol": 210,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola alu bioclimatique",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola alu brico depot",
+        "vol": 210,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola alu leroy merlin",
+        "vol": 210,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola aluminium adossée",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium bioclimatique",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium prix",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola alu",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola alu 20m2",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola aluminium",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pièces détachées pergola aluminium",
+        "vol": 170,
+        "intent": "Informational"
+      },
+      {
+        "kw": "structure pergola aluminium",
+        "vol": 170,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "brico depot pergola alu",
+        "vol": 140,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "pergola alu 4x4",
+        "vol": 140,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola alu 6x3",
+        "vol": 140,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3 castorama",
+        "vol": 140,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola aluminium brico dépôt",
+        "vol": 140,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola aluminium en kit",
+        "vol": 140,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium pas cher",
+        "vol": 140,
+        "intent": "Commercial"
+      }
+    ],
+    "longue_traine": [
+      {
+        "kw": "pergola aluminium 6x4",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3",
+        "vol": 880,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3 brico dépôt",
+        "vol": 590,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola aluminium 4x3 ikea",
+        "vol": 390,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola aluminium 4x3 leroy merlin",
+        "vol": 320,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola aluminium 6x4 castorama",
+        "vol": 320,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola aluminium sur mesure",
+        "vol": 320,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium adossée",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergolas aluminium 4x3",
+        "vol": 170,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergolas aluminium sur mesure",
+        "vol": 170,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3 castorama",
+        "vol": 140,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "pergola aluminium pas cher",
+        "vol": 140,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola en aluminium sur mesure",
+        "vol": 140,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola aluminium 4x3 super u",
+        "vol": 110,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola aluminium 6x4 leroy merlin",
+        "vol": 110,
+        "intent": "Navigational, Commercial"
+      },
+      {
+        "kw": "pergola en aluminium pas cher",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola adossée aluminium 4x3",
+        "vol": 70,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola adossée aluminium 6x4",
+        "vol": 70,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola aluminium 4x3 leclerc",
+        "vol": 70,
+        "intent": "Informational, Navigational"
+      },
+      {
+        "kw": "pergola aluminium 6x4 adossée",
+        "vol": 70,
+        "intent": "Commercial"
+      }
+    ]
+  },
+  "prix": {
+    "principal": "prix pergola",
+    "volume_principal": 3600,
+    "secondaires": [
+      {
+        "kw": "pergola pas cher",
+        "vol": 3600,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique",
+        "vol": 1900,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola",
+        "vol": 1600,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "bois pour pergola pas cher",
+        "vol": 1000,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola pas chere en bois",
+        "vol": 1000,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola pas cher bois",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola pas cher en bois",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola pas chere",
+        "vol": 480,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique 4x3",
+        "vol": 480,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "devis pergola",
+        "vol": 390,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "pergola pas cher brico dépôt",
+        "vol": 390,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "pergola pas cher brico depot",
+        "vol": 320,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "prix pergola bois",
+        "vol": 320,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "devis pergola bioclimatique",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "devis pergolas",
+        "vol": 260,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique 20m2",
+        "vol": 260,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique 6x4",
+        "vol": 260,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergolas",
+        "vol": 260,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola alu",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola alu 20m2",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola aluminium",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola en aluminium",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola en bois",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola leroy merlin",
+        "vol": 210,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "prix pergola solaire",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "tarif pergola bioclimatique",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "fabriquer une pergola pas cher",
+        "vol": 170,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola pas cher gifi",
+        "vol": 170,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "prix pergola bioclimatique 30m2",
+        "vol": 170,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergolas bioclimatique",
+        "vol": 170,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "comment couvrir une pergola pas cher",
+        "vol": 140,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fabriquer pergola pas cher",
+        "vol": 140,
+        "intent": "Informational"
+      },
+      {
+        "kw": "prix pergola fer forgé",
+        "vol": 140,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "cout pergola bioclimatique",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "devis pergola bioclimatique compiègne",
+        "vol": 110,
+        "intent": "Informational"
+      },
+      {
+        "kw": "devis pergola bois",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "devis pergola nogent sur oise",
+        "vol": 110,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola pas cher 4x3",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola marquise",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "devis pergola beauvais",
+        "vol": 90,
+        "intent": "Informational"
+      }
+    ],
+    "longue_traine": [
+      {
+        "kw": "prix pergola bioclimatique",
+        "vol": 1900,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola pas cher bois",
+        "vol": 720,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique 4x3",
+        "vol": 480,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bois",
+        "vol": 320,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique 20m2",
+        "vol": 260,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique 6x4",
+        "vol": 260,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "pergola haut de gamme",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola aluminium",
+        "vol": 210,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique 30m2",
+        "vol": 170,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique beauvais",
+        "vol": 90,
+        "intent": NaN
+      },
+      {
+        "kw": "prix pergola bioclimatique compiègne",
+        "vol": 90,
+        "intent": NaN
+      },
+      {
+        "kw": "prix pergola bioclimatique au m2",
+        "vol": 70,
+        "intent": "Navigational"
+      },
+      {
+        "kw": "prix pergola bioclimatique avec pose",
+        "vol": 70,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "prix pergola bioclimatique oise",
+        "vol": 70,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bois 20m2",
+        "vol": 70,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique 18m2",
+        "vol": 50,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique achat pergola bioclimatique chantilly",
+        "vol": 50,
+        "intent": NaN
+      },
+      {
+        "kw": "prix pergola bioclimatique leroy merlin",
+        "vol": 50,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "prix pergola bioclimatique montataire",
+        "vol": 50,
+        "intent": NaN
+      },
+      {
+        "kw": "prix pergola bioclimatique nogent sur oise",
+        "vol": 50,
+        "intent": NaN
+      }
+    ]
+  },
+  "installation": {
+    "principal": "installation pergola",
+    "volume_principal": 320,
+    "secondaires": [
+      {
+        "kw": "installation pergola",
+        "vol": 320,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "fixation pergola",
+        "vol": 210,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pose pergola",
+        "vol": 210,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "fixer pergola sur terrasse sur plots",
+        "vol": 170,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola bioclimatique",
+        "vol": 170,
+        "intent": "Informational"
+      },
+      {
+        "kw": "prix pose pergola leroy merlin",
+        "vol": 140,
+        "intent": "Navigational, Transactional"
+      },
+      {
+        "kw": "fixation pergola au mur",
+        "vol": 110,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "fixation pergola mur",
+        "vol": 110,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixation pergola murale",
+        "vol": 110,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "fixer pergola sur plot beton",
+        "vol": 110,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola bioclimatique beauvais",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "installation pergola bioclimatique compiègne",
+        "vol": 110,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "installation pergolas angers",
+        "vol": 110,
+        "intent": NaN
+      },
+      {
+        "kw": "pose pergola bioclimatique",
+        "vol": 110,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixation pergola sur terrasse béton",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixer pergola au sol",
+        "vol": 90,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "fixer pergola au sol béton",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixer pergola sur terrasse bois",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola bioclimatique nogent sur oise",
+        "vol": 90,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "installation pergola bioclimatique oise",
+        "vol": 90,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "installation pergola neully sur seine",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola pays basque",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pose pergola bioclimatique oise",
+        "vol": 90,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixation pergola bois",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixation pergola sur terrasse beton",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixation pergolas",
+        "vol": 70,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "fixer pergola au sol beton",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixer pergola sur terrasse carrelage",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola autorisation",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola beauvais",
+        "vol": 70,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "installation pergola bioclimatique montataire",
+        "vol": 70,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "installation pergola bioclimatique senlis",
+        "vol": 70,
+        "intent": NaN
+      },
+      {
+        "kw": "installation pergola compiègne",
+        "vol": 70,
+        "intent": NaN
+      },
+      {
+        "kw": "installation pergola grenoble",
+        "vol": 70,
+        "intent": NaN
+      },
+      {
+        "kw": "installation pergola nogent sur oise",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "installation pergola senlis",
+        "vol": 70,
+        "intent": NaN
+      },
+      {
+        "kw": "installer pergola",
+        "vol": 70,
+        "intent": "Informational, Transactional"
+      },
+      {
+        "kw": "plot beton pour fixer pergola",
+        "vol": 70,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pose pergola beauvais",
+        "vol": 70,
+        "intent": NaN
+      },
+      {
+        "kw": "pose pergola bioclimatique beauvais",
+        "vol": 70,
+        "intent": NaN
+      }
+    ],
+    "longue_traine": [
+      {
+        "kw": "pergola terrasse bois",
+        "vol": 1000,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "declaration pergola",
+        "vol": 320,
+        "intent": "Informational"
+      },
+      {
+        "kw": "permis de construire pergola",
+        "vol": 320,
+        "intent": "Informational"
+      },
+      {
+        "kw": "pergola fixation murale sans pied",
+        "vol": 170,
+        "intent": "Informational"
+      },
+      {
+        "kw": "fixation murale pour pergola",
+        "vol": 90,
+        "intent": "Transactional"
+      },
+      {
+        "kw": "declaration pergola bioclimatique",
+        "vol": 70,
+        "intent": "Commercial"
+      },
+      {
+        "kw": "declaration pergola impots",
+        "vol": 50,
+        "intent": "Informational, Commercial"
+      },
+      {
+        "kw": "exemple permis de construire pergola",
+        "vol": 40,
+        "intent": NaN
+      },
+      {
+        "kw": "pergola fixation murale",
+        "vol": 40,
+        "intent": NaN
+      },
+      {
+        "kw": "permis de construire pergola bioclimatique",
+        "vol": 40,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergola aux impots",
+        "vol": 30,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergola demontable",
+        "vol": 30,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergolas",
+        "vol": 30,
+        "intent": NaN
+      },
+      {
+        "kw": "fixation murale pergola",
+        "vol": 30,
+        "intent": NaN
+      },
+      {
+        "kw": "permis de construire pergolas",
+        "vol": 30,
+        "intent": NaN
+      },
+      {
+        "kw": "cerfa declaration pergola",
+        "vol": 20,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergola bois",
+        "vol": 20,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergola en mairie",
+        "vol": 20,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergola mairie",
+        "vol": 20,
+        "intent": NaN
+      },
+      {
+        "kw": "declaration pergola non couverte",
+        "vol": 20,
+        "intent": NaN
+      }
+    ]
+  }
+}
