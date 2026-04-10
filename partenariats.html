@@ -126,12 +126,11 @@
       font-size: 1rem;
       font-weight: 600;
       text-decoration: none;
+      cursor: pointer;
+      border: none;
       transition: opacity 0.2s;
     }
-    .btn-contact:hover {
-      opacity: 0.85;
-      color: #fff;
-    }
+    .btn-contact:hover { opacity: 0.85; }
     .contact-info {
       margin-top: 16px;
       font-size: 0.85rem;
@@ -223,10 +222,10 @@
 
       <div class="contact-bloc">
         <p>Pour toute demande de partenariat, article sponsorisé ou insertion de lien, contactez-nous directement par email. Nous vous répondons sous 48h ouvrées.</p>
-        <a href="mailto:contact@eoliz.fr?subject=Demande%20de%20partenariat%20-%20Pergola%20Guide%20France&body=Bonjour%2C%0A%0AJe%20souhaite%20vous%20contacter%20concernant%20un%20partenariat%20sur%20Pergola%20Guide%20France.%0A%0AType%20de%20partenariat%20souhait%C3%A9%20%3A%20%0ASite%20web%20%3A%20%0AMessage%20%3A%20%0A%0ACordialement%2C" class="btn-contact">
+        <button class="btn-contact" onclick="ouvrirContact()">
           Envoyer une demande de partenariat
-        </a>
-        <p class="contact-info">Réponse sous 48h — contact@eoliz.fr</p>
+        </button>
+        <p class="contact-info" id="contact-info">Réponse sous 48h ouvrées</p>
       </div>
 
     </div>
@@ -240,5 +239,36 @@
   </footer>
 
   <script src="main.js"></script>
+  <script>
+    // Email masqué — assemblé dynamiquement en JS
+    // Aucun robot ne peut le lire dans le HTML source
+    function ouvrirContact() {
+      var p = ['contact', 'eoliz', 'fr'];
+      var email = p[0] + '@' + p[1] + '.' + p[2];
+      var sujet = 'Demande%20de%20partenariat%20-%20Pergola%20Guide%20France';
+      var corps = [
+        'Bonjour%2C',
+        '%0A%0AJe%20souhaite%20vous%20contacter%20concernant%20un%20partenariat.',
+        '%0A%0AType%20de%20partenariat%20%3A%20',
+        '%0AMon%20site%20web%20%3A%20',
+        '%0AMessage%20%3A%20',
+        '%0A%0ACordialement%2C'
+      ].join('');
+      window.location.href = 'mailto:' + email + '?subject=' + sujet + '&body=' + corps;
+      // Si le client mail ne s'ouvre pas, propose d'afficher l'adresse
+      setTimeout(function() {
+        document.getElementById('contact-info').innerHTML =
+          'Si votre client mail ne s\'est pas ouvert : ' +
+          '<span style="cursor:pointer;text-decoration:underline;color:var(--vert,#2d6a2d)" ' +
+          'onclick="afficherEmail()">afficher l\'adresse email</span>';
+      }, 1500);
+    }
+
+    function afficherEmail() {
+      var p = ['contact', 'eoliz', 'fr'];
+      var el = document.getElementById('contact-info');
+      el.innerHTML = 'Écrivez-nous à : <strong>' + p[0] + '@' + p[1] + '.' + p[2] + '</strong>';
+    }
+  </script>
 </body>
 </html>
