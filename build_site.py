@@ -2308,10 +2308,32 @@ def mode_fix(archi):
 
 def _injecter_tags_seo(html_path):
     """Met à jour une page HTML existante : remplace les balises GA/GSC/cookies
-    si elles ont changé. Retourne True si la page a été modifiée."""
+    ET normalise les URLs (canonical, JSON-LD, OG) vers la SITE_URL actuelle.
+    Retourne True si la page a été modifiée."""
     try:
         html = html_path.read_text(encoding="utf-8")
         original = html
+
+        # ─── 0. Normalisation des URLs : variante with/without www ────
+        # Si SITE_URL n'a pas "www", on remplace "www.<domaine>" par "<domaine>"
+        # Si SITE_URL a "www", on fait l'inverse.
+        # Cela corrige canonical, JSON-LD (breadcrumb, Article), OpenGraph, etc.
+        try:
+            from urllib.parse import urlparse
+            parsed = urlparse(SITE_URL)
+            domaine = parsed.netloc  # ex: "pergola-guide.fr" ou "www.pergola-guide.fr"
+            if domaine.startswith("www."):
+                domaine_sans_www = domaine[4:]
+                # SITE_URL contient www → remplacer les versions sans www par celles avec www
+                html = html.replace(f"https://{domaine_sans_www}/", f"https://{domaine}/")
+                html = html.replace(f'"https://{domaine_sans_www}"', f'"https://{domaine}"')
+            else:
+                domaine_avec_www = f"www.{domaine}"
+                # SITE_URL sans www → remplacer les versions avec www par celles sans www
+                html = html.replace(f"https://{domaine_avec_www}/", f"https://{domaine}/")
+                html = html.replace(f'"https://{domaine_avec_www}"', f'"https://{domaine}"')
+        except Exception as e:
+            print(f"  ⚠️ Normalisation URL : {e}")
 
         # 1. Remplacer la balise GSC
         new_gsc = balise_gsc()
