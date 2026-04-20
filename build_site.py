@@ -495,55 +495,60 @@ def schema_howto(titre, etapes):
     }, ensure_ascii=False)
 
 # ─── ARTICLES SIMILAIRES ──────────────────────────────────
-def generer_articles_similaires(slug_actuel, pilier_id, articles, n=3):
-    """Retourne HTML statique des articles similaires. Liens absolus."""
+def generer_articles_similaires(slug_actuel, pilier_id, articles, n=6):
+    """Articles similaires en bas des pages blog : titre cliquable + visuel en dessous.
+    Format identique au maillage des pages secondaires (cohérence visuelle)."""
     similaires = [
         a for a in articles
         if a.get("pilier_id") == pilier_id and a.get("slug") != slug_actuel
     ][:n]
-    
+
     if not similaires:
         return ""
-    
-    html = '<div class="articles-similaires"><h2>Articles similaires</h2><div class="similaires-grid">'
+
+    html = '<section class="maillage-articles"><h2>À lire aussi dans la même thématique</h2><div class="maillage-grid">'
     for art in similaires:
         thumb = art.get("thumb", "")
-        img   = f'<img src="{thumb}" alt="{art["titre"]}" loading="lazy">' if thumb else ""
-        html += f"""
-        <a href="/blog/{art['slug']}.html" class="similaire-card">
-            {img}
-            <div class="similaire-body">
-                <span class="categorie">{art.get('categorie','Blog')}</span>
-                <h3>{art['titre']}</h3>
-                <p>{art.get('description','')[:80]}...</p>
-            </div>
-        </a>"""
-    html += '</div></div>'
+        # Si pas de thumb, placeholder (rare)
+        img_src = thumb if thumb else "/images/home/slider-1.webp"
+        html += f'''
+        <div class="maillage-card">
+          <a href="/blog/{art['slug']}.html" class="maillage-titre">{art['titre']}</a>
+          <a href="/blog/{art['slug']}.html" class="maillage-img-link">
+            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy">
+          </a>
+        </div>'''
+    html += '</div></section>'
     return html
 
 # ─── MAILLAGE BLOG → SECONDAIRES (statique) ───────────────
-def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=3):
-    """Articles liés affichés en HTML statique sur la page secondaire. Liens absolus."""
+def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=6):
+    """Articles liés affichés sur la page secondaire en bas : titre cliquable + visuel.
+    Même format que le maillage vers autres secondaires (cohérence visuelle)."""
     lies = [
         a for a in articles
         if a.get("pilier_id") == pilier_id
         and secondaire_slug in a.get("secondaire_slug", "")
     ][:n]
-    
+
     if not lies:
         # Fallback : articles du même pilier
         lies = [a for a in articles if a.get("pilier_id") == pilier_id][:n]
-    
+
     if not lies:
         return ""
-    
-    html = '<div class="connexes-grid">'
+
+    html = '<div class="maillage-grid">'
     for art in lies:
-        description = art.get("description", "")[:100]
-        html += f"""
-        <p>Notre article sur 
-        <a href="/blog/{art['slug']}.html">{art['titre']}</a>
-        — {description}...</p>"""
+        thumb = art.get("thumb", "")
+        img_src = thumb if thumb else "/images/home/slider-1.webp"
+        html += f'''
+        <div class="maillage-card">
+          <a href="/blog/{art['slug']}.html" class="maillage-titre">{art['titre']}</a>
+          <a href="/blog/{art['slug']}.html" class="maillage-img-link">
+            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy">
+          </a>
+        </div>'''
     html += '</div>'
     return html
 
@@ -1090,7 +1095,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     # (miniature + titre cliquable + extrait + CTA)
     cards_sec_html = ""
     if pilier["secondaires"]:
-        cards_sec_html = '<section class="pilier-secondaires"><h2>Découvrez aussi sur notre guide de la pergola ...</h2><div class="sec-grid">'
+        cards_sec_html = '<section class="pilier-secondaires"><h2>Toutes les pages de ce guide</h2><div class="sec-grid">'
         for s in pilier["secondaires"]:
             # L'image secondaire a le chemin : images/secondaires/{pilier_id}-{slug}.webp
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
@@ -1664,6 +1669,32 @@ Format STRICT :
         date_published=date_iso, date_modified=date_iso
     )
 
+    # CSS spécifique aux pages blog (typo + maillage articles identique aux secondaires)
+    css_blog = '''
+  <style>
+    .article-body{max-width:820px;margin:0 auto;line-height:1.75;color:#222;font-size:1.02rem;}
+    .article-body h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);font-size:1.45rem;margin:30px 0 14px;padding-bottom:8px;border-bottom:2px solid #e8e8e0;}
+    .article-body h3{color:#2d5a3d;font-size:1.15rem;margin:22px 0 10px;}
+    .article-body p{margin:0 0 14px;}
+    .article-body ul,.article-body ol{margin:0 0 16px;padding-left:22px;}
+    .article-body li{margin:0 0 6px;}
+    .article-body strong{color:#2d5a3d;}
+    .article-body a{color:#2d5a3d;text-decoration:underline;}
+    .intro{font-size:1.08rem;line-height:1.7;color:#333;margin:10px 0 20px;}
+    .intro p{margin:0 0 10px;}
+
+    /* Maillage articles similaires (même style que sur les secondaires) */
+    .maillage-articles{margin:50px auto;max-width:1100px;padding:0 20px;}
+    .maillage-articles h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);font-size:1.6rem;text-align:center;margin:0 0 26px;}
+    .maillage-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px;}
+    .maillage-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e8e8e0;border-radius:8px;overflow:hidden;transition:transform .2s,box-shadow .2s;}
+    .maillage-card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(45,90,61,.12);}
+    .maillage-titre{padding:14px 14px 10px;font-weight:600;color:#2d5a3d;text-decoration:none;font-size:1rem;line-height:1.35;display:block;}
+    .maillage-titre:hover{text-decoration:underline;}
+    .maillage-img-link{display:block;}
+    .maillage-img{width:100%;height:140px;object-fit:cover;display:block;background:#f0ede5;}
+  </style>'''
+
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -1673,6 +1704,7 @@ Format STRICT :
   {meta_commune()}
   <link rel="canonical" href="{SITE_URL}/blog/{sujet['slug']}.html">
   {lien_css()}
+{css_blog}
   <script type="application/ld+json">{article_schema}</script>
   <script type="application/ld+json">{breadcrumb_schema}</script>
   {f'<script type="application/ld+json">{faq_schema}</script>' if faq_schema else ''}
