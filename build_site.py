@@ -913,7 +913,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
   <!-- ═══ PILIERS ═══ -->
   <section class="home-section">
     <div class="container">
-      <h2 class="section-titre">Nos guides thématiques</h2>
+      <h2 class="section-titre">Tout savoir sur les pergolas</h2>
       <div class="piliers-grid">{cards}</div>
     </div>
   </section>
