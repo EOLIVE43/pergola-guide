@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "glycine-pergola-entretien",
+    "titre": "Glycine sur pergola : plantation, taille et entretien",
+    "categorie": "Jardin",
+    "description": "Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine magnifique sur votre pergola et la maintenir en parfait état.",
+    "date": "2026-04-20",
+    "thumb": "/images/blog/glycine-pergola-entretien.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola et neige : quelles structures supportent le poids ?",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois — guides et prix 2025.",
+    "date": "2026-04-20",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?",
+    "categorie": "Dimensions",
+    "description": "Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantages, prix et conseils d'experts 2025.",
+    "date": "2026-04-20",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Comment fixer une pergola adossée sur un mur en parpaing ?",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer une pergola adossée sur un mur en parpaing : matériel, techniques, prix et erreurs à éviter pour une installation durable et sécurisée.",
+    "date": "2026-04-20",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 : idées d'aménagement pour petits espaces",
+    "categorie": "Dimensions",
+    "description": "Pergola 3x3 : 5 idées d'aménagement pour petits espaces. Mobilier, plantes, éclairage. Guide complet avec prix et conseils experts.",
+    "date": "2026-04-20",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  }
+]

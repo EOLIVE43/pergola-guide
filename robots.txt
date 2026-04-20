@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap XML
+Sitemap: https://www.pergola-guide.fr/sitemap.xml
+
+# Interdire l'indexation des pages d'admin éventuelles
+Disallow: /admin/
+Disallow: /.github/
