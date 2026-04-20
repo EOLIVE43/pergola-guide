@@ -14,6 +14,12 @@ Améliorations :
 - Ancres diversifiées depuis comments_config.json
 - Articles similaires en bas des billets
 - Ping Google sitemap après publication
+
+URL structure (v2) :
+- Accueil         : /index.html
+- Pilier          : /{pilier-slug}.html             ex: /pergola-aluminium.html
+- Secondaire      : /{pilier-id}/{slug}.html        ex: /aluminium/pergola-aluminium-6x4.html
+- Blog            : /blog/{slug}.html
 """
 
 import os, json, re, random, time, urllib.request, urllib.parse
@@ -325,7 +331,7 @@ def schema_howto(titre, etapes):
 
 # ─── ARTICLES SIMILAIRES ──────────────────────────────────
 def generer_articles_similaires(slug_actuel, pilier_id, articles, n=3):
-    """Retourne HTML statique des articles similaires."""
+    """Retourne HTML statique des articles similaires. Liens absolus."""
     similaires = [
         a for a in articles
         if a.get("pilier_id") == pilier_id and a.get("slug") != slug_actuel
@@ -339,7 +345,7 @@ def generer_articles_similaires(slug_actuel, pilier_id, articles, n=3):
         thumb = art.get("thumb", "")
         img   = f'<img src="{thumb}" alt="{art["titre"]}" loading="lazy">' if thumb else ""
         html += f"""
-        <a href="../../blog/{art['slug']}.html" class="similaire-card">
+        <a href="/blog/{art['slug']}.html" class="similaire-card">
             {img}
             <div class="similaire-body">
                 <span class="categorie">{art.get('categorie','Blog')}</span>
@@ -352,7 +358,7 @@ def generer_articles_similaires(slug_actuel, pilier_id, articles, n=3):
 
 # ─── MAILLAGE BLOG → SECONDAIRES (statique) ───────────────
 def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=3):
-    """Articles liés affichés en HTML statique sur la page secondaire."""
+    """Articles liés affichés en HTML statique sur la page secondaire. Liens absolus."""
     lies = [
         a for a in articles
         if a.get("pilier_id") == pilier_id
@@ -371,32 +377,28 @@ def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=3)
         description = art.get("description", "")[:100]
         html += f"""
         <p>Notre article sur 
-        <a href="../../blog/{art['slug']}.html">{art['titre']}</a>
+        <a href="/blog/{art['slug']}.html">{art['titre']}</a>
         — {description}...</p>"""
     html += '</div>'
     return html
 
 # ─── HEADER / FOOTER ──────────────────────────────────────
+# Les liens de navigation utilisent des CHEMINS ABSOLUS (commençant par /).
+# C'est le standard sur GitHub Pages avec domaine custom : la racine "/" pointe
+# toujours vers la racine du site, peu importe la profondeur de la page courante.
+# Cela évite tous les bugs de chemins relatifs (../../) qui cassent à la moindre
+# modification de structure.
 def construire_header(archi, niveau="racine", pilier_actuel=None):
+    """Construit le header avec des liens absolus (robustes quelle que soit la profondeur)."""
     menus = ""
     PILIERS_MENU = ["bioclimatique", "bois", "aluminium", "prix", "installation"]
     for p in [p for p in archi["piliers"] if p["id"] in PILIERS_MENU]:
         actif = "active" if pilier_actuel and p["id"] == pilier_actuel else ""
-        if niveau == "racine":
-            lien_pilier = f"piliers/{p['slug']}.html"
-            lien_sec    = f"secondaires/{p['id']}"
-        elif niveau == "pilier":
-            lien_pilier = f"{p['slug']}.html"
-            lien_sec    = f"../secondaires/{p['id']}"
-        elif niveau == "secondaire":
-            lien_pilier = f"../../piliers/{p['slug']}.html"
-            lien_sec    = f"../{p['id']}"
-        else:  # blog
-            lien_pilier = f"../../piliers/{p['slug']}.html"
-            lien_sec    = f"../../secondaires/{p['id']}"
+        # Chemins absolus — valides depuis n'importe quelle profondeur
+        lien_pilier = f"/{p['slug']}.html"
 
         sous_liens = "".join(
-            f'<a href="{lien_sec}/{s["slug"]}.html">{s["titre"]}</a>\n'
+            f'<a href="/{p["id"]}/{s["slug"]}.html">{s["titre"]}</a>\n'
             for s in p["secondaires"]
         )
         menus += f"""
@@ -405,25 +407,24 @@ def construire_header(archi, niveau="racine", pilier_actuel=None):
           <div class="sous-menu">{sous_liens}</div>
         </div>"""
 
-    prefix = "../../" if niveau in ["secondaire", "blog"] else ""
     return f"""<header>
   <div class="container header-inner">
-    <a href="{prefix}index.html" class="logo">{SITE_LOGO}</a>
+    <a href="/" class="logo">{SITE_LOGO}</a>
     <button class="menu-toggle" onclick="toggleMenu()">☰</button>
     <nav id="main-nav">
-      <a href="{prefix}index.html">Accueil</a>
+      <a href="/">Accueil</a>
       <div class="menu-deroulant">{menus}</div>
-      <a href="{prefix}blog.html">Blog</a>
+      <a href="/blog.html">Blog</a>
     </nav>
   </div>
 </header>"""
 
 def construire_footer(niveau="racine"):
-    prefix = "../../" if niveau in ["secondaire", "blog"] else ""
+    """Footer avec liens absolus."""
     return f"""<footer>
   <div class="container">
     <p>© 2025 EOLIZ — {SITE_NOM}</p>
-    <p><a href="{prefix}mentions-legales.html">Mentions légales</a></p>
+    <p><a href="/mentions-legales.html">Mentions légales</a></p>
   </div>
 </footer>"""
 
@@ -431,11 +432,19 @@ def meta_commune():
     """Balises meta communes à toutes les pages."""
     return '<meta name="robots" content="max-image-preview:large">\n  ' + script_adsense_head()
 
+# ─── CHEMINS CSS / JS ─────────────────────────────────────
+# Avec des liens absolus pour les assets, plus besoin de gérer la profondeur.
+def lien_css():
+    return '<link rel="stylesheet" href="/style.css">'
+
+def lien_js():
+    return '<script src="/main.js"></script>'
+
 # ─── PAGE D'ACCUEIL ───────────────────────────────────────
 def generer_accueil(archi):
     print("🏠 Génération page d'accueil...")
     cards = "".join(f"""
-    <a href="piliers/{p['slug']}.html" class="pilier-card">
+    <a href="/{p['slug']}.html" class="pilier-card">
       <div class="pilier-card-body">
         <h2>{p['titre']}</h2><p>{p['description']}</p>
         <span class="voir-plus">Voir le guide →</span>
@@ -449,8 +458,8 @@ def generer_accueil(archi):
   <title>{SITE_NOM} — Guide complet pergolas France</title>
   <meta name="description" content="Le guide de référence sur les pergolas en France. Prix, matériaux, installation : tout pour choisir votre pergola.">
   {meta_commune()}
-  <link rel="canonical" href="{SITE_URL}/index.html">
-  <link rel="stylesheet" href="style.css">
+  <link rel="canonical" href="{SITE_URL}/">
+  {lien_css()}
 </head>
 <body>
   {construire_header(archi, "racine")}
@@ -458,7 +467,7 @@ def generer_accueil(archi):
     <div class="container">
       <h1>Le guide de référence sur les pergolas en France</h1>
       <p>Prix, matériaux, installation, réglementation : tout ce qu'il faut savoir.</p>
-      <a href="blog.html" class="btn-hero">Voir nos derniers articles →</a>
+      <a href="/blog.html" class="btn-hero">Voir nos derniers articles →</a>
     </div>
   </section>
   <main class="container">
@@ -470,7 +479,7 @@ def generer_accueil(archi):
     </div>
   </main>
   {construire_footer("racine")}
-  <script src="main.js"></script>
+  {lien_js()}
 </body></html>"""
     Path("index.html").write_text(html, encoding="utf-8")
     print("✅ index.html")
@@ -526,20 +535,20 @@ Format STRICT :
             qrs.append({"q": q, "r": r})
             faq_html += f'<div class="faq-item"><button class="faq-question">{q}</button><div class="faq-reponse">{r}</div></div>\n'
 
-    # Liens secondaires
+    # Liens secondaires — URL : /{pilier_id}/{slug}.html
     liens_sec = "".join(
-        f'<a href="../secondaires/{pilier["id"]}/{s["slug"]}.html" class="lien-secondaire">→ {s["titre"]}</a>\n'
+        f'<a href="/{pilier["id"]}/{s["slug"]}.html" class="lien-secondaire">→ {s["titre"]}</a>\n'
         for s in pilier["secondaires"]
     )
 
-    # Articles récents du pilier (maillage statique)
+    # Articles récents du pilier (maillage statique) — liens absolus
     arts_pilier = [a for a in articles if a.get("pilier_id") == pilier["id"]][:4]
     arts_html = ""
     if arts_pilier:
         arts_html = '<div class="articles-pilier"><h2>Nos derniers articles</h2><div class="articles-grid">'
         for art in arts_pilier:
             arts_html += f"""
-            <a href="../blog/{art['slug']}.html" class="article-card">
+            <a href="/blog/{art['slug']}.html" class="article-card">
                 <div class="card-body">
                     <h3>{art['titre']}</h3>
                     <p>{art.get('description','')[:80]}...</p>
@@ -549,10 +558,10 @@ Format STRICT :
 
     date_modified = datetime.now().strftime("%Y-%m-%d")
 
-    # Schemas
+    # Schemas — URL pilier : {SITE_URL}/{slug}.html
     breadcrumb_schema = schema_breadcrumb([
-        {"name": "Accueil", "url": f"{SITE_URL}/index.html"},
-        {"name": pilier["titre"], "url": f"{SITE_URL}/piliers/{pilier['slug']}.html"}
+        {"name": "Accueil", "url": f"{SITE_URL}/"},
+        {"name": pilier["titre"], "url": f"{SITE_URL}/{pilier['slug']}.html"}
     ])
     faq_schema     = schema_faq(qrs)
     article_schema = schema_article(h1, meta, img1["url"], date_modified=date_modified)
@@ -576,8 +585,8 @@ Format STRICT :
   <title>{h1} | {SITE_NOM}</title>
   <meta name="description" content="{meta}">
   {meta_commune()}
-  <link rel="canonical" href="{SITE_URL}/piliers/{pilier['slug']}.html">
-  <link rel="stylesheet" href="../style.css">
+  <link rel="canonical" href="{SITE_URL}/{pilier['slug']}.html">
+  {lien_css()}
   <script type="application/ld+json">{article_schema}</script>
   <script type="application/ld+json">{breadcrumb_schema}</script>
   {f'<script type="application/ld+json">{faq_schema}</script>' if faq_schema else ''}
@@ -587,7 +596,7 @@ Format STRICT :
   {construire_header(archi, "pilier", pilier['id'])}
   <main class="container page-pilier">
     <nav class="fil-ariane">
-      <a href="../index.html">Accueil</a> › <span>{pilier['titre']}</span>
+      <a href="/">Accueil</a> › <span>{pilier['titre']}</span>
     </nav>
     <div class="pilier-hero">
       <img src="{img1['url']}" alt="{h1}" loading="lazy" width="1200">
@@ -617,11 +626,12 @@ Format STRICT :
   </main>
   {construire_footer("pilier")}
   <script>const PILIER_ID = "{pilier['id']}";</script>
-  <script src="../main.js"></script>
+  {lien_js()}
 </body></html>"""
 
-    Path(f"piliers/{pilier['slug']}.html").write_text(html, encoding="utf-8")
-    print(f"  ✅ piliers/{pilier['slug']}.html")
+    # Écriture à la racine : /{slug}.html
+    Path(f"{pilier['slug']}.html").write_text(html, encoding="utf-8")
+    print(f"  ✅ {pilier['slug']}.html")
 
 # ─── PAGE SECONDAIRE ──────────────────────────────────────
 def generer_page_secondaire(secondaire, pilier, archi, keywords=None, articles=None):
@@ -680,8 +690,9 @@ Format STRICT :
             qrs.append({"q": q, "r": r})
             faq_html += f'<div class="faq-item"><button class="faq-question">{q}</button><div class="faq-reponse">{r}</div></div>\n'
 
+    # Liens sœurs — URL : /{pilier_id}/{slug}.html
     liens_soeurs = "".join(
-        f'<a href="{s["slug"]}.html">→ {s["titre"]}</a>\n'
+        f'<a href="/{pilier["id"]}/{s["slug"]}.html">→ {s["titre"]}</a>\n'
         for s in pilier["secondaires"] if s["slug"] != secondaire["slug"]
     )
 
@@ -692,10 +703,11 @@ Format STRICT :
 
     date_modified = datetime.now().strftime("%Y-%m-%d")
 
+    # Schemas — URLs mises à jour
     breadcrumb_schema = schema_breadcrumb([
-        {"name": "Accueil", "url": f"{SITE_URL}/index.html"},
-        {"name": pilier["titre"], "url": f"{SITE_URL}/piliers/{pilier['slug']}.html"},
-        {"name": secondaire["titre"], "url": f"{SITE_URL}/secondaires/{pilier['id']}/{secondaire['slug']}.html"}
+        {"name": "Accueil", "url": f"{SITE_URL}/"},
+        {"name": pilier["titre"], "url": f"{SITE_URL}/{pilier['slug']}.html"},
+        {"name": secondaire["titre"], "url": f"{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html"}
     ])
     faq_schema     = schema_faq(qrs)
     article_schema = schema_article(h1, meta, img["url"], date_modified=date_modified)
@@ -707,8 +719,8 @@ Format STRICT :
   <title>{h1} | {SITE_NOM}</title>
   <meta name="description" content="{meta}">
   {meta_commune()}
-  <link rel="canonical" href="{SITE_URL}/secondaires/{pilier['id']}/{secondaire['slug']}.html">
-  <link rel="stylesheet" href="../../style.css">
+  <link rel="canonical" href="{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html">
+  {lien_css()}
   <script type="application/ld+json">{article_schema}</script>
   <script type="application/ld+json">{breadcrumb_schema}</script>
   {f'<script type="application/ld+json">{faq_schema}</script>' if faq_schema else ''}
@@ -717,8 +729,8 @@ Format STRICT :
   {construire_header(archi, "secondaire", pilier['id'])}
   <main class="container">
     <nav class="fil-ariane">
-      <a href="../../index.html">Accueil</a> ›
-      <a href="../../piliers/{pilier['slug']}.html">{pilier['titre']}</a> ›
+      <a href="/">Accueil</a> ›
+      <a href="/{pilier['slug']}.html">{pilier['titre']}</a> ›
       <span>{secondaire['titre']}</span>
     </nav>
     <div class="page-layout">
@@ -740,7 +752,7 @@ Format STRICT :
       <aside class="sidebar">
         <div class="widget">
           <h3>Guide {pilier['titre']}</h3>
-          <a href="../../piliers/{pilier['slug']}.html">← Retour au guide complet</a>
+          <a href="/{pilier['slug']}.html">← Retour au guide complet</a>
           <h4 style="margin:12px 0 8px;font-size:.9rem;color:var(--vert)">Pages du guide</h4>
           {liens_soeurs}
         </div>
@@ -750,10 +762,11 @@ Format STRICT :
   </main>
   {construire_footer("secondaire")}
   <script>const PILIER_ID="{pilier['id']}"; const PAGE_SLUG="{secondaire['slug']}";</script>
-  <script src="../../main.js"></script>
+  {lien_js()}
 </body></html>"""
 
-    Path(f"secondaires/{pilier['id']}/{secondaire['slug']}.html").write_text(html, encoding="utf-8")
+    # Écriture : /{pilier_id}/{slug}.html (plus de /secondaires/)
+    Path(f"{pilier['id']}/{secondaire['slug']}.html").write_text(html, encoding="utf-8")
 
 # ─── ARTICLE DE BLOG ──────────────────────────────────────
 def generer_article_blog(archi, keywords=None, comments_config=None):
@@ -783,17 +796,17 @@ def generer_article_blog(archi, keywords=None, comments_config=None):
 
     img = get_image(f"pergola {sujet.get('mot_cle','jardin')}", modele="schnell")
 
-    # Ancres diversifiées
+    # Ancres diversifiées — URLs absolues
     ancre_pilier = ""
     ancre_sec    = ""
     url_pilier   = ""
     url_sec      = ""
     if pilier_parent and comments_config:
         ancre_pilier = ancre_aleatoire(pilier_parent['id'], comments_config)
-        url_pilier   = f"../../piliers/{pilier_parent['slug']}.html"
+        url_pilier   = f"/{pilier_parent['slug']}.html"
     if secondaire_parent and pilier_parent:
         ancre_sec = secondaire_parent.get('mot_cle', secondaire_parent['titre'])
-        url_sec   = f"../../secondaires/{pilier_parent['id']}/{secondaire_parent['slug']}.html"
+        url_sec   = f"/{pilier_parent['id']}/{secondaire_parent['slug']}.html"
 
     # KW liés
     kw_block = ""
@@ -868,12 +881,12 @@ Format STRICT :
         sujet["slug"], sujet.get("pilier_id", ""), articles_existants
     )
 
-    # Schemas
-    breadcrumb_items = [{"name": "Accueil", "url": f"{SITE_URL}/index.html"}]
+    # Schemas — URLs absolues mises à jour
+    breadcrumb_items = [{"name": "Accueil", "url": f"{SITE_URL}/"}]
     if pilier_parent:
         breadcrumb_items.append({
             "name": pilier_parent["titre"],
-            "url": f"{SITE_URL}/piliers/{pilier_parent['slug']}.html"
+            "url": f"{SITE_URL}/{pilier_parent['slug']}.html"
         })
     breadcrumb_items.append({
         "name": sujet["titre"],
@@ -895,7 +908,7 @@ Format STRICT :
   <meta name="description" content="{meta}">
   {meta_commune()}
   <link rel="canonical" href="{SITE_URL}/blog/{sujet['slug']}.html">
-  <link rel="stylesheet" href="../../style.css">
+  {lien_css()}
   <script type="application/ld+json">{article_schema}</script>
   <script type="application/ld+json">{breadcrumb_schema}</script>
   {f'<script type="application/ld+json">{faq_schema}</script>' if faq_schema else ''}
@@ -904,8 +917,8 @@ Format STRICT :
   {construire_header(archi, "blog", sujet.get('pilier_id'))}
   <main class="container">
     <nav class="fil-ariane">
-      <a href="../../index.html">Accueil</a> ›
-      {f"<a href='../../piliers/{pilier_parent['slug']}.html'>{pilier_parent['titre']}</a> ›" if pilier_parent else ""}
+      <a href="/">Accueil</a> ›
+      {f"<a href='/{pilier_parent['slug']}.html'>{pilier_parent['titre']}</a> ›" if pilier_parent else ""}
       <span>{sujet['titre']}</span>
     </nav>
     <div class="page-layout">
@@ -938,7 +951,7 @@ Format STRICT :
     const PILIER_ID  = "{sujet.get('pilier_id','')}";
     const ARTICLE_SLUG = "{sujet['slug']}";
   </script>
-  <script src="../../main.js"></script>
+  {lien_js()}
 </body></html>"""
 
     Path(f"blog/{sujet['slug']}.html").write_text(html, encoding="utf-8")
@@ -1280,7 +1293,7 @@ def generer_page_blog(archi, articles):
         thumb = art.get("thumb","")
         img   = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">' if thumb else ""
         cards += f"""
-    <a href="blog/{art['slug']}.html" class="article-card">
+    <a href="/blog/{art['slug']}.html" class="article-card">
       {img}
       <div class="card-body">
         <span class="categorie">{art['categorie']}</span>
@@ -1296,7 +1309,8 @@ def generer_page_blog(archi, articles):
   <title>Blog Pergola | {SITE_NOM}</title>
   <meta name="description" content="Tous nos articles et conseils sur les pergolas en France.">
   {meta_commune()}
-  <link rel="stylesheet" href="style.css">
+  <link rel="canonical" href="{SITE_URL}/blog.html">
+  {lien_css()}
 </head>
 <body>
   {construire_header(archi, "racine")}
@@ -1305,17 +1319,20 @@ def generer_page_blog(archi, articles):
     <div class="articles-grid">{cards}</div>
   </main>
   {construire_footer("racine")}
-  <script src="main.js"></script>
+  {lien_js()}
 </body></html>"""
     Path("blog.html").write_text(html, encoding="utf-8")
 
 # ─── SITEMAP ──────────────────────────────────────────────
 def generer_sitemap(archi, articles):
-    urls = [f'<url><loc>{SITE_URL}/index.html</loc><priority>1.0</priority><changefreq>daily</changefreq></url>']
+    urls = [f'<url><loc>{SITE_URL}/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>']
+    urls.append(f'<url><loc>{SITE_URL}/blog.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>')
     for p in archi["piliers"]:
-        urls.append(f'<url><loc>{SITE_URL}/piliers/{p["slug"]}.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>')
+        # URL pilier : /{slug}.html
+        urls.append(f'<url><loc>{SITE_URL}/{p["slug"]}.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>')
         for s in p["secondaires"]:
-            urls.append(f'<url><loc>{SITE_URL}/secondaires/{p["id"]}/{s["slug"]}.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>')
+            # URL secondaire : /{pilier_id}/{slug}.html
+            urls.append(f'<url><loc>{SITE_URL}/{p["id"]}/{s["slug"]}.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>')
     for art in articles:
         urls.append(f'<url><loc>{SITE_URL}/blog/{art["slug"]}.html</loc><lastmod>{art["date"]}</lastmod><priority>0.6</priority><changefreq>yearly</changefreq></url>')
 
@@ -1344,15 +1361,16 @@ def main():
 
     if mode == "full":
         print("🚀 Construction complète du site...")
-        for d in ["piliers", "secondaires", "blog"]:
-            Path(d).mkdir(exist_ok=True)
+        # Créer dossiers : un par pilier (pour les secondaires) + blog
+        Path("blog").mkdir(exist_ok=True)
+        for pilier in archi["piliers"]:
+            Path(pilier["id"]).mkdir(exist_ok=True)
 
         generer_accueil(archi)
         articles = charger_articles()
 
         for pilier in archi["piliers"]:
             generer_page_pilier(pilier, archi, keywords, articles)
-            Path(f"secondaires/{pilier['id']}").mkdir(exist_ok=True)
             for secondaire in pilier["secondaires"]:
                 generer_page_secondaire(secondaire, pilier, archi, keywords, articles)
 
@@ -1373,4 +1391,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-wc -l /home/claude/build_site_final.py
