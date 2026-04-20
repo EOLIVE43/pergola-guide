@@ -22,7 +22,7 @@ from datetime import datetime
 from pathlib import Path
 
 # ─── CONFIG ───────────────────────────────────────────────
-SITE_URL = "https://www.guide-pergola.fr"
+SITE_URL = "https://www.pergola-guide.fr"
 SITE_NOM  = "Pergola Guide"
 SITE_LOGO = "🏡 Guide Pergola"
 
