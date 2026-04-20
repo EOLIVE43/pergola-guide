@@ -1090,7 +1090,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     # (miniature + titre cliquable + extrait + CTA)
     cards_sec_html = ""
     if pilier["secondaires"]:
-        cards_sec_html = '<section class="pilier-secondaires"><h2>Toutes les pages de ce guide</h2><div class="sec-grid">'
+        cards_sec_html = '<section class="pilier-secondaires"><h2>Découvrez aussi sur notre guide de la pergola ...</h2><div class="sec-grid">'
         for s in pilier["secondaires"]:
             # L'image secondaire a le chemin : images/secondaires/{pilier_id}-{slug}.webp
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
