@@ -228,14 +228,62 @@ def recuperer_image_unsplash(query="pergola jardin"):
         print(f"  ⚠️ Erreur Unsplash: {e}")
     return defaut
 
-def get_image(sujet, modele="schnell"):
-    """Essaie Replicate, fallback Unsplash."""
+def get_image(sujet, modele="schnell", chemin_local=None):
+    """Essaie Replicate, fallback Unsplash.
+
+    Si chemin_local est fourni (ex: "images/piliers/pergola-bois-1.webp"),
+    l'image est téléchargée dans le repo et l'URL renvoyée pointe vers
+    le chemin local absolu (ex: "/images/piliers/pergola-bois-1.webp").
+    Cela évite que les URLs Replicate temporaires expirent après 24-48h.
+    """
+    # Si l'image existe déjà en local, on la réutilise (cache parfait)
+    if chemin_local:
+        p = Path(chemin_local)
+        if p.exists() and p.stat().st_size > 5000:  # fichier non vide
+            print(f"  ♻️ Image réutilisée : {chemin_local}")
+            return {"url": f"/{chemin_local}", "credit_nom": "IA", "credit_url": "#"}
+
     img = generer_image_replicate(sujet, modele)
-    if img:
+    source = "flux"
+    if not img:
+        print(f"  📷 Fallback Unsplash")
+        img = recuperer_image_unsplash(sujet)
+        source = "unsplash"
+    else:
         print(f"  🎨 Image FLUX générée")
-        return img
-    print(f"  📷 Fallback Unsplash")
-    return recuperer_image_unsplash(sujet)
+
+    # Téléchargement vers le repo si demandé
+    if chemin_local and img and img.get("url"):
+        if telecharger_image(img["url"], chemin_local):
+            # Remplacer l'URL temporaire par le chemin local absolu
+            img["url"] = f"/{chemin_local}"
+            print(f"  💾 Enregistrée : /{chemin_local} ({source})")
+        else:
+            print(f"  ⚠️ Échec téléchargement vers {chemin_local} — URL externe conservée")
+
+    return img
+
+def telecharger_image(url, chemin_local, timeout=30):
+    """Télécharge une image depuis une URL distante vers un chemin local.
+    Crée les dossiers parents si nécessaire. Retourne True en cas de succès.
+    """
+    try:
+        p = Path(chemin_local)
+        p.parent.mkdir(parents=True, exist_ok=True)
+
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            data = r.read()
+
+        if len(data) < 5000:  # trop petit = probablement une erreur
+            print(f"  ⚠️ Image suspecte (taille {len(data)}o) : {url[:80]}")
+            return False
+
+        p.write_bytes(data)
+        return True
+    except Exception as e:
+        print(f"  ⚠️ Erreur téléchargement image : {e}")
+        return False
 
 # ─── CLAUDE API ───────────────────────────────────────────
 def appeler_claude(prompt, max_tokens=3000):
@@ -441,8 +489,44 @@ def lien_js():
     return '<script src="/main.js"></script>'
 
 # ─── PAGE D'ACCUEIL ───────────────────────────────────────
-def generer_accueil(archi):
+def generer_accueil(archi, articles=None, regenerer_images=False):
+    """Page d'accueil avec slider, intro fixe, encarts AdSense et derniers articles statiques.
+
+    regenerer_images=True  : force la régénération des 3 images du slider (mode full)
+    regenerer_images=False : réutilise les images existantes dans images/home/ si présentes
+                             (mode blog quotidien — évite 3 appels Replicate coûteux)
+    """
     print("🏠 Génération page d'accueil...")
+    articles = articles or []
+
+    # ─── 3 images du slider ─────────────────────────────────────
+    # get_image() gère automatiquement le cache via chemin_local :
+    # - si le fichier existe déjà localement → réutilisé (0 appel Replicate)
+    # - sinon → génération Replicate + téléchargement local
+    # regenerer_images=True force une nouvelle génération en supprimant les fichiers
+    if regenerer_images:
+        for i in range(1, 4):
+            f = Path(f"images/home/slider-{i}.webp")
+            if f.exists():
+                f.unlink()
+        print("  🗑️ Anciennes images slider supprimées (regenerer_images=True)")
+
+    img_slider_1 = get_image("modern bioclimatic pergola wooden deck mediterranean",
+                             modele="dev", chemin_local="images/home/slider-1.webp")
+    img_slider_2 = get_image("elegant aluminum pergola terrace garden evening lights",
+                             modele="dev", chemin_local="images/home/slider-2.webp")
+    img_slider_3 = get_image("wooden pergola with climbing plants provence french garden",
+                             modele="dev", chemin_local="images/home/slider-3.webp")
+    slider_urls = [img_slider_1["url"], img_slider_2["url"], img_slider_3["url"]]
+
+    slides_html = ""
+    for idx, url in enumerate(slider_urls, start=1):
+        slides_html += f'''
+      <div class="home-slide home-slide-{idx}" style="background-image: url('{url}');">
+        <div class="home-slide-overlay"></div>
+      </div>'''
+
+    # ─── Cards piliers (9 guides) ───────────────────────────────
     cards = "".join(f"""
     <a href="/{p['slug']}.html" class="pilier-card">
       <div class="pilier-card-body">
@@ -451,33 +535,179 @@ def generer_accueil(archi):
       </div>
     </a>""" for p in archi["piliers"])
 
+    # ─── Derniers articles en HTML statique (avec miniatures) ───
+    derniers_cards = ""
+    if articles:
+        for art in articles[:6]:  # 6 derniers articles
+            thumb = art.get("thumb", "")
+            img_html = (
+                f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">'
+                if thumb else
+                '<div class="card-image card-image-placeholder">📄</div>'
+            )
+            description = art.get('description', '')[:100]
+            derniers_cards += f"""
+    <a href="/blog/{art['slug']}.html" class="article-card">
+      {img_html}
+      <div class="card-body">
+        <span class="categorie">{art.get('categorie','Blog')}</span>
+        <h3>{art['titre']}</h3>
+        <p>{description}...</p>
+      </div>
+    </a>"""
+    else:
+        derniers_cards = '<p class="no-articles">Les premiers articles arrivent bientôt !</p>'
+
+    # ─── CSS dédié à la home (inline pour ne pas toucher style.css) ─
+    css_home = """
+  <style>
+    /* ═══ SLIDER ACCUEIL ═══════════════════════════════════════ */
+    .home-slider{position:relative;width:100%;height:520px;overflow:hidden;margin:0;}
+    .home-slide{position:absolute;top:0;left:0;width:100%;height:100%;
+      background-size:cover;background-position:center;
+      opacity:0;animation:homeSlide 15s infinite;}
+    .home-slide-1{animation-delay:0s;}
+    .home-slide-2{animation-delay:5s;}
+    .home-slide-3{animation-delay:10s;}
+    .home-slide-overlay{position:absolute;inset:0;
+      background:linear-gradient(to bottom,rgba(0,0,0,.15) 0%,rgba(0,0,0,.55) 100%);}
+    @keyframes homeSlide{
+      0%,26%{opacity:0;}
+      4%,22%{opacity:1;}
+      /* 5s visible, 0.6s fondu, 3 slides -> cycle de 15s */
+    }
+    .home-slider-content{position:absolute;inset:0;display:flex;flex-direction:column;
+      align-items:center;justify-content:center;text-align:center;color:#fff;
+      padding:20px;z-index:2;}
+    .home-slider-content h1{font-family:Georgia,serif;font-size:clamp(1.8rem,4vw,3rem);
+      margin:0 0 16px;text-shadow:0 2px 8px rgba(0,0,0,.6);max-width:900px;}
+    .home-slider-content p{font-size:clamp(1rem,1.5vw,1.25rem);margin:0;
+      text-shadow:0 1px 4px rgba(0,0,0,.6);max-width:700px;}
+    @media (max-width:768px){
+      .home-slider{height:380px;}
+    }
+
+    /* ═══ INTRO FIXE ═══════════════════════════════════════════ */
+    .home-intro{background:#fafaf7;padding:50px 0;border-bottom:1px solid #e8e8e0;}
+    .home-intro-inner{max-width:820px;margin:0 auto;padding:0 20px;text-align:center;}
+    .home-intro h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.8rem;margin:0 0 20px;}
+    .home-intro p{font-size:1.05rem;line-height:1.75;color:#444;margin:0 0 14px;}
+    .home-intro p:last-child{margin-bottom:0;}
+
+    /* ═══ SECTIONS ═════════════════════════════════════════════ */
+    .home-section{padding:50px 0;}
+    .home-section-alt{background:#fafaf7;}
+    .home-section h2.section-titre{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.8rem;text-align:center;margin:0 0 34px;}
+
+    /* ═══ CONFIANCE (3 avantages) ══════════════════════════════ */
+    .confiance-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+      gap:28px;max-width:1000px;margin:0 auto;}
+    .confiance-item{text-align:center;padding:20px;}
+    .confiance-item .icone{font-size:2.5rem;margin-bottom:12px;display:block;}
+    .confiance-item h3{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.15rem;margin:0 0 8px;}
+    .confiance-item p{color:#555;font-size:.95rem;line-height:1.5;margin:0;}
+
+    /* ═══ PLACEHOLDER VIGNETTE ARTICLE SANS IMAGE ══════════════ */
+    .card-image-placeholder{display:flex;align-items:center;justify-content:center;
+      font-size:2.5rem;background:#f0ede5;color:#a8a397;height:180px;}
+    .no-articles{text-align:center;color:#888;padding:40px 0;}
+  </style>"""
+
+    # ─── Assemblage final ──────────────────────────────────────
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{SITE_NOM} — Guide complet pergolas France</title>
-  <meta name="description" content="Le guide de référence sur les pergolas en France. Prix, matériaux, installation : tout pour choisir votre pergola.">
+  <meta name="description" content="Le guide de référence sur les pergolas en France. Prix, matériaux, installation, réglementation : tout pour choisir la pergola idéale.">
   {meta_commune()}
   <link rel="canonical" href="{SITE_URL}/">
   {lien_css()}
+{css_home}
 </head>
 <body>
   {construire_header(archi, "racine")}
-  <section class="hero">
-    <div class="container">
-      <h1>Le guide de référence sur les pergolas en France</h1>
-      <p>Prix, matériaux, installation, réglementation : tout ce qu'il faut savoir.</p>
-      <a href="/blog.html" class="btn-hero">Voir nos derniers articles →</a>
+
+  <!-- ═══ SLIDER HERO ═══ -->
+  <section class="home-slider" aria-label="Galerie pergolas">
+    {slides_html}
+    <div class="home-slider-content">
+      <h1>{SITE_NOM} — le guide de référence des pergolas en France</h1>
+      <p>Prix, matériaux, installation, réglementation : tout pour choisir la pergola idéale.</p>
     </div>
   </section>
-  <main class="container">
-    <h2 class="section-titre">Nos guides thématiques</h2>
-    <div class="piliers-grid">{cards}</div>
-    <div id="derniers-articles">
-      <h2 class="section-titre">Derniers articles</h2>
-      <div class="articles-grid" id="grid-articles"></div>
+
+  <!-- ═══ INTRO FIXE ═══ -->
+  <section class="home-intro">
+    <div class="home-intro-inner">
+      <h2>Votre projet pergola commence ici</h2>
+      <p>Bienvenue sur <strong>{SITE_NOM}</strong>, le site français dédié à l'univers des pergolas. Que vous prépariez l'installation d'une <strong>pergola bioclimatique</strong>, d'une <strong>pergola en bois</strong> ou en <strong>aluminium</strong>, vous trouverez ici toutes les informations pour faire le bon choix.</p>
+      <p>Nos guides couvrent <strong>les prix du marché français 2025-2026</strong>, les démarches administratives (permis de construire, déclaration préalable), les techniques d'installation et tous les critères qui comptent vraiment pour réussir votre projet.</p>
+      <p>Avec plus de <strong>60 pages détaillées</strong> et des articles ajoutés chaque semaine, nous accompagnons chaque année des milliers de propriétaires français dans leur projet d'aménagement extérieur.</p>
     </div>
-  </main>
+  </section>
+
+  <!-- ═══ ADSENSE HAUT ═══ -->
+  <div class="container">
+    {bloc_adsense(ADSENSE_SLOT_HAUT, "horizontal")}
+  </div>
+
+  <!-- ═══ PILIERS ═══ -->
+  <section class="home-section">
+    <div class="container">
+      <h2 class="section-titre">Nos guides thématiques</h2>
+      <div class="piliers-grid">{cards}</div>
+    </div>
+  </section>
+
+  <!-- ═══ ADSENSE MILIEU ═══ -->
+  <div class="container">
+    {bloc_adsense(ADSENSE_SLOT_MILIEU, "inArticle")}
+  </div>
+
+  <!-- ═══ DERNIERS ARTICLES ═══ -->
+  <section class="home-section home-section-alt">
+    <div class="container">
+      <h2 class="section-titre">Nos derniers articles</h2>
+      <div class="articles-grid">{derniers_cards}</div>
+      <div style="text-align:center;margin-top:30px;">
+        <a href="/blog.html" class="btn-hero">Voir tous nos articles →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ ADSENSE BAS ═══ -->
+  <div class="container">
+    {bloc_adsense(ADSENSE_SLOT_BAS, "horizontal")}
+  </div>
+
+  <!-- ═══ POURQUOI NOUS FAIRE CONFIANCE ═══ -->
+  <section class="home-section">
+    <div class="container">
+      <h2 class="section-titre">Pourquoi nous faire confiance ?</h2>
+      <div class="confiance-grid">
+        <div class="confiance-item">
+          <span class="icone">🎯</span>
+          <h3>Infos à jour 2025-2026</h3>
+          <p>Prix, normes et réglementation actualisés pour le marché français.</p>
+        </div>
+        <div class="confiance-item">
+          <span class="icone">📚</span>
+          <h3>60+ guides détaillés</h3>
+          <p>Une couverture complète : matériaux, dimensions, installation, prix.</p>
+        </div>
+        <div class="confiance-item">
+          <span class="icone">🇫🇷</span>
+          <h3>100% français</h3>
+          <p>Contenu adapté aux spécificités du marché et des démarches françaises.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   {construire_footer("racine")}
   {lien_js()}
 </body></html>"""
@@ -490,8 +720,12 @@ def generer_page_pilier(pilier, archi, keywords=None, articles=None):
     articles = articles or []
     
     # 2 images FLUX.1-dev
-    img1 = get_image(f"pergola {pilier['id']} terrace garden", modele="dev")
-    img2 = get_image(f"pergola {pilier['id']} installation detail", modele="dev")
+    img1 = get_image(f"pergola {pilier['id']} terrace garden",
+                     modele="dev",
+                     chemin_local=f"images/piliers/{pilier['slug']}-1.webp")
+    img2 = get_image(f"pergola {pilier['id']} installation detail",
+                     modele="dev",
+                     chemin_local=f"images/piliers/{pilier['slug']}-2.webp")
 
     kw_block = formater_keywords_prompt(pilier['id'], keywords or {})
 
@@ -655,7 +889,9 @@ def generer_page_secondaire(secondaire, pilier, archi, keywords=None, articles=N
     print(f"  📄 Secondaire : {secondaire['titre']}...")
     articles = articles or []
 
-    img = get_image(f"pergola {secondaire['mot_cle']}", modele="schnell")
+    img = get_image(f"pergola {secondaire['mot_cle']}",
+                    modele="schnell",
+                    chemin_local=f"images/secondaires/{pilier['id']}-{secondaire['slug']}.webp")
 
     # KW liés
     kw_block = ""
@@ -826,7 +1062,9 @@ def generer_article_blog(archi, keywords=None, comments_config=None):
                     secondaire_parent = s
             break
 
-    img = get_image(f"pergola {sujet.get('mot_cle','jardin')}", modele="schnell")
+    img = get_image(f"pergola {sujet.get('mot_cle','jardin')}",
+                    modele="schnell",
+                    chemin_local=f"images/blog/{sujet['slug']}.webp")
 
     # Ancres diversifiées — URLs absolues
     ancre_pilier = ""
@@ -1005,17 +1243,16 @@ Format STRICT :
     # Mise à jour articles.json
     index_file = Path("articles.json")
     articles   = json.loads(index_file.read_text(encoding="utf-8")) if index_file.exists() else []
-    
-    # Récupérer thumb Unsplash pour les vignettes (Replicate = URL temporaire)
-    thumb_img = recuperer_image_unsplash(f"pergola {sujet.get('mot_cle','jardin')}")
-    
+
+    # Thumb = la même image que celle de l'article (stockée en local, donc permanente)
+    # Le navigateur redimensionnera naturellement via l'attribut CSS .card-image
     articles.insert(0, {
         "slug": sujet["slug"],
         "titre": sujet["titre"],
         "categorie": sujet.get("categorie","Blog"),
         "description": meta,
         "date": date_iso,
-        "thumb": thumb_img.get("url","").replace("w=1200","w=400"),
+        "thumb": img.get("url",""),
         "pilier_id": sujet.get("pilier_id",""),
         "secondaire_slug": sujet.get("secondaire_slug","")
     })
@@ -1031,6 +1268,7 @@ Format STRICT :
     initialiser_planning_commentaires(sujet, articles)
 
     generer_page_blog(archi, articles)
+    generer_accueil(archi, articles, regenerer_images=False)  # miniatures home à jour, slider cached
     generer_sitemap(archi, articles)
     ping_google_sitemap()
     print(f"✅ blog/{sujet['slug']}.html")
@@ -1412,8 +1650,8 @@ def main():
         for pilier in archi["piliers"]:
             Path(pilier["id"]).mkdir(exist_ok=True)
 
-        generer_accueil(archi)
         articles = charger_articles()
+        generer_accueil(archi, articles, regenerer_images=True)
 
         for pilier in archi["piliers"]:
             generer_page_pilier(pilier, archi, keywords, articles)
