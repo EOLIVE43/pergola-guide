@@ -495,30 +495,47 @@ def generer_page_pilier(pilier, archi, keywords=None, articles=None):
 
     kw_block = formater_keywords_prompt(pilier['id'], keywords or {})
 
-    prompt = f"""Tu es expert SEO et rédacteur web pergolas France.
-Page pilier PARFAITEMENT optimisée SEO : {pilier['titre']}
+    prompt = f"""Tu es expert SEO et rédacteur web pergolas France, avec 10 ans d'expérience dans la rédaction de pages piliers qui rankent top 3 sur Google.
+Tu rédiges une page pilier PARFAITEMENT optimisée SEO : {pilier['titre']}
 {kw_block}
-CONSIGNES :
-1. Français naturel expert, public français acheteur
-2. Couverture exhaustive du sujet — LA page de référence
-3. Prix réalistes en euros (marché France 2024-2025)
-4. Minimum 2000 mots
-5. Structure : 1 H1, 5-7 H2, H3 sous chaque H2, listes <ul>, 1 tableau comparatif HTML
-6. Ton expert mais accessible, orienté aide à la décision
-7. Titres H2 accrocheurs intégrant des mots-clés longue traîne
+OBJECTIF : cette page doit être LA référence française sur le sujet, battre la concurrence (Tryba, Leroy Merlin, Castorama) et ranker dans le top 3 Google.
+
+CONSIGNES DE FOND :
+1. Français naturel expert, public français acheteur, ton professionnel mais accessible
+2. Couverture EXHAUSTIVE du sujet — le lecteur ne doit avoir aucune question sans réponse
+3. Prix réalistes en euros (marché France 2025-2026), avec fourchettes précises (ex: "entre 3 500 € et 6 800 € pour du 3x4m posé")
+4. **Longueur : 3000 à 4000 mots** dans la partie <CONTENU> — c'est NON NÉGOCIABLE, une page pilier trop courte ne rank pas
+5. Exemples concrets, cas pratiques, chiffres précis
+6. Mention de marques/fabricants français connus quand pertinent
+7. Au moins 1 lien externe sortant vers une source officielle (service-public.fr, ADEME, RT 2020, normes AFNOR...)
+
+STRUCTURE HN OBLIGATOIRE :
+- 1 seul H1 (repris du format ci-dessous)
+- **6 à 10 H2** couvrant : définition/principe, prix détaillé, matériaux, installation, réglementation, choix/critères, comparatif, cas d'usage, entretien
+- **2 à 3 H3 sous chaque H2** pour approfondir
+- **Au moins 3 listes <ul>** (critères, avantages, étapes...)
+- **1 tableau comparatif HTML** (<table>) minimum avec <thead> et <tbody> — essentiel pour le SEO
+- Chaque H2 intègre un mot-clé longue traîne naturellement
+
+DENSITÉ MOT-CLÉ :
+- Mot-clé principal : 1 à 1,5% du texte (naturellement, pas de bourrage)
+- Variantes sémantiques (LSI) partout : synonymes, pluriels, termes connexes
+- Mot-clé principal OBLIGATOIRE dans : H1, première phrase de l'intro, au moins 3 H2, et 5+ fois dans le corps
 
 Format STRICT :
-<META>description 155 car. avec mot-clé principal</META>
-<H1>H1 optimisé</H1>
-<INTRO>2-3 phrases avec mot-clé dans la 1ère phrase</INTRO>
-<CONTENU>[HTML complet h2 h3 p ul tableau]</CONTENU>
-<FAQ1Q>question longue traîne</FAQ1Q><FAQ1R>réponse 2-3 phrases</FAQ1R>
-<FAQ2Q>question</FAQ2Q><FAQ2R>réponse</FAQ2R>
-<FAQ3Q>question</FAQ3Q><FAQ3R>réponse</FAQ3R>
-<FAQ4Q>question</FAQ4Q><FAQ4R>réponse</FAQ4R>
-<FAQ5Q>question</FAQ5Q><FAQ5R>réponse</FAQ5R>"""
+<META>description 150-155 car. avec mot-clé principal dans les 60 premiers caractères</META>
+<H1>H1 optimisé avec mot-clé principal + année 2026 si pertinent</H1>
+<INTRO>100-150 mots, mot-clé principal dans la 1ère phrase, promet ce que la page va apporter au lecteur</INTRO>
+<CONTENU>[HTML complet : h2 h3 p ul table — 3000-4000 mots minimum]</CONTENU>
+<FAQ1Q>question longue traîne complète (type "Combien coûte une...")</FAQ1Q><FAQ1R>réponse 3-4 phrases précises avec chiffres</FAQ1R>
+<FAQ2Q>question</FAQ2Q><FAQ2R>réponse 3-4 phrases</FAQ2R>
+<FAQ3Q>question</FAQ3Q><FAQ3R>réponse 3-4 phrases</FAQ3R>
+<FAQ4Q>question</FAQ4Q><FAQ4R>réponse 3-4 phrases</FAQ4R>
+<FAQ5Q>question</FAQ5Q><FAQ5R>réponse 3-4 phrases</FAQ5R>
+<FAQ6Q>question</FAQ6Q><FAQ6R>réponse 3-4 phrases</FAQ6R>
+<FAQ7Q>question</FAQ7Q><FAQ7R>réponse 3-4 phrases</FAQ7R>"""
 
-    texte = appeler_claude(prompt, max_tokens=5000)
+    texte = appeler_claude(prompt, max_tokens=8000)
 
     h1      = extraire_balise(texte, "H1") or pilier["titre"]
     meta    = extraire_balise(texte, "META") or pilier["description"]
@@ -528,7 +545,7 @@ Format STRICT :
     # FAQ
     qrs = []
     faq_html = ""
-    for i in range(1, 6):
+    for i in range(1, 8):  # 7 FAQ pour les piliers
         q = extraire_balise(texte, f"FAQ{i}Q")
         r = extraire_balise(texte, f"FAQ{i}R")
         if q:
@@ -655,27 +672,42 @@ def generer_page_secondaire(secondaire, pilier, archi, keywords=None, articles=N
                 kw_block += f"  - {kw['kw']} ({kw['vol']:,}/mois)\n"
             kw_block += "======================================\n"
 
-    prompt = f"""Tu es expert SEO et rédacteur web pergolas France.
-Page secondaire optimisée SEO : {secondaire['titre']}
+    prompt = f"""Tu es expert SEO et rédacteur web pergolas France, spécialisé dans les pages de conversion (intention d'achat).
+Tu rédiges une page secondaire optimisée SEO : {secondaire['titre']}
 Guide parent : {pilier['titre']}
 {kw_block}
-CONSIGNES :
+OBJECTIF : cette page doit ranker sur une requête ciblée à forte intention d'achat, et convaincre le lecteur d'aller plus loin (devis, comparaison, achat).
+
+CONSIGNES DE FOND :
 1. Français naturel expert, orienté aide à la décision achat
-2. Prix réalistes euros, marché France 2024-2025
-3. Minimum 900 mots
-4. Structure : 1 H1, 4-5 H2, H3, listes <ul>
-5. Ton expert rassurant
+2. Prix réalistes en euros (marché France 2025-2026), fourchettes précises
+3. **Longueur : 1400 à 1800 mots** dans la partie <CONTENU> — ne pas descendre sous 1400
+4. Ton expert rassurant, lève les objections du lecteur
+5. Exemples concrets, cas d'usage typiques, mini-comparatifs
+6. Inclure au moins 1 liste à puces <ul> pour les critères/avantages
+
+STRUCTURE HN OBLIGATOIRE :
+- 1 seul H1 avec le mot-clé exact
+- **5 à 7 H2** couvrant : prix, pour qui/quelle surface, modèles/options, installation, réglementation si pertinent, critères de choix, erreurs à éviter
+- **H3 sous les H2 qui s'y prêtent** (surtout "prix" et "modèles")
+- **Minimum 2 listes <ul>**
+- Idéalement 1 mini-tableau comparatif HTML si le sujet s'y prête
+
+DENSITÉ MOT-CLÉ :
+- Mot-clé principal dans H1, première phrase intro, au moins 2 H2, 4+ fois dans le corps
+- Variantes longue traîne naturellement réparties
 
 Format STRICT :
-<META>description 155 car.</META>
-<H1>H1 optimisé</H1>
-<INTRO>2-3 phrases, mot-clé dans la 1ère</INTRO>
-<CONTENU>[HTML h2 h3 p ul]</CONTENU>
-<FAQ1Q>question</FAQ1Q><FAQ1R>réponse</FAQ1R>
-<FAQ2Q>question</FAQ2Q><FAQ2R>réponse</FAQ2R>
-<FAQ3Q>question</FAQ3Q><FAQ3R>réponse</FAQ3R>"""
+<META>description 150-155 car. avec mot-clé principal</META>
+<H1>H1 optimisé avec mot-clé exact</H1>
+<INTRO>80-120 mots, mot-clé dans la 1ère phrase, promet la valeur de la page</INTRO>
+<CONTENU>[HTML h2 h3 p ul — 1400-1800 mots minimum]</CONTENU>
+<FAQ1Q>question longue traîne</FAQ1Q><FAQ1R>réponse 2-3 phrases précises</FAQ1R>
+<FAQ2Q>question</FAQ2Q><FAQ2R>réponse 2-3 phrases</FAQ2R>
+<FAQ3Q>question</FAQ3Q><FAQ3R>réponse 2-3 phrases</FAQ3R>
+<FAQ4Q>question</FAQ4Q><FAQ4R>réponse 2-3 phrases</FAQ4R>"""
 
-    texte   = appeler_claude(prompt, max_tokens=3000)
+    texte   = appeler_claude(prompt, max_tokens=5000)
     h1      = extraire_balise(texte, "H1") or secondaire["titre"]
     meta    = extraire_balise(texte, "META") or secondaire["titre"]
     intro   = extraire_balise(texte, "INTRO") or ""
@@ -683,7 +715,7 @@ Format STRICT :
 
     qrs      = []
     faq_html = ""
-    for i in range(1, 4):
+    for i in range(1, 5):  # 4 FAQ pour les secondaires
         q = extraire_balise(texte, f"FAQ{i}Q")
         r = extraire_balise(texte, f"FAQ{i}R")
         if q:
@@ -838,35 +870,49 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
    L'ancre DOIT être exactement : "{ancre_sec}"
    Le lien doit être dans une phrase contextuelle pertinente."""
 
-    prompt = f"""Tu es expert SEO et rédacteur web pergolas France.
-Article de blog optimisé SEO ET Google Discover sur : {sujet['titre']}
+    prompt = f"""Tu es expert SEO et rédacteur web pergolas France, spécialisé dans les articles qui rankent ET qui apparaissent dans Google Discover.
+Tu rédiges un article de blog optimisé SEO ET Google Discover sur : {sujet['titre']}
 Mot-clé cible : {sujet['mot_cle']}
 {kw_block}
 {maillage_instructions}
 
-CONSIGNES :
-- Titre accrocheur façon Discover (curiosité, utilité, émotion)
-- Français naturel, pratique, 900-1100 mots
-- Prix euros, conseils marché France
-- Structure : H1 avec mot-clé, 4-5 H2, listes <ul>
-- Les liens de maillage doivent être dans le corps du texte, pas dans une section séparée
+OBJECTIF : article utile, concret, qui se lit facilement sur mobile et donne envie de cliquer depuis Discover.
+
+CONSIGNES DE FOND :
+- Titre accrocheur façon Discover (curiosité, chiffre, utilité, émotion) — PAS de clickbait vulgaire
+- Français naturel, pratique, ton journalistique mais expert
+- **Longueur : 1200 à 1600 mots** dans la partie <CONTENU> — ne pas descendre sous 1200
+- Prix en euros (marché France 2025-2026), conseils actionnables
+- Au moins 1 exemple concret ou cas pratique avec chiffres
+- Les liens de maillage doivent être dans le corps du texte (dans des paragraphes <p>), pas dans une section séparée
+
+STRUCTURE HN OBLIGATOIRE :
+- 1 seul H1 avec mot-clé + accroche Discover (le H1 est fourni ci-dessous, pas besoin de le régénérer)
+- **4 à 6 H2** : problème/contexte, solutions/points clés, cas pratique, erreurs à éviter, conseil final
+- **H3 là où ça approfondit** (pas systématique, plus narratif qu'un pilier)
+- **Au moins 2 listes <ul>** (critères, étapes, conseils)
+
+DENSITÉ MOT-CLÉ :
+- Mot-clé cible dans 1ère phrase intro, au moins 1 H2, 3+ fois dans le corps
+- Variantes sémantiques naturellement
 
 Format STRICT :
-<META>description 155 car.</META>
-<INTRO>2-3 phrases d'accroche</INTRO>
-<CONTENU>[HTML complet avec les liens de maillage intégrés dans les paragraphes]</CONTENU>
-<FAQ1Q>question</FAQ1Q><FAQ1R>réponse</FAQ1R>
-<FAQ2Q>question</FAQ2Q><FAQ2R>réponse</FAQ2R>
-<FAQ3Q>question</FAQ3Q><FAQ3R>réponse</FAQ3R>"""
+<META>description 150-155 car. accrocheuse avec mot-clé</META>
+<INTRO>80-120 mots : crochet émotionnel/curiosité + promesse de ce que l'article apporte + mot-clé dans la 1ère phrase</INTRO>
+<CONTENU>[HTML complet avec H2, H3, p, ul — liens de maillage intégrés dans les paragraphes — 1200-1600 mots minimum]</CONTENU>
+<FAQ1Q>question longue traîne</FAQ1Q><FAQ1R>réponse 2-3 phrases</FAQ1R>
+<FAQ2Q>question</FAQ2Q><FAQ2R>réponse 2-3 phrases</FAQ2R>
+<FAQ3Q>question</FAQ3Q><FAQ3R>réponse 2-3 phrases</FAQ3R>
+<FAQ4Q>question</FAQ4Q><FAQ4R>réponse 2-3 phrases</FAQ4R>"""
 
-    texte   = appeler_claude(prompt, max_tokens=2500)
+    texte   = appeler_claude(prompt, max_tokens=4000)
     meta    = extraire_balise(texte, "META") or sujet["titre"]
     intro   = extraire_balise(texte, "INTRO") or ""
     contenu = extraire_balise(texte, "CONTENU") or ""
 
     qrs      = []
     faq_html = ""
-    for i in range(1, 4):
+    for i in range(1, 5):  # 4 FAQ pour les articles blog
         q = extraire_balise(texte, f"FAQ{i}Q")
         r = extraire_balise(texte, f"FAQ{i}R")
         if q:
