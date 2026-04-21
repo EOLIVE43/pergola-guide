@@ -37,8 +37,8 @@ SITE_DESCRIPTION_COURTE = "Le guide de référence sur les pergolas en France"
 # Une fois ces valeurs remplies, lancer : python build_site.py fix
 # → Toutes les pages seront mises à jour en 2 min, sans appel API.
 
-GA4_ID           = "G-67NBZNSJN5"   # Ex: "G-XXXXXXXXXX" (depuis Google Analytics 4)
-GSC_META_CONTENT = "TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c"   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
+GA4_ID           = ""   # Ex: "G-XXXXXXXXXX" (depuis Google Analytics 4)
+GSC_META_CONTENT = ""   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
 
 # ─── CONFIG ADSENSE ───────────────────────────────────────
 # Pour activer AdSense le moment venu :
@@ -185,9 +185,10 @@ def generer_image_replicate(prompt_sujet, modele="schnell", largeur=1200, hauteu
     )
     
     prompt = (
-        f"Photorealistic {prompt_sujet}, beautiful French garden terrace, "
-        f"sunny natural light, architectural photography, wide angle, "
-        f"high quality, sharp details, no people, 16:9"
+        f"Ultra photorealistic {prompt_sujet}, "
+        f"professional architectural photography, magazine quality, "
+        f"natural daylight, crisp sharp details, wide angle lens, "
+        f"no people, no text, no watermark, 16:9 composition"
     )
     
     try:
@@ -737,11 +738,11 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
                 f.unlink()
         print("  🗑️ Anciennes images slider supprimées (regenerer_images=True)")
 
-    img_slider_1 = get_image("modern bioclimatic pergola wooden deck mediterranean",
+    img_slider_1 = get_image("modern bioclimatic pergola with adjustable aluminum louvers over contemporary terrace, outdoor dining area, Mediterranean evening ambiance",
                              modele="dev", chemin_local="images/home/slider-1.webp")
-    img_slider_2 = get_image("elegant aluminum pergola terrace garden evening lights",
+    img_slider_2 = get_image("sleek white aluminum pergola on modern rooftop terrace with city view, minimalist architecture, golden hour lighting",
                              modele="dev", chemin_local="images/home/slider-2.webp")
-    img_slider_3 = get_image("wooden pergola with climbing plants provence french garden",
+    img_slider_3 = get_image("elegant wooden pergola with climbing wisteria flowers in lush provencal garden, stone terrace, french countryside",
                              modele="dev", chemin_local="images/home/slider-3.webp")
     slider_urls = [img_slider_1["url"], img_slider_2["url"], img_slider_3["url"]]
 
@@ -913,7 +914,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
   <!-- ═══ PILIERS ═══ -->
   <section class="home-section">
     <div class="container">
-      <h2 class="section-titre">Tout savoir sur les pergolas</h2>
+      <h2 class="section-titre">Nos guides thématiques</h2>
       <div class="piliers-grid">{cards}</div>
     </div>
   </section>
@@ -971,15 +972,106 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     print("✅ index.html")
 
 # ─── PAGE PILIER ──────────────────────────────────────────
+# ─── PROMPTS IMAGES SPÉCIFIQUES PAR PILIER ────────────────
+# Ces prompts décrivent VISUELLEMENT le sujet (pas l'id générique).
+# Pour chaque pilier, on a 2 variantes : hero (large, architecturale) et détail.
+# Si un pilier n'est pas mappé ici, on utilise un fallback générique propre.
+PROMPTS_IMAGES_PILIERS = {
+    "bioclimatique": {
+        "hero":   "modern bioclimatic pergola with aluminum adjustable louvers rotating, contemporary Mediterranean terrace, outdoor dining area, clean architecture",
+        "detail": "close-up of bioclimatic pergola aluminum louvers mechanism, adjustable slats detail, LED integrated lighting, modern design",
+    },
+    "bois": {
+        "hero":   "elegant wooden pergola with exposed natural wood beams, warm tones, garden setting with outdoor furniture, wisteria climbing, provencal style",
+        "detail": "close-up of wooden pergola beam joinery detail, natural wood grain texture, craftsmanship, outdoor lifestyle",
+    },
+    "aluminium": {
+        "hero":   "modern aluminum pergola with clean white frame on contemporary terrace, flat slat roof, minimalist residential design, sleek lines",
+        "detail": "aluminum pergola structure detail, precision engineered frame, matte powder-coated finish, architectural close-up",
+    },
+    "toiture": {
+        "hero":   "pergola with transparent polycarbonate roof panels over outdoor living space, showing covered shelter function, sunny day with clear sky visible through roof",
+        "detail": "detailed view of pergola roof options: polycarbonate panels, retractable canvas, glass roofing, materials comparison",
+    },
+    "dimensions": {
+        "hero":   "spacious 4 meter by 3 meter aluminum pergola over outdoor dining table with six chairs, showing scale with furniture, wide angle garden shot",
+        "detail": "pergola measurement context: dining set placement, human scale reference, outdoor kitchen area under structure",
+    },
+    "prix": {
+        "hero":   "premium bioclimatic pergola on upscale residential terrace, high-end aluminum materials, integrated lighting, showcase quality and value",
+        "detail": "luxury pergola installation showcasing premium finishes, automated louvers, glass sliding panels, modern affluent home",
+    },
+    "installation": {
+        "hero":   "pergola installation in progress on concrete terrace, aluminum structure being mounted, professional construction view, technical scene",
+        "detail": "close-up of pergola post anchor plate on concrete foundation, mounting hardware, professional installation detail, bolts and brackets",
+    },
+    "stores-occultation": {
+        "hero":   "aluminum pergola with retractable canvas side curtains and shade fabric deployed, cozy ambiance, late afternoon warm light, outdoor living",
+        "detail": "pergola side curtain detail, vertical roller blinds fabric texture, wind resistant shading system, outdoor privacy solution",
+    },
+    "terrasse-jardin": {
+        "hero":   "beautiful wooden pergola integrated in lush french garden, climbing roses and wisteria vines, stone terrace, countryside charm",
+        "detail": "pergola lifestyle scene, outdoor dining under vines, garden plants integration, french country ambiance",
+    },
+}
+
+def prompt_image_pilier(pilier_id, variante="hero"):
+    """Retourne un prompt visuel détaillé pour ce pilier.
+    Si non mappé, fallback propre et générique (jamais juste l'id)."""
+    mapping = PROMPTS_IMAGES_PILIERS.get(pilier_id)
+    if mapping and variante in mapping:
+        return mapping[variante]
+    # Fallback générique propre (jamais juste "pergola id terrace garden")
+    if variante == "hero":
+        return "modern pergola over contemporary terrace, professional outdoor living architecture, natural daylight"
+    return "pergola structural detail, architectural close-up, high-quality outdoor design"
+
+# ─── PROMPT IMAGE SECONDAIRE (enrichissement contextuel) ────
+def prompt_image_secondaire(secondaire, pilier):
+    """Construit un prompt visuel enrichi pour une page secondaire.
+    Utilise le mot-clé + le contexte du pilier parent pour produire
+    une image spécifique au sujet."""
+    mot_cle   = secondaire.get("mot_cle", secondaire.get("titre", "")).lower()
+    pilier_id = pilier.get("id", "")
+
+    # Mots indicateurs que FLUX comprend bien
+    contexte_mots = {
+        "bioclimatique": "with adjustable aluminum louvers, contemporary design, automated roof",
+        "bois":          "wooden structure, natural wood tones, garden ambiance",
+        "aluminium":     "aluminum frame, modern minimalist design, sleek matte finish",
+        "toiture":       "with visible roof covering, material focus, shelter function",
+        "dimensions":    "showing scale with outdoor furniture for reference, wide angle",
+        "prix":          "premium quality showcase, high-end residential setting",
+        "installation":  "installation detail, construction context, technical view",
+        "stores-occultation": "with shade fabric and curtains, cozy enclosed ambiance",
+        "terrasse-jardin":    "integrated in lush garden, french country style",
+    }
+    contexte = contexte_mots.get(pilier_id, "outdoor terrace setting")
+
+    # Nettoyer les pluriels/accents pour FLUX
+    sujet_en = mot_cle.replace("é", "e").replace("è", "e").replace("ê", "e")
+    return f"{sujet_en} pergola, {contexte}, professional architectural photography"
+
+# ─── PROMPT IMAGE BLOG (article) ──────────────────────────
+def prompt_image_blog(sujet):
+    """Prompt visuel pour un article de blog."""
+    mot_cle = sujet.get("mot_cle", "").lower()
+    titre   = sujet.get("titre", "").lower()
+    # Priorité au mot-clé s'il est précis
+    base = mot_cle if len(mot_cle) > 5 else titre
+    base_en = base.replace("é", "e").replace("è", "e").replace("ê", "e")
+    return f"pergola lifestyle scene, {base_en}, outdoor living inspiration, warm natural light, editorial photography"
+
 def generer_page_pilier(pilier, archi, keywords=None, articles=None):
     print(f"📌 Pilier : {pilier['titre']}...")
     articles = articles or []
 
     # 2 images FLUX.1-dev : hero + illustration milieu
-    img1 = get_image(f"pergola {pilier['id']} terrace garden",
+    # Utilise des prompts VISUELS spécifiques par pilier (pas juste l'id)
+    img1 = get_image(prompt_image_pilier(pilier['id'], "hero"),
                      modele="dev",
                      chemin_local=f"images/piliers/{pilier['slug']}-1.webp")
-    img2 = get_image(f"pergola {pilier['id']} installation detail",
+    img2 = get_image(prompt_image_pilier(pilier['id'], "detail"),
                      modele="dev",
                      chemin_local=f"images/piliers/{pilier['slug']}-2.webp")
 
@@ -1260,7 +1352,7 @@ def generer_page_secondaire(secondaire, pilier, archi, keywords=None, articles=N
     print(f"  📄 Secondaire : {secondaire['titre']}...")
     articles = articles or []
 
-    img = get_image(f"pergola {secondaire['mot_cle']}",
+    img = get_image(prompt_image_secondaire(secondaire, pilier),
                     modele="schnell",
                     chemin_local=f"images/secondaires/{pilier['id']}-{secondaire['slug']}.webp")
 
@@ -1514,7 +1606,7 @@ def generer_article_blog(archi, keywords=None, comments_config=None):
                     secondaire_parent = s
             break
 
-    img = get_image(f"pergola {sujet.get('mot_cle','jardin')}",
+    img = get_image(prompt_image_blog(sujet),
                     modele="schnell",
                     chemin_local=f"images/blog/{sujet['slug']}.webp")
 
