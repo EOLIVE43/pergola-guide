@@ -38,6 +38,18 @@
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-67NBZNSJN5"></script>
     <link rel="alternate" type="application/rss+xml" title="Pergola Guide — Articles" href="https://pergola-guide.fr/feed.xml">
+    <style>
+    .logo{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
+      font-family:Georgia,"Times New Roman",serif;line-height:1;padding:4px 0;}
+    .logo-pergola{font-size:1.5rem;font-weight:400;color:#2d5a3d;font-style:italic;letter-spacing:-.3px;}
+    .logo-slash{font-size:1.5rem;color:#c5a572;font-weight:300;}
+    .logo-guide{font-size:1.1rem;font-weight:500;color:#2d5a3d;letter-spacing:3px;text-transform:uppercase;}
+    @media (max-width:640px){
+      .logo-pergola{font-size:1.25rem;}
+      .logo-slash{font-size:1.25rem;}
+      .logo-guide{font-size:.92rem;letter-spacing:2px;}
+    }
+  </style>
   <!-- OpenGraph (Facebook, LinkedIn, WhatsApp, Discord, Slack) -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Pergola Guide">
@@ -71,7 +83,7 @@
 <body>
   <header>
   <div class="container header-inner">
-    <a href="/" class="logo">🏡 Guide Pergola</a>
+    <a href="/" class="logo"><span class="logo-pergola">Pergola</span><span class="logo-slash">/</span><span class="logo-guide">GUIDE</span></a>
     <button class="menu-toggle" onclick="toggleMenu()">☰</button>
     <nav id="main-nav">
       <a href="/">Accueil</a>
@@ -268,5 +280,4 @@
     else { apply(saved()); }
   })();
 </script>
-
 </body></html>

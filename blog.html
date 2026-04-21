@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Blog Pergola | Pergola Guide</title>
-  <meta name="description" content="Tous nos articles et conseils sur les pergolas en France.">
+  <meta name="description" content="Tous nos articles et conseils sur les pergolas en France : prix, installation, entretien, réglementation, comparatifs.">
   <meta name="robots" content="max-image-preview:large">
     <meta name="google-site-verification" content="TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c">
     <!-- AdSense : inactif pour l'instant -->
@@ -38,6 +38,18 @@
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-67NBZNSJN5"></script>
     <link rel="alternate" type="application/rss+xml" title="Pergola Guide — Articles" href="https://pergola-guide.fr/feed.xml">
+    <style>
+    .logo{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
+      font-family:Georgia,"Times New Roman",serif;line-height:1;padding:4px 0;}
+    .logo-pergola{font-size:1.5rem;font-weight:400;color:#2d5a3d;font-style:italic;letter-spacing:-.3px;}
+    .logo-slash{font-size:1.5rem;color:#c5a572;font-weight:300;}
+    .logo-guide{font-size:1.1rem;font-weight:500;color:#2d5a3d;letter-spacing:3px;text-transform:uppercase;}
+    @media (max-width:640px){
+      .logo-pergola{font-size:1.25rem;}
+      .logo-slash{font-size:1.25rem;}
+      .logo-guide{font-size:.92rem;letter-spacing:2px;}
+    }
+  </style>
   <!-- OpenGraph (Facebook, LinkedIn, WhatsApp, Discord, Slack) -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Pergola Guide">
@@ -56,12 +68,71 @@
   <meta name="twitter:image" content="https://pergola-guide.fr/images/blog/devis-pergola-artisan.webp">
   <meta name="twitter:image:alt" content="Blog Pergola — Pergola Guide">
   <link rel="canonical" href="https://pergola-guide.fr/blog.html">
+  
   <link rel="stylesheet" href="/style.css">
+
+  <style>
+    .blog-hero{max-width:1100px;margin:30px auto 0;padding:0 20px;text-align:center;}
+    .blog-hero h1{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:2.2rem;margin:0 0 10px;font-weight:500;}
+    .blog-hero-intro{color:#666;font-size:1.05rem;max-width:680px;
+      margin:0 auto 10px;line-height:1.6;}
+
+    .blog-section{max-width:1200px;margin:50px auto;padding:0 20px;}
+    .blog-section h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.7rem;margin:0 0 6px;font-weight:500;}
+    .blog-section h2::after{content:"";display:block;width:60px;height:2px;
+      background:#c5a572;margin:12px 0 0;}
+    .blog-section-intro{color:#666;font-size:.98rem;margin:8px 0 24px;
+      line-height:1.55;}
+    .blog-section-all{display:inline-block;margin-top:18px;color:#2d5a3d;
+      font-weight:600;text-decoration:none;border-bottom:1px solid #c5a572;
+      padding-bottom:2px;}
+    .blog-section-all:hover{color:#c5a572;}
+
+    .articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+      gap:22px;}
+    .article-card{background:#fff;border-radius:10px;overflow:hidden;text-decoration:none;
+      color:inherit;border:1px solid #e8e8e0;transition:transform .2s,box-shadow .2s;
+      display:flex;flex-direction:column;}
+    .article-card:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(45,90,61,.12);}
+    .article-card .card-image{width:100%;height:170px;object-fit:cover;display:block;
+      background:#f0ede5;}
+    .article-card .card-body{padding:16px;flex:1;display:flex;flex-direction:column;}
+    .article-card .categorie{display:inline-block;background:#fafaf7;color:#2d5a3d;
+      padding:3px 10px;border-radius:4px;font-size:.78rem;font-weight:500;
+      letter-spacing:.5px;text-transform:uppercase;margin-bottom:10px;align-self:flex-start;}
+    .article-card .card-titre{font-family:Georgia,serif;color:#2d5a3d;font-size:1.08rem;
+      font-weight:500;margin:0 0 8px;line-height:1.35;}
+    .article-card p{color:#555;font-size:.9rem;line-height:1.5;margin:0;}
+
+    .blog-all-section{max-width:1200px;margin:60px auto 30px;padding:40px 20px 0;
+      border-top:1px solid #e8e8e0;}
+    .blog-all-section h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.7rem;text-align:center;margin:0 0 30px;font-weight:500;}
+
+    /* Pagination */
+    .pagination{display:flex;align-items:center;justify-content:center;gap:14px;
+      margin:40px auto 60px;flex-wrap:wrap;max-width:1100px;padding:0 20px;}
+    .pagination-nav{display:inline-block;padding:10px 18px;background:#2d5a3d;
+      color:#fff;text-decoration:none;border-radius:6px;font-weight:500;
+      transition:background .2s;}
+    .pagination-nav:hover{background:#234730;}
+    .pagination-disabled{background:#e8e8e0;color:#999;cursor:not-allowed;pointer-events:none;}
+    .pagination-numbers{display:flex;gap:6px;align-items:center;}
+    .pagination-link{display:inline-block;padding:8px 14px;color:#2d5a3d;
+      text-decoration:none;border-radius:6px;border:1px solid #e8e8e0;
+      min-width:40px;text-align:center;font-weight:500;transition:all .2s;}
+    .pagination-link:hover{background:#fafaf7;border-color:#c5a572;}
+    .pagination-current{display:inline-block;padding:8px 14px;background:#c5a572;
+      color:#fff;border-radius:6px;min-width:40px;text-align:center;font-weight:500;}
+    .pagination-ellipsis{color:#999;padding:0 4px;}
+  </style>
 </head>
 <body>
   <header>
   <div class="container header-inner">
-    <a href="/" class="logo">🏡 Guide Pergola</a>
+    <a href="/" class="logo"><span class="logo-pergola">Pergola</span><span class="logo-slash">/</span><span class="logo-guide">GUIDE</span></a>
     <button class="menu-toggle" onclick="toggleMenu()">☰</button>
     <nav id="main-nav">
       <a href="/">Accueil</a>
@@ -130,56 +201,145 @@
   </div>
 </header>
   <main class="container">
-    <h1 style="font-family:Georgia,serif;color:var(--vert);padding:40px 0 24px;">Blog &amp; Conseils Pergola</h1>
-    <div class="articles-grid">
-    <a href="/blog/devis-pergola-artisan.html" class="article-card">
-      <img src="/images/blog/devis-pergola-artisan.webp" alt="Comment obtenir un bon devis pour sa pergola ?" class="card-image" loading="lazy">
-      <div class="card-body">
-        <span class="categorie">Prix</span>
-        <h2>Comment obtenir un bon devis pour sa pergola ?</h2>
-        <p>Découvrez comment obtenir un devis pergola artisan au meilleur prix. Guide complet pour comparer les...</p>
-      </div>
-    </a>
-    <a href="/blog/glycine-pergola-entretien.html" class="article-card">
-      <img src="/images/blog/glycine-pergola-entretien.webp" alt="Glycine sur pergola : plantation, taille et entretien" class="card-image" loading="lazy">
-      <div class="card-body">
-        <span class="categorie">Jardin</span>
-        <h2>Glycine sur pergola : plantation, taille et entretien</h2>
-        <p>Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver...</p>
-      </div>
-    </a>
-    <a href="/blog/pergola-neige-poids-resistance.html" class="article-card">
-      <img src="/images/blog/pergola-neige-poids-resistance.webp" alt="Pergola et neige : quelles structures supportent le poids ?" class="card-image" loading="lazy">
-      <div class="card-body">
-        <span class="categorie">Conseils</span>
-        <h2>Pergola et neige : quelles structures supportent le poids ?</h2>
-        <p>Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, ac...</p>
-      </div>
-    </a>
+    <section class="blog-hero">
+      <h1>Blog &amp; Conseils Pergola</h1>
+      <p class="blog-hero-intro">Retrouvez tous nos guides, comparatifs et conseils pratiques sur les pergolas en France — classés par thématique.</p>
+    </section>
+
+    
+    <section class="blog-section">
+      <h2>Dimensions de pergola</h2>
+      <p class="blog-section-intro">Les derniers conseils et guides pratiques sur dimensions de pergola.</p>
+      <div class="articles-grid">
     <a href="/blog/pergola-sur-mesure-avantages.html" class="article-card">
       <img src="/images/blog/pergola-sur-mesure-avantages.webp" alt="Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?" class="card-image" loading="lazy">
       <div class="card-body">
         <span class="categorie">Dimensions</span>
-        <h2>Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?</h2>
-        <p>Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantag...</p>
-      </div>
-    </a>
-    <a href="/blog/pergola-mur-parpaing-fixer.html" class="article-card">
-      <img src="/images/blog/pergola-mur-parpaing-fixer.webp" alt="Comment fixer une pergola adossée sur un mur en parpaing ?" class="card-image" loading="lazy">
-      <div class="card-body">
-        <span class="categorie">Installation</span>
-        <h2>Comment fixer une pergola adossée sur un mur en parpaing ?</h2>
-        <p>Découvrez comment fixer une pergola adossée sur un mur en parpaing : matériel, techniques, prix et e...</p>
+        <h3 class="card-titre">Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?</h3>
+        <p>Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantages, prix…</p>
       </div>
     </a>
     <a href="/blog/pergola-3x3-idees-amenagement.html" class="article-card">
       <img src="/images/blog/pergola-3x3-idees-amenagement.webp" alt="Pergola 3x3 : idées d'aménagement pour petits espaces" class="card-image" loading="lazy">
       <div class="card-body">
         <span class="categorie">Dimensions</span>
-        <h2>Pergola 3x3 : idées d'aménagement pour petits espaces</h2>
-        <p>Pergola 3x3 : 5 idées d'aménagement pour petits espaces. Mobilier, plantes, éclairage. Guide complet...</p>
+        <h3 class="card-titre">Pergola 3x3 : idées d'aménagement pour petits espaces</h3>
+        <p>Pergola 3x3 : 5 idées d'aménagement pour petits espaces. Mobilier, plantes, éclairage. Guide complet avec…</p>
       </div>
     </a></div>
+      <a href="/pergola-dimensions.html" class="blog-section-all">Voir le guide complet sur dimensions de pergola →</a>
+    </section>
+    <section class="blog-section">
+      <h2>Pergola aluminium</h2>
+      <p class="blog-section-intro">Les derniers conseils et guides pratiques sur pergola aluminium.</p>
+      <div class="articles-grid">
+    <a href="/blog/pergola-neige-poids-resistance.html" class="article-card">
+      <img src="/images/blog/pergola-neige-poids-resistance.webp" alt="Pergola et neige : quelles structures supportent le poids ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Conseils</span>
+        <h3 class="card-titre">Pergola et neige : quelles structures supportent le poids ?</h3>
+        <p>Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois…</p>
+      </div>
+    </a></div>
+      <a href="/pergola-aluminium.html" class="blog-section-all">Voir le guide complet sur pergola aluminium →</a>
+    </section>
+    <section class="blog-section">
+      <h2>Prix & budget pergola</h2>
+      <p class="blog-section-intro">Les derniers conseils et guides pratiques sur prix & budget pergola.</p>
+      <div class="articles-grid">
+    <a href="/blog/devis-pergola-artisan.html" class="article-card">
+      <img src="/images/blog/devis-pergola-artisan.webp" alt="Comment obtenir un bon devis pour sa pergola ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Prix</span>
+        <h3 class="card-titre">Comment obtenir un bon devis pour sa pergola ?</h3>
+        <p>Découvrez comment obtenir un devis pergola artisan au meilleur prix. Guide complet pour comparer les offres,…</p>
+      </div>
+    </a></div>
+      <a href="/prix-pergola.html" class="blog-section-all">Voir le guide complet sur prix & budget pergola →</a>
+    </section>
+    <section class="blog-section">
+      <h2>Installation & pose pergola</h2>
+      <p class="blog-section-intro">Les derniers conseils et guides pratiques sur installation & pose pergola.</p>
+      <div class="articles-grid">
+    <a href="/blog/pergola-mur-parpaing-fixer.html" class="article-card">
+      <img src="/images/blog/pergola-mur-parpaing-fixer.webp" alt="Comment fixer une pergola adossée sur un mur en parpaing ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Installation</span>
+        <h3 class="card-titre">Comment fixer une pergola adossée sur un mur en parpaing ?</h3>
+        <p>Découvrez comment fixer une pergola adossée sur un mur en parpaing : matériel, techniques, prix et erreurs à…</p>
+      </div>
+    </a></div>
+      <a href="/installation-pergola.html" class="blog-section-all">Voir le guide complet sur installation & pose pergola →</a>
+    </section>
+    <section class="blog-section">
+      <h2>Pergola terrasse & jardin</h2>
+      <p class="blog-section-intro">Les derniers conseils et guides pratiques sur pergola terrasse & jardin.</p>
+      <div class="articles-grid">
+    <a href="/blog/glycine-pergola-entretien.html" class="article-card">
+      <img src="/images/blog/glycine-pergola-entretien.webp" alt="Glycine sur pergola : plantation, taille et entretien" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Jardin</span>
+        <h3 class="card-titre">Glycine sur pergola : plantation, taille et entretien</h3>
+        <p>Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une…</p>
+      </div>
+    </a></div>
+      <a href="/pergola-terrasse-jardin.html" class="blog-section-all">Voir le guide complet sur pergola terrasse & jardin →</a>
+    </section>
+
+    
+    <section class="blog-all-section">
+      <h2>Tous les derniers articles</h2>
+      <div class="articles-grid">
+    <a href="/blog/devis-pergola-artisan.html" class="article-card">
+      <img src="/images/blog/devis-pergola-artisan.webp" alt="Comment obtenir un bon devis pour sa pergola ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Prix</span>
+        <h3 class="card-titre">Comment obtenir un bon devis pour sa pergola ?</h3>
+        <p>Découvrez comment obtenir un devis pergola artisan au meilleur prix. Guide complet pour comparer les offres,…</p>
+      </div>
+    </a>
+    <a href="/blog/glycine-pergola-entretien.html" class="article-card">
+      <img src="/images/blog/glycine-pergola-entretien.webp" alt="Glycine sur pergola : plantation, taille et entretien" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Jardin</span>
+        <h3 class="card-titre">Glycine sur pergola : plantation, taille et entretien</h3>
+        <p>Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une…</p>
+      </div>
+    </a>
+    <a href="/blog/pergola-neige-poids-resistance.html" class="article-card">
+      <img src="/images/blog/pergola-neige-poids-resistance.webp" alt="Pergola et neige : quelles structures supportent le poids ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Conseils</span>
+        <h3 class="card-titre">Pergola et neige : quelles structures supportent le poids ?</h3>
+        <p>Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois…</p>
+      </div>
+    </a>
+    <a href="/blog/pergola-sur-mesure-avantages.html" class="article-card">
+      <img src="/images/blog/pergola-sur-mesure-avantages.webp" alt="Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Dimensions</span>
+        <h3 class="card-titre">Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?</h3>
+        <p>Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantages, prix…</p>
+      </div>
+    </a>
+    <a href="/blog/pergola-mur-parpaing-fixer.html" class="article-card">
+      <img src="/images/blog/pergola-mur-parpaing-fixer.webp" alt="Comment fixer une pergola adossée sur un mur en parpaing ?" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Installation</span>
+        <h3 class="card-titre">Comment fixer une pergola adossée sur un mur en parpaing ?</h3>
+        <p>Découvrez comment fixer une pergola adossée sur un mur en parpaing : matériel, techniques, prix et erreurs à…</p>
+      </div>
+    </a>
+    <a href="/blog/pergola-3x3-idees-amenagement.html" class="article-card">
+      <img src="/images/blog/pergola-3x3-idees-amenagement.webp" alt="Pergola 3x3 : idées d'aménagement pour petits espaces" class="card-image" loading="lazy">
+      <div class="card-body">
+        <span class="categorie">Dimensions</span>
+        <h3 class="card-titre">Pergola 3x3 : idées d'aménagement pour petits espaces</h3>
+        <p>Pergola 3x3 : 5 idées d'aménagement pour petits espaces. Mobilier, plantes, éclairage. Guide complet avec…</p>
+      </div>
+    </a></div>
+      
+    </section>
   </main>
   <footer>
   <div class="container">
@@ -286,5 +446,4 @@
     else { apply(saved()); }
   })();
 </script>
-
 </body></html>
