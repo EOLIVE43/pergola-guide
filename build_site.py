@@ -33,6 +33,14 @@ SITE_NOM  = "Pergola Guide"
 SITE_LOGO = "🏡 Guide Pergola"
 SITE_DESCRIPTION_COURTE = "Le guide de référence sur les pergolas en France"
 
+# ─── CONFIG AUTEUR/ÉDITEUR (E-E-A-T, critique pour Google Discover) ──
+# On utilise la société EOLIZ comme entité éditoriale (plutôt qu'une personne).
+# Cela construit une marque éditeur multi-sites et protège la vie privée.
+AUTEUR_NOM        = "EOLIZ"
+AUTEUR_ROLE       = "Éditeur spécialisé dans les guides pratiques sur l'habitat"
+AUTEUR_BIO_COURTE = "EOLIZ conçoit des guides de référence sur l'habitat et l'aménagement extérieur. Notre équipe éditoriale analyse le marché français, consulte les sources officielles (service-public.fr, ADEME, AFNOR) et confronte les informations aux retours de propriétaires pour fournir des contenus fiables, à jour, et concrètement utiles."
+AUTEUR_URL        = "/a-propos.html"
+
 # ─── CONFIG ANALYTICS & SEO (remplir sans relancer full) ──
 # Une fois ces valeurs remplies, lancer : python build_site.py fix
 # → Toutes les pages seront mises à jour en 2 min, sans appel API.
@@ -461,16 +469,23 @@ def schema_faq(questions_reponses):
     }, ensure_ascii=False)
 
 def schema_article(h1, meta, image_url, date_published=None, date_modified=None, word_count=None):
+    """Schema Article avec auteur Organization identifié (E-E-A-T / Discover)."""
     data = {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": h1,
         "description": meta,
         "image": image_url,
-        "author": {"@type": "Organization", "name": SITE_NOM},
+        "author": {
+            "@type": "Organization",
+            "name": AUTEUR_NOM,
+            "url": f"{SITE_URL}{AUTEUR_URL}",
+            "description": AUTEUR_BIO_COURTE,
+        },
         "publisher": {
             "@type": "Organization",
             "name": SITE_NOM,
+            "url": SITE_URL,
             "logo": {"@type": "ImageObject", "url": f"{SITE_URL}/logo.png"}
         },
         "inLanguage": "fr",
@@ -482,6 +497,166 @@ def schema_article(h1, meta, image_url, date_published=None, date_modified=None,
     if word_count:
         data["wordCount"] = word_count
     return json.dumps(data, ensure_ascii=False)
+
+# ─── HELPERS AUTEUR / DATES (E-E-A-T / Discover) ──────────
+def bloc_date_auteur_top(date_published, date_modified=None):
+    """Bloc affiché EN HAUT de chaque article : date publication + auteur.
+    C'est ce que Discover adore voir : auteur identifié + date récente."""
+    try:
+        dt_pub = datetime.strptime(date_published, "%Y-%m-%d")
+        date_pub_fr = dt_pub.strftime("%d %B %Y")
+    except Exception:
+        date_pub_fr = date_published
+    maj = ""
+    if date_modified and date_modified != date_published:
+        try:
+            dt_mod = datetime.strptime(date_modified, "%Y-%m-%d")
+            date_mod_fr = dt_mod.strftime("%d %B %Y")
+            maj = f' • <span class="date-maj">Mis à jour le {date_mod_fr}</span>'
+        except Exception:
+            pass
+    return (
+        f'<div class="meta-article" style="display:flex;align-items:center;gap:10px;'
+        f'padding:12px 0;margin:14px 0;border-top:1px solid #e8e8e0;border-bottom:1px solid #e8e8e0;'
+        f'color:#555;font-size:.92rem;flex-wrap:wrap;">'
+        f'<span style="display:inline-flex;align-items:center;gap:8px;">'
+        f'<span style="width:34px;height:34px;border-radius:8px;background:#2d5a3d;color:#fff;'
+        f'display:inline-flex;align-items:center;justify-content:center;font-weight:700;'
+        f'font-size:.72rem;letter-spacing:.5px;">{AUTEUR_NOM}</span>'
+        f'Par <a href="{AUTEUR_URL}" style="color:#2d5a3d;text-decoration:none;font-weight:600;">{AUTEUR_NOM}</a>'
+        f'</span>'
+        f'<span style="color:#aaa;">•</span>'
+        f'<span>Publié le <time datetime="{date_published}">{date_pub_fr}</time></span>'
+        f'{maj}'
+        f'</div>'
+    )
+
+def bloc_auteur_fin_article():
+    """Bloc bio de l'auteur affiché EN BAS de chaque article (crédibilité, E-E-A-T)."""
+    return (
+        f'<div class="bloc-auteur" style="display:flex;gap:20px;align-items:flex-start;'
+        f'background:#fafaf7;border:1px solid #e8e8e0;border-radius:10px;padding:24px;'
+        f'margin:40px 0;flex-wrap:wrap;">'
+        f'<div style="flex-shrink:0;width:80px;height:80px;border-radius:10px;background:#2d5a3d;'
+        f'color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;'
+        f'font-size:.95rem;letter-spacing:1px;">{AUTEUR_NOM}</div>'
+        f'<div style="flex:1;min-width:220px;">'
+        f'<div style="font-size:.85rem;color:#888;text-transform:uppercase;letter-spacing:.5px;'
+        f'margin-bottom:4px;">À propos de l\'éditeur</div>'
+        f'<h3 style="margin:0 0 8px;color:#2d5a3d;font-family:Georgia,serif;font-size:1.15rem;">'
+        f'<a href="{AUTEUR_URL}" style="color:#2d5a3d;text-decoration:none;">{AUTEUR_NOM}</a></h3>'
+        f'<div style="color:#666;font-size:.88rem;margin-bottom:8px;">{AUTEUR_ROLE}</div>'
+        f'<p style="margin:0;color:#444;line-height:1.6;font-size:.95rem;">{AUTEUR_BIO_COURTE}</p>'
+        f'</div></div>'
+    )
+
+def generer_page_a_propos(archi):
+    """Génère la page /a-propos.html avec la présentation d'EOLIZ comme éditeur.
+    Critique pour E-E-A-T : Google Discover regarde cette page pour valider la crédibilité."""
+    page_url = f"{SITE_URL}/a-propos.html"
+    breadcrumb = schema_breadcrumb([
+        {"name": "Accueil", "url": f"{SITE_URL}/"},
+        {"name": "À propos", "url": page_url}
+    ])
+    # Schema Organization pour l'éditeur
+    schema_org = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": AUTEUR_NOM,
+        "description": AUTEUR_BIO_COURTE,
+        "url": page_url,
+        "email": "contact@eoliz.fr",
+        "publishingPrinciples": page_url,
+    }, ensure_ascii=False)
+
+    html = f"""<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>À propos d'{AUTEUR_NOM} | {SITE_NOM}</title>
+  <meta name="description" content="Découvrez {AUTEUR_NOM}, l'éditeur de {SITE_NOM}. Notre mission, notre méthode éditoriale et nos engagements pour des contenus fiables sur les pergolas.">
+  {meta_commune()}
+  <link rel="canonical" href="{page_url}">
+  {lien_css()}
+  <style>
+    .apropos{{max-width:820px;margin:40px auto;padding:0 20px;}}
+    .apropos-hero{{display:flex;gap:30px;align-items:center;margin-bottom:40px;flex-wrap:wrap;}}
+    .apropos-logo{{width:120px;height:120px;border-radius:15px;background:#2d5a3d;color:#fff;
+      display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.5rem;
+      flex-shrink:0;letter-spacing:2px;}}
+    .apropos-nom{{font-family:Georgia,serif;color:#2d5a3d;font-size:2rem;margin:0 0 6px;}}
+    .apropos-role{{color:#666;font-size:1.05rem;margin:0;}}
+    .apropos-section{{margin:30px 0;line-height:1.75;color:#333;}}
+    .apropos-section h2{{font-family:Georgia,serif;color:#2d5a3d;font-size:1.4rem;margin:30px 0 14px;
+      padding-bottom:8px;border-bottom:2px solid #e8e8e0;}}
+    .apropos-section p{{margin:0 0 14px;}}
+    .apropos-section ul{{padding-left:22px;}}
+    .apropos-section li{{margin-bottom:8px;}}
+    .apropos-section strong{{color:#2d5a3d;}}
+  </style>
+  <script type="application/ld+json">{breadcrumb}</script>
+  <script type="application/ld+json">{schema_org}</script>
+</head>
+<body>
+  {construire_header(archi, "racine")}
+  <main class="apropos">
+    <nav class="fil-ariane"><a href="/">Accueil</a> › <span>À propos</span></nav>
+
+    <div class="apropos-hero">
+      <div class="apropos-logo">{AUTEUR_NOM}</div>
+      <div>
+        <h1 class="apropos-nom">À propos d'{AUTEUR_NOM}</h1>
+        <p class="apropos-role">{AUTEUR_ROLE}</p>
+      </div>
+    </div>
+
+    <div class="apropos-section">
+      <h2>Qui sommes-nous ?</h2>
+      <p><strong>{AUTEUR_NOM}</strong> est une structure éditoriale française dédiée à la création de guides de référence sur l'habitat, l'aménagement extérieur et le jardin. Nous éditons <strong>{SITE_NOM}</strong>, un site entièrement consacré au monde des pergolas en France, ainsi que d'autres guides thématiques.</p>
+      <p>Notre conviction : <em>les propriétaires français méritent une information fiable, à jour et concrètement utile</em>, loin du discours commercial des fabricants et des comparateurs qui multiplient les liens d'affiliation au détriment de la qualité éditoriale.</p>
+
+      <h2>Pourquoi ce site ?</h2>
+      <p>Nous avons constaté que l'information disponible sur les pergolas en France était soit <em>trop commerciale</em> (catalogues fabricants), soit <em>trop superficielle</em> (blogs génériques recopiant les mêmes contenus), soit <em>dépassée</em> (prix datés, normes obsolètes).</p>
+      <p>{SITE_NOM} a été pensé comme une ressource complète qui couvre :</p>
+      <ul>
+        <li>Les <strong>prix réels du marché français 2025-2026</strong>, avec des fourchettes précises par matériau et dimension</li>
+        <li>Les <strong>démarches administratives</strong> (permis de construire, déclaration préalable) expliquées simplement</li>
+        <li>Les <strong>critères techniques</strong> pour choisir la bonne pergola selon votre projet et votre budget</li>
+        <li>Les <strong>pièges à éviter</strong> lors de l'achat et de l'installation</li>
+        <li>Un <strong>blog mis à jour régulièrement</strong> avec des actualités, des cas pratiques et des conseils saisonniers</li>
+      </ul>
+
+      <h2>Notre méthode éditoriale</h2>
+      <p>Chaque contenu publié sur {SITE_NOM} est construit avec rigueur :</p>
+      <ul>
+        <li>Consultation systématique des <strong>sources officielles</strong> (service-public.fr, ADEME, normes AFNOR, code de l'urbanisme)</li>
+        <li>Analyse des <strong>catalogues des fabricants français</strong> (tarifs pratiqués, matériaux, garanties, délais)</li>
+        <li>Recoupement avec des <strong>retours d'expérience</strong> de propriétaires et d'installateurs</li>
+        <li>Relecture et mise à jour au moins <strong>annuelle</strong> pour garantir la pertinence des prix et des normes</li>
+      </ul>
+      <p>Les outils d'intelligence artificielle sont utilisés comme <em>support de rédaction</em> pour garantir l'exhaustivité de la couverture des sujets, mais chaque contenu est <strong>relu, vérifié et enrichi</strong> par notre équipe éditoriale pour coller à la réalité du terrain français.</p>
+
+      <h2>Nos engagements</h2>
+      <ul>
+        <li><strong>Indépendance</strong> : nous ne sommes affiliés à aucun fabricant ni à aucune enseigne.</li>
+        <li><strong>Transparence</strong> : lorsqu'un contenu est sponsorisé, il est clairement identifié comme tel.</li>
+        <li><strong>Fiabilité</strong> : nous préférons attendre d'avoir vérifié une information plutôt que publier une donnée incertaine.</li>
+        <li><strong>Accessibilité</strong> : nos guides sont gratuits, sans mur payant, et conçus pour être lus par tous.</li>
+      </ul>
+
+      <h2>Éditeur</h2>
+      <p>Le site {SITE_NOM} est édité par <strong>{AUTEUR_NOM}</strong>. Pour les informations administratives complètes, consultez nos <a href="/mentions-legales.html">mentions légales</a>.</p>
+
+      <h2>Nous contacter</h2>
+      <p>Pour toute question, remarque, suggestion de sujet ou demande de partenariat, écrivez-nous à <a href="mailto:contact@eoliz.fr">contact@eoliz.fr</a>. Nous répondons à tous les mails dans un délai raisonnable.</p>
+    </div>
+  </main>
+  {construire_footer("racine")}
+  {lien_js()}
+  {banner_cookies()}
+</body></html>"""
+    Path("a-propos.html").write_text(html, encoding="utf-8")
+    print("✅ a-propos.html")
 
 def schema_howto(titre, etapes):
     """Pour pages installation."""
@@ -591,21 +766,29 @@ def construire_header(archi, niveau="racine", pilier_actuel=None):
 </header>"""
 
 def construire_footer(niveau="racine"):
-    """Footer avec liens absolus."""
+    """Footer avec liens absolus — enrichi pour E-E-A-T et Discover."""
+    annee = datetime.now().year
     return f"""<footer>
   <div class="container">
-    <p>© 2025 EOLIZ — {SITE_NOM}</p>
-    <p><a href="/mentions-legales.html">Mentions légales</a></p>
+    <p style="margin:0 0 8px;">© {annee} EOLIZ — {SITE_NOM}</p>
+    <p style="margin:0;font-size:.9rem;">
+      <a href="/a-propos.html">À propos</a> •
+      <a href="/mentions-legales.html">Mentions légales</a> •
+      <a href="/politique-de-confidentialite.html">Confidentialité</a> •
+      <a href="/cookies.html">Cookies</a> •
+      <a href="/feed.xml">Flux RSS</a>
+    </p>
   </div>
 </footer>"""
 
 def meta_commune():
-    """Balises meta communes à toutes les pages (robots, GSC, AdSense, GA4)."""
+    """Balises meta communes à toutes les pages (robots, GSC, AdSense, GA4, RSS)."""
     parts = [
         '<meta name="robots" content="max-image-preview:large">',
         '  ' + balise_gsc(),
         '  ' + script_adsense_head(),
         '  ' + script_ga4_head(),
+        f'  <link rel="alternate" type="application/rss+xml" title="{SITE_NOM} — Articles" href="{SITE_URL}/feed.xml">',
     ]
     return '\n  '.join(parts)
 
@@ -1229,7 +1412,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
         {"name": pilier["titre"], "url": f"{SITE_URL}/{pilier['slug']}.html"}
     ])
     faq_schema     = schema_faq(qrs)
-    article_schema = schema_article(h1, meta, img1["url"], date_modified=date_modified)
+    article_schema = schema_article(h1, meta, img1["url"], date_published=date_modified, date_modified=date_modified)
 
     howto_script = ""
     if pilier["id"] == "installation":
@@ -1310,6 +1493,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     </div>
     <div class="pilier-hero-title">
       <h1>{h1}</h1>
+      {bloc_date_auteur_top(date_modified, date_modified)}
       <div class="intro">{intro}</div>
     </div>
 
@@ -1318,12 +1502,13 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
         {bloc_adsense(ADSENSE_SLOT_HAUT, "horizontal")}
         <div class="article-body">{contenu}</div>
         <img src="{img2['url']}" alt="{h1} — illustration" loading="lazy" width="1200" class="article-img-milieu">
-        <p class="image-credit" style="text-align:center;color:#888;font-size:.85rem;">Images générées par IA pour illustration</p>
 
         <div class="faq-section">
           <h2>Questions fréquentes sur {pilier['titre'].lower()}</h2>
           {faq_html}
         </div>
+
+        {bloc_auteur_fin_article()}
 
         {arts_html}
       </article>
@@ -1491,7 +1676,7 @@ Format STRICT :
         {"name": secondaire["titre"], "url": f"{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html"}
     ])
     faq_schema     = schema_faq(qrs)
-    article_schema = schema_article(h1, meta, img["url"], date_modified=date_modified)
+    article_schema = schema_article(h1, meta, img["url"], date_published=date_modified, date_modified=date_modified)
 
     # CSS spécifique secondaires (maillage + cohérence avec pilier)
     css_sec = '''
@@ -1544,9 +1729,9 @@ Format STRICT :
     </nav>
     <div class="page-layout">
       <article class="contenu-principal">
-        <img src="{img['url']}" alt="{h1}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin-bottom:10px;">
-        <p class="image-credit" style="text-align:right;color:#888;font-size:.8rem;margin-bottom:16px;">Image générée par IA</p>
+        <img src="{img['url']}" alt="{h1}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin-bottom:16px;">
         <h1>{h1}</h1>
+        {bloc_date_auteur_top(date_modified, date_modified)}
         <div class="intro">{intro}</div>
         <div class="article-body">{contenu}</div>
         {bloc_adsense(ADSENSE_SLOT_MILIEU, "inArticle")}
@@ -1557,6 +1742,7 @@ Format STRICT :
           <h2>Articles de blog sur ce sujet</h2>
           {arts_connexes}
         </div>
+        {bloc_auteur_fin_article()}
       </article>
       <aside class="sidebar">
         <div class="widget">
@@ -1813,14 +1999,15 @@ Format STRICT :
       <article class="contenu-principal">
         <span class="categorie">{sujet.get('categorie','Blog')}</span>
         <h1>{sujet['titre']}</h1>
+        {bloc_date_auteur_top(date_iso, date_iso)}
         <div class="intro">{intro}</div>
-        <img src="{img['url']}" alt="{sujet['titre']}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin:16px 0 6px;">
-        <p class="image-credit" style="text-align:right;color:#888;font-size:.8rem;margin-bottom:16px;">Image générée par IA</p>
+        <img src="{img['url']}" alt="{sujet['titre']}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin:16px 0 16px;">
         {bloc_adsense(ADSENSE_SLOT_MILIEU, "inArticle")}
         <div class="article-body">{contenu}</div>
         <div class="faq-section">
           <h2>Questions fréquentes</h2>{faq_html}
         </div>
+        {bloc_auteur_fin_article()}
         {similaires_html}
         {bloc_adsense(ADSENSE_SLOT_BAS, "horizontal")}
         <div class="commentaires-section" id="commentaires">
@@ -1875,6 +2062,7 @@ Format STRICT :
     generer_page_blog(archi, articles)
     generer_accueil(archi, articles, regenerer_images=False)  # miniatures home à jour, slider cached
     generer_sitemap(archi, articles)
+    generer_feed_rss(articles)  # Flux RSS mis à jour avec le nouvel article
     ping_google_sitemap()
     print(f"✅ blog/{sujet['slug']}.html")
 
@@ -2242,6 +2430,64 @@ def ping_google_sitemap():
         print(f"  ⚠️ Ping Google: {e}")
 
 # ─── ROBOTS.TXT ───────────────────────────────────────────
+# ─── FLUX RSS (pour Google Discover "Suivre") ─────────────
+def generer_feed_rss(articles):
+    """Génère /feed.xml (RSS 2.0) avec les 20 derniers articles.
+    Critique pour Google Discover : permet aux utilisateurs de "suivre" le site
+    via la fonction Follow disponible sur Android/Chrome."""
+    from xml.sax.saxutils import escape as xml_escape
+
+    articles_tries = sorted(
+        articles,
+        key=lambda a: a.get("date", "1970-01-01"),
+        reverse=True
+    )[:20]
+
+    # Format date RFC-822 pour le RSS
+    def date_rfc822(iso_date):
+        try:
+            dt = datetime.strptime(iso_date, "%Y-%m-%d")
+            return dt.strftime("%a, %d %b %Y 08:00:00 +0100")
+        except Exception:
+            return datetime.now().strftime("%a, %d %b %Y 08:00:00 +0100")
+
+    items = ""
+    for art in articles_tries:
+        url   = f"{SITE_URL}/blog/{art['slug']}.html"
+        titre = xml_escape(art.get("titre", ""))
+        desc  = xml_escape(art.get("description", ""))
+        date_rfc = date_rfc822(art.get("date", ""))
+        categorie = xml_escape(art.get("categorie", "Blog"))
+        items += f"""
+    <item>
+      <title>{titre}</title>
+      <link>{url}</link>
+      <guid isPermaLink="true">{url}</guid>
+      <description>{desc}</description>
+      <pubDate>{date_rfc}</pubDate>
+      <category>{categorie}</category>
+      <author>contact@eoliz.fr ({xml_escape(AUTEUR_NOM)})</author>
+    </item>"""
+
+    build_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0100")
+    site_titre = xml_escape(f"{SITE_NOM} — {SITE_DESCRIPTION_COURTE}")
+    site_desc  = xml_escape(SITE_DESCRIPTION_COURTE)
+
+    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{site_titre}</title>
+    <link>{SITE_URL}/</link>
+    <description>{site_desc}</description>
+    <language>fr-FR</language>
+    <lastBuildDate>{build_date}</lastBuildDate>
+    <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>{items}
+  </channel>
+</rss>
+"""
+    Path("feed.xml").write_text(rss, encoding="utf-8")
+    print(f"✅ feed.xml ({len(articles_tries)} articles)")
+
 def generer_robots_txt():
     """Génère le fichier robots.txt à la racine."""
     contenu = f"""User-agent: *
@@ -2408,6 +2654,8 @@ def mode_fix(archi):
     generer_sitemap(archi, articles)
     generer_robots_txt()
     generer_pages_legales(archi)
+    generer_page_a_propos(archi)           # Page auteur (E-E-A-T, critique Discover)
+    generer_feed_rss(articles)             # Flux RSS (pour "Follow" dans Discover)
 
     # Injection GA/GSC/banner sur les pages déjà générées (piliers + secondaires + articles blog)
     print("  🔄 Mise à jour des balises sur pages existantes...")
@@ -2550,6 +2798,8 @@ def main():
         generer_sitemap(archi, articles)
         generer_robots_txt()
         generer_pages_legales(archi)
+        generer_page_a_propos(archi)           # Page auteur (E-E-A-T, critique Discover)
+        generer_feed_rss(articles)             # Flux RSS (pour "Follow" dans Discover)
 
         # Régénérer la home une dernière fois pour inclure les 5 articles dans "Derniers articles"
         generer_accueil(archi, articles, regenerer_images=False)
