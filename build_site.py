@@ -45,8 +45,8 @@ AUTEUR_URL        = "/a-propos.html"
 # Une fois ces valeurs remplies, lancer : python build_site.py fix
 # → Toutes les pages seront mises à jour en 2 min, sans appel API.
 
-GA4_ID           = ""   # Ex: "G-XXXXXXXXXX" (depuis Google Analytics 4)
-GSC_META_CONTENT = ""   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
+GA4_ID           = "G-67NBZNSJN5"   # Ex: "G-67NBZNSJN5" (depuis Google Analytics 4)
+GSC_META_CONTENT = "TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c"   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
 
 # ─── CONFIG ADSENSE ───────────────────────────────────────
 # Pour activer AdSense le moment venu :
@@ -585,6 +585,13 @@ def generer_page_a_propos(archi):
   <title>À propos — {AUTEUR_NOM} | {SITE_NOM}</title>
   <meta name="description" content="Découvrez {AUTEUR_NOM}, {AUTEUR_ROLE}. Sa méthode éditoriale, ses engagements et sa vision pour vous aider à choisir la pergola idéale.">
   {meta_commune()}
+  {meta_sociales(
+    titre=f"À propos — {AUTEUR_NOM} | {SITE_NOM}",
+    description=f"Découvrez {AUTEUR_NOM}, {AUTEUR_ROLE}. Sa méthode éditoriale, ses engagements et sa vision.",
+    image_url="/images/home/slider-1.webp",
+    url_page=page_url,
+    type_og="profile"
+  )}
   <link rel="canonical" href="{page_url}">
   {lien_css()}
   <style>
@@ -677,6 +684,67 @@ def schema_howto(titre, etapes):
             for e in etapes
         ]
     }, ensure_ascii=False)
+
+# ─── SCHEMAS GLOBAUX (ajoutés uniquement sur la home) ────
+def schema_website():
+    """Schema WebSite avec SearchAction : permet à Google d'afficher
+    une search box directe dans les résultats si la requête contient le nom du site.
+    À mettre UNIQUEMENT sur la home."""
+    return json.dumps({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": f"{SITE_URL}/",
+        "name": SITE_NOM,
+        "description": SITE_DESCRIPTION_COURTE,
+        "inLanguage": "fr-FR",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": f"{SITE_URL}/?q={{search_term_string}}"
+            },
+            "query-input": "required name=search_term_string"
+        }
+    }, ensure_ascii=False)
+
+def schema_organization():
+    """Schema Organization (sitewide) : ancre l'entité dans le Knowledge Graph.
+    À mettre UNIQUEMENT sur la home."""
+    return json.dumps({
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": SITE_NOM,
+        "url": SITE_URL,
+        "logo": {
+            "@type": "ImageObject",
+            "url": f"{SITE_URL}/logo.png",
+            "width": 512,
+            "height": 512
+        },
+        "description": SITE_DESCRIPTION_COURTE,
+        "email": "contact@eoliz.fr",
+        "publishingPrinciples": f"{SITE_URL}/a-propos.html",
+        "sameAs": []  # Ajouter ici les URLs des réseaux sociaux si tu en créées plus tard
+    }, ensure_ascii=False)
+
+def schema_itemlist_piliers(archi):
+    """Schema ItemList pour les 9 piliers sur la home.
+    Aide Google à comprendre que la home présente une liste structurée."""
+    items = []
+    for idx, pilier in enumerate(archi["piliers"], start=1):
+        items.append({
+            "@type": "ListItem",
+            "position": idx,
+            "name": pilier["titre"],
+            "url": f"{SITE_URL}/{pilier['slug']}.html"
+        })
+    return json.dumps({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": f"Guides thématiques {SITE_NOM}",
+        "itemListElement": items
+    }, ensure_ascii=False)
+
 
 # ─── ARTICLES SIMILAIRES ──────────────────────────────────
 def generer_articles_similaires(slug_actuel, pilier_id, articles, n=6):
@@ -799,6 +867,47 @@ def meta_commune():
         f'  <link rel="alternate" type="application/rss+xml" title="{SITE_NOM} — Articles" href="{SITE_URL}/feed.xml">',
     ]
     return '\n  '.join(parts)
+
+def meta_sociales(titre, description, image_url, url_page, type_og="article"):
+    """Génère les balises OpenGraph (Facebook/LinkedIn/WhatsApp) + Twitter Cards.
+    Ces balises contrôlent le rendu des previews lors du partage sur réseaux sociaux.
+
+    Args:
+        titre       : Titre affiché dans le preview
+        description : Description affichée sous le titre (max ~160 car.)
+        image_url   : URL ABSOLUE de l'image (1200x630 recommandé)
+        url_page    : URL canonique de la page
+        type_og     : 'article' pour contenus éditoriaux, 'website' pour home
+    """
+    # S'assurer que l'image est en URL absolue (pas /images/... mais https://...)
+    if image_url.startswith("/"):
+        image_url = f"{SITE_URL}{image_url}"
+    # Si url_page est relative, la rendre absolue
+    if url_page.startswith("/"):
+        url_page = f"{SITE_URL}{url_page}"
+    # Échapper les guillemets dans titre/description pour éviter de casser l'HTML
+    titre_safe = titre.replace('"', '&quot;')
+    desc_safe  = description.replace('"', '&quot;')
+
+    return (
+        f'<!-- OpenGraph (Facebook, LinkedIn, WhatsApp, Discord, Slack) -->\n'
+        f'  <meta property="og:type" content="{type_og}">\n'
+        f'  <meta property="og:site_name" content="{SITE_NOM}">\n'
+        f'  <meta property="og:locale" content="fr_FR">\n'
+        f'  <meta property="og:title" content="{titre_safe}">\n'
+        f'  <meta property="og:description" content="{desc_safe}">\n'
+        f'  <meta property="og:url" content="{url_page}">\n'
+        f'  <meta property="og:image" content="{image_url}">\n'
+        f'  <meta property="og:image:width" content="1200">\n'
+        f'  <meta property="og:image:height" content="630">\n'
+        f'  <meta property="og:image:alt" content="{titre_safe}">\n'
+        f'  <!-- Twitter Cards -->\n'
+        f'  <meta name="twitter:card" content="summary_large_image">\n'
+        f'  <meta name="twitter:title" content="{titre_safe}">\n'
+        f'  <meta name="twitter:description" content="{desc_safe}">\n'
+        f'  <meta name="twitter:image" content="{image_url}">\n'
+        f'  <meta name="twitter:image:alt" content="{titre_safe}">'
+    )
 
 # ─── BANNER COOKIES RGPD ──────────────────────────────────
 # HTML + CSS + JS autonomes, injectés juste avant </body> sur chaque page.
@@ -1068,9 +1177,19 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
   <title>{SITE_NOM} — Guide complet pergolas France</title>
   <meta name="description" content="Le guide de référence sur les pergolas en France. Prix, matériaux, installation, réglementation : tout pour choisir la pergola idéale.">
   {meta_commune()}
+  {meta_sociales(
+    titre=f"{SITE_NOM} — Guide complet pergolas France",
+    description="Le guide de référence sur les pergolas en France. Prix, matériaux, installation, réglementation : tout pour choisir la pergola idéale.",
+    image_url=img_slider_1["url"],
+    url_page=f"{SITE_URL}/",
+    type_og="website"
+  )}
   <link rel="canonical" href="{SITE_URL}/">
   {lien_css()}
 {css_home}
+  <script type="application/ld+json">{schema_website()}</script>
+  <script type="application/ld+json">{schema_organization()}</script>
+  <script type="application/ld+json">{schema_itemlist_piliers(archi)}</script>
 </head>
 <body>
   {construire_header(archi, "racine")}
@@ -1477,6 +1596,13 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
   <title>{h1} | {SITE_NOM}</title>
   <meta name="description" content="{meta}">
   {meta_commune()}
+  {meta_sociales(
+    titre=h1,
+    description=meta,
+    image_url=img1["url"],
+    url_page=f"{SITE_URL}/{pilier['slug']}.html",
+    type_og="article"
+  )}
   <link rel="canonical" href="{SITE_URL}/{pilier['slug']}.html">
   {lien_css()}
 {css_pilier}
@@ -1716,6 +1842,13 @@ Format STRICT :
   <title>{h1} | {SITE_NOM}</title>
   <meta name="description" content="{meta}">
   {meta_commune()}
+  {meta_sociales(
+    titre=h1,
+    description=meta,
+    image_url=img["url"],
+    url_page=f"{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html",
+    type_og="article"
+  )}
   <link rel="canonical" href="{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html">
   {lien_css()}
 {css_sec}
@@ -1842,16 +1975,53 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
    L'ancre DOIT être exactement : "{ancre_sec}"
    Le lien doit être dans une phrase contextuelle pertinente."""
 
-    prompt = f"""Tu es expert SEO et rédacteur web pergolas France, spécialisé dans les articles qui rankent ET qui apparaissent dans Google Discover.
-Tu rédiges un article de blog optimisé SEO ET Google Discover sur : {sujet['titre']}
-Mot-clé cible : {sujet['mot_cle']}
+    prompt = f"""Tu es expert SEO et rédacteur web pergolas France, spécialisé dans les articles qui rankent SUR GOOGLE SEARCH ET qui apparaissent sur GOOGLE DISCOVER.
+Tu rédiges un article de blog DOUBLE-OBJECTIF (SEO + Discover) sur le sujet : {sujet['titre']}
+Mot-clé cible principal : {sujet['mot_cle']}
 {kw_block}
 {maillage_instructions}
 
-OBJECTIF : article utile, concret, qui se lit facilement sur mobile et donne envie de cliquer depuis Discover.
+OBJECTIF : article utile, concret, qui se lit facilement sur mobile et donne envie de cliquer à la fois depuis la recherche Google ET depuis le feed Discover.
 
-⚠️ CONSIGNE CRITIQUE DE FORMAT ⚠️
-Tu produis UNIQUEMENT du HTML pur dans <CONTENU>. INTERDIT d'utiliser :
+═══════════════════════════════════════════════════════
+⚠️ RÈGLE N°1 : TITRE DOUBLE-OBJECTIF (SEO + DISCOVER)
+═══════════════════════════════════════════════════════
+Ton titre <H1_OPTIMISE> DOIT satisfaire SIMULTANÉMENT 3 critères :
+
+1️⃣ SEO : contenir le mot-clé principal "{sujet['mot_cle']}" OU une variante très proche (même intention)
+2️⃣ DISCOVER : formulé de manière ENGAGEANTE (question directe, chiffre précis, bénéfice concret, urgence saisonnière, comparaison)
+3️⃣ HONNÊTETÉ : la promesse du titre doit être tenue dans l'article (NE PAS mentir au lecteur)
+
+✅ EXEMPLES PARFAITS de titres double-objectif (SEO + Discover) :
+- "Pergola bioclimatique : combien ça coûte vraiment en 2026 ?"
+  → contient "pergola bioclimatique" + question + date
+- "5 erreurs d'entretien qui détruisent une pergola en bois"
+  → contient "pergola en bois" + chiffre + bénéfice concret (éviter l'erreur)
+- "Pergola aluminium ou bois : que choisir selon votre budget ?"
+  → contient les 2 mots-clés + question + angle pratique
+- "Pergola et neige : quelles structures résistent vraiment au poids ?"
+  → contient "pergola neige" + curiosité + promesse d'info utile
+- "Permis de construire pergola : ce que dit vraiment la loi en 2026"
+  → contient "permis pergola" + révélation + info fraîche
+
+❌ À ÉVITER ABSOLUMENT :
+- Titres SEO-only trop plats : "Entretien pergola bois" (OK pour SEO mais ennuyeux, aucun clic Discover)
+- Clickbait vulgaire : "Vous ne devinerez jamais ce que cette pergola cache..."
+- Sensationnalisme : "ATTENTION danger ! Cette pergola est en train de s'écrouler"
+- Titres vagues : "Tout sur la pergola"
+- Promesses exagérées : "La méthode INFAILLIBLE", "Le SECRET des pros"
+- Majuscules intempestives ou ponctuation excessive (!!! ???)
+
+RÈGLES TECHNIQUES du <H1_OPTIMISE> :
+- Longueur : 50 à 70 caractères (idéal pour affichage mobile Discover)
+- Mot-clé positionné DANS les 45 premiers caractères si possible
+- Langage naturel, PAS de bourrage SEO artificiel
+- Style journalistique français (pas de traduction littérale anglaise)
+
+═══════════════════════════════════════════════════════
+⚠️ RÈGLE N°2 : HTML PUR DANS <CONTENU>
+═══════════════════════════════════════════════════════
+INTERDICTION absolue d'utiliser :
 - Markdown (**gras**, *italique*, ## titre, - liste)
 - Dièses (#) ou astérisques en début de ligne
 
@@ -1867,8 +2037,9 @@ EXEMPLE INTERDIT :
 **pergola bioclimatique**
 - Confort thermique
 
-CONSIGNES DE FOND :
-- Titre accrocheur façon Discover (curiosité, chiffre, utilité, émotion) — PAS de clickbait vulgaire
+═══════════════════════════════════════════════════════
+CONSIGNES DE FOND
+═══════════════════════════════════════════════════════
 - Français naturel, pratique, ton journalistique mais expert
 - Longueur : 1200 à 1600 mots dans <CONTENU> — ne pas descendre sous 1200
 - Prix en euros (marché France 2025-2026), conseils actionnables
@@ -1876,7 +2047,7 @@ CONSIGNES DE FOND :
 - Les liens de maillage doivent être dans le corps du texte (dans des paragraphes <p>), pas dans une section séparée
 
 STRUCTURE HN DANS <CONTENU> :
-- PAS de H1 (géré ailleurs)
+- PAS de H1 (c'est <H1_OPTIMISE> ci-dessus qui sera utilisé)
 - 4 à 6 <h2> : problème/contexte, solutions/points clés, cas pratique, erreurs à éviter, conseil final
 - <h3> là où ça approfondit (pas systématique)
 - Au moins 2 <ul>
@@ -1885,8 +2056,11 @@ DENSITÉ MOT-CLÉ :
 - Mot-clé cible dans 1ère phrase intro, au moins 1 <h2>, 3+ fois dans le corps
 - Variantes sémantiques naturellement
 
-Format STRICT :
-<META>description 150-155 car. accrocheuse avec mot-clé</META>
+═══════════════════════════════════════════════════════
+Format STRICT de ta réponse :
+═══════════════════════════════════════════════════════
+<H1_OPTIMISE>titre double-objectif SEO+Discover, 50-70 caractères, avec mot-clé + angle engageant</H1_OPTIMISE>
+<META>description 150-155 car. accrocheuse avec mot-clé, qui prolonge la promesse du H1</META>
 <INTRO>80-120 mots en HTML (<p>, <strong>) : crochet + promesse + mot-clé dans 1ère phrase</INTRO>
 <CONTENU>
 <h2>...</h2>
@@ -1914,6 +2088,12 @@ Format STRICT :
     if intro and "<p" not in intro:
         intro = f"<p>{intro}</p>"
 
+    # Titre optimisé SEO+Discover généré par Claude (fallback : titre brut si absent)
+    titre_optimise = extraire_balise(texte, "H1_OPTIMISE") or sujet["titre"]
+    # Sécurité : tronquer si Claude a dépassé les 80 caractères
+    if len(titre_optimise) > 80:
+        titre_optimise = titre_optimise[:77].rsplit(" ", 1)[0] + "…"
+
     qrs      = []
     faq_html = ""
     for i in range(1, 5):
@@ -1940,14 +2120,14 @@ Format STRICT :
             "url": f"{SITE_URL}/{pilier_parent['slug']}.html"
         })
     breadcrumb_items.append({
-        "name": sujet["titre"],
+        "name": titre_optimise,
         "url": f"{SITE_URL}/blog/{sujet['slug']}.html"
     })
 
     breadcrumb_schema = schema_breadcrumb(breadcrumb_items)
     faq_schema        = schema_faq(qrs)
     article_schema    = schema_article(
-        sujet["titre"], meta, img["url"],
+        titre_optimise, meta, img["url"],
         date_published=date_iso, date_modified=date_iso
     )
 
@@ -1981,9 +2161,16 @@ Format STRICT :
 <html lang="fr">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{sujet['titre']} | {SITE_NOM}</title>
+  <title>{titre_optimise} | {SITE_NOM}</title>
   <meta name="description" content="{meta}">
   {meta_commune()}
+  {meta_sociales(
+    titre=titre_optimise,
+    description=meta,
+    image_url=img["url"],
+    url_page=f"{SITE_URL}/blog/{sujet['slug']}.html",
+    type_og="article"
+  )}
   <link rel="canonical" href="{SITE_URL}/blog/{sujet['slug']}.html">
   {lien_css()}
 {css_blog}
@@ -1997,15 +2184,15 @@ Format STRICT :
     <nav class="fil-ariane">
       <a href="/">Accueil</a> ›
       {f"<a href='/{pilier_parent['slug']}.html'>{pilier_parent['titre']}</a> ›" if pilier_parent else ""}
-      <span>{sujet['titre']}</span>
+      <span>{titre_optimise}</span>
     </nav>
     <div class="page-layout">
       <article class="contenu-principal">
         <span class="categorie">{sujet.get('categorie','Blog')}</span>
-        <h1>{sujet['titre']}</h1>
+        <h1>{titre_optimise}</h1>
         {bloc_date_auteur_top(date_iso, date_iso)}
         <div class="intro">{intro}</div>
-        <img src="{img['url']}" alt="{sujet['titre']}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin:16px 0 16px;">
+        <img src="{img['url']}" alt="{titre_optimise}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin:16px 0 16px;">
         {bloc_adsense(ADSENSE_SLOT_MILIEU, "inArticle")}
         <div class="article-body">{contenu}</div>
         <div class="faq-section">
@@ -2044,7 +2231,7 @@ Format STRICT :
     # Le navigateur redimensionnera naturellement via l'attribut CSS .card-image
     articles.insert(0, {
         "slug": sujet["slug"],
-        "titre": sujet["titre"],
+        "titre": titre_optimise,
         "categorie": sujet.get("categorie","Blog"),
         "description": meta,
         "date": date_iso,
@@ -2383,6 +2570,14 @@ def generer_page_blog(archi, articles):
       </div>
     </a>"""
 
+    # Image OG : première image d'article disponible, ou fallback slider home
+    og_image = "/images/home/slider-1.webp"
+    if articles:
+        for art in articles:
+            if art.get("thumb"):
+                og_image = art["thumb"]
+                break
+
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -2390,13 +2585,20 @@ def generer_page_blog(archi, articles):
   <title>Blog Pergola | {SITE_NOM}</title>
   <meta name="description" content="Tous nos articles et conseils sur les pergolas en France.">
   {meta_commune()}
+  {meta_sociales(
+    titre=f"Blog Pergola — {SITE_NOM}",
+    description="Tous nos articles et conseils sur les pergolas en France : prix, installation, entretien, réglementation.",
+    image_url=og_image,
+    url_page=f"{SITE_URL}/blog.html",
+    type_og="website"
+  )}
   <link rel="canonical" href="{SITE_URL}/blog.html">
   {lien_css()}
 </head>
 <body>
   {construire_header(archi, "racine")}
   <main class="container">
-    <h1 style="font-family:Georgia,serif;color:var(--vert);padding:40px 0 24px;">Blog & Conseils Pergola</h1>
+    <h1 style="font-family:Georgia,serif;color:var(--vert);padding:40px 0 24px;">Blog &amp; Conseils Pergola</h1>
     <div class="articles-grid">{cards}</div>
   </main>
   {construire_footer("racine")}
@@ -2523,6 +2725,13 @@ def _page_legale_template(archi, titre, contenu_html):
   <title>{titre} | {SITE_NOM}</title>
   <meta name="description" content="{titre} du site {SITE_NOM}.">
   {meta_commune()}
+  {meta_sociales(
+    titre=f"{titre} | {SITE_NOM}",
+    description=f"{titre} du site {SITE_NOM}.",
+    image_url="/images/home/slider-1.webp",
+    url_page=page_url,
+    type_og="website"
+  )}
   <link rel="canonical" href="{page_url}">
   {lien_css()}
   <style>
