@@ -38,7 +38,7 @@ SITE_DESCRIPTION_COURTE = "Le guide de référence sur les pergolas en France"
 # → Toutes les pages seront mises à jour en 2 min, sans appel API.
 
 GA4_ID           = ""   # Ex: "G-XXXXXXXXXX" (depuis Google Analytics 4)
-GSC_META_CONTENT = ""   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
+GSC_META_CONTENT = "TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c"   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
 
 # ─── CONFIG ADSENSE ───────────────────────────────────────
 # Pour activer AdSense le moment venu :
