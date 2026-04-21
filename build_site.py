@@ -937,17 +937,23 @@ def meta_commune():
     return '\n  '.join(parts)
 
 def css_logo():
-    """CSS du logo magazine 'Pergola / GUIDE' — injecté dans <head> de chaque page."""
+    """CSS du logo magazine 'Pergola / GUIDE' — adapté au fond vert foncé du header.
+    Palette blanc + doré pour un maximum de lisibilité et un look premium."""
     return '''<style>
-    .logo{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
-      font-family:Georgia,"Times New Roman",serif;line-height:1;padding:4px 0;}
-    .logo-pergola{font-size:1.5rem;font-weight:400;color:#2d5a3d;font-style:italic;letter-spacing:-.3px;}
-    .logo-slash{font-size:1.5rem;color:#c5a572;font-weight:300;}
-    .logo-guide{font-size:1.1rem;font-weight:500;color:#2d5a3d;letter-spacing:3px;text-transform:uppercase;}
+    .logo{display:inline-flex;align-items:baseline;gap:10px;text-decoration:none;
+      font-family:Georgia,"Times New Roman",serif;line-height:1;padding:6px 0;white-space:nowrap;}
+    .logo-pergola{font-size:1.5rem;font-weight:400;color:#ffffff;
+      font-style:italic;letter-spacing:.2px;}
+    .logo-slash{font-size:1.1rem;color:#c5a572;font-weight:300;
+      position:relative;top:-2px;opacity:.85;}
+    .logo-guide{font-size:.95rem;font-weight:500;color:#ffffff;
+      letter-spacing:4px;text-transform:uppercase;}
+    .logo:hover .logo-slash{opacity:1;}
     @media (max-width:640px){
-      .logo-pergola{font-size:1.25rem;}
-      .logo-slash{font-size:1.25rem;}
-      .logo-guide{font-size:.92rem;letter-spacing:2px;}
+      .logo{gap:7px;}
+      .logo-pergola{font-size:1.22rem;}
+      .logo-slash{font-size:.9rem;}
+      .logo-guide{font-size:.82rem;letter-spacing:3px;}
     }
   </style>'''
 
@@ -1200,10 +1206,10 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
       text-shadow:0 1px 4px rgba(0,0,0,.6);max-width:700px;}
     @media (max-width:768px){.home-slider{height:380px;}}
 
-    /* ═══ INTRO : image à gauche + texte justifié à droite ═════ */
+    /* ═══ INTRO : image à gauche (large) + texte justifié à droite ═════ */
     .home-intro{background:#fafaf7;padding:60px 0;border-bottom:1px solid #e8e8e0;}
     .home-intro-inner{max-width:1100px;margin:0 auto;padding:0 20px;
-      display:grid;grid-template-columns:1fr 1.3fr;gap:40px;align-items:center;}
+      display:grid;grid-template-columns:1.3fr 1fr;gap:40px;align-items:center;}
     .home-intro-img{width:100%;height:100%;min-height:320px;object-fit:cover;
       border-radius:10px;display:block;box-shadow:0 10px 30px rgba(45,90,61,.12);}
     .home-intro-texte h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
@@ -1298,7 +1304,6 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
       </div>
     </div>
   </section>
-
   <!-- ═══ ADSENSE HAUT ═══ -->
   <div class="container">
     {bloc_adsense(ADSENSE_SLOT_HAUT, "horizontal")}
@@ -1672,7 +1677,8 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     .article-img-milieu{width:100%;max-width:820px;margin:30px auto;display:block;border-radius:8px;}
 
     /* Grille cards secondaires (affichée en haut, juste après l'intro) */
-    .pilier-secondaires{margin:40px auto 50px;max-width:1100px;padding:30px 20px 0;
+    /* Hérite de la largeur de .container — pas de max-width propre */
+    .pilier-secondaires{margin:40px 0 50px;padding:30px 0 0;
       border-top:1px solid #e8e8e0;}
     .pilier-secondaires h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
       font-size:1.8rem;text-align:center;margin:0 0 10px;position:relative;}
@@ -1926,14 +1932,15 @@ Format STRICT :
     .article-body a{color:#2d5a3d;text-decoration:underline;}
 
     /* Maillage interne visuel vers autres secondaires */
-    .maillage-secondaires{margin:50px auto;max-width:1100px;padding:0 20px;}
+    /* Hérite de la largeur de .container — pas de max-width/margin propres */
+    .maillage-secondaires{margin:50px 0;}
     .maillage-secondaires h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);font-size:1.6rem;text-align:center;margin:0 0 26px;}
     .maillage-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px;}
     .maillage-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e8e8e0;border-radius:8px;overflow:hidden;transition:transform .2s,box-shadow .2s;}
     .maillage-card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(45,90,61,.12);}
-    .maillage-titre{padding:14px 14px 10px;font-weight:600;color:#2d5a3d;text-decoration:none;font-size:1rem;line-height:1.35;display:block;}
+    .maillage-titre{padding:14px 14px 10px;font-weight:600;color:#2d5a3d;text-decoration:none;font-size:1rem;line-height:1.35;display:flex;align-items:flex-start;min-height:62px;box-sizing:border-box;}
     .maillage-titre:hover{text-decoration:underline;}
-    .maillage-img-link{display:block;}
+    .maillage-img-link{display:block;margin-top:auto;}
     .maillage-img{width:100%;height:140px;object-fit:cover;display:block;background:#f0ede5;}
   </style>'''
 
@@ -2703,14 +2710,15 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
     .intro p{margin:0 0 10px;}
 
     /* Maillage articles similaires (même style que sur les secondaires) */
-    .maillage-articles{margin:50px auto;max-width:1100px;padding:0 20px;}
+    /* Hérite de la largeur de .container — pas de max-width propre */
+    .maillage-articles{margin:50px 0;}
     .maillage-articles h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);font-size:1.6rem;text-align:center;margin:0 0 26px;}
     .maillage-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px;}
     .maillage-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e8e8e0;border-radius:8px;overflow:hidden;transition:transform .2s,box-shadow .2s;}
     .maillage-card:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(45,90,61,.12);}
-    .maillage-titre{padding:14px 14px 10px;font-weight:600;color:#2d5a3d;text-decoration:none;font-size:1rem;line-height:1.35;display:block;}
+    .maillage-titre{padding:14px 14px 10px;font-weight:600;color:#2d5a3d;text-decoration:none;font-size:1rem;line-height:1.35;display:flex;align-items:flex-start;min-height:62px;box-sizing:border-box;}
     .maillage-titre:hover{text-decoration:underline;}
-    .maillage-img-link{display:block;}
+    .maillage-img-link{display:block;margin-top:auto;}
     .maillage-img{width:100%;height:140px;object-fit:cover;display:block;background:#f0ede5;}
   </style>''' + css_formats_blog()
 
