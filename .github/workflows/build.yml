@@ -44,7 +44,9 @@ jobs:
           git config user.name "Pergola Bot"
           git config user.email "bot@pergola-guide.fr"
           git add -A
-          git diff --staged --quiet || git commit -m "🌿 Mise à jour site ($MODE) - $(date +'%d/%m/%Y')"
+          git diff --staged --quiet || git commit -m "🌿 Mise à jour site - $(date +'%d/%m/%Y')"
+          # Rebase sur les changements distants avant de pusher (évite les conflits)
+          git pull --rebase origin ${{ github.ref_name }} || true
           git push origin HEAD:${{ github.ref_name }}
         env:
           MODE: ${{ github.event.inputs.mode || 'blog' }}
