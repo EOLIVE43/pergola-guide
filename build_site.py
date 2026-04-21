@@ -33,12 +33,12 @@ SITE_NOM  = "Pergola Guide"
 SITE_LOGO = "🏡 Guide Pergola"
 SITE_DESCRIPTION_COURTE = "Le guide de référence sur les pergolas en France"
 
-# ─── CONFIG AUTEUR/ÉDITEUR (E-E-A-T, critique pour Google Discover) ──
-# On utilise la société EOLIZ comme entité éditoriale (plutôt qu'une personne).
-# Cela construit une marque éditeur multi-sites et protège la vie privée.
-AUTEUR_NOM        = "EOLIZ"
-AUTEUR_ROLE       = "Éditeur spécialisé dans les guides pratiques sur l'habitat"
-AUTEUR_BIO_COURTE = "EOLIZ conçoit des guides de référence sur l'habitat et l'aménagement extérieur. Notre équipe éditoriale analyse le marché français, consulte les sources officielles (service-public.fr, ADEME, AFNOR) et confronte les informations aux retours de propriétaires pour fournir des contenus fiables, à jour, et concrètement utiles."
+# ─── CONFIG AUTEUR (E-E-A-T, critique pour Google Discover) ──
+# Pseudonyme journalistique : protège la vie privée tout en fournissant
+# une identité humaine crédible à Google (schema Person).
+AUTEUR_NOM        = "Mathias D."
+AUTEUR_ROLE       = "Rédacteur en chef — Pergola Guide"
+AUTEUR_BIO_COURTE = "Mathias rédige les contenus de Pergola Guide. Passionné d'aménagement extérieur, il étudie depuis plusieurs années le marché français des pergolas : prix, matériaux, réglementation, installation. Son objectif est de vous fournir une information indépendante, à jour et directement utilisable pour votre projet."
 AUTEUR_URL        = "/a-propos.html"
 
 # ─── CONFIG ANALYTICS & SEO (remplir sans relancer full) ──
@@ -469,7 +469,7 @@ def schema_faq(questions_reponses):
     }, ensure_ascii=False)
 
 def schema_article(h1, meta, image_url, date_published=None, date_modified=None, word_count=None):
-    """Schema Article avec auteur Organization identifié (E-E-A-T / Discover)."""
+    """Schema Article avec auteur Person identifié (critique E-E-A-T / Discover)."""
     data = {
         "@context": "https://schema.org",
         "@type": "Article",
@@ -477,7 +477,7 @@ def schema_article(h1, meta, image_url, date_published=None, date_modified=None,
         "description": meta,
         "image": image_url,
         "author": {
-            "@type": "Organization",
+            "@type": "Person",
             "name": AUTEUR_NOM,
             "url": f"{SITE_URL}{AUTEUR_URL}",
             "description": AUTEUR_BIO_COURTE,
@@ -515,14 +515,17 @@ def bloc_date_auteur_top(date_published, date_modified=None):
             maj = f' • <span class="date-maj">Mis à jour le {date_mod_fr}</span>'
         except Exception:
             pass
+    # Extrait les initiales : "Mathias D." → "MD" ; "Mathias" → "M"
+    parts = AUTEUR_NOM.replace(".", "").split()
+    initiales = (parts[0][0] + parts[-1][0]) if len(parts) > 1 else parts[0][0]
     return (
         f'<div class="meta-article" style="display:flex;align-items:center;gap:10px;'
         f'padding:12px 0;margin:14px 0;border-top:1px solid #e8e8e0;border-bottom:1px solid #e8e8e0;'
         f'color:#555;font-size:.92rem;flex-wrap:wrap;">'
         f'<span style="display:inline-flex;align-items:center;gap:8px;">'
-        f'<span style="width:34px;height:34px;border-radius:8px;background:#2d5a3d;color:#fff;'
+        f'<span style="width:34px;height:34px;border-radius:50%;background:#2d5a3d;color:#fff;'
         f'display:inline-flex;align-items:center;justify-content:center;font-weight:700;'
-        f'font-size:.72rem;letter-spacing:.5px;">{AUTEUR_NOM}</span>'
+        f'font-size:.85rem;">{initiales}</span>'
         f'Par <a href="{AUTEUR_URL}" style="color:#2d5a3d;text-decoration:none;font-weight:600;">{AUTEUR_NOM}</a>'
         f'</span>'
         f'<span style="color:#aaa;">•</span>'
@@ -533,16 +536,18 @@ def bloc_date_auteur_top(date_published, date_modified=None):
 
 def bloc_auteur_fin_article():
     """Bloc bio de l'auteur affiché EN BAS de chaque article (crédibilité, E-E-A-T)."""
+    parts = AUTEUR_NOM.replace(".", "").split()
+    initiales = (parts[0][0] + parts[-1][0]) if len(parts) > 1 else parts[0][0]
     return (
         f'<div class="bloc-auteur" style="display:flex;gap:20px;align-items:flex-start;'
         f'background:#fafaf7;border:1px solid #e8e8e0;border-radius:10px;padding:24px;'
         f'margin:40px 0;flex-wrap:wrap;">'
-        f'<div style="flex-shrink:0;width:80px;height:80px;border-radius:10px;background:#2d5a3d;'
+        f'<div style="flex-shrink:0;width:80px;height:80px;border-radius:50%;background:#2d5a3d;'
         f'color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;'
-        f'font-size:.95rem;letter-spacing:1px;">{AUTEUR_NOM}</div>'
+        f'font-size:1.6rem;">{initiales}</div>'
         f'<div style="flex:1;min-width:220px;">'
         f'<div style="font-size:.85rem;color:#888;text-transform:uppercase;letter-spacing:.5px;'
-        f'margin-bottom:4px;">À propos de l\'éditeur</div>'
+        f'margin-bottom:4px;">À propos de l\'auteur</div>'
         f'<h3 style="margin:0 0 8px;color:#2d5a3d;font-family:Georgia,serif;font-size:1.15rem;">'
         f'<a href="{AUTEUR_URL}" style="color:#2d5a3d;text-decoration:none;">{AUTEUR_NOM}</a></h3>'
         f'<div style="color:#666;font-size:.88rem;margin-bottom:8px;">{AUTEUR_ROLE}</div>'
@@ -551,39 +556,42 @@ def bloc_auteur_fin_article():
     )
 
 def generer_page_a_propos(archi):
-    """Génère la page /a-propos.html avec la présentation d'EOLIZ comme éditeur.
+    """Génère la page /a-propos.html avec la présentation de l'auteur Mathias D.
     Critique pour E-E-A-T : Google Discover regarde cette page pour valider la crédibilité."""
     page_url = f"{SITE_URL}/a-propos.html"
     breadcrumb = schema_breadcrumb([
         {"name": "Accueil", "url": f"{SITE_URL}/"},
         {"name": "À propos", "url": page_url}
     ])
-    # Schema Organization pour l'éditeur
-    schema_org = json.dumps({
+    # Schema Person pour l'auteur (plus fort E-E-A-T qu'Organization)
+    schema_person = json.dumps({
         "@context": "https://schema.org",
-        "@type": "Organization",
+        "@type": "Person",
         "name": AUTEUR_NOM,
+        "jobTitle": AUTEUR_ROLE,
         "description": AUTEUR_BIO_COURTE,
         "url": page_url,
+        "worksFor": {"@type": "Organization", "name": SITE_NOM, "url": SITE_URL},
         "email": "contact@eoliz.fr",
-        "publishingPrinciples": page_url,
     }, ensure_ascii=False)
+
+    parts = AUTEUR_NOM.replace(".", "").split()
+    initiales = (parts[0][0] + parts[-1][0]) if len(parts) > 1 else parts[0][0]
 
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>À propos d'{AUTEUR_NOM} | {SITE_NOM}</title>
-  <meta name="description" content="Découvrez {AUTEUR_NOM}, l'éditeur de {SITE_NOM}. Notre mission, notre méthode éditoriale et nos engagements pour des contenus fiables sur les pergolas.">
+  <title>À propos — {AUTEUR_NOM} | {SITE_NOM}</title>
+  <meta name="description" content="Découvrez {AUTEUR_NOM}, {AUTEUR_ROLE}. Sa méthode éditoriale, ses engagements et sa vision pour vous aider à choisir la pergola idéale.">
   {meta_commune()}
   <link rel="canonical" href="{page_url}">
   {lien_css()}
   <style>
     .apropos{{max-width:820px;margin:40px auto;padding:0 20px;}}
     .apropos-hero{{display:flex;gap:30px;align-items:center;margin-bottom:40px;flex-wrap:wrap;}}
-    .apropos-logo{{width:120px;height:120px;border-radius:15px;background:#2d5a3d;color:#fff;
-      display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.5rem;
-      flex-shrink:0;letter-spacing:2px;}}
+    .apropos-avatar{{width:120px;height:120px;border-radius:50%;background:#2d5a3d;color:#fff;
+      display:flex;align-items:center;justify-content:center;font-weight:700;font-size:2.5rem;flex-shrink:0;}}
     .apropos-nom{{font-family:Georgia,serif;color:#2d5a3d;font-size:2rem;margin:0 0 6px;}}
     .apropos-role{{color:#666;font-size:1.05rem;margin:0;}}
     .apropos-section{{margin:30px 0;line-height:1.75;color:#333;}}
@@ -595,7 +603,7 @@ def generer_page_a_propos(archi):
     .apropos-section strong{{color:#2d5a3d;}}
   </style>
   <script type="application/ld+json">{breadcrumb}</script>
-  <script type="application/ld+json">{schema_org}</script>
+  <script type="application/ld+json">{schema_person}</script>
 </head>
 <body>
   {construire_header(archi, "racine")}
@@ -603,52 +611,52 @@ def generer_page_a_propos(archi):
     <nav class="fil-ariane"><a href="/">Accueil</a> › <span>À propos</span></nav>
 
     <div class="apropos-hero">
-      <div class="apropos-logo">{AUTEUR_NOM}</div>
+      <div class="apropos-avatar">{initiales}</div>
       <div>
-        <h1 class="apropos-nom">À propos d'{AUTEUR_NOM}</h1>
+        <h1 class="apropos-nom">{AUTEUR_NOM}</h1>
         <p class="apropos-role">{AUTEUR_ROLE}</p>
       </div>
     </div>
 
     <div class="apropos-section">
-      <h2>Qui sommes-nous ?</h2>
-      <p><strong>{AUTEUR_NOM}</strong> est une structure éditoriale française dédiée à la création de guides de référence sur l'habitat, l'aménagement extérieur et le jardin. Nous éditons <strong>{SITE_NOM}</strong>, un site entièrement consacré au monde des pergolas en France, ainsi que d'autres guides thématiques.</p>
-      <p>Notre conviction : <em>les propriétaires français méritent une information fiable, à jour et concrètement utile</em>, loin du discours commercial des fabricants et des comparateurs qui multiplient les liens d'affiliation au détriment de la qualité éditoriale.</p>
+      <h2>Qui suis-je ?</h2>
+      <p>Bienvenue sur <strong>{SITE_NOM}</strong>. Je suis <strong>{AUTEUR_NOM}</strong>, rédacteur en chef de ce site. Passionné d'aménagement extérieur et plus particulièrement de pergolas, j'ai créé ce site pour centraliser toutes les informations utiles aux propriétaires français qui envisagent d'installer une pergola chez eux.</p>
+      <p>Mon objectif est simple : vous donner accès à une information <strong>fiable, actualisée et pratique</strong>, loin du discours commercial des fabricants et des comparateurs qui multiplient les liens d'affiliation au détriment de la qualité éditoriale.</p>
 
       <h2>Pourquoi ce site ?</h2>
-      <p>Nous avons constaté que l'information disponible sur les pergolas en France était soit <em>trop commerciale</em> (catalogues fabricants), soit <em>trop superficielle</em> (blogs génériques recopiant les mêmes contenus), soit <em>dépassée</em> (prix datés, normes obsolètes).</p>
-      <p>{SITE_NOM} a été pensé comme une ressource complète qui couvre :</p>
+      <p>Quand j'ai moi-même cherché à installer une pergola chez des proches, je me suis heurté à un constat frustrant : les informations disponibles sur internet étaient soit <em>trop commerciales</em> (catalogues fabricants), soit <em>trop superficielles</em> (blogs génériques qui recopient les mêmes contenus), soit <em>dépassées</em> (prix datés, normes obsolètes).</p>
+      <p>J'ai donc décidé de construire une ressource complète qui couvre :</p>
       <ul>
         <li>Les <strong>prix réels du marché français 2025-2026</strong>, avec des fourchettes précises par matériau et dimension</li>
         <li>Les <strong>démarches administratives</strong> (permis de construire, déclaration préalable) expliquées simplement</li>
         <li>Les <strong>critères techniques</strong> pour choisir la bonne pergola selon votre projet et votre budget</li>
         <li>Les <strong>pièges à éviter</strong> lors de l'achat et de l'installation</li>
-        <li>Un <strong>blog mis à jour régulièrement</strong> avec des actualités, des cas pratiques et des conseils saisonniers</li>
+        <li>Un <strong>blog mis à jour régulièrement</strong> avec des actualités et des cas pratiques</li>
       </ul>
 
-      <h2>Notre méthode éditoriale</h2>
+      <h2>Ma méthode de travail</h2>
       <p>Chaque contenu publié sur {SITE_NOM} est construit avec rigueur :</p>
       <ul>
-        <li>Consultation systématique des <strong>sources officielles</strong> (service-public.fr, ADEME, normes AFNOR, code de l'urbanisme)</li>
+        <li>Consultation systématique des <strong>sources officielles</strong> : service-public.fr, ADEME, normes AFNOR, code de l'urbanisme</li>
         <li>Analyse des <strong>catalogues des fabricants français</strong> (tarifs pratiqués, matériaux, garanties, délais)</li>
         <li>Recoupement avec des <strong>retours d'expérience</strong> de propriétaires et d'installateurs</li>
         <li>Relecture et mise à jour au moins <strong>annuelle</strong> pour garantir la pertinence des prix et des normes</li>
       </ul>
-      <p>Les outils d'intelligence artificielle sont utilisés comme <em>support de rédaction</em> pour garantir l'exhaustivité de la couverture des sujets, mais chaque contenu est <strong>relu, vérifié et enrichi</strong> par notre équipe éditoriale pour coller à la réalité du terrain français.</p>
+      <p>Je m'appuie également sur des outils d'intelligence artificielle comme <em>support de rédaction</em>, pour garantir une couverture exhaustive des sujets. Mais chaque contenu est <strong>relu, vérifié et enrichi</strong> pour coller à la réalité du terrain français.</p>
 
-      <h2>Nos engagements</h2>
+      <h2>Mes engagements</h2>
       <ul>
-        <li><strong>Indépendance</strong> : nous ne sommes affiliés à aucun fabricant ni à aucune enseigne.</li>
+        <li><strong>Indépendance</strong> : je ne suis affilié à aucun fabricant ni à aucune enseigne.</li>
         <li><strong>Transparence</strong> : lorsqu'un contenu est sponsorisé, il est clairement identifié comme tel.</li>
-        <li><strong>Fiabilité</strong> : nous préférons attendre d'avoir vérifié une information plutôt que publier une donnée incertaine.</li>
-        <li><strong>Accessibilité</strong> : nos guides sont gratuits, sans mur payant, et conçus pour être lus par tous.</li>
+        <li><strong>Fiabilité</strong> : je préfère attendre d'avoir vérifié une information plutôt que de publier une donnée incertaine.</li>
+        <li><strong>Accessibilité</strong> : les guides sont gratuits, sans mur payant, et conçus pour être lus par tous.</li>
       </ul>
 
-      <h2>Éditeur</h2>
-      <p>Le site {SITE_NOM} est édité par <strong>{AUTEUR_NOM}</strong>. Pour les informations administratives complètes, consultez nos <a href="/mentions-legales.html">mentions légales</a>.</p>
+      <h2>Éditeur du site</h2>
+      <p>{SITE_NOM} est édité par <strong>EOLIZ</strong>, structure dédiée à la création de sites de référence sur l'habitat et l'aménagement extérieur. Pour les informations administratives, consultez nos <a href="/mentions-legales.html">mentions légales</a>.</p>
 
-      <h2>Nous contacter</h2>
-      <p>Pour toute question, remarque, suggestion de sujet ou demande de partenariat, écrivez-nous à <a href="mailto:contact@eoliz.fr">contact@eoliz.fr</a>. Nous répondons à tous les mails dans un délai raisonnable.</p>
+      <h2>Me contacter</h2>
+      <p>Pour toute question, remarque, suggestion de sujet ou demande de partenariat, écrivez-moi à <a href="mailto:contact@eoliz.fr">contact@eoliz.fr</a>. Je réponds personnellement à tous les mails dans un délai raisonnable.</p>
     </div>
   </main>
   {construire_footer("racine")}
@@ -1249,14 +1257,11 @@ def generer_page_pilier(pilier, archi, keywords=None, articles=None):
     print(f"📌 Pilier : {pilier['titre']}...")
     articles = articles or []
 
-    # 2 images FLUX.1-dev : hero + illustration milieu
-    # Utilise des prompts VISUELS spécifiques par pilier (pas juste l'id)
+    # 1 image FLUX.1.1-pro : hero en haut (la 2ème image du milieu a été supprimée
+    # car elle n'apportait aucune information utile au lecteur et nuisait au flux de lecture)
     img1 = get_image(prompt_image_pilier(pilier['id'], "hero"),
                      modele="dev",
                      chemin_local=f"images/piliers/{pilier['slug']}-1.webp")
-    img2 = get_image(prompt_image_pilier(pilier['id'], "detail"),
-                     modele="dev",
-                     chemin_local=f"images/piliers/{pilier['slug']}-2.webp")
 
     kw_block = formater_keywords_prompt(pilier['id'], keywords or {})
 
@@ -1501,7 +1506,6 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
       <article class="contenu-principal">
         {bloc_adsense(ADSENSE_SLOT_HAUT, "horizontal")}
         <div class="article-body">{contenu}</div>
-        <img src="{img2['url']}" alt="{h1} — illustration" loading="lazy" width="1200" class="article-img-milieu">
 
         <div class="faq-section">
           <h2>Questions fréquentes sur {pilier['titre'].lower()}</h2>
