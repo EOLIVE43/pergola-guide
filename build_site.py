@@ -2572,9 +2572,30 @@ def main():
         # Parfait pour appliquer des changements de config après coup
         mode_fix(archi)
 
+    elif mode == "reset-images":
+        # Supprime toutes les images des piliers, secondaires et home
+        # pour forcer leur régénération au prochain full (avec prompts améliorés).
+        # PRÉSERVE /images/blog/ pour ne pas casser les articles existants.
+        print("🗑️  Mode RESET-IMAGES : suppression des images piliers/secondaires/home")
+        import shutil
+        total = 0
+        for dossier in ["images/home", "images/piliers", "images/secondaires"]:
+            p = Path(dossier)
+            if p.exists():
+                for f in p.glob("*.webp"):
+                    f.unlink()
+                    total += 1
+                print(f"  ✅ {dossier} nettoyé")
+            else:
+                print(f"  ⊘ {dossier} n'existe pas (ignoré)")
+        print(f"\n🎉 {total} images supprimées.")
+        print("   Dossier images/blog/ préservé (articles existants intacts).")
+        print("\n➡️  Lance maintenant le workflow en mode 'full' pour régénérer.")
+        print("   Coût estimé : ~1,04 € (88 images) — durée : ~30-45 min")
+
     else:
         print(f"❌ Mode inconnu : {mode}")
-        print("   Modes disponibles : full, blog, comments, fix")
+        print("   Modes disponibles : full, blog, comments, fix, reset-images")
 
 if __name__ == "__main__":
     main()
