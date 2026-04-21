@@ -30,5 +30,10 @@
     "pilier_id": "prix",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-bioclimatique-vs-classique": {
+    "popularite": "tres_faible",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
