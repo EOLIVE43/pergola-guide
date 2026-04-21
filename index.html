@@ -5,6 +5,9 @@
   <title>Pergola Guide — Guide complet pergolas France</title>
   <meta name="description" content="Le guide de référence sur les pergolas en France. Prix, matériaux, installation, réglementation : tout pour choisir la pergola idéale.">
   <meta name="robots" content="max-image-preview:large">
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
     <meta name="google-site-verification" content="TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c">
     <!-- AdSense : inactif pour l'instant -->
     <!-- Google Analytics 4 (via Consent Mode v2) -->
@@ -73,6 +76,8 @@
   <meta name="twitter:image" content="https://pergola-guide.fr/images/home/slider-1.webp">
   <meta name="twitter:image:alt" content="Pergola Guide — Guide complet pergolas France">
   <link rel="canonical" href="https://pergola-guide.fr/">
+  <!-- Preload de l'image LCP (Largest Contentful Paint) pour améliorer Core Web Vitals -->
+  <link rel="preload" as="image" href="/images/home/slider-1.webp" fetchpriority="high">
   <link rel="stylesheet" href="/style.css">
 
   <style>
@@ -247,7 +252,7 @@
   <!-- ═══ INTRO : image à gauche + texte justifié à droite ═══ -->
   <section class="home-intro">
     <div class="home-intro-inner">
-      <img src="/images/home/slider-1.webp" alt="Pergola sur terrasse française" class="home-intro-img" loading="lazy">
+      <img src="/images/home/slider-1.webp" alt="Pergola sur terrasse française" class="home-intro-img" loading="eager" fetchpriority="high" width="1200" height="800">
       <div class="home-intro-texte">
         <h2>Votre projet pergola commence ici</h2>
         <p>Bienvenue sur <strong>Pergola Guide</strong>, le site français dédié à l'univers des pergolas. Que vous prépariez l'installation d'une <strong>pergola bioclimatique</strong>, d'une <strong>pergola en bois</strong> ou en <strong>aluminium</strong>, vous trouverez ici toutes les informations pour faire le bon choix.</p>
@@ -270,7 +275,7 @@
       <h2 class="section-titre">Nos guides thématiques</h2>
       <div class="piliers-grid">
     <a href="/pergola-bioclimatique.html" class="pilier-card">
-      <img src="/images/piliers/pergola-bioclimatique-1.webp" alt="Pergola Bioclimatique" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-bioclimatique-1.webp" alt="Pergola Bioclimatique" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Pergola Bioclimatique</h2>
         <p>Tout savoir sur la pergola bioclimatique : prix, dimensions, matériaux et conseils d'installation.</p>
@@ -278,7 +283,7 @@
       </div>
     </a>
     <a href="/pergola-bois.html" class="pilier-card">
-      <img src="/images/piliers/pergola-bois-1.webp" alt="Pergola en Bois" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-bois-1.webp" alt="Pergola en Bois" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Pergola en Bois</h2>
         <p>Guide complet sur les pergolas en bois : essences, traitement, entretien et modèles.</p>
@@ -286,7 +291,7 @@
       </div>
     </a>
     <a href="/pergola-toiture.html" class="pilier-card">
-      <img src="/images/piliers/pergola-toiture-1.webp" alt="Toiture & Couverture Pergola" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-toiture-1.webp" alt="Toiture & Couverture Pergola" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Toiture & Couverture Pergola</h2>
         <p>Toutes les options de couverture pour votre pergola : verre, polycarbonate, toile, zinc.</p>
@@ -294,7 +299,7 @@
       </div>
     </a>
     <a href="/pergola-dimensions.html" class="pilier-card">
-      <img src="/images/piliers/pergola-dimensions-1.webp" alt="Dimensions de Pergola" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-dimensions-1.webp" alt="Dimensions de Pergola" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Dimensions de Pergola</h2>
         <p>Toutes les dimensions de pergola disponibles : 3x3, 4x3, 4x4, 6x4 et sur mesure.</p>
@@ -302,7 +307,7 @@
       </div>
     </a>
     <a href="/pergola-aluminium.html" class="pilier-card">
-      <img src="/images/piliers/pergola-aluminium-1.webp" alt="Pergola Aluminium" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-aluminium-1.webp" alt="Pergola Aluminium" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Pergola Aluminium</h2>
         <p>Guide complet sur les pergolas en aluminium : modèles, prix, avantages et entretien.</p>
@@ -310,7 +315,7 @@
       </div>
     </a>
     <a href="/pergola-stores-occultation.html" class="pilier-card">
-      <img src="/images/piliers/pergola-stores-occultation-1.webp" alt="Stores & Occultation Pergola" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-stores-occultation-1.webp" alt="Stores & Occultation Pergola" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Stores & Occultation Pergola</h2>
         <p>Solutions d'occultation pour pergola : stores, rideaux, voiles et brise-vues.</p>
@@ -318,7 +323,7 @@
       </div>
     </a>
     <a href="/prix-pergola.html" class="pilier-card">
-      <img src="/images/piliers/prix-pergola-1.webp" alt="Prix & Budget Pergola" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/prix-pergola-1.webp" alt="Prix & Budget Pergola" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Prix & Budget Pergola</h2>
         <p>Tous les prix des pergolas en France : budget, devis et comparatifs par gamme.</p>
@@ -326,7 +331,7 @@
       </div>
     </a>
     <a href="/installation-pergola.html" class="pilier-card">
-      <img src="/images/piliers/installation-pergola-1.webp" alt="Installation & Pose Pergola" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/installation-pergola-1.webp" alt="Installation & Pose Pergola" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Installation & Pose Pergola</h2>
         <p>Comment installer une pergola : pose, fixation, fondations et réglementation.</p>
@@ -334,7 +339,7 @@
       </div>
     </a>
     <a href="/pergola-terrasse-jardin.html" class="pilier-card">
-      <img src="/images/piliers/pergola-terrasse-jardin-1.webp" alt="Pergola Terrasse & Jardin" class="pilier-card-img" loading="lazy">
+      <img src="/images/piliers/pergola-terrasse-jardin-1.webp" alt="Pergola Terrasse & Jardin" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>Pergola Terrasse & Jardin</h2>
         <p>Pergola pour terrasse et jardin : idées, inspirations et aménagements extérieurs.</p>
@@ -358,7 +363,7 @@
       <h2 class="section-titre">Nos derniers articles</h2>
       <div class="articles-grid">
     <a href="/blog/pergola-bioclimatique-vs-classique.html" class="article-card">
-      <img src="/images/blog/pergola-bioclimatique-vs-classique.webp" alt="Pergola bioclimatique vs classique : 8 critères pour bien choisir" class="card-image" loading="lazy">
+      <img src="/images/blog/pergola-bioclimatique-vs-classique.webp" alt="Pergola bioclimatique vs classique : 8 critères pour bien choisir" class="card-image" loading="lazy" width="1200" height="800">
       <div class="card-body">
         <span class="categorie">Bioclimatique</span>
         <h3>Pergola bioclimatique vs classique : 8 critères pour bien choisir</h3>
@@ -366,7 +371,7 @@
       </div>
     </a>
     <a href="/blog/devis-pergola-artisan.html" class="article-card">
-      <img src="/images/blog/devis-pergola-artisan.webp" alt="Comment obtenir un bon devis pour sa pergola ?" class="card-image" loading="lazy">
+      <img src="/images/blog/devis-pergola-artisan.webp" alt="Comment obtenir un bon devis pour sa pergola ?" class="card-image" loading="lazy" width="1200" height="800">
       <div class="card-body">
         <span class="categorie">Prix</span>
         <h3>Comment obtenir un bon devis pour sa pergola ?</h3>
@@ -374,7 +379,7 @@
       </div>
     </a>
     <a href="/blog/glycine-pergola-entretien.html" class="article-card">
-      <img src="/images/blog/glycine-pergola-entretien.webp" alt="Glycine sur pergola : plantation, taille et entretien" class="card-image" loading="lazy">
+      <img src="/images/blog/glycine-pergola-entretien.webp" alt="Glycine sur pergola : plantation, taille et entretien" class="card-image" loading="lazy" width="1200" height="800">
       <div class="card-body">
         <span class="categorie">Jardin</span>
         <h3>Glycine sur pergola : plantation, taille et entretien</h3>
@@ -382,7 +387,7 @@
       </div>
     </a>
     <a href="/blog/pergola-neige-poids-resistance.html" class="article-card">
-      <img src="/images/blog/pergola-neige-poids-resistance.webp" alt="Pergola et neige : quelles structures supportent le poids ?" class="card-image" loading="lazy">
+      <img src="/images/blog/pergola-neige-poids-resistance.webp" alt="Pergola et neige : quelles structures supportent le poids ?" class="card-image" loading="lazy" width="1200" height="800">
       <div class="card-body">
         <span class="categorie">Conseils</span>
         <h3>Pergola et neige : quelles structures supportent le poids ?</h3>
@@ -390,7 +395,7 @@
       </div>
     </a>
     <a href="/blog/pergola-sur-mesure-avantages.html" class="article-card">
-      <img src="/images/blog/pergola-sur-mesure-avantages.webp" alt="Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?" class="card-image" loading="lazy">
+      <img src="/images/blog/pergola-sur-mesure-avantages.webp" alt="Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?" class="card-image" loading="lazy" width="1200" height="800">
       <div class="card-body">
         <span class="categorie">Dimensions</span>
         <h3>Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?</h3>
@@ -398,7 +403,7 @@
       </div>
     </a>
     <a href="/blog/pergola-mur-parpaing-fixer.html" class="article-card">
-      <img src="/images/blog/pergola-mur-parpaing-fixer.webp" alt="Comment fixer une pergola adossée sur un mur en parpaing ?" class="card-image" loading="lazy">
+      <img src="/images/blog/pergola-mur-parpaing-fixer.webp" alt="Comment fixer une pergola adossée sur un mur en parpaing ?" class="card-image" loading="lazy" width="1200" height="800">
       <div class="card-body">
         <span class="categorie">Installation</span>
         <h3>Comment fixer une pergola adossée sur un mur en parpaing ?</h3>
@@ -455,7 +460,7 @@
     </p>
   </div>
 </footer>
-  <script src="/main.js"></script>
+  <script src="/main.js" defer></script>
   
 <!-- Banner cookies RGPD (CNIL-compliant) -->
 <div id="pg-cookie-banner" style="display:none;position:fixed;bottom:0;left:0;right:0;
