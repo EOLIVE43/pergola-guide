@@ -833,7 +833,7 @@ def generer_articles_similaires(slug_actuel, pilier_id, articles, n=6):
         <div class="maillage-card">
           <a href="/blog/{art['slug']}.html" class="maillage-titre">{art['titre']}</a>
           <a href="/blog/{art['slug']}.html" class="maillage-img-link">
-            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy">
+            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy" width="1200" height="800">
           </a>
         </div>'''
     html += '</div></section>'
@@ -865,7 +865,7 @@ def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=9)
         <div class="maillage-card">
           <a href="/blog/{art['slug']}.html" class="maillage-titre">{art['titre']}</a>
           <a href="/blog/{art['slug']}.html" class="maillage-img-link">
-            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy">
+            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy" width="1200" height="800">
           </a>
         </div>'''
     html += '</div>'
@@ -925,9 +925,14 @@ def construire_footer(niveau="racine"):
 </footer>"""
 
 def meta_commune():
-    """Balises meta communes à toutes les pages (robots, GSC, AdSense, GA4, RSS, CSS logo)."""
+    """Balises meta communes à toutes les pages (robots, GSC, AdSense, GA4, RSS, CSS logo).
+    Inclut les preconnects vers les domaines tiers pour accélérer les connexions (Core Web Vitals)."""
     parts = [
         '<meta name="robots" content="max-image-preview:large">',
+        # Preconnects vers domaines tiers critiques (gagne ~200-500ms sur LCP)
+        '  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>',
+        '  <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>',
+        '  <link rel="dns-prefetch" href="https://www.google-analytics.com">',
         '  ' + balise_gsc(),
         '  ' + script_adsense_head(),
         '  ' + script_ga4_head(),
@@ -1102,7 +1107,8 @@ def lien_css():
     return '<link rel="stylesheet" href="/style.css">'
 
 def lien_js():
-    return '<script src="/main.js"></script>'
+    # defer = non bloquant, téléchargé en parallèle, exécuté après le parsing HTML
+    return '<script src="/main.js" defer></script>'
 
 # ─── PAGE D'ACCUEIL ───────────────────────────────────────
 def generer_accueil(archi, articles=None, regenerer_images=False):
@@ -1149,7 +1155,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
         img_path = f"/images/piliers/{p['slug']}-1.webp"
         cards += f'''
     <a href="/{p['slug']}.html" class="pilier-card">
-      <img src="{img_path}" alt="{p['titre']}" class="pilier-card-img" loading="lazy">
+      <img src="{img_path}" alt="{p['titre']}" class="pilier-card-img" loading="lazy" width="1200" height="800">
       <div class="pilier-card-body">
         <h2>{p['titre']}</h2>
         <p>{p['description']}</p>
@@ -1163,7 +1169,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
         for art in articles[:6]:  # 6 derniers articles
             thumb = art.get("thumb", "")
             img_html = (
-                f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">'
+                f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy" width="1200" height="800">'
                 if thumb else
                 '<div class="card-image card-image-placeholder">📄</div>'
             )
@@ -1274,6 +1280,8 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     type_og="website"
   )}
   <link rel="canonical" href="{SITE_URL}/">
+  <!-- Preload de l'image LCP (Largest Contentful Paint) pour améliorer Core Web Vitals -->
+  <link rel="preload" as="image" href="/images/home/slider-1.webp" fetchpriority="high">
   {lien_css()}
 {css_home}
   <script type="application/ld+json">{schema_website()}</script>
@@ -1295,7 +1303,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
   <!-- ═══ INTRO : image à gauche + texte justifié à droite ═══ -->
   <section class="home-intro">
     <div class="home-intro-inner">
-      <img src="/images/home/slider-1.webp" alt="Pergola sur terrasse française" class="home-intro-img" loading="lazy">
+      <img src="/images/home/slider-1.webp" alt="Pergola sur terrasse française" class="home-intro-img" loading="eager" fetchpriority="high" width="1200" height="800">
       <div class="home-intro-texte">
         <h2>Votre projet pergola commence ici</h2>
         <p>Bienvenue sur <strong>{SITE_NOM}</strong>, le site français dédié à l'univers des pergolas. Que vous prépariez l'installation d'une <strong>pergola bioclimatique</strong>, d'une <strong>pergola en bois</strong> ou en <strong>aluminium</strong>, vous trouverez ici toutes les informations pour faire le bon choix.</p>
@@ -1602,7 +1610,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
             excerpt = excerpt_card_secondaire(pilier['id'], s)
             cards_sec_html += f'''
           <a href="/{pilier["id"]}/{s["slug"]}.html" class="sec-card">
-            <img src="{img_path}" alt="{s['titre']}" class="sec-card-img" loading="lazy">
+            <img src="{img_path}" alt="{s['titre']}" class="sec-card-img" loading="lazy" width="1200" height="800">
             <div class="sec-card-body">
               <span class="sec-card-titre">{s['titre']}</span>
               <p class="sec-card-excerpt">{excerpt}</p>
@@ -1618,7 +1626,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
         arts_html = '<section class="articles-pilier"><h2>Nos derniers articles</h2><div class="articles-grid">'
         for art in arts_pilier:
             thumb = art.get("thumb", "")
-            img_html = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">' if thumb else ''
+            img_html = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy" width="1200" height="800">' if thumb else ''
             arts_html += f"""
             <a href="/blog/{art['slug']}.html" class="article-card">
                 {img_html}
@@ -1712,6 +1720,8 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     type_og="article"
   )}
   <link rel="canonical" href="{SITE_URL}/{pilier['slug']}.html">
+  <!-- Preload de l'image LCP pour améliorer Core Web Vitals -->
+  <link rel="preload" as="image" href="{img1['url']}" fetchpriority="high">
   {lien_css()}
 {css_pilier}
   <script type="application/ld+json">{article_schema}</script>
@@ -1728,7 +1738,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
 
     <!-- Hero : image fine + titre en dessous (pas de superposition) -->
     <div class="pilier-hero-v2">
-      <img src="{img1['url']}" alt="{h1}" loading="eager" width="1200">
+      <img src="{img1['url']}" alt="{h1}" loading="eager" fetchpriority="high" width="1200" height="630">
     </div>
     <div class="pilier-hero-title">
       <h1>{h1}</h1>
@@ -1901,7 +1911,7 @@ Format STRICT :
             <div class="maillage-card">
               <a href="/{pilier["id"]}/{s["slug"]}.html" class="maillage-titre">{s["titre"]}</a>
               <a href="/{pilier["id"]}/{s["slug"]}.html" class="maillage-img-link">
-                <img src="{img_path}" alt="{s['titre']}" class="maillage-img" loading="lazy">
+                <img src="{img_path}" alt="{s['titre']}" class="maillage-img" loading="lazy" width="1200" height="800">
               </a>
             </div>'''
         maillage_html += '</div></section>'
@@ -1959,6 +1969,8 @@ Format STRICT :
     type_og="article"
   )}
   <link rel="canonical" href="{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html">
+  <!-- Preload de l'image LCP pour améliorer Core Web Vitals -->
+  <link rel="preload" as="image" href="{img['url']}" fetchpriority="high">
   {lien_css()}
 {css_sec}
   <script type="application/ld+json">{article_schema}</script>
@@ -1975,7 +1987,7 @@ Format STRICT :
     </nav>
     <div class="page-layout">
       <article class="contenu-principal">
-        <img src="{img['url']}" alt="{h1}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin-bottom:16px;">
+        <img src="{img['url']}" alt="{h1}" class="article-img" loading="eager" fetchpriority="high" width="1200" height="630" style="width:100%;border-radius:10px;margin-bottom:16px;">
         <h1>{h1}</h1>
         {bloc_date_auteur_top(date_modified, date_modified)}
         <div class="intro">{intro}</div>
@@ -2737,6 +2749,8 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
     type_og="article"
   )}
   <link rel="canonical" href="{SITE_URL}/blog/{sujet['slug']}.html">
+  <!-- Preload de l'image LCP pour améliorer Core Web Vitals -->
+  <link rel="preload" as="image" href="{img['url']}" fetchpriority="high">
   {lien_css()}
 {css_blog}
   <script type="application/ld+json">{article_schema}</script>
@@ -3126,7 +3140,7 @@ ARTICLES_PAR_SECTION_PILIER = 6  # Nombre d'articles affichés dans chaque secti
 def _card_article_blog(art):
     """Génère une card unique pour un article de blog (format commun)."""
     thumb = art.get("thumb", "")
-    img   = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">' if thumb else ""
+    img   = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy" width="1200" height="800">' if thumb else ""
     desc  = art.get('description', '')[:110]
     if desc and len(art.get('description', '')) > 110:
         desc = desc.rsplit(" ", 1)[0] + "…"
