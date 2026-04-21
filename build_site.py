@@ -30,7 +30,15 @@ from pathlib import Path
 # ─── CONFIG ───────────────────────────────────────────────
 SITE_URL = "https://pergola-guide.fr"
 SITE_NOM  = "Pergola Guide"
-SITE_LOGO = "🏡 Guide Pergola"
+
+# ─── LOGO (style magazine éditorial) ──────────────────────
+# Logo typographique inline : "Pergola / GUIDE"
+# Rendu pro, responsive, 100% HTML (pas de fichier image à gérer)
+SITE_LOGO = (
+    '<span class="logo-pergola">Pergola</span>'
+    '<span class="logo-slash">/</span>'
+    '<span class="logo-guide">GUIDE</span>'
+)
 SITE_DESCRIPTION_COURTE = "Le guide de référence sur les pergolas en France"
 
 # ─── CONFIG AUTEUR (E-E-A-T, critique pour Google Discover) ──
@@ -60,6 +68,56 @@ ADSENSE_SLOT_HAUT    = "1111111111"   # Bloc horizontal haut (responsive)
 ADSENSE_SLOT_MILIEU  = "2222222222"   # Bloc in-article (milieu contenu)
 ADSENSE_SLOT_BAS     = "3333333333"   # Bloc horizontal bas (avant commentaires)
 ADSENSE_SLOT_SIDEBAR = "4444444444"   # Bloc sidebar (300x250)
+
+# ─── FORMATS ÉDITORIAUX DU BLOG ──────────────────────────
+# Chaque article du blog est généré selon UN des 4 formats, tirés au sort.
+# Objectif : varier la structure pour éviter toute signature "content farm IA"
+# et maximiser la protection contre les updates anti-spam Discover.
+# Tous les formats CONSERVENT les optimisations Discover (schemas, OG, images, E-E-A-T).
+POIDS_FORMATS_BLOG = {
+    "guide":        25,  # Guide classique (H2/H3 + prose) — format universel
+    "listicle":     25,  # Liste numérotée avec big numbers — perf Discover mobile
+    "comparatif":   15,  # Comparatif avec tableau visuel + verdict — "X ou Y"
+    "qr":           15,  # Questions/Réponses en accordéons — réglementation/prix
+    "cas_pratique": 10,  # Cas concret / étude de cas avec chiffres — très "humain"
+    "saisonnier":   10,  # Article saisonnier avec dimension temporelle — anti-IA
+}
+
+# Association catégorie → format préféré (si catégorie présente dans sujets.json).
+# Si catégorie inconnue, tirage aléatoire selon POIDS_FORMATS_BLOG.
+FORMAT_PAR_CATEGORIE = {
+    "Erreurs":         "listicle",
+    "Astuces":         "listicle",
+    "Checklist":       "listicle",
+    "Comparaison":     "comparatif",
+    "Choix":           "comparatif",
+    "Réglementation":  "qr",
+    "Permis":          "qr",
+    "Assurance":       "qr",
+    "Prix":            "qr",
+    "Cas pratique":    "cas_pratique",
+    "Témoignage":      "cas_pratique",
+    "Étude de cas":    "cas_pratique",
+    "Saisonnier":      "saisonnier",
+    "Printemps":       "saisonnier",
+    "Été":             "saisonnier",
+    "Automne":         "saisonnier",
+    "Hiver":           "saisonnier",
+    "Entretien":       "saisonnier",  # souvent lié aux saisons
+}
+
+def choisir_format_blog(sujet):
+    """Choisit un format éditorial pour l'article selon sa catégorie ou au hasard.
+    Garantit une variété structurelle sur le site (protection anti-pattern IA)."""
+    # Priorité : si la catégorie a un format dédié, on l'utilise avec 70% de chance
+    # (30% de tirage aléatoire pour éviter qu'une catégorie soit 100% listicle)
+    categorie = sujet.get("categorie", "")
+    if categorie in FORMAT_PAR_CATEGORIE and random.random() < 0.70:
+        return FORMAT_PAR_CATEGORIE[categorie]
+    # Sinon tirage pondéré
+    formats = list(POIDS_FORMATS_BLOG.keys())
+    poids   = list(POIDS_FORMATS_BLOG.values())
+    return random.choices(formats, weights=poids, k=1)[0]
 
 # ─── BALISES HEAD ANALYTICS & SEO ────────────────────────
 def balise_gsc():
@@ -499,22 +557,30 @@ def schema_article(h1, meta, image_url, date_published=None, date_modified=None,
     return json.dumps(data, ensure_ascii=False)
 
 # ─── HELPERS AUTEUR / DATES (E-E-A-T / Discover) ──────────
+
+# Noms des mois en français (indépendant de la locale système)
+MOIS_FR = [
+    "", "janvier", "février", "mars", "avril", "mai", "juin",
+    "juillet", "août", "septembre", "octobre", "novembre", "décembre"
+]
+
+def format_date_fr(date_iso):
+    """Formate une date ISO (YYYY-MM-DD) en français : '21 avril 2026'.
+    Indépendant de la locale système (important pour GitHub Actions en anglais)."""
+    try:
+        dt = datetime.strptime(date_iso, "%Y-%m-%d")
+        return f"{dt.day} {MOIS_FR[dt.month]} {dt.year}"
+    except Exception:
+        return date_iso
+
 def bloc_date_auteur_top(date_published, date_modified=None):
     """Bloc affiché EN HAUT de chaque article : date publication + auteur.
     C'est ce que Discover adore voir : auteur identifié + date récente."""
-    try:
-        dt_pub = datetime.strptime(date_published, "%Y-%m-%d")
-        date_pub_fr = dt_pub.strftime("%d %B %Y")
-    except Exception:
-        date_pub_fr = date_published
+    date_pub_fr = format_date_fr(date_published)
     maj = ""
     if date_modified and date_modified != date_published:
-        try:
-            dt_mod = datetime.strptime(date_modified, "%Y-%m-%d")
-            date_mod_fr = dt_mod.strftime("%d %B %Y")
-            maj = f' • <span class="date-maj">Mis à jour le {date_mod_fr}</span>'
-        except Exception:
-            pass
+        date_mod_fr = format_date_fr(date_modified)
+        maj = f' • <span class="date-maj">Mis à jour le {date_mod_fr}</span>'
     # Extrait les initiales : "Mathias D." → "MD" ; "Mathias" → "M"
     parts = AUTEUR_NOM.replace(".", "").split()
     initiales = (parts[0][0] + parts[-1][0]) if len(parts) > 1 else parts[0][0]
@@ -774,9 +840,10 @@ def generer_articles_similaires(slug_actuel, pilier_id, articles, n=6):
     return html
 
 # ─── MAILLAGE BLOG → SECONDAIRES (statique) ───────────────
-def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=6):
+def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=9):
     """Articles liés affichés sur la page secondaire en bas : titre cliquable + visuel.
-    Même format que le maillage vers autres secondaires (cohérence visuelle)."""
+    Même format que le maillage vers autres secondaires (cohérence visuelle).
+    n=9 par défaut (3 rangées de 3 sur desktop grand écran) pour enrichir le maillage."""
     lies = [
         a for a in articles
         if a.get("pilier_id") == pilier_id
@@ -858,15 +925,31 @@ def construire_footer(niveau="racine"):
 </footer>"""
 
 def meta_commune():
-    """Balises meta communes à toutes les pages (robots, GSC, AdSense, GA4, RSS)."""
+    """Balises meta communes à toutes les pages (robots, GSC, AdSense, GA4, RSS, CSS logo)."""
     parts = [
         '<meta name="robots" content="max-image-preview:large">',
         '  ' + balise_gsc(),
         '  ' + script_adsense_head(),
         '  ' + script_ga4_head(),
         f'  <link rel="alternate" type="application/rss+xml" title="{SITE_NOM} — Articles" href="{SITE_URL}/feed.xml">',
+        '  ' + css_logo(),
     ]
     return '\n  '.join(parts)
+
+def css_logo():
+    """CSS du logo magazine 'Pergola / GUIDE' — injecté dans <head> de chaque page."""
+    return '''<style>
+    .logo{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
+      font-family:Georgia,"Times New Roman",serif;line-height:1;padding:4px 0;}
+    .logo-pergola{font-size:1.5rem;font-weight:400;color:#2d5a3d;font-style:italic;letter-spacing:-.3px;}
+    .logo-slash{font-size:1.5rem;color:#c5a572;font-weight:300;}
+    .logo-guide{font-size:1.1rem;font-weight:500;color:#2d5a3d;letter-spacing:3px;text-transform:uppercase;}
+    @media (max-width:640px){
+      .logo-pergola{font-size:1.25rem;}
+      .logo-slash{font-size:1.25rem;}
+      .logo-guide{font-size:.92rem;letter-spacing:2px;}
+    }
+  </style>'''
 
 def meta_sociales(titre, description, image_url, url_page, type_og="article"):
     """Génère les balises OpenGraph (Facebook/LinkedIn/WhatsApp) + Twitter Cards.
@@ -1492,13 +1575,26 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     # ─── Cards visuelles des pages secondaires ─────────────────
     # Remplace l'ancienne liste textuelle par une grille de cards
     # (miniature + titre cliquable + extrait + CTA)
+    # IMPORTANT : ce bloc est affiché EN HAUT de la page (juste après l'intro) pour :
+    #  - meilleur UX (secondaires visibles sans scroll énorme)
+    #  - meilleur SEO (liens internes plus proches du début du HTML)
     cards_sec_html = ""
     if pilier["secondaires"]:
-        cards_sec_html = '<section class="pilier-secondaires"><h2>Toutes les pages de ce guide</h2><div class="sec-grid">'
+        # Titre dynamique basé sur le pilier (contient le mot-clé, bon pour SEO)
+        titre_pilier_bas = pilier['titre'].lower()
+        titre_section = f"Tout savoir sur {titre_pilier_bas}"
+        intro_section = f"Explorez les différents aspects de {titre_pilier_bas} à travers nos guides thématiques."
+        cards_sec_html = (
+            f'<section class="pilier-secondaires">'
+            f'<h2>{titre_section}</h2>'
+            f'<p class="pilier-secondaires-intro">{intro_section}</p>'
+            f'<div class="sec-grid">'
+        )
         for s in pilier["secondaires"]:
             # L'image secondaire a le chemin : images/secondaires/{pilier_id}-{slug}.webp
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
-            excerpt = s.get("description", s.get("titre", ""))[:110]
+            # Extrait réel basé sur la meta description générée (pas le titre dupliqué)
+            excerpt = excerpt_card_secondaire(pilier['id'], s)
             cards_sec_html += f'''
           <a href="/{pilier["id"]}/{s["slug"]}.html" class="sec-card">
             <img src="{img_path}" alt="{s['titre']}" class="sec-card-img" loading="lazy">
@@ -1575,9 +1671,15 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     .article-body a{color:#2d5a3d;text-decoration:underline;}
     .article-img-milieu{width:100%;max-width:820px;margin:30px auto;display:block;border-radius:8px;}
 
-    /* Grille cards secondaires */
-    .pilier-secondaires{margin:50px auto;max-width:1100px;padding:0 20px;}
-    .pilier-secondaires h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);font-size:1.8rem;text-align:center;margin:0 0 30px;}
+    /* Grille cards secondaires (affichée en haut, juste après l'intro) */
+    .pilier-secondaires{margin:40px auto 50px;max-width:1100px;padding:30px 20px 0;
+      border-top:1px solid #e8e8e0;}
+    .pilier-secondaires h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.8rem;text-align:center;margin:0 0 10px;position:relative;}
+    .pilier-secondaires h2::after{content:"";display:block;width:80px;height:2px;
+      background:#c5a572;margin:14px auto 0;}
+    .pilier-secondaires-intro{text-align:center;color:#666;font-size:1.02rem;
+      margin:0 auto 30px;max-width:680px;line-height:1.6;}
     .sec-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:22px;}
     .sec-card{background:#fff;border-radius:10px;overflow:hidden;text-decoration:none;color:inherit;
       transition:transform .2s,box-shadow .2s;border:1px solid #e8e8e0;display:flex;flex-direction:column;}
@@ -1628,6 +1730,8 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
       <div class="intro">{intro}</div>
     </div>
 
+    {cards_sec_html}
+
     <div class="page-layout">
       <article class="contenu-principal">
         {bloc_adsense(ADSENSE_SLOT_HAUT, "horizontal")}
@@ -1650,8 +1754,6 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
         {bloc_adsense(ADSENSE_SLOT_SIDEBAR, "sidebar")}
       </aside>
     </div>
-
-    {cards_sec_html}
   </main>
   {construire_footer("pilier")}
   <script>const PILIER_ID = "{pilier['id']}";</script>
@@ -1903,6 +2005,552 @@ Format STRICT :
     Path(f"{pilier['id']}/{secondaire['slug']}.html").write_text(html, encoding="utf-8")
     print(f"    ✅ {pilier['id']}/{secondaire['slug']}.html ({nb_mots} mots)")
 
+    # Sauvegarde de la meta description pour enrichir les cards pilier
+    # (évite d'afficher le titre dupliqué dans les extraits)
+    sauvegarder_meta_secondaire(pilier['id'], secondaire['slug'], meta)
+
+# ─── CACHE DES EXCERPTS SECONDAIRES ───────────────────────
+# On stocke la meta description de chaque page secondaire générée.
+# Ces excerpts servent ensuite à enrichir les cards affichées sur les piliers
+# (évite la duplication titre=description sur les cards).
+
+def charger_meta_secondaires():
+    """Charge le cache des metas secondaires (pour les cards piliers)."""
+    f = Path("secondaires_meta.json")
+    if f.exists():
+        try:
+            return json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            return {}
+    return {}
+
+def sauvegarder_meta_secondaire(pilier_id, slug, meta):
+    """Ajoute/met à jour la meta description d'une page secondaire.
+    Format clé : '{pilier_id}/{slug}'."""
+    cache = charger_meta_secondaires()
+    cache[f"{pilier_id}/{slug}"] = meta
+    Path("secondaires_meta.json").write_text(
+        json.dumps(cache, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+
+def excerpt_card_secondaire(pilier_id, secondaire):
+    """Renvoie le texte à afficher sous le titre sur les cards du pilier.
+    Priorité :
+    1. Meta description de la page (générée par Claude, 150-155 car.)
+    2. Description statique de architecture.json (si différente du titre)
+    3. Fallback générique basé sur le titre
+    """
+    # Tentative 1 : meta cachée
+    cache = charger_meta_secondaires()
+    meta = cache.get(f"{pilier_id}/{secondaire['slug']}", "")
+    if meta and meta.strip() and meta.strip().lower() != secondaire['titre'].strip().lower():
+        # Tronquer proprement à ~120 caractères sur une frontière de mot
+        if len(meta) > 130:
+            return meta[:127].rsplit(" ", 1)[0] + "…"
+        return meta
+    # Tentative 2 : description d'architecture.json (si elle est "utile")
+    desc = secondaire.get("description", "").strip()
+    titre = secondaire.get("titre", "").strip()
+    if desc and desc.lower() != titre.lower() and len(desc) > len(titre) + 10:
+        if len(desc) > 130:
+            return desc[:127].rsplit(" ", 1)[0] + "…"
+        return desc
+    # Tentative 3 : fallback générique contextualisé
+    return f"Découvrez notre guide sur {titre.lower()} : conseils, prix et bonnes pratiques pour votre projet en 2026."
+
+# ─── PROMPTS SPÉCIALISÉS PAR FORMAT ─────────────────────
+# Chaque format a son propre prompt Claude avec structure différente.
+# Toutes les règles communes (titre double-objectif, HTML pur) sont partagées.
+
+def _regles_communes_blog(sujet):
+    """Règles communes à TOUS les formats (titre, HTML pur, copyright, etc.)
+    Renvoie un bloc texte à inclure dans chaque prompt."""
+    return f"""═══════════════════════════════════════════════════════
+⚠️ RÈGLE N°1 : TITRE DOUBLE-OBJECTIF (SEO + DISCOVER)
+═══════════════════════════════════════════════════════
+Ton titre <H1_OPTIMISE> DOIT satisfaire SIMULTANÉMENT 3 critères :
+
+1️⃣ SEO : contenir le mot-clé principal "{sujet['mot_cle']}" OU une variante très proche
+2️⃣ DISCOVER : formulé de manière ENGAGEANTE (question, chiffre, bénéfice, urgence, comparaison)
+3️⃣ HONNÊTETÉ : la promesse du titre doit être tenue dans l'article
+
+RÈGLES TECHNIQUES du <H1_OPTIMISE> :
+- Longueur : 50 à 70 caractères (idéal mobile Discover)
+- Mot-clé positionné DANS les 45 premiers caractères si possible
+- Langage naturel, PAS de bourrage SEO
+- Style journalistique français
+
+❌ À ÉVITER : clickbait vulgaire, sensationnalisme, majuscules intempestives, promesses non tenues
+
+═══════════════════════════════════════════════════════
+⚠️ RÈGLE N°2 : HTML PUR DANS <CONTENU>
+═══════════════════════════════════════════════════════
+INTERDICTION absolue de Markdown (**gras**, *italique*, ## titre, - liste, dièses).
+Utilise EXCLUSIVEMENT : <h2>, <h3>, <p>, <ul>, <ol>, <li>, <strong>, <em>, <a>
+
+EXEMPLE CORRECT : <h2>Titre</h2><p>Texte avec <strong>mot-clé</strong>.</p><ul><li>Item</li></ul>
+EXEMPLE INTERDIT : ## Titre, **mot-clé**, - item
+
+DENSITÉ MOT-CLÉ :
+- Mot-clé cible "{sujet['mot_cle']}" dans 1ère phrase intro, au moins 1 <h2>, 3+ fois dans le corps
+- Variantes sémantiques naturellement"""
+
+
+def prompt_blog_guide(sujet, kw_block, maillage_instructions):
+    """FORMAT 1 : Guide classique (format universel, ~35% des articles).
+    Structure : intro → 4-6 H2 thématiques → FAQ en bas."""
+    return f"""Tu es expert SEO et rédacteur web pergolas France.
+Tu rédiges un GUIDE COMPLET DOUBLE-OBJECTIF (SEO + Discover) sur : {sujet['titre']}
+Mot-clé cible : {sujet['mot_cle']}
+{kw_block}
+{maillage_instructions}
+
+OBJECTIF : guide utile, concret, pédagogique, qui répond à toutes les questions du lecteur.
+
+{_regles_communes_blog(sujet)}
+
+═══════════════════════════════════════════════════════
+STRUCTURE SPÉCIFIQUE "GUIDE CLASSIQUE" :
+═══════════════════════════════════════════════════════
+- Longueur : 1200 à 1600 mots dans <CONTENU>
+- 4 à 6 <h2> thématiques : contexte/problème, solutions/points clés, cas pratique, erreurs à éviter, conseil final
+- Des <h3> là où ça approfondit (pas systématique)
+- Au moins 2 <ul> pour aérer
+- Prix en euros (marché France 2026), conseils actionnables
+- Au moins 1 exemple concret avec chiffres
+- Liens de maillage dans le corps du texte (dans des <p>)
+
+Format STRICT de ta réponse :
+<H1_OPTIMISE>titre 50-70 car. avec mot-clé + angle engageant</H1_OPTIMISE>
+<META>description 150-155 car. avec mot-clé</META>
+<INTRO>80-120 mots en HTML (<p>, <strong>) : crochet + promesse + mot-clé</INTRO>
+<CONTENU>
+<h2>...</h2><p>...</p>
+[... 1200-1600 mots HTML pur, 4-6 h2 thématiques ...]
+</CONTENU>
+<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
+<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
+<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
+<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+
+
+def prompt_blog_listicle(sujet, kw_block, maillage_instructions):
+    """FORMAT 2 : Listicle numéroté (~30% des articles).
+    Structure : intro courte → 7-10 points numérotés avec sous-titre + paragraphe → conclusion."""
+    return f"""Tu es expert SEO et rédacteur web pergolas France.
+Tu rédiges un ARTICLE EN FORMAT LISTE NUMÉROTÉE (listicle) optimisé Discover sur : {sujet['titre']}
+Mot-clé cible : {sujet['mot_cle']}
+{kw_block}
+{maillage_instructions}
+
+OBJECTIF : listicle punchy, très mobile-friendly, qui cartonne sur Discover grâce à sa lisibilité.
+
+{_regles_communes_blog(sujet)}
+
+═══════════════════════════════════════════════════════
+STRUCTURE SPÉCIFIQUE "LISTICLE NUMÉROTÉ" :
+═══════════════════════════════════════════════════════
+- Longueur : 900 à 1400 mots dans <CONTENU>
+- Structure OBLIGATOIRE :
+  * Une brève intro contextuelle : 1 <p> qui pose le problème ou l'enjeu
+  * 7 à 10 points numérotés, CHACUN formaté AINSI :
+    <div class="listicle-item">
+      <div class="listicle-num">N</div>
+      <div class="listicle-body">
+        <h3>Titre court et percutant du point N</h3>
+        <p>Paragraphe explicatif de 80-130 mots avec chiffres, exemples, conseils actionnables. Tu peux inclure <strong>mot-clés</strong> et <em>emphases</em>.</p>
+      </div>
+    </div>
+  * Un dernier <p> de conclusion/synthèse qui récapitule
+
+RÈGLES ESSENTIELLES :
+- Numérotation de 1 à N (pas de sauts)
+- Les titres <h3> doivent être COURTS et ACTIONNABLES (ex: "Vérifier l'orientation plein sud", "Négliger le drainage")
+- Chaque point = un conseil ou une erreur/astuce INDÉPENDANTE
+- Prix en euros (marché France 2026)
+- Maillage interne dans un des paragraphes
+
+Format STRICT :
+<H1_OPTIMISE>titre 50-70 car. avec CHIFFRE (ex: "7 erreurs à éviter avec...") + mot-clé</H1_OPTIMISE>
+<META>description 150-155 car. avec mot-clé + annonce du chiffre</META>
+<INTRO>60-100 mots en HTML (<p>) : crochet + mot-clé + annonce des N points</INTRO>
+<CONTENU>
+<p>Intro contextuelle courte.</p>
+<div class="listicle-item"><div class="listicle-num">1</div><div class="listicle-body"><h3>...</h3><p>...</p></div></div>
+<div class="listicle-item"><div class="listicle-num">2</div><div class="listicle-body"><h3>...</h3><p>...</p></div></div>
+[... 7 à 10 points au total ...]
+<p>Conclusion/synthèse.</p>
+</CONTENU>
+<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
+<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
+<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
+<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+
+
+def prompt_blog_comparatif(sujet, kw_block, maillage_instructions):
+    """FORMAT 3 : Comparatif (~20% des articles).
+    Structure : intro → présentation options → critères comparés → tableau HTML → verdict par profil."""
+    return f"""Tu es expert SEO et rédacteur web pergolas France.
+Tu rédiges un ARTICLE COMPARATIF (type "X ou Y ?") optimisé Discover sur : {sujet['titre']}
+Mot-clé cible : {sujet['mot_cle']}
+{kw_block}
+{maillage_instructions}
+
+OBJECTIF : comparatif qui aide à décider, avec tableau visuel + verdict selon profils utilisateurs.
+
+{_regles_communes_blog(sujet)}
+
+═══════════════════════════════════════════════════════
+STRUCTURE SPÉCIFIQUE "COMPARATIF" :
+═══════════════════════════════════════════════════════
+- Longueur : 1200 à 1600 mots dans <CONTENU>
+- Structure OBLIGATOIRE :
+  1. <h2>Vue d'ensemble</h2> + <p> présentation rapide des 2 (ou 3) options comparées
+  2. <h2>Option A : [nom]</h2> + <p> caractéristiques, avantages, inconvénients (150-200 mots)
+  3. <h2>Option B : [nom]</h2> + <p> caractéristiques, avantages, inconvénients (150-200 mots)
+  4. <h2>Comparatif détaillé</h2> + un TABLEAU HTML :
+     <div class="compare-grid">
+       <div class="compare-col compare-a">
+         <h3>Option A</h3>
+         <ul>
+           <li><strong>Prix :</strong> fourchette €</li>
+           <li><strong>Entretien :</strong> ...</li>
+           <li><strong>Durée :</strong> ...</li>
+           <li><strong>Installation :</strong> ...</li>
+           <li>... (5-7 critères au total)</li>
+         </ul>
+       </div>
+       <div class="compare-col compare-b">
+         <h3>Option B</h3>
+         <ul>...</ul>
+       </div>
+     </div>
+  5. <h2>Notre verdict selon votre profil</h2> + 2-3 <p> :
+     - Si vous cherchez X → option A
+     - Si vous voulez Y → option B
+  6. Un encart <div class="compare-verdict">TEXTE DU VERDICT GLOBAL EN UNE PHRASE</div>
+
+- Chiffres précis et comparables (euros, années, mètres...)
+- Maillage dans un des paragraphes
+
+Format STRICT :
+<H1_OPTIMISE>titre 50-70 car. avec mot-clé + "X ou Y ?" (ex: "Pergola bois ou alu : que choisir en 2026 ?")</H1_OPTIMISE>
+<META>description 150-155 car. avec mot-clé + angle décision</META>
+<INTRO>80-120 mots en HTML (<p>) : crochet + mot-clé + annonce du comparatif</INTRO>
+<CONTENU>
+<h2>Vue d'ensemble</h2><p>...</p>
+<h2>Option A : ...</h2><p>...</p>
+<h2>Option B : ...</h2><p>...</p>
+<h2>Comparatif détaillé</h2>
+<div class="compare-grid"><div class="compare-col compare-a">...</div><div class="compare-col compare-b">...</div></div>
+<h2>Notre verdict selon votre profil</h2><p>...</p>
+<div class="compare-verdict">Verdict en une phrase claire.</div>
+</CONTENU>
+<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
+<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
+<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
+<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+
+
+def prompt_blog_qr(sujet, kw_block, maillage_instructions):
+    """FORMAT 4 : Q/R approfondi (~15% des articles).
+    Structure : intro → 6-8 questions/réponses détaillées → synthèse finale."""
+    return f"""Tu es expert SEO et rédacteur web pergolas France.
+Tu rédiges un ARTICLE EN FORMAT QUESTIONS/RÉPONSES APPROFONDI sur : {sujet['titre']}
+Mot-clé cible : {sujet['mot_cle']}
+{kw_block}
+{maillage_instructions}
+
+OBJECTIF : article qui répond de façon claire et structurée aux questions courantes sur le sujet.
+Idéal pour : réglementation, démarches administratives, prix, assurance, permis.
+
+{_regles_communes_blog(sujet)}
+
+═══════════════════════════════════════════════════════
+STRUCTURE SPÉCIFIQUE "QUESTIONS/RÉPONSES" :
+═══════════════════════════════════════════════════════
+- Longueur : 1100 à 1500 mots dans <CONTENU>
+- Structure OBLIGATOIRE :
+  1. <h2>Introduction</h2> + <p> contexte et enjeux (100-150 mots)
+  2. 6 à 8 blocs Q/R, CHACUN formaté AINSI :
+     <div class="qr-item">
+       <h3 class="qr-question">La question posée ici ?</h3>
+       <div class="qr-answer">
+         <p>Réponse claire et directe en 100-150 mots, avec chiffres si pertinent. Tu peux inclure <strong>mots-clés</strong> et des <ul><li>points précis</li></ul> si besoin.</p>
+       </div>
+     </div>
+  3. <h2>En résumé</h2> + <p> synthèse actionnable (80-120 mots)
+
+RÈGLES ESSENTIELLES :
+- Les questions <h3 class="qr-question"> doivent être DES QUESTIONS RÉELLES (avec ?)
+- Réponses directes, pas de remplissage, chiffres concrets
+- Chaque question aborde un aspect DIFFÉRENT du sujet
+- Au moins 1 question doit contenir le mot-clé cible
+- Maillage interne dans une des réponses
+
+Format STRICT :
+<H1_OPTIMISE>titre 50-70 car. avec mot-clé (ex: "Permis pergola : 8 questions essentielles 2026")</H1_OPTIMISE>
+<META>description 150-155 car. avec mot-clé + promesse de réponses claires</META>
+<INTRO>80-120 mots en HTML (<p>) : crochet + mot-clé + annonce du Q/R</INTRO>
+<CONTENU>
+<h2>Introduction</h2><p>...</p>
+<div class="qr-item"><h3 class="qr-question">...?</h3><div class="qr-answer"><p>...</p></div></div>
+<div class="qr-item"><h3 class="qr-question">...?</h3><div class="qr-answer"><p>...</p></div></div>
+[... 6 à 8 blocs Q/R ...]
+<h2>En résumé</h2><p>...</p>
+</CONTENU>
+<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
+<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
+<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
+<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+
+
+def prompt_blog_cas_pratique(sujet, kw_block, maillage_instructions):
+    """FORMAT 5 : Cas pratique / étude de cas (~10% des articles).
+    Structure : situation initiale → problème → solution → résultats + chiffres → leçons.
+    Format TRÈS humain, difficile à détecter comme IA."""
+    return f"""Tu es expert SEO et rédacteur web pergolas France.
+Tu rédiges un ARTICLE CAS PRATIQUE / ÉTUDE DE CAS sur : {sujet['titre']}
+Mot-clé cible : {sujet['mot_cle']}
+{kw_block}
+{maillage_instructions}
+
+OBJECTIF : article narratif concret qui raconte un cas RÉEL (ou réaliste) de propriétaire français.
+Format "récit journalistique" : humain, concret, chiffré, qui inspire confiance.
+
+{_regles_communes_blog(sujet)}
+
+═══════════════════════════════════════════════════════
+STRUCTURE SPÉCIFIQUE "CAS PRATIQUE" :
+═══════════════════════════════════════════════════════
+- Longueur : 1100 à 1500 mots dans <CONTENU>
+- Ton : narratif, semi-personnel, à la 3e personne. Style journalistique de reportage.
+- Invente un profil FICTIF MAIS RÉALISTE (prénom + région + contexte de vie) :
+  * Exemples : "Thomas, 42 ans, propriétaire d'une maison des années 80 près de Lyon"
+  * "Sophie et Julien, jeune couple installé à Rennes dans un pavillon de 2015"
+- PAS de "je" ni de "nous" — rester descriptif/journalistique
+
+Structure OBLIGATOIRE :
+  1. <h2>Le contexte : [situation de départ]</h2>
+     <p>Qui, où, quand, quel besoin initial. 120-180 mots avec chiffres concrets (surface, budget, type de maison, contrainte).</p>
+  2. <h2>Le problème / la contrainte à résoudre</h2>
+     <p>Quelle difficulté précise a poussé à agir. 120-180 mots.</p>
+  3. <h2>La solution retenue</h2>
+     <p>Quel choix (matériau, dimensions, prestataire) et POURQUOI ce choix. 150-200 mots.</p>
+     <div class="cas-infos">
+       <div class="cas-info-item"><strong>Solution :</strong> <span>...</span></div>
+       <div class="cas-info-item"><strong>Budget total :</strong> <span>... €</span></div>
+       <div class="cas-info-item"><strong>Délai :</strong> <span>... semaines</span></div>
+       <div class="cas-info-item"><strong>Prestataire :</strong> <span>artisan local / fabricant / auto-installation</span></div>
+     </div>
+  4. <h2>Le déroulement du projet</h2>
+     <p>Étapes concrètes, avec éventuellement quelques surprises rencontrées. 150-200 mots.</p>
+  5. <h2>Les résultats concrets</h2>
+     <p>Chiffres précis : gain de confort, économies, surface utilisable, etc. 120-180 mots.</p>
+  6. <h2>Les leçons à retenir pour votre projet</h2>
+     <ul>
+       <li>Conseil 1 tiré du cas</li>
+       <li>Conseil 2 tiré du cas</li>
+       <li>... (4-6 enseignements actionnables)</li>
+     </ul>
+
+- Prix en euros (marché France 2026), précis
+- Maillage dans un des paragraphes
+
+Format STRICT :
+<H1_OPTIMISE>titre 50-70 car. avec mot-clé + angle "cas concret" (ex: "Pergola 20m² à Lyon : retour d'expérience et budget 2026")</H1_OPTIMISE>
+<META>description 150-155 car. avec mot-clé + promesse chiffres concrets</META>
+<INTRO>80-120 mots en HTML (<p>) : présente brièvement le cas + mot-clé dans 1ère phrase</INTRO>
+<CONTENU>
+<h2>Le contexte : ...</h2><p>...</p>
+<h2>Le problème / la contrainte à résoudre</h2><p>...</p>
+<h2>La solution retenue</h2><p>...</p>
+<div class="cas-infos">
+  <div class="cas-info-item"><strong>Solution :</strong> <span>...</span></div>
+  <div class="cas-info-item"><strong>Budget total :</strong> <span>... €</span></div>
+  <div class="cas-info-item"><strong>Délai :</strong> <span>... semaines</span></div>
+  <div class="cas-info-item"><strong>Prestataire :</strong> <span>...</span></div>
+</div>
+<h2>Le déroulement du projet</h2><p>...</p>
+<h2>Les résultats concrets</h2><p>...</p>
+<h2>Les leçons à retenir pour votre projet</h2><ul><li>...</li>...</ul>
+</CONTENU>
+<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
+<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
+<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
+<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+
+
+def prompt_blog_saisonnier(sujet, kw_block, maillage_instructions):
+    """FORMAT 6 : Article saisonnier (~10% des articles).
+    Structure : contexte temporel → pourquoi c'est important maintenant → actions par ordre d'urgence → planning.
+    Dimension temporelle explicite = anti-IA (contenu contextualisé)."""
+    # Détermination de la saison en cours (aide Claude à contextualiser)
+    mois_actuel = datetime.now().month
+    saison = (
+        "printemps" if 3 <= mois_actuel <= 5 else
+        "été"       if 6 <= mois_actuel <= 8 else
+        "automne"   if 9 <= mois_actuel <= 11 else
+        "hiver"
+    )
+    return f"""Tu es expert SEO et rédacteur web pergolas France.
+Tu rédiges un ARTICLE SAISONNIER optimisé Discover sur : {sujet['titre']}
+Mot-clé cible : {sujet['mot_cle']}
+Saison actuelle en France : {saison} 2026 (mois : {mois_actuel})
+{kw_block}
+{maillage_instructions}
+
+OBJECTIF : article contextualisé dans le TEMPS (saison, moment de l'année), qui donne envie d'agir MAINTENANT.
+Format idéal pour Discover : Google adore les articles "frais" avec dimension temporelle.
+
+{_regles_communes_blog(sujet)}
+
+═══════════════════════════════════════════════════════
+STRUCTURE SPÉCIFIQUE "SAISONNIER" :
+═══════════════════════════════════════════════════════
+- Longueur : 1100 à 1500 mots dans <CONTENU>
+- Ton : contextualisé, actionnable, avec une vraie urgence temporelle
+- INTÈGRE naturellement des références à la saison actuelle ({saison}), aux mois, aux températures France
+
+Structure OBLIGATOIRE :
+  1. <div class="saison-badge">
+       <span class="saison-label">{saison.capitalize()} 2026</span>
+       <span class="saison-message">Le moment clé pour agir</span>
+     </div>
+  2. <h2>Pourquoi {saison} est LA période critique pour votre pergola</h2>
+     <p>Explique les spécificités de la saison actuelle (météo France, conditions, contraintes).
+     120-180 mots. Si c'est une saison transitoire, explique ce qui se joue maintenant.</p>
+  3. <h2>Les 3 actions prioritaires à faire avant [moment précis]</h2>
+     <p>Introduction courte.</p>
+     <div class="saison-action">
+       <div class="saison-action-num">1</div>
+       <div class="saison-action-body">
+         <h3>Action prioritaire 1</h3>
+         <p>80-130 mots : quoi faire exactement, avec chiffres et délais.</p>
+         <div class="saison-urgence"><strong>À faire avant :</strong> [mois/semaine précise]</div>
+       </div>
+     </div>
+     [... répéter pour action 2 et action 3 ...]
+  4. <h2>Le planning idéal sur les prochaines semaines</h2>
+     <p>Présente un calendrier pratique.</p>
+     <ul>
+       <li><strong>Cette semaine :</strong> ...</li>
+       <li><strong>Dans 2 semaines :</strong> ...</li>
+       <li><strong>Avant fin [mois] :</strong> ...</li>
+       <li><strong>D'ici [saison suivante] :</strong> ...</li>
+     </ul>
+  5. <h2>Les erreurs classiques en {saison}</h2>
+     <p>3-4 erreurs fréquentes à cette période. 150 mots.</p>
+  6. <h2>Budget à prévoir en {saison} 2026</h2>
+     <p>Fourchettes de prix contextualisées à la saison. 120-180 mots.</p>
+
+- Références au calendrier, au climat France, aux prix actuels 2026
+- Maillage dans un des paragraphes
+
+Format STRICT :
+<H1_OPTIMISE>titre 50-70 car. avec mot-clé + saison/urgence (ex: "Pergola au {saison} : les 3 vérifications essentielles 2026")</H1_OPTIMISE>
+<META>description 150-155 car. avec mot-clé + urgence saisonnière</META>
+<INTRO>80-120 mots en HTML (<p>) : crochet saisonnier + mot-clé + annonce des actions</INTRO>
+<CONTENU>
+<div class="saison-badge"><span class="saison-label">{saison.capitalize()} 2026</span><span class="saison-message">Le moment clé pour agir</span></div>
+<h2>Pourquoi {saison} est LA période critique pour votre pergola</h2><p>...</p>
+<h2>Les 3 actions prioritaires à faire avant [moment]</h2><p>...</p>
+<div class="saison-action"><div class="saison-action-num">1</div><div class="saison-action-body"><h3>...</h3><p>...</p><div class="saison-urgence"><strong>À faire avant :</strong> ...</div></div></div>
+<div class="saison-action"><div class="saison-action-num">2</div><div class="saison-action-body"><h3>...</h3><p>...</p><div class="saison-urgence"><strong>À faire avant :</strong> ...</div></div></div>
+<div class="saison-action"><div class="saison-action-num">3</div><div class="saison-action-body"><h3>...</h3><p>...</p><div class="saison-urgence"><strong>À faire avant :</strong> ...</div></div></div>
+<h2>Le planning idéal sur les prochaines semaines</h2><ul><li><strong>Cette semaine :</strong> ...</li>...</ul>
+<h2>Les erreurs classiques en {saison}</h2><p>...</p>
+<h2>Budget à prévoir en {saison} 2026</h2><p>...</p>
+</CONTENU>
+<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
+<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
+<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
+<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+
+
+def build_prompt_format(format_blog, sujet, kw_block, maillage_instructions):
+    """Dispatcher : choisit le prompt selon le format tiré au sort."""
+    fn = {
+        "guide":        prompt_blog_guide,
+        "listicle":     prompt_blog_listicle,
+        "comparatif":   prompt_blog_comparatif,
+        "qr":           prompt_blog_qr,
+        "cas_pratique": prompt_blog_cas_pratique,
+        "saisonnier":   prompt_blog_saisonnier,
+    }.get(format_blog, prompt_blog_guide)
+    return fn(sujet, kw_block, maillage_instructions)
+
+
+def css_formats_blog():
+    """CSS commun + styles spécifiques aux 4 formats (listicle, comparatif, qr).
+    Injecté dans le <head> des pages blog pour que les formats rendent correctement."""
+    return '''
+  <style>
+    /* ─── Listicle : numéros colorés ─── */
+    .listicle-item{display:flex;gap:16px;margin:22px 0;align-items:flex-start;}
+    .listicle-num{flex-shrink:0;width:44px;height:44px;border-radius:50%;
+      background:#2d5a3d;color:#fff;display:flex;align-items:center;justify-content:center;
+      font-family:Georgia,serif;font-weight:500;font-size:1.3rem;}
+    .listicle-body{flex:1;min-width:0;}
+    .listicle-body h3{margin:0 0 6px;color:#2d5a3d;font-family:Georgia,serif;
+      font-size:1.15rem;font-weight:500;line-height:1.3;}
+    .listicle-body p{margin:0;line-height:1.65;}
+
+    /* ─── Comparatif : tableau 2 colonnes + verdict ─── */
+    .compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:20px 0;}
+    .compare-col{background:#fafaf7;border:1px solid #e8e8e0;padding:18px;border-radius:10px;}
+    .compare-col h3{margin:0 0 12px;color:#2d5a3d;font-family:Georgia,serif;
+      font-size:1.15rem;font-weight:500;padding-bottom:8px;border-bottom:2px solid #c5a572;}
+    .compare-col ul{padding-left:18px;margin:0;}
+    .compare-col li{margin-bottom:8px;font-size:.95rem;line-height:1.5;}
+    .compare-verdict{background:#c5a572;color:#fff;padding:16px 20px;border-radius:10px;
+      margin:20px 0;font-family:Georgia,serif;font-size:1.05rem;font-weight:500;
+      text-align:center;line-height:1.5;}
+    @media (max-width:640px){
+      .compare-grid{grid-template-columns:1fr;}
+    }
+
+    /* ─── Q/R : questions en vert, réponses sur fond clair ─── */
+    .qr-item{margin:20px 0;border-left:3px solid #2d5a3d;padding:2px 0 2px 18px;}
+    .qr-question{margin:0 0 10px;color:#2d5a3d;font-family:Georgia,serif;
+      font-size:1.18rem;font-weight:500;line-height:1.35;}
+    .qr-answer{background:#fafaf7;padding:14px 18px;border-radius:8px;}
+    .qr-answer p{margin:0 0 10px;line-height:1.65;}
+    .qr-answer p:last-child{margin-bottom:0;}
+    .qr-answer ul{margin:8px 0;padding-left:20px;}
+    .qr-answer li{margin-bottom:4px;line-height:1.55;}
+
+    /* ─── Cas pratique : encart infos-clés ─── */
+    .cas-infos{background:#fafaf7;border:1px solid #e8e8e0;border-radius:10px;
+      padding:20px;margin:20px 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;}
+    .cas-info-item{display:flex;flex-direction:column;padding:10px 14px;
+      background:#fff;border-radius:6px;border-left:3px solid #c5a572;}
+    .cas-info-item strong{color:#2d5a3d;font-size:.85rem;text-transform:uppercase;
+      letter-spacing:.5px;margin-bottom:4px;font-weight:500;}
+    .cas-info-item span{color:#222;font-family:Georgia,serif;font-size:1.05rem;}
+
+    /* ─── Saisonnier : badge saison + actions numérotées avec urgence ─── */
+    .saison-badge{display:flex;align-items:center;gap:14px;background:#2d5a3d;color:#fff;
+      padding:16px 20px;border-radius:10px;margin:16px 0 24px;flex-wrap:wrap;}
+    .saison-label{background:#c5a572;color:#fff;padding:6px 14px;border-radius:6px;
+      font-weight:500;font-size:.95rem;letter-spacing:.5px;text-transform:uppercase;}
+    .saison-message{font-family:Georgia,serif;font-size:1.1rem;font-style:italic;}
+    .saison-action{display:flex;gap:16px;margin:18px 0;align-items:flex-start;
+      background:#fafaf7;padding:16px 18px;border-radius:10px;border-left:4px solid #c5a572;}
+    .saison-action-num{flex-shrink:0;width:44px;height:44px;border-radius:50%;
+      background:#c5a572;color:#fff;display:flex;align-items:center;justify-content:center;
+      font-family:Georgia,serif;font-weight:500;font-size:1.3rem;}
+    .saison-action-body{flex:1;min-width:0;}
+    .saison-action-body h3{margin:0 0 8px;color:#2d5a3d;font-family:Georgia,serif;
+      font-size:1.15rem;font-weight:500;line-height:1.3;}
+    .saison-action-body p{margin:0 0 10px;line-height:1.6;}
+    .saison-urgence{background:#fff;border:1px dashed #c5a572;padding:8px 12px;
+      border-radius:6px;font-size:.92rem;color:#2d5a3d;margin-top:8px;}
+    .saison-urgence strong{color:#c5a572;}
+  </style>'''
+
+
 # ─── ARTICLE DE BLOG ──────────────────────────────────────
 def generer_article_blog(archi, keywords=None, comments_config=None):
     sujets_file = Path("sujets.json")
@@ -1975,102 +2623,11 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
    L'ancre DOIT être exactement : "{ancre_sec}"
    Le lien doit être dans une phrase contextuelle pertinente."""
 
-    prompt = f"""Tu es expert SEO et rédacteur web pergolas France, spécialisé dans les articles qui rankent SUR GOOGLE SEARCH ET qui apparaissent sur GOOGLE DISCOVER.
-Tu rédiges un article de blog DOUBLE-OBJECTIF (SEO + Discover) sur le sujet : {sujet['titre']}
-Mot-clé cible principal : {sujet['mot_cle']}
-{kw_block}
-{maillage_instructions}
-
-OBJECTIF : article utile, concret, qui se lit facilement sur mobile et donne envie de cliquer à la fois depuis la recherche Google ET depuis le feed Discover.
-
-═══════════════════════════════════════════════════════
-⚠️ RÈGLE N°1 : TITRE DOUBLE-OBJECTIF (SEO + DISCOVER)
-═══════════════════════════════════════════════════════
-Ton titre <H1_OPTIMISE> DOIT satisfaire SIMULTANÉMENT 3 critères :
-
-1️⃣ SEO : contenir le mot-clé principal "{sujet['mot_cle']}" OU une variante très proche (même intention)
-2️⃣ DISCOVER : formulé de manière ENGAGEANTE (question directe, chiffre précis, bénéfice concret, urgence saisonnière, comparaison)
-3️⃣ HONNÊTETÉ : la promesse du titre doit être tenue dans l'article (NE PAS mentir au lecteur)
-
-✅ EXEMPLES PARFAITS de titres double-objectif (SEO + Discover) :
-- "Pergola bioclimatique : combien ça coûte vraiment en 2026 ?"
-  → contient "pergola bioclimatique" + question + date
-- "5 erreurs d'entretien qui détruisent une pergola en bois"
-  → contient "pergola en bois" + chiffre + bénéfice concret (éviter l'erreur)
-- "Pergola aluminium ou bois : que choisir selon votre budget ?"
-  → contient les 2 mots-clés + question + angle pratique
-- "Pergola et neige : quelles structures résistent vraiment au poids ?"
-  → contient "pergola neige" + curiosité + promesse d'info utile
-- "Permis de construire pergola : ce que dit vraiment la loi en 2026"
-  → contient "permis pergola" + révélation + info fraîche
-
-❌ À ÉVITER ABSOLUMENT :
-- Titres SEO-only trop plats : "Entretien pergola bois" (OK pour SEO mais ennuyeux, aucun clic Discover)
-- Clickbait vulgaire : "Vous ne devinerez jamais ce que cette pergola cache..."
-- Sensationnalisme : "ATTENTION danger ! Cette pergola est en train de s'écrouler"
-- Titres vagues : "Tout sur la pergola"
-- Promesses exagérées : "La méthode INFAILLIBLE", "Le SECRET des pros"
-- Majuscules intempestives ou ponctuation excessive (!!! ???)
-
-RÈGLES TECHNIQUES du <H1_OPTIMISE> :
-- Longueur : 50 à 70 caractères (idéal pour affichage mobile Discover)
-- Mot-clé positionné DANS les 45 premiers caractères si possible
-- Langage naturel, PAS de bourrage SEO artificiel
-- Style journalistique français (pas de traduction littérale anglaise)
-
-═══════════════════════════════════════════════════════
-⚠️ RÈGLE N°2 : HTML PUR DANS <CONTENU>
-═══════════════════════════════════════════════════════
-INTERDICTION absolue d'utiliser :
-- Markdown (**gras**, *italique*, ## titre, - liste)
-- Dièses (#) ou astérisques en début de ligne
-
-Utilise EXCLUSIVEMENT : <h2>, <h3>, <p>, <ul>, <ol>, <li>, <strong>, <em>, <a>
-
-EXEMPLE CORRECT :
-<h2>Pourquoi opter pour ce modèle ?</h2>
-<p>La <strong>pergola bioclimatique</strong> séduit de plus en plus...</p>
-<ul><li>Confort thermique</li></ul>
-
-EXEMPLE INTERDIT :
-## Pourquoi opter...
-**pergola bioclimatique**
-- Confort thermique
-
-═══════════════════════════════════════════════════════
-CONSIGNES DE FOND
-═══════════════════════════════════════════════════════
-- Français naturel, pratique, ton journalistique mais expert
-- Longueur : 1200 à 1600 mots dans <CONTENU> — ne pas descendre sous 1200
-- Prix en euros (marché France 2025-2026), conseils actionnables
-- Au moins 1 exemple concret ou cas pratique avec chiffres
-- Les liens de maillage doivent être dans le corps du texte (dans des paragraphes <p>), pas dans une section séparée
-
-STRUCTURE HN DANS <CONTENU> :
-- PAS de H1 (c'est <H1_OPTIMISE> ci-dessus qui sera utilisé)
-- 4 à 6 <h2> : problème/contexte, solutions/points clés, cas pratique, erreurs à éviter, conseil final
-- <h3> là où ça approfondit (pas systématique)
-- Au moins 2 <ul>
-
-DENSITÉ MOT-CLÉ :
-- Mot-clé cible dans 1ère phrase intro, au moins 1 <h2>, 3+ fois dans le corps
-- Variantes sémantiques naturellement
-
-═══════════════════════════════════════════════════════
-Format STRICT de ta réponse :
-═══════════════════════════════════════════════════════
-<H1_OPTIMISE>titre double-objectif SEO+Discover, 50-70 caractères, avec mot-clé + angle engageant</H1_OPTIMISE>
-<META>description 150-155 car. accrocheuse avec mot-clé, qui prolonge la promesse du H1</META>
-<INTRO>80-120 mots en HTML (<p>, <strong>) : crochet + promesse + mot-clé dans 1ère phrase</INTRO>
-<CONTENU>
-<h2>...</h2>
-<p>...</p>
-[... 1200-1600 mots de HTML pur ...]
-</CONTENU>
-<FAQ1Q>...</FAQ1Q><FAQ1R>...</FAQ1R>
-<FAQ2Q>...</FAQ2Q><FAQ2R>...</FAQ2R>
-<FAQ3Q>...</FAQ3Q><FAQ3R>...</FAQ3R>
-<FAQ4Q>...</FAQ4Q><FAQ4R>...</FAQ4R>"""
+    # Choix d'un format éditorial (guide/listicle/comparatif/qr) pour varier la structure
+    # et éviter toute signature "content farm IA" (protection anti-update Discover).
+    format_blog = choisir_format_blog(sujet)
+    print(f"  🎨 Format choisi : {format_blog}")
+    prompt = build_prompt_format(format_blog, sujet, kw_block, maillage_instructions)
 
     texte = appeler_claude(prompt, max_tokens=6000)
     contenu_brut = extraire_balise(texte, "CONTENU") or ""
@@ -2131,7 +2688,7 @@ Format STRICT de ta réponse :
         date_published=date_iso, date_modified=date_iso
     )
 
-    # CSS spécifique aux pages blog (typo + maillage articles identique aux secondaires)
+    # CSS spécifique aux pages blog (typo + maillage articles + styles des 6 formats éditoriaux)
     css_blog = '''
   <style>
     .article-body{max-width:820px;margin:0 auto;line-height:1.75;color:#222;font-size:1.02rem;}
@@ -2155,7 +2712,7 @@ Format STRICT de ta réponse :
     .maillage-titre:hover{text-decoration:underline;}
     .maillage-img-link{display:block;}
     .maillage-img{width:100%;height:140px;object-fit:cover;display:block;background:#f0ede5;}
-  </style>'''
+  </style>''' + css_formats_blog()
 
     html = f"""<!DOCTYPE html>
 <html lang="fr">
@@ -2555,35 +3112,249 @@ def regenerer_blog_avec_commentaires(slug, comments_data, archi, articles):
     print(f"  ✅ Commentaires mis à jour : {slug}")
 
 # ─── PAGE BLOG ────────────────────────────────────────────
-def generer_page_blog(archi, articles):
-    cards = ""
-    for art in articles[:50]:
-        thumb = art.get("thumb","")
-        img   = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">' if thumb else ""
-        cards += f"""
+ARTICLES_PAR_PAGE_BLOG   = 30  # Nombre d'articles par page de pagination
+ARTICLES_PAR_SECTION_PILIER = 6  # Nombre d'articles affichés dans chaque section pilier
+
+def _card_article_blog(art):
+    """Génère une card unique pour un article de blog (format commun)."""
+    thumb = art.get("thumb", "")
+    img   = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy">' if thumb else ""
+    desc  = art.get('description', '')[:110]
+    if desc and len(art.get('description', '')) > 110:
+        desc = desc.rsplit(" ", 1)[0] + "…"
+    return f"""
     <a href="/blog/{art['slug']}.html" class="article-card">
       {img}
       <div class="card-body">
-        <span class="categorie">{art['categorie']}</span>
-        <h2>{art['titre']}</h2>
-        <p>{art.get('description','')[:100]}...</p>
+        <span class="categorie">{art.get('categorie', 'Blog')}</span>
+        <h3 class="card-titre">{art['titre']}</h3>
+        <p>{desc}</p>
       </div>
     </a>"""
 
-    # Image OG : première image d'article disponible, ou fallback slider home
+def _bloc_pagination(page_actuelle, nb_pages):
+    """Génère le bloc de pagination avec liens Précédent/Suivant et numéros.
+    page_actuelle commence à 1. nb_pages est le total des pages."""
+    if nb_pages <= 1:
+        return ""
+
+    def url_page(n):
+        """URL d'une page. Page 1 = /blog.html, sinon /blog/page-N.html"""
+        return "/blog.html" if n == 1 else f"/blog/page-{n}.html"
+
+    html = '<nav class="pagination" aria-label="Pagination des articles du blog">'
+    # Précédent
+    if page_actuelle > 1:
+        html += f'<a href="{url_page(page_actuelle - 1)}" class="pagination-nav" rel="prev">‹ Précédent</a>'
+    else:
+        html += '<span class="pagination-nav pagination-disabled">‹ Précédent</span>'
+
+    # Numéros de pages (on affiche page actuelle ± 2, avec … si besoin)
+    html += '<div class="pagination-numbers">'
+    for n in range(1, nb_pages + 1):
+        if n == page_actuelle:
+            html += f'<span class="pagination-current" aria-current="page">{n}</span>'
+        elif n == 1 or n == nb_pages or abs(n - page_actuelle) <= 2:
+            html += f'<a href="{url_page(n)}" class="pagination-link">{n}</a>'
+        elif abs(n - page_actuelle) == 3:
+            html += '<span class="pagination-ellipsis">…</span>'
+    html += '</div>'
+
+    # Suivant
+    if page_actuelle < nb_pages:
+        html += f'<a href="{url_page(page_actuelle + 1)}" class="pagination-nav" rel="next">Suivant ›</a>'
+    else:
+        html += '<span class="pagination-nav pagination-disabled">Suivant ›</span>'
+
+    html += '</nav>'
+    return html
+
+def _css_blog_index():
+    """CSS spécifique aux pages d'index du blog (blog.html + pagination)."""
+    return '''
+  <style>
+    .blog-hero{max-width:1100px;margin:30px auto 0;padding:0 20px;text-align:center;}
+    .blog-hero h1{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:2.2rem;margin:0 0 10px;font-weight:500;}
+    .blog-hero-intro{color:#666;font-size:1.05rem;max-width:680px;
+      margin:0 auto 10px;line-height:1.6;}
+
+    .blog-section{max-width:1200px;margin:50px auto;padding:0 20px;}
+    .blog-section h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.7rem;margin:0 0 6px;font-weight:500;}
+    .blog-section h2::after{content:"";display:block;width:60px;height:2px;
+      background:#c5a572;margin:12px 0 0;}
+    .blog-section-intro{color:#666;font-size:.98rem;margin:8px 0 24px;
+      line-height:1.55;}
+    .blog-section-all{display:inline-block;margin-top:18px;color:#2d5a3d;
+      font-weight:600;text-decoration:none;border-bottom:1px solid #c5a572;
+      padding-bottom:2px;}
+    .blog-section-all:hover{color:#c5a572;}
+
+    .articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+      gap:22px;}
+    .article-card{background:#fff;border-radius:10px;overflow:hidden;text-decoration:none;
+      color:inherit;border:1px solid #e8e8e0;transition:transform .2s,box-shadow .2s;
+      display:flex;flex-direction:column;}
+    .article-card:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(45,90,61,.12);}
+    .article-card .card-image{width:100%;height:170px;object-fit:cover;display:block;
+      background:#f0ede5;}
+    .article-card .card-body{padding:16px;flex:1;display:flex;flex-direction:column;}
+    .article-card .categorie{display:inline-block;background:#fafaf7;color:#2d5a3d;
+      padding:3px 10px;border-radius:4px;font-size:.78rem;font-weight:500;
+      letter-spacing:.5px;text-transform:uppercase;margin-bottom:10px;align-self:flex-start;}
+    .article-card .card-titre{font-family:Georgia,serif;color:#2d5a3d;font-size:1.08rem;
+      font-weight:500;margin:0 0 8px;line-height:1.35;}
+    .article-card p{color:#555;font-size:.9rem;line-height:1.5;margin:0;}
+
+    .blog-all-section{max-width:1200px;margin:60px auto 30px;padding:40px 20px 0;
+      border-top:1px solid #e8e8e0;}
+    .blog-all-section h2{font-family:Georgia,serif;color:var(--vert,#2d5a3d);
+      font-size:1.7rem;text-align:center;margin:0 0 30px;font-weight:500;}
+
+    /* Pagination */
+    .pagination{display:flex;align-items:center;justify-content:center;gap:14px;
+      margin:40px auto 60px;flex-wrap:wrap;max-width:1100px;padding:0 20px;}
+    .pagination-nav{display:inline-block;padding:10px 18px;background:#2d5a3d;
+      color:#fff;text-decoration:none;border-radius:6px;font-weight:500;
+      transition:background .2s;}
+    .pagination-nav:hover{background:#234730;}
+    .pagination-disabled{background:#e8e8e0;color:#999;cursor:not-allowed;pointer-events:none;}
+    .pagination-numbers{display:flex;gap:6px;align-items:center;}
+    .pagination-link{display:inline-block;padding:8px 14px;color:#2d5a3d;
+      text-decoration:none;border-radius:6px;border:1px solid #e8e8e0;
+      min-width:40px;text-align:center;font-weight:500;transition:all .2s;}
+    .pagination-link:hover{background:#fafaf7;border-color:#c5a572;}
+    .pagination-current{display:inline-block;padding:8px 14px;background:#c5a572;
+      color:#fff;border-radius:6px;min-width:40px;text-align:center;font-weight:500;}
+    .pagination-ellipsis{color:#999;padding:0 4px;}
+  </style>'''
+
+def _rendre_page_blog_pagination(archi, articles, page_num, nb_pages):
+    """Génère une page de pagination simple (page-2.html, page-3.html, etc.).
+    Affiche juste une grille d'articles triés + pagination."""
+    debut = (page_num - 1) * ARTICLES_PAR_PAGE_BLOG
+    fin   = debut + ARTICLES_PAR_PAGE_BLOG
+    articles_page = articles[debut:fin]
+
+    cards = "".join(_card_article_blog(a) for a in articles_page)
+
+    # URL canonique et titre
+    url_page = f"{SITE_URL}/blog/page-{page_num}.html"
+    titre_page = f"Blog Pergola — Page {page_num} | {SITE_NOM}"
+    desc_page = f"Articles {debut+1} à {min(fin, len(articles))} sur {len(articles)} — Tous nos conseils et guides pergolas en France."
+
+    # Image OG
     og_image = "/images/home/slider-1.webp"
-    if articles:
-        for art in articles:
-            if art.get("thumb"):
-                og_image = art["thumb"]
-                break
+    if articles_page and articles_page[0].get("thumb"):
+        og_image = articles_page[0]["thumb"]
+
+    # Balises rel prev/next pour signal SEO
+    rel_links = ""
+    if page_num > 1:
+        prev_url = f"{SITE_URL}/blog.html" if page_num == 2 else f"{SITE_URL}/blog/page-{page_num-1}.html"
+        rel_links += f'<link rel="prev" href="{prev_url}">\n  '
+    if page_num < nb_pages:
+        rel_links += f'<link rel="next" href="{SITE_URL}/blog/page-{page_num+1}.html">\n  '
+
+    pagination_html = _bloc_pagination(page_num, nb_pages)
 
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{titre_page}</title>
+  <meta name="description" content="{desc_page}">
+  {meta_commune()}
+  {meta_sociales(titre=titre_page, description=desc_page, image_url=og_image,
+                 url_page=url_page, type_og="website")}
+  <link rel="canonical" href="{url_page}">
+  {rel_links}{lien_css()}
+{_css_blog_index()}
+</head>
+<body>
+  {construire_header(archi, "blog")}
+  <main class="container">
+    <section class="blog-hero">
+      <nav class="fil-ariane"><a href="/">Accueil</a> › <a href="/blog.html">Blog</a> › <span>Page {page_num}</span></nav>
+      <h1>Blog Pergola — Page {page_num}</h1>
+      <p class="blog-hero-intro">Articles {debut+1} à {min(fin, len(articles))} sur un total de {len(articles)} publications.</p>
+    </section>
+    <section class="blog-all-section" style="margin-top:30px;border-top:none;padding-top:0;">
+      <div class="articles-grid">{cards}</div>
+      {pagination_html}
+    </section>
+  </main>
+  {construire_footer("blog")}
+  {lien_js()}
+  {banner_cookies()}
+</body></html>"""
+
+    # Créer dossier /blog/ si besoin et écrire la page
+    Path("blog").mkdir(exist_ok=True)
+    Path(f"blog/page-{page_num}.html").write_text(html, encoding="utf-8")
+
+def generer_page_blog(archi, articles):
+    """Génère la page d'accueil du blog /blog.html avec :
+    - Hero + intro
+    - Une section H2 par pilier (6 derniers articles du pilier)
+    - Une section "Tous les derniers articles" avec pagination
+
+    Génère aussi les pages de pagination /blog/page-2.html, /blog/page-3.html, etc.
+    """
+    # Tri chronologique décroissant (articles les plus récents d'abord)
+    articles_tries = sorted(articles, key=lambda a: a.get("date", "1970-01-01"), reverse=True)
+
+    # ─── Sections par pilier ───
+    sections_piliers_html = ""
+    for pilier in archi["piliers"]:
+        arts_pilier = [a for a in articles_tries if a.get("pilier_id") == pilier["id"]][:ARTICLES_PAR_SECTION_PILIER]
+        if not arts_pilier:
+            # On affiche quand même la section si pas d'articles, avec un message placeholder
+            continue
+
+        cards_pilier = "".join(_card_article_blog(a) for a in arts_pilier)
+        titre_pilier_bas = pilier['titre'].lower()
+        sections_piliers_html += f'''
+    <section class="blog-section">
+      <h2>{pilier['titre'].capitalize()}</h2>
+      <p class="blog-section-intro">Les derniers conseils et guides pratiques sur {titre_pilier_bas}.</p>
+      <div class="articles-grid">{cards_pilier}</div>
+      <a href="/{pilier['slug']}.html" class="blog-section-all">Voir le guide complet sur {titre_pilier_bas} →</a>
+    </section>'''
+
+    # ─── Section "Tous les derniers articles" (page 1) ───
+    # On affiche les 30 derniers articles + pagination si plus
+    nb_total = len(articles_tries)
+    nb_pages = max(1, (nb_total + ARTICLES_PAR_PAGE_BLOG - 1) // ARTICLES_PAR_PAGE_BLOG)
+
+    articles_page_1 = articles_tries[:ARTICLES_PAR_PAGE_BLOG]
+    cards_page_1 = "".join(_card_article_blog(a) for a in articles_page_1)
+
+    section_tous_html = ""
+    if articles_page_1:
+        section_tous_html = f'''
+    <section class="blog-all-section">
+      <h2>Tous les derniers articles</h2>
+      <div class="articles-grid">{cards_page_1}</div>
+      {_bloc_pagination(1, nb_pages)}
+    </section>'''
+
+    # ─── Image OG ───
+    og_image = "/images/home/slider-1.webp"
+    if articles_tries and articles_tries[0].get("thumb"):
+        og_image = articles_tries[0]["thumb"]
+
+    # ─── Balise rel="next" si pagination ───
+    rel_next = f'<link rel="next" href="{SITE_URL}/blog/page-2.html">' if nb_pages > 1 else ''
+
+    # ─── HTML complet de /blog.html ───
+    html = f"""<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Blog Pergola | {SITE_NOM}</title>
-  <meta name="description" content="Tous nos articles et conseils sur les pergolas en France.">
+  <meta name="description" content="Tous nos articles et conseils sur les pergolas en France : prix, installation, entretien, réglementation, comparatifs.">
   {meta_commune()}
   {meta_sociales(
     titre=f"Blog Pergola — {SITE_NOM}",
@@ -2593,24 +3364,46 @@ def generer_page_blog(archi, articles):
     type_og="website"
   )}
   <link rel="canonical" href="{SITE_URL}/blog.html">
+  {rel_next}
   {lien_css()}
+{_css_blog_index()}
 </head>
 <body>
-  {construire_header(archi, "racine")}
+  {construire_header(archi, "blog")}
   <main class="container">
-    <h1 style="font-family:Georgia,serif;color:var(--vert);padding:40px 0 24px;">Blog &amp; Conseils Pergola</h1>
-    <div class="articles-grid">{cards}</div>
+    <section class="blog-hero">
+      <h1>Blog &amp; Conseils Pergola</h1>
+      <p class="blog-hero-intro">Retrouvez tous nos guides, comparatifs et conseils pratiques sur les pergolas en France — classés par thématique.</p>
+    </section>
+
+    {sections_piliers_html}
+
+    {section_tous_html}
   </main>
-  {construire_footer("racine")}
+  {construire_footer("blog")}
   {lien_js()}
   {banner_cookies()}
 </body></html>"""
     Path("blog.html").write_text(html, encoding="utf-8")
 
+    # ─── Génération des pages de pagination (page-2, page-3, etc.) ───
+    if nb_pages > 1:
+        for page_num in range(2, nb_pages + 1):
+            _rendre_page_blog_pagination(archi, articles_tries, page_num, nb_pages)
+        print(f"  ✅ /blog.html + {nb_pages - 1} page(s) de pagination (blog/page-2.html à blog/page-{nb_pages}.html)")
+    else:
+        print(f"  ✅ /blog.html ({nb_total} articles)")
+
 # ─── SITEMAP ──────────────────────────────────────────────
 def generer_sitemap(archi, articles):
     urls = [f'<url><loc>{SITE_URL}/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>']
     urls.append(f'<url><loc>{SITE_URL}/blog.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>')
+
+    # Pages de pagination du blog (si assez d'articles pour générer des pages supplémentaires)
+    nb_pages_blog = max(1, (len(articles) + ARTICLES_PAR_PAGE_BLOG - 1) // ARTICLES_PAR_PAGE_BLOG)
+    for n in range(2, nb_pages_blog + 1):
+        urls.append(f'<url><loc>{SITE_URL}/blog/page-{n}.html</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>')
+
     for p in archi["piliers"]:
         # URL pilier : /{slug}.html
         urls.append(f'<url><loc>{SITE_URL}/{p["slug"]}.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>')
@@ -2963,6 +3756,17 @@ def _injecter_tags_seo(html_path):
         elif '</body>' in html and 'pg-cookie-banner' not in html:
             # Pas de banner du tout : on l'injecte avant </body>
             html = html.replace('</body>', new_banner + '\n</body>', 1)
+
+        # 5. Remplacer l'ancien HTML du logo par le nouveau (Variante B style magazine)
+        # Ancien format : <a href="/" class="logo">🏡 Guide Pergola</a>
+        # Nouveau format : <a href="/" class="logo"><span class="logo-pergola">...</span>...</a>
+        # On cherche la balise <a class="logo"> et on remplace son contenu, quel qu'il soit.
+        html = re.sub(
+            r'(<a[^>]*class="logo"[^>]*>)(.*?)(</a>)',
+            lambda m: m.group(1) + SITE_LOGO + m.group(3),
+            html,
+            flags=re.DOTALL
+        )
 
         if html != original:
             html_path.write_text(html, encoding="utf-8")
