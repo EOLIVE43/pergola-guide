@@ -5,9 +5,56 @@
   <title>Mentions légales | Pergola Guide</title>
   <meta name="description" content="Mentions légales du site Pergola Guide.">
   <meta name="robots" content="max-image-preview:large">
-    <!-- GSC : non configuré -->
+    <meta name="google-site-verification" content="TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c">
     <!-- AdSense : inactif pour l'instant -->
-    <!-- GA4 : non configuré -->
+    <!-- Google Analytics 4 (via Consent Mode v2) -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    // Par défaut : tout refusé (RGPD-first)
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied',
+      'functionality_storage': 'granted',
+      'security_storage': 'granted',
+      'wait_for_update': 500
+    });
+    // Relire le consentement déjà stocké
+    try {
+      var c = JSON.parse(localStorage.getItem('pg_consent') || 'null');
+      if (c) {
+        gtag('consent', 'update', {
+          'ad_storage': c.ads ? 'granted' : 'denied',
+          'ad_user_data': c.ads ? 'granted' : 'denied',
+          'ad_personalization': c.ads ? 'granted' : 'denied',
+          'analytics_storage': c.analytics ? 'granted' : 'denied'
+        });
+      }
+    } catch(e) {}
+    gtag('js', new Date());
+    gtag('config', 'G-67NBZNSJN5', { 'anonymize_ip': true });
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-67NBZNSJN5"></script>
+    <link rel="alternate" type="application/rss+xml" title="Pergola Guide — Articles" href="https://pergola-guide.fr/feed.xml">
+  <!-- OpenGraph (Facebook, LinkedIn, WhatsApp, Discord, Slack) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Pergola Guide">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="Mentions légales | Pergola Guide">
+  <meta property="og:description" content="Mentions légales du site Pergola Guide.">
+  <meta property="og:url" content="https://pergola-guide.fr/mentions-legales.html">
+  <meta property="og:image" content="https://pergola-guide.fr/images/home/slider-1.webp">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Mentions légales | Pergola Guide">
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Mentions légales | Pergola Guide">
+  <meta name="twitter:description" content="Mentions légales du site Pergola Guide.">
+  <meta name="twitter:image" content="https://pergola-guide.fr/images/home/slider-1.webp">
+  <meta name="twitter:image:alt" content="Mentions légales | Pergola Guide">
   <link rel="canonical" href="https://pergola-guide.fr/mentions-legales.html">
   <link rel="stylesheet" href="/style.css">
   <style>
@@ -117,8 +164,14 @@
   </main>
   <footer>
   <div class="container">
-    <p>© 2025 EOLIZ — Pergola Guide</p>
-    <p><a href="/mentions-legales.html">Mentions légales</a></p>
+    <p style="margin:0 0 8px;">© 2026 EOLIZ — Pergola Guide</p>
+    <p style="margin:0;font-size:.9rem;">
+      <a href="/a-propos.html">À propos</a> •
+      <a href="/mentions-legales.html">Mentions légales</a> •
+      <a href="/politique-de-confidentialite.html">Confidentialité</a> •
+      <a href="/cookies.html">Cookies</a> •
+      <a href="/feed.xml">Flux RSS</a>
+    </p>
   </div>
 </footer>
   <script src="/main.js"></script>
