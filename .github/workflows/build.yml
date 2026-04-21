@@ -14,6 +14,7 @@ on:
           - full
           - fix
           - comments
+          - reset-images
 jobs:
   build:
     runs-on: ubuntu-latest
