@@ -37,7 +37,7 @@ SITE_DESCRIPTION_COURTE = "Le guide de référence sur les pergolas en France"
 # Une fois ces valeurs remplies, lancer : python build_site.py fix
 # → Toutes les pages seront mises à jour en 2 min, sans appel API.
 
-GA4_ID           = ""   # Ex: "G-XXXXXXXXXX" (depuis Google Analytics 4)
+GA4_ID           = "G-67NBZNSJN5"   # Ex: "G-XXXXXXXXXX" (depuis Google Analytics 4)
 GSC_META_CONTENT = "TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c"   # Ex: "abc123def456xyz" (juste la valeur du content=, pas la balise complète)
 
 # ─── CONFIG ADSENSE ───────────────────────────────────────
