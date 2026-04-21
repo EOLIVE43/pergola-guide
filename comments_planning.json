@@ -23,5 +23,12 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "devis-pergola-artisan": {
+    "popularite": "tres_faible",
+    "titre": "Comment obtenir un bon devis pour sa pergola ?",
+    "pilier_id": "prix",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
