@@ -1,0 +1,61 @@
+name: Optimize images (responsive variants)
+
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  À LANCER UNE SEULE FOIS après avoir uploadé image_utils.py  ║
+# ║  et le build_site.py modifié avec les 12 patches.            ║
+# ║                                                              ║
+# ║  CE QUE FAIT CE WORKFLOW :                                   ║
+# ║  1. Crée les variantes 400/800/1200 pour TOUTES les images   ║
+# ║     existantes du site (home, piliers, secondaires, blog).   ║
+# ║  2. Régénère tout le HTML avec les balises <img srcset>.     ║
+# ║  3. Commit + push les nouveaux fichiers.                     ║
+# ║                                                              ║
+# ║  DURÉE : 3-5 minutes. COÛT API : 0 € (aucun appel Claude).   ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install anthropic Pillow
+
+      - name: Optimize images (create 400/800/1200 variants)
+        run: python build_site.py optimize-images
+
+      - name: Rebuild HTML with responsive img srcset
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python build_site.py fix
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Aucune modification à committer"
+          else
+            git commit -m "perf: responsive images (400/800/1200) + img srcset"
+            git push
+            echo "Changements poussés avec succès"
+          fi
