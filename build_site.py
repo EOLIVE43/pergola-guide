@@ -539,13 +539,19 @@ def schema_faq(questions_reponses):
     }, ensure_ascii=False)
 
 def schema_article(h1, meta, image_url, date_published=None, date_modified=None, word_count=None):
-    """Schema Article avec auteur Person identifié (critique E-E-A-T / Discover)."""
+    """Schema Article avec auteur Person identifié (critique E-E-A-T / Discover).
+    L'image pointe toujours vers la variante 1200px (exigence Discover ≥ 1200px de large)."""
+    # Forcer la variante 1200 px pour JSON-LD Article.image
+    image_url_abs = url_1200_pour_og(image_url)
+    if image_url_abs.startswith("/"):
+        image_url_abs = f"{SITE_URL}{image_url_abs}"
+
     data = {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": h1,
         "description": meta,
-        "image": image_url,
+        "image": image_url_abs,
         "author": {
             "@type": "Person",
             "name": AUTEUR_NOM,
@@ -841,11 +847,13 @@ def generer_articles_similaires(slug_actuel, pilier_id, articles, n=6):
         thumb = art.get("thumb", "")
         # Si pas de thumb, placeholder (rare)
         img_src = thumb if thumb else "/images/home/slider-1.webp"
+        img_maillage = img_responsive(img_src, art['titre'], role="thumb",
+                                      loading="lazy", classe="maillage-img")
         html += f'''
         <div class="maillage-card">
           <a href="/blog/{art['slug']}.html" class="maillage-titre">{art['titre']}</a>
           <a href="/blog/{art['slug']}.html" class="maillage-img-link">
-            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy" width="1200" height="800">
+            {img_maillage}
           </a>
         </div>'''
     html += '</div></section>'
@@ -873,11 +881,13 @@ def generer_liens_blog_sur_secondaire(pilier_id, secondaire_slug, articles, n=9)
     for art in lies:
         thumb = art.get("thumb", "")
         img_src = thumb if thumb else "/images/home/slider-1.webp"
+        img_maillage = img_responsive(img_src, art['titre'], role="thumb",
+                                      loading="lazy", classe="maillage-img")
         html += f'''
         <div class="maillage-card">
           <a href="/blog/{art['slug']}.html" class="maillage-titre">{art['titre']}</a>
           <a href="/blog/{art['slug']}.html" class="maillage-img-link">
-            <img src="{img_src}" alt="{art['titre']}" class="maillage-img" loading="lazy" width="1200" height="800">
+            {img_maillage}
           </a>
         </div>'''
     html += '</div>'
@@ -985,6 +995,10 @@ def meta_sociales(titre, description, image_url, url_page, type_og="article"):
         url_page    : URL canonique de la page
         type_og     : 'article' pour contenus éditoriaux, 'website' pour home
     """
+    # Forcer la variante 1200px pour og:image (exigence Google Discover).
+    # Pour une URL locale /images/blog/x.webp, on pointe vers x-1200.webp
+    # Pour une URL externe, on la garde telle quelle.
+    image_url = url_1200_pour_og(image_url)
     # S'assurer que l'image est en URL absolue (pas /images/... mais https://...)
     if image_url.startswith("/"):
         image_url = f"{SITE_URL}{image_url}"
@@ -1122,6 +1136,31 @@ def lien_js():
     # defer = non bloquant, téléchargé en parallèle, exécuté après le parsing HTML
     return '<script src="/main.js" defer></script>'
 
+def _preload_responsive(url_image, role="hero"):
+    """Génère un <link rel="preload"> responsive pour l'image LCP.
+
+    Utilise imagesrcset + imagesizes pour que le navigateur preload
+    la bonne taille selon l'écran (gain crucial sur LCP mobile).
+
+    Si l'image est externe (Unsplash/Replicate), fallback preload simple.
+    """
+    from image_utils import est_image_locale, url_variante, SIZES_PAR_ROLE
+
+    if not est_image_locale(url_image):
+        return f'<link rel="preload" as="image" href="{url_image}" fetchpriority="high">'
+
+    url_400  = url_variante(url_image, 400)
+    url_800  = url_variante(url_image, 800)
+    url_1200 = url_variante(url_image, 1200)
+    sizes = SIZES_PAR_ROLE.get(role, SIZES_PAR_ROLE["default"])
+
+    return (
+        f'<link rel="preload" as="image" href="{url_800}" '
+        f'imagesrcset="{url_400} 400w, {url_800} 800w, {url_1200} 1200w" '
+        f'imagesizes="{sizes}" '
+        f'fetchpriority="high">'
+    )
+
 # ─── PAGE D'ACCUEIL ───────────────────────────────────────
 def generer_accueil(archi, articles=None, regenerer_images=False):
     """Page d'accueil avec slider, intro fixe, encarts AdSense et derniers articles statiques.
@@ -1165,9 +1204,11 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     cards = ""
     for p in archi["piliers"]:
         img_path = f"/images/piliers/{p['slug']}-1.webp"
+        img_card_html = img_responsive(img_path, p['titre'], role="card",
+                                        loading="lazy", classe="pilier-card-img")
         cards += f'''
     <a href="/{p['slug']}.html" class="pilier-card">
-      <img src="{img_path}" alt="{p['titre']}" class="pilier-card-img" loading="lazy" width="1200" height="800">
+      {img_card_html}
       <div class="pilier-card-body">
         <h2>{p['titre']}</h2>
         <p>{p['description']}</p>
@@ -1181,7 +1222,8 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
         for art in articles[:6]:  # 6 derniers articles
             thumb = art.get("thumb", "")
             img_html = (
-                f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy" width="1200" height="800">'
+                img_responsive(thumb, art["titre"], role="card",
+                               loading="lazy", classe="card-image")
                 if thumb else
                 '<div class="card-image card-image-placeholder">📄</div>'
             )
@@ -1292,8 +1334,8 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     type_og="website"
   )}
   <link rel="canonical" href="{SITE_URL}/">
-  <!-- Preload de l'image LCP (Largest Contentful Paint) pour améliorer Core Web Vitals -->
-  <link rel="preload" as="image" href="/images/home/slider-1.webp" fetchpriority="high">
+  <!-- Preload de l'image LCP responsive : le navigateur télécharge la bonne taille selon l'écran -->
+  {_preload_responsive("/images/home/slider-1.webp", role="hero")}
   {lien_css()}
 {css_home}
   <script type="application/ld+json">{schema_website()}</script>
@@ -1315,7 +1357,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
   <!-- ═══ INTRO : image à gauche + texte justifié à droite ═══ -->
   <section class="home-intro">
     <div class="home-intro-inner">
-      <img src="/images/home/slider-1.webp" alt="Pergola sur terrasse française" class="home-intro-img" loading="eager" fetchpriority="high" width="1200" height="800">
+      {img_responsive("/images/home/slider-1.webp", "Pergola sur terrasse française", role="hero", loading="eager", fetchpriority="high", classe="home-intro-img")}
       <div class="home-intro-texte">
         <h2>Votre projet pergola commence ici</h2>
         <p>Bienvenue sur <strong>{SITE_NOM}</strong>, le site français dédié à l'univers des pergolas. Que vous prépariez l'installation d'une <strong>pergola bioclimatique</strong>, d'une <strong>pergola en bois</strong> ou en <strong>aluminium</strong>, vous trouverez ici toutes les informations pour faire le bon choix.</p>
@@ -1620,9 +1662,11 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
             # Extrait réel basé sur la meta description générée (pas le titre dupliqué)
             excerpt = excerpt_card_secondaire(pilier['id'], s)
+            img_sec_card = img_responsive(img_path, s['titre'], role="card",
+                                          loading="lazy", classe="sec-card-img")
             cards_sec_html += f'''
           <a href="/{pilier["id"]}/{s["slug"]}.html" class="sec-card">
-            <img src="{img_path}" alt="{s['titre']}" class="sec-card-img" loading="lazy" width="1200" height="800">
+            {img_sec_card}
             <div class="sec-card-body">
               <span class="sec-card-titre">{s['titre']}</span>
               <p class="sec-card-excerpt">{excerpt}</p>
@@ -1638,7 +1682,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
         arts_html = '<section class="articles-pilier"><h2>Nos derniers articles</h2><div class="articles-grid">'
         for art in arts_pilier:
             thumb = art.get("thumb", "")
-            img_html = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy" width="1200" height="800">' if thumb else ''
+            img_html = img_responsive(thumb, art["titre"], role="card", loading="lazy", classe="card-image") if thumb else ''
             arts_html += f"""
             <a href="/blog/{art['slug']}.html" class="article-card">
                 {img_html}
@@ -1732,8 +1776,8 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     type_og="article"
   )}
   <link rel="canonical" href="{SITE_URL}/{pilier['slug']}.html">
-  <!-- Preload de l'image LCP pour améliorer Core Web Vitals -->
-  <link rel="preload" as="image" href="{img1['url']}" fetchpriority="high">
+  <!-- Preload de l'image LCP responsive : le navigateur télécharge la bonne taille selon l'écran -->
+  {_preload_responsive(img1['url'], role="hero")}
   {lien_css()}
 {css_pilier}
   <script type="application/ld+json">{article_schema}</script>
@@ -1750,7 +1794,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
 
     <!-- Hero : image fine + titre en dessous (pas de superposition) -->
     <div class="pilier-hero-v2">
-      <img src="{img1['url']}" alt="{h1}" loading="eager" fetchpriority="high" width="1200" height="630">
+      {img_responsive(img1['url'], h1, role="hero", loading="eager", fetchpriority="high", width=1200, height=630)}
     </div>
     <div class="pilier-hero-title">
       <h1>{h1}</h1>
@@ -1919,11 +1963,13 @@ Format STRICT :
         maillage_html = '<section class="maillage-secondaires"><h2>À découvrir aussi dans ce guide</h2><div class="maillage-grid">'
         for s in autres_sec[:6]:
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
+            img_maillage = img_responsive(img_path, s['titre'], role="thumb",
+                                          loading="lazy", classe="maillage-img")
             maillage_html += f'''
             <div class="maillage-card">
               <a href="/{pilier["id"]}/{s["slug"]}.html" class="maillage-titre">{s["titre"]}</a>
               <a href="/{pilier["id"]}/{s["slug"]}.html" class="maillage-img-link">
-                <img src="{img_path}" alt="{s['titre']}" class="maillage-img" loading="lazy" width="1200" height="800">
+                {img_maillage}
               </a>
             </div>'''
         maillage_html += '</div></section>'
@@ -1981,8 +2027,8 @@ Format STRICT :
     type_og="article"
   )}
   <link rel="canonical" href="{SITE_URL}/{pilier['id']}/{secondaire['slug']}.html">
-  <!-- Preload de l'image LCP pour améliorer Core Web Vitals -->
-  <link rel="preload" as="image" href="{img['url']}" fetchpriority="high">
+  <!-- Preload de l'image LCP responsive : le navigateur télécharge la bonne taille selon l'écran -->
+  {_preload_responsive(img['url'], role="hero")}
   {lien_css()}
 {css_sec}
   <script type="application/ld+json">{article_schema}</script>
@@ -1999,7 +2045,7 @@ Format STRICT :
     </nav>
     <div class="page-layout">
       <article class="contenu-principal">
-        <img src="{img['url']}" alt="{h1}" class="article-img" loading="eager" fetchpriority="high" width="1200" height="630" style="width:100%;border-radius:10px;margin-bottom:16px;">
+        {img_responsive(img['url'], h1, role="hero", loading="eager", fetchpriority="high", width=1200, height=630, classe="article-img")}
         <h1>{h1}</h1>
         {bloc_date_auteur_top(date_modified, date_modified)}
         <div class="intro">{intro}</div>
@@ -2761,8 +2807,8 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
     type_og="article"
   )}
   <link rel="canonical" href="{SITE_URL}/blog/{sujet['slug']}.html">
-  <!-- Preload de l'image LCP pour améliorer Core Web Vitals -->
-  <link rel="preload" as="image" href="{img['url']}" fetchpriority="high">
+  <!-- Preload de l'image LCP responsive : le navigateur télécharge la bonne taille selon l'écran -->
+  {_preload_responsive(img['url'], role="article")}
   {lien_css()}
 {css_blog}
   <script type="application/ld+json">{article_schema}</script>
@@ -2783,7 +2829,7 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
         <h1>{titre_optimise}</h1>
         {bloc_date_auteur_top(date_iso, date_iso)}
         <div class="intro">{intro}</div>
-        <img src="{img['url']}" alt="{titre_optimise}" class="article-img" loading="lazy" width="1200" style="width:100%;border-radius:10px;margin:16px 0 16px;">
+        {img_responsive(img['url'], titre_optimise, role="article", loading="eager", fetchpriority="high", width=1200, height=800, classe="article-img")}
         {bloc_adsense(ADSENSE_SLOT_MILIEU, "inArticle")}
         <div class="article-body">{contenu}</div>
         <div class="faq-section">
@@ -3152,7 +3198,7 @@ ARTICLES_PAR_SECTION_PILIER = 6  # Nombre d'articles affichés dans chaque secti
 def _card_article_blog(art):
     """Génère une card unique pour un article de blog (format commun)."""
     thumb = art.get("thumb", "")
-    img   = f'<img src="{thumb}" alt="{art["titre"]}" class="card-image" loading="lazy" width="1200" height="800">' if thumb else ""
+    img   = img_responsive(thumb, art["titre"], role="card", loading="lazy", classe="card-image") if thumb else ""
     desc  = art.get('description', '')[:110]
     if desc and len(art.get('description', '')) > 110:
         desc = desc.rsplit(" ", 1)[0] + "…"
