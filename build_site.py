@@ -1751,8 +1751,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
             # Extrait réel basé sur la meta description générée (pas le titre dupliqué)
             excerpt = excerpt_card_secondaire(pilier['id'], s)
-        img_sec_card = img_responsive(img_path, alt_descriptif_secondaire_card(s, pilier), role="card",
-                                          loading="lazy", classe="sec-card-img")
+            img_sec_card = img_responsive(img_path, alt_descriptif_secondaire_card(s, pilier), role="card", loading="lazy", classe="sec-card-img")
             cards_sec_html += f'''
           <a href="/{pilier["id"]}/{s["slug"]}.html" class="sec-card">
             {img_sec_card}
