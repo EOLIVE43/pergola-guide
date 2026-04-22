@@ -3907,7 +3907,7 @@ def main():
 
     else:
         print(f"❌ Mode inconnu : {mode}")
-        print("   Modes disponibles : full, blog, comments, fix, reset-images")
+        print("   Modes disponibles : full, blog, comments, fix, optimize-images, reset-images")
 
 if __name__ == "__main__":
     main()
