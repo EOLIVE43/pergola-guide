@@ -1,0 +1,130 @@
+name: Random scheduler (daily article)
+
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  SCHEDULER ALÉATOIRE AVEC GARANTIE 1 ARTICLE/JOUR            ║
+# ║                                                              ║
+# ║  Tourne toutes les heures de 6h à 14h Paris (9 créneaux).    ║
+# ║                                                              ║
+# ║  Logique à chaque exécution :                                ║
+# ║  1. Article déjà publié aujourd'hui ? → stop                 ║
+# ║  2. Pas le dernier créneau ? → tire un dé ~1/N               ║
+# ║  3. Dernier créneau (14h) sans article ? → publication forcée║
+# ║                                                              ║
+# ║  Résultat : 1 article/jour GARANTI, heure différente chaque  ║
+# ║  jour, publié avant 14h Paris.                               ║
+# ║                                                              ║
+# ║  Coût : ~45 min GitHub Actions / mois (sur 2000 gratuites)   ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+on:
+  schedule:
+    # Heures UTC (été : -2h pour avoir Paris / hiver : -1h)
+    # En été : 4h UTC = 6h Paris, 12h UTC = 14h Paris
+    - cron: '0 4 * * *'    # 6h Paris (été)
+    - cron: '0 5 * * *'    # 7h Paris (été)
+    - cron: '0 6 * * *'    # 8h Paris (été)
+    - cron: '0 7 * * *'    # 9h Paris (été)
+    - cron: '0 8 * * *'    # 10h Paris (été)
+    - cron: '0 9 * * *'    # 11h Paris (été)
+    - cron: '0 10 * * *'   # 12h Paris (été)
+    - cron: '0 11 * * *'   # 13h Paris (été)
+    - cron: '0 12 * * *'   # 14h Paris (été) ← dernier créneau = publication forcée si rien
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  lottery:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 20
+
+      - name: Analyser la situation
+        id: dice
+        run: |
+          # ─── Date actuelle (Paris) ────────────────────────────
+          HEURE_PARIS=$(TZ='Europe/Paris' date '+%H:%M')
+          DATE_PARIS=$(TZ='Europe/Paris' date '+%Y-%m-%d')
+          HEURE_H=$(TZ='Europe/Paris' date '+%H')
+          HEURE_H=${HEURE_H#0}  # retire le zéro devant si présent
+          echo "🕒 Heure Paris : $HEURE_PARIS"
+          echo "📅 Date Paris : $DATE_PARIS"
+
+          # ─── Chercher le dernier article publié par le bot ────
+          # On cherche dans les 20 derniers commits un commit du bot
+          # dont le message contient "blog" ou "article"
+          DERNIER_ARTICLE=$(git log --author="github-actions" \
+                                    --grep="blog\|article" \
+                                    --pretty=format:"%ci" \
+                                    -1 || echo "")
+          
+          if [ -z "$DERNIER_ARTICLE" ]; then
+            echo "ℹ️ Aucun article auto trouvé dans les 20 derniers commits"
+            DATE_DERNIER=""
+          else
+            # Extraire juste la date (YYYY-MM-DD) + convertir en heure Paris
+            DATE_DERNIER=$(TZ='Europe/Paris' date -d "$DERNIER_ARTICLE" '+%Y-%m-%d')
+            echo "📝 Dernier article : $DATE_DERNIER (au total : $DERNIER_ARTICLE)"
+          fi
+
+          # ─── Décision ────────────────────────────────────────
+          # Cas 1 : déjà un article publié aujourd'hui → stop
+          if [ "$DATE_DERNIER" = "$DATE_PARIS" ]; then
+            echo "✅ Article déjà publié aujourd'hui, rien à faire."
+            echo "should_publish=false" >> $GITHUB_OUTPUT
+            echo "reason=already_published" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Cas 2 : dernier créneau (14h Paris = 12h UTC) → publication forcée
+          if [ "$HEURE_H" -ge "14" ]; then
+            echo "🎯 Dernier créneau et pas d'article aujourd'hui → PUBLICATION FORCÉE"
+            echo "should_publish=true" >> $GITHUB_OUTPUT
+            echo "reason=forced_last_slot" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Cas 3 : tirage aléatoire pondéré selon les créneaux restants
+          # Plus on avance dans la journée, plus la proba augmente
+          # 6h → 1/9   (débute doucement)
+          # 7h → 1/8
+          # 8h → 1/7
+          # 9h → 1/6
+          # 10h → 1/5
+          # 11h → 1/4
+          # 12h → 1/3
+          # 13h → 1/2  (50% à l'avant-dernier créneau)
+          CRENEAUX_RESTANTS=$((14 - HEURE_H))
+          DICE=$((RANDOM % CRENEAUX_RESTANTS))
+          echo "🎲 Tirage : $DICE / $CRENEAUX_RESTANTS (1 chance sur $CRENEAUX_RESTANTS)"
+
+          if [ "$DICE" -eq "0" ]; then
+            echo "🎉 Gagné ! Publication déclenchée à $HEURE_PARIS"
+            echo "should_publish=true" >> $GITHUB_OUTPUT
+            echo "reason=random_win" >> $GITHUB_OUTPUT
+          else
+            echo "⏳ Pas cette heure-ci, on retente au prochain créneau"
+            echo "should_publish=false" >> $GITHUB_OUTPUT
+            echo "reason=random_skip" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Déclencher le workflow de publication
+        if: steps.dice.outputs.should_publish == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const reason = '${{ steps.dice.outputs.reason }}';
+            console.log(`🚀 Déclenchement du build (raison : ${reason})`);
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'build.yml',
+              ref: 'main',
+              inputs: { mode: 'blog' }
+            });
+            console.log('✅ Workflow "Pergola Site Builder" déclenché en mode blog');
