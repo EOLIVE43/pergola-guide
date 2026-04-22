@@ -503,6 +503,74 @@ def slugify(texte):
     s = re.sub(r'[^a-z0-9\s-]', '', s)
     s = re.sub(r'\s+', '-', s.strip())
     return re.sub(r'-+', '-', s)[:60]
+# ─── ALT DESCRIPTIFS POUR IMAGES (SEO + Accessibilité) ────
+# L'alt d'une image ne doit PAS reprendre le H1 de la page (bourrage SEO).
+# Il doit DÉCRIRE VISUELLEMENT ce que montre l'image.
+# Cette fonction centralise la génération des alt pour rester cohérent.
+
+ALT_DESCRIPTIFS_PILIERS = {
+    "bioclimatique": "Pergola bioclimatique aluminium avec lames orientables sur terrasse contemporaine",
+    "bois":          "Pergola en bois naturel avec poutres apparentes dans un jardin aménagé",
+    "aluminium":     "Pergola aluminium au design épuré installée sur terrasse moderne",
+    "toiture":       "Pergola avec toiture transparente abritant un espace extérieur",
+    "dimensions":    "Pergola de grande surface avec mobilier de jardin sur terrasse",
+    "prix":          "Pergola haut de gamme installée devant une maison contemporaine",
+    "installation":  "Installation d'une pergola aluminium sur terrasse en béton",
+    "stores-occultation": "Pergola aluminium équipée de stores latéraux et rideaux d'occultation",
+    "terrasse-jardin":    "Pergola intégrée dans un jardin paysager avec plantes grimpantes",
+}
+
+def alt_descriptif_pilier(pilier):
+    """Alt descriptif pour l'image hero d'une page pilier."""
+    return ALT_DESCRIPTIFS_PILIERS.get(
+        pilier['id'],
+        f"Pergola {pilier['titre'].lower()} installée sur terrasse extérieure"
+    )
+
+def alt_descriptif_secondaire(secondaire, pilier):
+    """Alt descriptif pour l'image hero d'une page secondaire.
+    Combine la description du pilier + le mot-clé spécifique de la page."""
+    mot_cle = secondaire.get('mot_cle', secondaire['titre']).lower()
+    base = ALT_DESCRIPTIFS_PILIERS.get(pilier['id'], "Pergola")
+    # Évite de répéter "pergola" 2 fois si le mot-clé commence déjà par "pergola"
+    if mot_cle.startswith("pergola"):
+        return f"{base} — {mot_cle}"
+    return f"{base} illustrant {mot_cle}"
+
+def alt_descriptif_blog(sujet):
+    """Alt descriptif pour l'image hero d'un article de blog.
+    Description visuelle neutre contextualisée au sujet."""
+    mot_cle = sujet.get('mot_cle', '').lower()
+    categorie = sujet.get('categorie', '').lower()
+
+    # Si on a un mot-clé précis, on l'utilise
+    if mot_cle and len(mot_cle) > 3:
+        if mot_cle.startswith("pergola"):
+            return f"Illustration pour article sur {mot_cle}"
+        return f"Pergola illustrant le sujet : {mot_cle}"
+    # Sinon fallback sur la catégorie
+    if categorie:
+        return f"Pergola aménagée — article catégorie {categorie}"
+    return "Pergola installée sur terrasse extérieure d'une maison résidentielle"
+
+def alt_descriptif_card(titre_article):
+    """Alt pour les thumbnails de cards (home, maillage, articles similaires).
+    Ici on peut garder le titre car c'est un lien visuel vers l'article — 
+    c'est la vignette qui prévisualise l'article cible, donc alt=titre est OK."""
+    return titre_article
+
+def alt_descriptif_pilier_card(pilier):
+    """Alt pour les cards piliers sur la home.
+    Pilier card = lien vers une section du site, l'alt doit décrire la section."""
+    return ALT_DESCRIPTIFS_PILIERS.get(
+        pilier['id'],
+        f"Guide pergola {pilier['titre'].lower()}"
+    )
+
+def alt_descriptif_secondaire_card(secondaire, pilier):
+    """Alt pour les cards de pages secondaires sur les piliers.
+    Card = aperçu du contenu de la page secondaire."""
+    return alt_descriptif_secondaire(secondaire, pilier)
 
 # ─── SCHEMAS JSON-LD ──────────────────────────────────────
 def schema_breadcrumb(items):
@@ -1199,8 +1267,14 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
         # (400px sur mobile, 1200px sur desktop) → LCP massivement amélioré
         loading_attr = "eager" if idx == 1 else "lazy"
         fp_attr = "high" if idx == 1 else None
+        # Alt descriptif varié selon la position du slide
+        alts_slider = [
+            "Pergola bioclimatique sur terrasse contemporaine au coucher de soleil",
+            "Pergola aluminium blanche sur toit-terrasse moderne avec vue",
+            "Pergola en bois avec glycines grimpantes dans un jardin provençal"
+        ]
         img_slide = img_responsive(
-            url, f"Pergola — image {idx}",
+            url, alts_slider[idx - 1] if idx <= 3 else f"Pergola — vue {idx}",
             role="hero",
             loading=loading_attr,
             fetchpriority=fp_attr,
@@ -1218,7 +1292,7 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     cards = ""
     for p in archi["piliers"]:
         img_path = f"/images/piliers/{p['slug']}-1.webp"
-        img_card_html = img_responsive(img_path, p['titre'], role="card",
+       img_card_html = img_responsive(img_path, alt_descriptif_pilier_card(p), role="card",
                                         loading="lazy", classe="pilier-card-img")
         cards += f'''
     <a href="/{p['slug']}.html" class="pilier-card">
@@ -1677,7 +1751,7 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
             # Extrait réel basé sur la meta description générée (pas le titre dupliqué)
             excerpt = excerpt_card_secondaire(pilier['id'], s)
-            img_sec_card = img_responsive(img_path, s['titre'], role="card",
+        img_sec_card = img_responsive(img_path, alt_descriptif_secondaire_card(s, pilier), role="card",
                                           loading="lazy", classe="sec-card-img")
             cards_sec_html += f'''
           <a href="/{pilier["id"]}/{s["slug"]}.html" class="sec-card">
@@ -1807,9 +1881,9 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
       <a href="/">Accueil</a> › <span>{pilier['titre']}</span>
     </nav>
 
-    <!-- Hero : image fine + titre en dessous (pas de superposition) -->
+  <!-- Hero : image fine + titre en dessous (pas de superposition) -->
     <div class="pilier-hero-v2">
-      {img_responsive(img1['url'], h1, role="hero", loading="eager", fetchpriority="high", width=1200, height=630)}
+      {img_responsive(img1['url'], alt_descriptif_pilier(pilier), role="hero", loading="eager", fetchpriority="high", width=1200, height=630)}
     </div>
     <div class="pilier-hero-title">
       <h1>{h1}</h1>
@@ -1978,7 +2052,7 @@ Format STRICT :
         maillage_html = '<section class="maillage-secondaires"><h2>À découvrir aussi dans ce guide</h2><div class="maillage-grid">'
         for s in autres_sec[:6]:
             img_path = f"/images/secondaires/{pilier['id']}-{s['slug']}.webp"
-            img_maillage = img_responsive(img_path, s['titre'], role="thumb",
+            img_maillage = img_responsive(img_path, alt_descriptif_secondaire(s, pilier), role="thumb",
                                           loading="lazy", classe="maillage-img")
             maillage_html += f'''
             <div class="maillage-card">
@@ -2060,7 +2134,7 @@ Format STRICT :
     </nav>
     <div class="page-layout">
       <article class="contenu-principal">
-        {img_responsive(img['url'], h1, role="hero", loading="eager", fetchpriority="high", width=1200, height=630, classe="article-img")}
+        {img_responsive(img['url'], alt_descriptif_secondaire(secondaire, pilier), role="hero", loading="eager", fetchpriority="high", width=1200, height=630, classe="article-img")}
         <h1>{h1}</h1>
         {bloc_date_auteur_top(date_modified, date_modified)}
         <div class="intro">{intro}</div>
@@ -2844,7 +2918,9 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
         <h1>{titre_optimise}</h1>
         {bloc_date_auteur_top(date_iso, date_iso)}
         <div class="intro">{intro}</div>
-        {img_responsive(img['url'], titre_optimise, role="article", loading="eager", fetchpriority="high", width=1200, height=800, classe="article-img")}
+        {img_responsive(img['url'], alt_descriptif_blog(sujet), role="article", loading="eager",
+                        fetchpriority="high", width=1200, height=800,
+                        classe="article-img")}
         {bloc_adsense(ADSENSE_SLOT_MILIEU, "inArticle")}
         <div class="article-body">{contenu}</div>
         <div class="faq-section">
