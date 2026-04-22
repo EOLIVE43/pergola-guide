@@ -1194,8 +1194,22 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
 
     slides_html = ""
     for idx, url in enumerate(slider_urls, start=1):
+        # Slide avec <img srcset> au lieu de background-image CSS :
+        # permet au navigateur de choisir la bonne taille selon l'écran
+        # (400px sur mobile, 1200px sur desktop) → LCP massivement amélioré
+        loading_attr = "eager" if idx == 1 else "lazy"
+        fp_attr = "high" if idx == 1 else None
+        img_slide = img_responsive(
+            url, f"Pergola — image {idx}",
+            role="hero",
+            loading=loading_attr,
+            fetchpriority=fp_attr,
+            width=1200, height=520,
+            classe="home-slide-img"
+        )
         slides_html += f'''
-      <div class="home-slide home-slide-{idx}" style="background-image: url('{url}');">
+      <div class="home-slide home-slide-{idx}">
+        {img_slide}
         <div class="home-slide-overlay"></div>
       </div>'''
 
@@ -1246,8 +1260,9 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     /* ═══ SLIDER ACCUEIL (inchangé) ════════════════════════════ */
     .home-slider{position:relative;width:100%;height:520px;overflow:hidden;margin:0;}
     .home-slide{position:absolute;top:0;left:0;width:100%;height:100%;
-      background-size:cover;background-position:center;
-      opacity:0;animation:homeSlide 15s infinite;}
+      opacity:0;animation:homeSlide 15s infinite;overflow:hidden;}
+    .home-slide-img{position:absolute;top:0;left:0;width:100%;height:100%;
+      object-fit:cover;object-position:center;display:block;}
     .home-slide-1{animation-delay:0s;}
     .home-slide-2{animation-delay:5s;}
     .home-slide-3{animation-delay:10s;}
