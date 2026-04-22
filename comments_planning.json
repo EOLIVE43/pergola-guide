@@ -40,5 +40,12 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "quelle-taille-pergola-choisir": {
+    "popularite": "tres_faible",
+    "titre": "Quelle taille de pergola choisir selon sa terrasse ?",
+    "pilier_id": "dimensions",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
