@@ -3941,17 +3941,16 @@ def _injecter_tags_seo(html_path):
                     alt_cible = alt_descriptif_pilier(p)
                     break
 
-            # 2. Sinon, chercher si c'est une page secondaire
-            # (le fichier doit être dans un sous-dossier nommé comme un pilier_id)
+             # 2. Sinon, chercher si c'est une page secondaire
+            # (le fichier est dans un sous-dossier nommé comme un pilier_id)
             if not alt_cible:
+                dossier_parent = html_path.parent.name  # ex: "bois", "bioclimatique"
                 for p in archi_local["piliers"]:
-                    for s in p["secondaires"]:
-                        if s["slug"] == filename:
-                            # On vérifie que le chemin contient bien l'id du pilier
-                            if f"/{p['id']}/" in str(html_path) or f"\\{p['id']}\\" in str(html_path):
+                    if p["id"] == dossier_parent:
+                        for s in p["secondaires"]:
+                            if s["slug"] == filename:
                                 alt_cible = alt_descriptif_secondaire(s, p)
                                 break
-                    if alt_cible:
                         break
 
             # Si on a trouvé un alt descriptif, on patche le HTML
