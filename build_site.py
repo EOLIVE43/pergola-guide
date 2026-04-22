@@ -23,6 +23,10 @@ URL structure (v2) :
 """
 
 import os, json, re, random, time, urllib.request, urllib.parse
+from image_utils import (
+    generer_variantes, img_responsive, url_1200_pour_og,
+    optimiser_toutes_images
+)
 import anthropic
 from datetime import datetime
 from pathlib import Path
@@ -384,6 +388,9 @@ def get_image(sujet, modele="schnell", chemin_local=None):
 def telecharger_image(url, chemin_local, timeout=30):
     """Télécharge une image depuis une URL distante vers un chemin local.
     Crée les dossiers parents si nécessaire. Retourne True en cas de succès.
+
+    Après téléchargement réussi, génère automatiquement les 3 variantes
+    responsive (400/800/1200) via Pillow.
     """
     try:
         p = Path(chemin_local)
@@ -398,6 +405,11 @@ def telecharger_image(url, chemin_local, timeout=30):
             return False
 
         p.write_bytes(data)
+
+        # Génération automatique des 3 variantes responsive
+        # (pour servir la bonne taille sur mobile/tablet/desktop)
+        generer_variantes(chemin_local)
+
         return True
     except Exception as e:
         print(f"  ⚠️ Erreur téléchargement image : {e}")
