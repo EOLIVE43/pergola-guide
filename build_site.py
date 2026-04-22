@@ -3927,6 +3927,74 @@ def _injecter_tags_seo(html_path):
             # Pas de banner du tout : on l'injecte avant </body>
             html = html.replace('</body>', new_banner + '\n</body>', 1)
 
+# 4.5. Corriger les balises alt des images hero (SEO + accessibilité)
+        # Détecte les alt qui reprennent le H1 (mauvaise pratique) et les remplace
+        # par un alt descriptif basé sur le slug de la page.
+        try:
+            # Déterminer le type de page depuis le chemin du fichier
+            path_str = str(html_path)
+            alt_cible = None
+
+            # Cas 1 : page pilier (fichier à la racine : pergola-bois.html, etc.)
+            # On repère les pages pilier car elles sont à la racine ET correspondent
+            # à un slug dans archi['piliers']
+            # On récupère l'archi pour savoir à quel pilier on a affaire
+            try:
+                archi_local = charger_architecture()
+                filename = html_path.name  # ex: "pergola-bois.html"
+                slug_page = filename.replace(".html", "")
+
+                # Chercher si c'est une page pilier
+                pilier_trouve = next(
+                    (p for p in archi_local["piliers"] if p["slug"] == slug_page),
+                    None
+                )
+                if pilier_trouve and html_path.parent.name in (".", "pergola-guide"):
+                    alt_cible = alt_descriptif_pilier(pilier_trouve)
+
+                # Chercher si c'est une page secondaire (dans un sous-dossier = pilier_id)
+                if not alt_cible and html_path.parent.name != ".":
+                    dossier_parent = html_path.parent.name
+                    pilier_parent = next(
+                        (p for p in archi_local["piliers"] if p["id"] == dossier_parent),
+                        None
+                    )
+                    if pilier_parent:
+                        secondaire_trouve = next(
+                            (s for s in pilier_parent["secondaires"] if s["slug"] == slug_page),
+                            None
+                        )
+                        if secondaire_trouve:
+                            alt_cible = alt_descriptif_secondaire(secondaire_trouve, pilier_parent)
+            except Exception:
+                pass
+
+            # Si on a trouvé un alt descriptif pour cette page, on patche le HTML
+            if alt_cible:
+                alt_safe = alt_cible.replace('"', '&quot;')
+                # Cherche les <img> hero avec alt qui reprend le titre (contient ":" du H1 ou " | Pergola")
+                # On remplace UNIQUEMENT le premier <img> de la page (image hero)
+                # dont l'alt contient " : " ou " | " (signatures typiques des H1)
+                def remplacer_alt_hero(match):
+                    tag = match.group(0)
+                    alt_actuel = match.group(1)
+                    # Si l'alt actuel ressemble à un H1 (contient " : " ou " | "), on le remplace
+                    if " : " in alt_actuel or " | " in alt_actuel or "Guide" in alt_actuel:
+                        return re.sub(r'alt="[^"]*"', f'alt="{alt_safe}"', tag, count=1)
+                    return tag
+
+                # Regex qui cible les <img> (on s'arrête au premier match hero)
+                html_new = re.sub(
+                    r'<img[^>]*alt="([^"]*)"[^>]*>',
+                    remplacer_alt_hero,
+                    html,
+                    count=3  # les 3 premières images (hero + potentiellement cards)
+                )
+                if html_new != html:
+                    html = html_new
+        except Exception as e:
+            print(f"  ⚠️ Patch alt : {e}")
+
         # 5. Remplacer l'ancien HTML du logo par le nouveau (Variante B style magazine)
         # Ancien format : <a href="/" class="logo">🏡 Guide Pergola</a>
         # Nouveau format : <a href="/" class="logo"><span class="logo-pergola">...</span>...</a>
