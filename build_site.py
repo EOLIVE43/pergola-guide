@@ -3873,6 +3873,17 @@ def main():
         # Parfait pour appliquer des changements de config après coup
         mode_fix(archi)
 
+    elif mode == "optimize-images":
+        # Génère les variantes responsive (400/800/1200) pour toutes les images
+        # existantes SANS appeler Replicate (utilise Pillow en local).
+        # À lancer après avoir ajouté le support responsive pour optimiser
+        # les images déjà générées.
+        print("🖼️  Mode OPTIMIZE-IMAGES : génération des variantes responsive")
+        nb_images, nb_variantes = optimiser_toutes_images()
+        print(f"\n🎉 {nb_images} images sources traitées")
+        print(f"   {nb_variantes} variantes créées (400/800/1200)")
+        print("\n➡️  Lance maintenant 'python build_site.py fix' pour mettre à jour le HTML.")
+
     elif mode == "reset-images":
         # Supprime toutes les images des piliers, secondaires et home
         # pour forcer leur régénération au prochain full (avec prompts améliorés).
