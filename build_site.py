@@ -1292,8 +1292,8 @@ def generer_accueil(archi, articles=None, regenerer_images=False):
     cards = ""
     for p in archi["piliers"]:
         img_path = f"/images/piliers/{p['slug']}-1.webp"
-       img_card_html = img_responsive(img_path, alt_descriptif_pilier_card(p), role="card",
-                                        loading="lazy", classe="pilier-card-img")
+        img_card_html = img_responsive(img_path, alt_descriptif_pilier_card(p), role="card",
+                                       loading="lazy", classe="pilier-card-img")
         cards += f'''
     <a href="/{p['slug']}.html" class="pilier-card">
       {img_card_html}
