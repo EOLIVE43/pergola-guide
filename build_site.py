@@ -1732,9 +1732,12 @@ Produis ta réponse STRICTEMENT dans ce format, avec les balises exactement comm
     # ─── CSS spécifique aux pages piliers (inline) ───────────
     css_pilier = '''
   <style>
-    /* Hero pilier : image bandeau fine, titre en dessous (pas superposé) */
-    .pilier-hero-v2{margin:0 0 30px;}
-    .pilier-hero-v2 img{width:100%;height:280px;object-fit:cover;border-radius:10px;display:block;}
+    /* Hero pilier : image grand format Discover-friendly (ratio 16:9 optimisé) */
+    .pilier-hero-v2{margin:0 0 30px;max-width:1100px;margin-left:auto;margin-right:auto;}
+    .pilier-hero-v2 img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;display:block;}
+    @media (max-width:768px){
+      .pilier-hero-v2 img{aspect-ratio:3/2;}
+    }
     .pilier-hero-title{max-width:900px;margin:24px auto 0;padding:0 20px;}
     .pilier-hero-title h1{font-family:Georgia,serif;color:var(--vert,#2d5a3d);font-size:2.2rem;margin:0 0 14px;line-height:1.2;}
     .pilier-hero-title .intro{color:#333;font-size:1.08rem;line-height:1.7;}
@@ -2013,6 +2016,12 @@ Format STRICT :
     .article-body td{padding:10px;border-bottom:1px solid #e0e0e0;}
     .article-body strong{color:#2d5a3d;}
     .article-body a{color:#2d5a3d;text-decoration:underline;}
+
+    /* Hero secondaire : même format que les piliers pour cohérence Discover */
+    .article-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;display:block;margin-bottom:16px;}
+    @media (max-width:768px){
+      .article-img{aspect-ratio:3/2;}
+    }
 
     /* Maillage interne visuel vers autres secondaires */
     /* Hérite de la largeur de .container — pas de max-width/margin propres */
@@ -2789,8 +2798,15 @@ MAILLAGE INTERNE OBLIGATOIRE dans le corps de l'article (pas à la fin) :
     .article-body p{margin:0 0 14px;}
     .article-body ul,.article-body ol{margin:0 0 16px;padding-left:22px;}
     .article-body li{margin:0 0 6px;}
-    .article-body strong{color:#2d5a3d;}
+   .article-body strong{color:#2d5a3d;}
     .article-body a{color:#2d5a3d;text-decoration:underline;}
+
+    /* Hero article blog : même format 16:9 pour cohérence Discover */
+    .article-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:10px;display:block;margin:16px 0;}
+    @media (max-width:768px){
+      .article-img{aspect-ratio:3/2;}
+    }
+
     .intro{font-size:1.08rem;line-height:1.7;color:#333;margin:10px 0 20px;}
     .intro p{margin:0 0 10px;}
 
