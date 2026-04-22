@@ -1,7 +1,8 @@
 name: Pergola Site Builder
 on:
-  schedule:
-    - cron: '0 7 * * *'
+  # Plus de cron fixe : c'est le workflow "Random scheduler (daily article)"
+  # qui déclenche ce build à une heure aléatoire entre 6h et 14h Paris.
+  # Cela évite la signature "publié exactement à 7h tous les jours" aux yeux de Google.
   workflow_dispatch:
     inputs:
       mode:
