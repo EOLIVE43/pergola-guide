@@ -82,5 +82,24 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "entretien-pergola-printemps": {
+    "popularite": "tres_faible",
+    "titre": "Entretien pergola au printemps : la checklist complète",
+    "pilier_id": "bois",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "construire_malin",
+        "region": "Lorraine",
+        "style": "pseudo, optimise chaque euro dépensé",
+        "type_message": "question_diy",
+        "date_prevue": "2026-05-06",
+        "statut": "pending",
+        "reponses": []
+      }
+    ]
   }
 }
