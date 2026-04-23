@@ -7,11 +7,11 @@
   <meta name="robots" content="max-image-preview:large">
     <meta name="google-site-verification" content="TqUMY1r1HbqDksIg2vZCJWCOZhZviEKIQ7bHPiDUR0c">
     <!-- AdSense : inactif pour l'instant -->
-    <!-- Google Analytics 4 (via Consent Mode v2) -->
+    <!-- Google Analytics 4 (lazy load + Consent Mode v2) -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    // Par défaut : tout refusé (RGPD-first)
+    // Consent par défaut : tout refusé (RGPD-first)
     gtag('consent', 'default', {
       'ad_storage': 'denied',
       'ad_user_data': 'denied',
@@ -21,7 +21,7 @@
       'security_storage': 'granted',
       'wait_for_update': 500
     });
-    // Relire le consentement déjà stocké
+    // Relire le consentement stocké
     try {
       var c = JSON.parse(localStorage.getItem('pg_consent') || 'null');
       if (c) {
@@ -35,8 +35,41 @@
     } catch(e) {}
     gtag('js', new Date());
     gtag('config', 'G-67NBZNSJN5', { 'anonymize_ip': true });
+
+    // ─── LAZY LOAD du script gtag.js ───
+    // On diffère son téléchargement pour libérer le main thread pendant le
+    // chargement initial de la page. Déclenché par ce qui arrive en premier :
+    //   - événement 'load' (page totalement chargée)
+    //   - 1ère interaction utilisateur (scroll, click, touch, keydown)
+    //   - fallback à 3,5 s si rien ne se passe (bots, utilisateurs immobiles)
+    (function(){
+      var loaded = false;
+      function loadGA(){
+        if (loaded) return;
+        loaded = true;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-67NBZNSJN5';
+        document.head.appendChild(s);
+      }
+      // Interactions utilisateur (passive = n'entrave pas le scroll)
+      var opts = { once: true, passive: true, capture: true };
+      ['scroll','click','touchstart','keydown','mousemove'].forEach(function(ev){
+        window.addEventListener(ev, loadGA, opts);
+      });
+      // Événement load
+      if (document.readyState === 'complete') {
+        setTimeout(loadGA, 1000);
+      } else {
+        window.addEventListener('load', function(){
+          setTimeout(loadGA, 1000);
+        }, { once: true });
+      }
+      // Fallback absolu : 3,5 s max (important pour que GA tracke les visites
+      // très courtes où l'utilisateur n'interagit pas et quitte avant 'load')
+      setTimeout(loadGA, 3500);
+    })();
   </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-67NBZNSJN5"></script>
   <link rel="canonical" href="https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html">
   <link rel="stylesheet" href="/style.css">
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Pergola et neige : quelles structures supportent le poids ?", "description": "Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois — guides et prix 2025.", "image": "/images/blog/pergola-neige-poids-resistance.webp", "author": {"@type": "Organization", "name": "Pergola Guide"}, "publisher": {"@type": "Organization", "name": "Pergola Guide", "logo": {"@type": "ImageObject", "url": "https://pergola-guide.fr/logo.png"}}, "inLanguage": "fr", "datePublished": "2026-04-20", "dateModified": "2026-04-20"}</script>
