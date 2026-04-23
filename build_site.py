@@ -131,15 +131,23 @@ def balise_gsc():
     return f'<meta name="google-site-verification" content="{GSC_META_CONTENT}">'
 
 def script_ga4_head():
-    """Script GA4 chargé CONDITIONNELLEMENT selon consentement cookies."""
+    """Script GA4 en LAZY LOAD — Consent Mode v2 respecté, chargé hors chemin critique.
+
+    Pattern :
+    - Le Consent Mode est initialisé immédiatement (léger, ~0 ms)
+    - Le vrai script gtag.js est chargé après l'événement 'load' OU à la 1ère
+      interaction utilisateur (scroll/click/touch/keydown), selon ce qui arrive
+      en premier
+    - Cela élimine le forced reflow de ~375 ms pendant le chargement initial,
+      sans perte de tracking (les page_views restent enregistrés)
+    """
     if not GA4_ID:
         return "<!-- GA4 : non configuré -->"
-    # Script Consent Mode v2 + chargement conditionnel
-    return f'''<!-- Google Analytics 4 (via Consent Mode v2) -->
+    return f'''<!-- Google Analytics 4 (lazy load + Consent Mode v2) -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){{dataLayer.push(arguments);}}
-    // Par défaut : tout refusé (RGPD-first)
+    // Consent par défaut : tout refusé (RGPD-first)
     gtag('consent', 'default', {{
       'ad_storage': 'denied',
       'ad_user_data': 'denied',
@@ -149,7 +157,7 @@ def script_ga4_head():
       'security_storage': 'granted',
       'wait_for_update': 500
     }});
-    // Relire le consentement déjà stocké
+    // Relire le consentement stocké
     try {{
       var c = JSON.parse(localStorage.getItem('pg_consent') || 'null');
       if (c) {{
@@ -163,8 +171,41 @@ def script_ga4_head():
     }} catch(e) {{}}
     gtag('js', new Date());
     gtag('config', '{GA4_ID}', {{ 'anonymize_ip': true }});
-  </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id={GA4_ID}"></script>'''
+
+    // ─── LAZY LOAD du script gtag.js ───
+    // On diffère son téléchargement pour libérer le main thread pendant le
+    // chargement initial de la page. Déclenché par ce qui arrive en premier :
+    //   - événement 'load' (page totalement chargée)
+    //   - 1ère interaction utilisateur (scroll, click, touch, keydown)
+    //   - fallback à 3,5 s si rien ne se passe (bots, utilisateurs immobiles)
+    (function(){{
+      var loaded = false;
+      function loadGA(){{
+        if (loaded) return;
+        loaded = true;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id={GA4_ID}';
+        document.head.appendChild(s);
+      }}
+      // Interactions utilisateur (passive = n'entrave pas le scroll)
+      var opts = {{ once: true, passive: true, capture: true }};
+      ['scroll','click','touchstart','keydown','mousemove'].forEach(function(ev){{
+        window.addEventListener(ev, loadGA, opts);
+      }});
+      // Événement load
+      if (document.readyState === 'complete') {{
+        setTimeout(loadGA, 1000);
+      }} else {{
+        window.addEventListener('load', function(){{
+          setTimeout(loadGA, 1000);
+        }}, {{ once: true }});
+      }}
+      // Fallback absolu : 3,5 s max (important pour que GA tracke les visites
+      // très courtes où l'utilisateur n'interagit pas et quitte avant 'load')
+      setTimeout(loadGA, 3500);
+    }})();
+  </script>'''
 
 def script_adsense_head():
     """Script AdSense dans le <head> — vide si inactif."""
