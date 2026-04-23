@@ -110,7 +110,172 @@
   <meta name="twitter:image:alt" content="Blog Pergola — Pergola Guide">
   <link rel="canonical" href="https://pergola-guide.fr/blog.html">
   
-  <link rel="stylesheet" href="/style.css">
+  <style>/* ===== PERGOLA GUIDE FRANCE v2 ===== */
+:root {
+  --vert: #2d6a4f;
+  --vert-clair: #52b788;
+  --vert-pale: #d8f3dc;
+  --beige: #fefae0;
+  --beige-fonce: #f0e6c8;
+  --texte: #1b1b1b;
+  --texte-secondaire: #555;
+  --blanc: #ffffff;
+  --gris-clair: #f5f5f5;
+  --max-width: 1200px;
+  --font-titre: 'Georgia', 'Times New Roman', serif;
+  --font-corps: 'Segoe UI', system-ui, sans-serif;
+  --radius: 8px;
+  --ombre: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font-corps); color: var(--texte); background: var(--beige); line-height: 1.7; font-size: 17px; }
+
+/* ─── HEADER ─────────────────────────────────────────────── */
+header { background: var(--vert); padding: 0; position: sticky; top: 0; z-index: 200; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 60px; }
+.logo { color: #fff; text-decoration: none; font-size: 1.2rem; font-weight: 700; font-family: var(--font-titre); white-space: nowrap; }
+.menu-toggle { display: none; background: none; border: none; color: #fff; font-size: 1.4rem; cursor: pointer; padding: 8px; }
+
+/* ─── NAVIGATION ─────────────────────────────────────────── */
+#main-nav { display: flex; align-items: center; gap: 4px; }
+#main-nav > a { color: rgba(255,255,255,0.85); text-decoration: none; padding: 8px 12px; font-size: 0.9rem; border-radius: 4px; transition: background .2s; white-space: nowrap; }
+#main-nav > a:hover { background: rgba(255,255,255,0.15); color: #fff; }
+
+/* Menu déroulant piliers */
+.menu-deroulant { display: flex; align-items: center; gap: 2px; }
+.menu-item { position: relative; }
+.menu-pilier { display: block; color: rgba(255,255,255,0.85); text-decoration: none; padding: 8px 10px; font-size: 0.85rem; border-radius: 4px; transition: background .2s; white-space: nowrap; cursor: pointer; }
+.menu-item:hover .menu-pilier, .menu-item.active .menu-pilier { background: rgba(255,255,255,0.15); color: #fff; }
+.sous-menu { display: none; position: absolute; top: 100%; left: 0; background: #fff; border-radius: var(--radius); box-shadow: 0 4px 24px rgba(0,0,0,0.15); min-width: 220px; padding: 8px 0; z-index: 300; }
+.menu-item:hover .sous-menu { display: block; }
+.sous-menu a { display: block; padding: 8px 16px; color: var(--texte); text-decoration: none; font-size: 0.88rem; transition: background .15s; }
+.sous-menu a:hover { background: var(--vert-pale); color: var(--vert); }
+
+/* ─── CONTAINER ──────────────────────────────────────────── */
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 20px; }
+
+/* ─── HERO ────────────────────────────────────────────────── */
+.hero { background: linear-gradient(135deg, var(--vert) 0%, var(--vert-clair) 100%); color: #fff; padding: 80px 20px; text-align: center; }
+.hero h1 { font-family: var(--font-titre); font-size: clamp(1.8rem, 4vw, 2.8rem); color: #fff; margin-bottom: 16px; }
+.hero p { font-size: 1.1rem; opacity: .9; max-width: 600px; margin: 0 auto 32px; }
+.btn-hero { display: inline-block; background: #fff; color: var(--vert); padding: 14px 32px; border-radius: 40px; text-decoration: none; font-weight: 700; transition: transform .2s, box-shadow .2s; box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+.btn-hero:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.2); }
+
+/* ─── GRILLES ────────────────────────────────────────────── */
+.section-titre { font-family: var(--font-titre); font-size: 1.6rem; color: var(--vert); padding: 40px 0 20px; }
+.piliers-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding-bottom: 40px; }
+.pilier-card { background: var(--blanc); border-radius: var(--radius); box-shadow: var(--ombre); text-decoration: none; color: inherit; transition: transform .2s, box-shadow .2s; border-top: 4px solid var(--vert-clair); }
+.pilier-card:hover { transform: translateY(-4px); box-shadow: 0 6px 24px rgba(0,0,0,0.12); }
+.pilier-card-body { padding: 24px; }
+.pilier-card-body h2 { font-family: var(--font-titre); font-size: 1.15rem; color: var(--vert); margin-bottom: 8px; }
+.pilier-card-body p { font-size: 0.9rem; color: var(--texte-secondaire); margin-bottom: 12px; }
+.voir-plus { font-size: 0.85rem; color: var(--vert-clair); font-weight: 600; }
+.articles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; padding-bottom: 40px; }
+
+/* ─── CARDS ARTICLES ─────────────────────────────────────── */
+.article-card { background: var(--blanc); border-radius: var(--radius); box-shadow: var(--ombre); overflow: hidden; text-decoration: none; color: inherit; display: block; transition: transform .2s, box-shadow .2s; }
+.article-card:hover { transform: translateY(-4px); box-shadow: 0 6px 24px rgba(0,0,0,0.12); }
+.card-image { width: 100%; height: 180px; object-fit: cover; display: block; }
+.card-body { padding: 16px; }
+.card-body h2 { font-family: var(--font-titre); font-size: 1rem; color: var(--texte); margin: 8px 0; line-height: 1.35; }
+.card-body p { font-size: 0.88rem; color: var(--texte-secondaire); }
+
+/* ─── PAGE PILIER ─────────────────────────────────────────── */
+.page-pilier { padding: 24px 0 60px; }
+.pilier-hero { position: relative; border-radius: var(--radius); overflow: hidden; margin-bottom: 32px; max-height: 400px; }
+.pilier-hero img { width: 100%; height: 400px; object-fit: cover; display: block; }
+.pilier-hero-content { position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 32px; color: #fff; }
+.pilier-hero-content h1 { font-family: var(--font-titre); font-size: clamp(1.6rem, 3vw, 2.4rem); color: #fff; margin-bottom: 8px; }
+.pilier-hero-content .intro { opacity: .9; font-size: 1.05rem; }
+
+/* ─── LAYOUT PAGE ─────────────────────────────────────────── */
+.page-layout { display: grid; grid-template-columns: 1fr 280px; gap: 40px; align-items: start; }
+@media (max-width: 768px) {
+  .page-layout { grid-template-columns: 1fr; }
+  .sidebar { order: 2; }
+  .menu-toggle { display: block; }
+  #main-nav { display: none; position: absolute; top: 60px; left: 0; right: 0; background: var(--vert); flex-direction: column; padding: 16px; gap: 8px; }
+  #main-nav.open { display: flex; }
+  .menu-deroulant { flex-direction: column; width: 100%; }
+  .sous-menu { display: block; position: static; box-shadow: none; background: rgba(255,255,255,0.1); }
+  .sous-menu a { color: rgba(255,255,255,0.85); }
+}
+
+/* ─── CONTENU ARTICLE ─────────────────────────────────────── */
+.contenu-principal h1 { font-family: var(--font-titre); font-size: clamp(1.6rem, 3vw, 2.2rem); color: var(--vert); margin-bottom: 16px; }
+.article-img { width: 100%; height: 360px; object-fit: cover; border-radius: var(--radius); margin: 16px 0 6px; }
+.intro { font-size: 1.05rem; color: var(--texte-secondaire); border-left: 4px solid var(--vert-clair); padding-left: 16px; margin: 16px 0 24px; }
+.article-body h2 { font-family: var(--font-titre); font-size: 1.45rem; color: var(--vert); margin: 36px 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--beige-fonce); }
+.article-body h3 { font-size: 1.1rem; color: var(--vert); margin: 24px 0 10px; }
+.article-body p { margin-bottom: 18px; }
+.article-body ul, .article-body ol { margin: 0 0 18px 24px; }
+.article-body li { margin-bottom: 6px; }
+.article-body strong { color: var(--vert); }
+
+/* ─── TABLES PRIX ─────────────────────────────────────────── */
+.prix-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 0.95rem; box-shadow: var(--ombre); border-radius: var(--radius); overflow: hidden; }
+.prix-table th { background: var(--vert); color: #fff; padding: 12px 16px; text-align: left; }
+.prix-table td { padding: 11px 16px; border-bottom: 1px solid var(--beige-fonce); }
+.prix-table tr:nth-child(even) td { background: var(--gris-clair); }
+
+/* ─── ENCADRÉS ────────────────────────────────────────────── */
+.encadre { background: var(--beige-fonce); border-left: 4px solid var(--vert-clair); border-radius: 0 var(--radius) var(--radius) 0; padding: 16px 20px; margin: 24px 0; }
+
+/* ─── FAQ ─────────────────────────────────────────────────── */
+.faq-section { margin-top: 40px; }
+.faq-section h2 { font-family: var(--font-titre); font-size: 1.4rem; color: var(--vert); margin-bottom: 20px; }
+.faq-item { border: 1px solid var(--beige-fonce); border-radius: var(--radius); margin-bottom: 10px; overflow: hidden; }
+.faq-question { width: 100%; background: var(--blanc); border: none; padding: 14px 20px; text-align: left; font-size: 1rem; font-weight: 600; color: var(--vert); cursor: pointer; display: flex; justify-content: space-between; }
+.faq-question::after { content: '+'; font-size: 1.4rem; }
+.faq-question.open::after { content: '−'; }
+.faq-reponse { display: none; padding: 14px 20px; background: var(--gris-clair); font-size: 0.95rem; }
+.faq-reponse.open { display: block; }
+
+/* ─── MAILLAGE INTERNE ────────────────────────────────────── */
+.maillage-interne { background: var(--vert-pale); border-radius: var(--radius); padding: 20px; margin: 32px 0; }
+.maillage-interne h3 { font-size: 1rem; color: var(--vert); margin-bottom: 12px; }
+.lien-maillage { display: block; color: var(--vert); text-decoration: none; padding: 6px 0; font-weight: 600; font-size: 0.95rem; }
+.lien-maillage:hover { color: var(--vert-clair); }
+
+/* ─── ARTICLES CONNEXES ───────────────────────────────────── */
+.articles-connexes { margin-top: 40px; padding-top: 32px; border-top: 2px solid var(--beige-fonce); }
+.articles-connexes h2 { font-family: var(--font-titre); font-size: 1.3rem; color: var(--vert); margin-bottom: 16px; }
+.connexes-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 14px; }
+.connexe-card { background: var(--blanc); border-radius: var(--radius); box-shadow: var(--ombre); overflow: hidden; text-decoration: none; color: inherit; display: block; transition: transform .2s; }
+.connexe-card:hover { transform: translateY(-3px); }
+.connexe-card img { width: 100%; height: 110px; object-fit: cover; }
+.connexe-card-body { padding: 10px; }
+.connexe-card-body h3 { font-size: 0.85rem; color: var(--vert); line-height: 1.3; }
+
+/* ─── SIDEBAR ─────────────────────────────────────────────── */
+.sidebar { position: sticky; top: 80px; }
+.widget { background: var(--blanc); border-radius: var(--radius); padding: 20px; margin-bottom: 20px; box-shadow: var(--ombre); }
+.widget h3 { font-size: 1rem; color: var(--vert); margin-bottom: 14px; padding-bottom: 10px; border-bottom: 2px solid var(--beige-fonce); }
+.widget h4 { font-size: 0.85rem; color: var(--texte-secondaire); margin: 12px 0 6px; }
+.widget a { display: block; padding: 7px 0; color: var(--texte); text-decoration: none; font-size: 0.88rem; border-bottom: 1px solid var(--beige-fonce); transition: color .2s; }
+.widget a:hover { color: var(--vert-clair); }
+.widget a:last-child { border-bottom: none; }
+.lien-secondaire { display: block; padding: 7px 0; color: var(--vert); text-decoration: none; font-size: 0.9rem; border-bottom: 1px solid var(--beige-fonce); font-weight: 500; }
+.lien-secondaire:hover { color: var(--vert-clair); }
+
+/* ─── FIL D'ARIANE ────────────────────────────────────────── */
+.fil-ariane { font-size: 0.85rem; color: var(--texte-secondaire); margin-bottom: 20px; padding: 12px 0; }
+.fil-ariane a { color: var(--vert); text-decoration: none; }
+.fil-ariane a:hover { text-decoration: underline; }
+
+/* ─── CATÉGORIE BADGE ─────────────────────────────────────── */
+.categorie { display: inline-block; background: var(--vert-clair); color: #fff; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; padding: 3px 10px; border-radius: 20px; margin-bottom: 10px; }
+
+/* ─── IMAGE CREDIT ────────────────────────────────────────── */
+.image-credit { font-size: 0.72rem; color: #bbb; margin-top: 4px; text-align: right; }
+.image-credit a { color: #bbb; text-decoration: none; }
+
+/* ─── FOOTER ──────────────────────────────────────────────── */
+footer { background: var(--vert); color: rgba(255,255,255,0.8); padding: 30px 0; text-align: center; font-size: 0.9rem; margin-top: 60px; }
+footer a { color: var(--vert-clair); text-decoration: none; }
+footer p { margin-bottom: 6px; }
+</style>
 
   <style>
     .blog-hero{max-width:1100px;margin:30px auto 0;padding:0 20px;text-align:center;}
