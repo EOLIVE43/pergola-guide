@@ -1237,9 +1237,40 @@ def banner_cookies():
 '''
 
 # ─── CHEMINS CSS / JS ─────────────────────────────────────
+# ─── CHEMINS CSS / JS ─────────────────────────────────────
 # Avec des liens absolus pour les assets, plus besoin de gérer la profondeur.
+
+_CSS_CACHE = None
+
 def lien_css():
+    """Injecte le contenu de /style.css en INLINE dans le HTML pour éliminer
+    le render-blocking (économie ~310 ms sur FCP mobile).
+
+    Le fichier est lu une seule fois au premier appel et caché en mémoire pour
+    toute la durée du build. Si /style.css n'est pas trouvé, on retombe sur le
+    <link> classique comme sécurité.
+    """
+    global _CSS_CACHE
+    if _CSS_CACHE is None:
+        css_path = Path("style.css")
+        if css_path.exists():
+            try:
+                _CSS_CACHE = css_path.read_text(encoding="utf-8")
+            except Exception as e:
+                print(f"  ⚠️ Lecture style.css échouée : {e}")
+                _CSS_CACHE = ""
+        else:
+            _CSS_CACHE = ""
+
+    if _CSS_CACHE:
+        # CSS inliné : 0 requête réseau, rendu immédiat
+        return f'<style>{_CSS_CACHE}</style>'
+    # Fallback : link classique si style.css introuvable
     return '<link rel="stylesheet" href="/style.css">'
+
+def lien_js():
+    # defer = non bloquant, téléchargé en parallèle, exécuté après le parsing HTML
+    return '<script src="/main.js" defer></script>'
 
 def lien_js():
     # defer = non bloquant, téléchargé en parallèle, exécuté après le parsing HTML
