@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'Mode : full (site complet), blog (article quotidien), fix (MAJ templates sans API), comments (commentaires du jour)'
+        description: 'Mode : full (site complet), blog (article quotidien), fix (MAJ templates sans API), comments (commentaires du jour), optimize-images (rattrapage variantes responsive)'
         required: true
         default: 'blog'
         type: choice
@@ -16,6 +16,7 @@ on:
           - fix
           - comments
           - reset-images
+          - optimize-images
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,7 +33,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Installer les dépendances
-        run: pip install anthropic
+        run: pip install anthropic Pillow
       - name: Construire le site
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
