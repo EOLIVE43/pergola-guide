@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 14:56:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:02:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 jardin : le guide complet pour aménager spacieusement</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Découvrez tout sur la pergola 4x4 jardin : avantages, installation, prix et conseils pour choisir la solution idéale pour vos espaces extérieurs spacieux.</description>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola copropriété : comment Nathalie a obtenu ses autorisations à Bordeaux</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois — guides et prix 2025.</description>
       <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantages, prix et conseils d'experts 2025.</description>
-      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
