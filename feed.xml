@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:02:05 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:55:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : comment l'utiliser 12 mois/an ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Pergola bioclimatique hiver : découvrez comment optimiser votre pergola solaire toute l'année avec nos réponses pratiques et conseils d'experts.</description>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : le guide complet pour aménager spacieusement</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine magnifique sur votre pergola et la maintenir en parfait état.</description>
       <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et neige : quelles structures supportent le poids ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois — guides et prix 2025.</description>
-      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
