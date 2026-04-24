@@ -101,5 +101,35 @@
         "reponses": []
       }
     ]
+  },
+  "pergola-bioclimatique-installation-soi-meme": {
+    "popularite": "tres_faible",
+    "titre": "Peut-on installer une pergola bioclimatique soi-même ?",
+    "pilier_id": "bioclimatique",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Julien O.",
+        "region": "Var",
+        "style": "sudiste, priorité à l'ombrage et la chaleur",
+        "type_message": "partage_devis_recu",
+        "date_prevue": "2026-05-03",
+        "statut": "pending",
+        "reponses": [
+          {
+            "id": "r0_0",
+            "type": "reponse",
+            "profil": "Paulette N.",
+            "region": "Gard",
+            "style": "apicultrice, biodiversité et plantes",
+            "type_message": "conseil_materiau",
+            "date_prevue": "2026-05-07",
+            "statut": "pending"
+          }
+        ]
+      }
+    ]
   }
 }
