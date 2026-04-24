@@ -146,5 +146,12 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-copropriete-regles": {
+    "popularite": "tres_faible",
+    "titre": "Pergola en copropriété : règles et autorisations nécessaires",
+    "pilier_id": "installation",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }

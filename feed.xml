@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 12:07:34 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:56:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola copropriété : comment Nathalie a obtenu ses autorisations à Bordeaux</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Cas concret : pergola copropriété règles. Découvrez comment obtenir les autorisations en immeuble, les étapes légales et le budget réel 2026 à Bordeaux.</description>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 plantes grimpantes pergola France : le guide complet du jardinier</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantages, prix et conseils d'experts 2025.</description>
       <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment fixer une pergola adossée sur un mur en parpaing ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing : matériel, techniques, prix et erreurs à éviter pour une installation durable et sécurisée.</description>
-      <pubDate>Mon, 20 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
