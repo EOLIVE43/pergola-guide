@@ -168,5 +168,12 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "installer-pergola-weekend": {
+    "popularite": "tres_faible",
+    "titre": "Installer sa pergola en un week-end : guide étape par étape",
+    "pilier_id": "installation",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }

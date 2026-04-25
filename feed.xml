@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 25 Apr 2026 11:27:25 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 11:58:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer sa pergola en un week-end : 8 étapes simples</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Installer pergola week-end en 8 étapes faciles. Guide complet : préparation, fixation, pose. Résultat pro samedi-dimanche. Conseils d'expert gratuits.</description>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola : avantages et limites face aux stores classiques</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique vs classique : découvrez les 8 différences majeures pour choisir la structure idéale pour votre terrasse et votre budget.</description>
       <pubDate>Tue, 21 Apr 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment obtenir un bon devis pour sa pergola ?</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Découvrez comment obtenir un devis pergola artisan au meilleur prix. Guide complet pour comparer les offres, négocier et économiser sur votre pergola bioclimatique.</description>
-      <pubDate>Tue, 21 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
