@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 25 Apr 2026 14:10:43 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 14:33:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola terrasse bois composite : le chantier réussi de Sophie et Julien en…</title>
+      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
+      <description>Découvrez comment ce couple a installé une pergola bioclimatique sur sa terrasse bois composite : fixation, budget réel 2026, et retours d'expérience précis pour votre projet.</description>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : laquelle choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la taille pergola idéale selon votre terrasse. 7 conseils essentiels pour ne pas vous tromper et profiter pleinement de votre espace extérieur.</description>
       <pubDate>Wed, 22 Apr 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola dalle béton : ancrage direct ou plots ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Fixer pergola dalle béton : comparatif ancrage direct vs plots. Découvrez la meilleure technique d'installation selon votre terrasse et budget.</description>
-      <pubDate>Wed, 22 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
