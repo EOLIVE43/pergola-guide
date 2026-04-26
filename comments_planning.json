@@ -216,5 +216,35 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-aluminium-couleurs-disponibles": {
+    "popularite": "tres_faible",
+    "titre": "Pergola aluminium : quelles couleurs et finitions choisir ?",
+    "pilier_id": "aluminium",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "terrasse_pro",
+        "region": "Gironde",
+        "style": "pseudo, paysagiste amateur très sérieux",
+        "type_message": "complement_information",
+        "date_prevue": "2026-05-04",
+        "statut": "pending",
+        "reponses": [
+          {
+            "id": "r0_0",
+            "type": "reponse",
+            "profil": "Florian B.",
+            "region": "Nantes",
+            "style": "musicien, terrasse pour répétitions dehors",
+            "type_message": "conseil_materiau",
+            "date_prevue": "2026-05-06",
+            "statut": "pending"
+          }
+        ]
+      }
+    ]
   }
 }
