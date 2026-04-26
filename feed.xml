@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 11:28:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 12:01:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : avantages et inconvénients face à l'ouverte</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Pergola couverte avantages : découvrez pourquoi choisir une pergola fermée. Comparaison complète avec pergola ouverte, protection, prix et conseils pratiques 2026.</description>
+      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : comment choisir la bonne finition ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Brise-vue pergola jardin : guide complet au printemps 2026 pour installer votre protection d'intimité avant les beaux jours. Solutions esthétiques et efficaces.</description>
       <pubDate>Thu, 23 Apr 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 matériaux pour une pergola rustique campagne authentique</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Découvrez les 8 meilleurs matériaux pour créer une pergola rustique campagne. Bois, fer forgé, pierre : guide complet avec inspirations et conseils d'experts.</description>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
