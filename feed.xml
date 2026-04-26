@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 10:10:34 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 10:32:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola en bois : le guide pratique pour choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Découvrez comment peindre ou lasurer une pergola en bois. Comparaison des techniques, prix, durabilité et conseils pratiques pour protéger votre pergola.</description>
+      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : découvrez si cette dimension convient à votre espace, les réglementations, tarifs et étapes d'installation. Guide complet en questions-réponses.</description>
       <pubDate>Wed, 22 Apr 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola : toiture en verre ou polycarbonate ? Le comparatif des matériaux</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Quel matériau choisir pour la toiture de sa pergola ? Découvrez le comparatif complet : verre, polycarbonate, bois. Avantages, prix, entretien.</description>
-      <pubDate>Wed, 22 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
