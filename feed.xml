@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 14:12:13 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 14:34:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : 8 points essentiels avant d'acheter</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Store pergola motorisé : découvrez prix, avantages et installation en 8 étapes clés. Guide complet pour choisir votre équipement outdoor 2026.</description>
+      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 solutions d'éclairage LED pergola pour illuminer votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez les conseils et précautions essentielles au printemps 2026 pour préserver votre structure en bois ou métal.</description>
       <pubDate>Thu, 23 Apr 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : 5 secrets pour la protéger 20 ans</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, entretien, matériaux : le guide complet pour une pergola durable sans entretien constant.</description>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
