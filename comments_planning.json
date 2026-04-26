@@ -192,5 +192,24 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "budget-pergola-france": {
+    "popularite": "tres_faible",
+    "titre": "Quel budget prévoir pour une pergola en France en 2026 ?",
+    "pilier_id": "prix",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Eva I.",
+        "region": "Nantes",
+        "style": "graphiste, sens visuel développé",
+        "type_message": "question_reglementation",
+        "date_prevue": "2026-05-08",
+        "statut": "pending",
+        "reponses": []
+      }
+    ]
   }
 }
