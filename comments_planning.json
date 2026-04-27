@@ -340,5 +340,10 @@
         "reponses": []
       }
     ]
+  },
+  "pergola-bioclimatique-entretien": {
+    "popularite": "tres_faible",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
