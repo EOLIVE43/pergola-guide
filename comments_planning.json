@@ -321,5 +321,24 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "quelle-essence-bois-pergola": {
+    "popularite": "tres_faible",
+    "titre": "Quelle essence de bois choisir pour une pergola durable ?",
+    "pilier_id": "bois",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "retraite_active",
+        "region": "Sud",
+        "style": "pseudo, retraité dynamique, temps et budget",
+        "type_message": "remerciement_avec_question",
+        "date_prevue": "2026-05-04",
+        "statut": "pending",
+        "reponses": []
+      }
+    ]
   }
 }

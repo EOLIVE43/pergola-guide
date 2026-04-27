@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:10:55 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:28:06 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Essence bois pergola : comment choisir le bois le plus durable ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez quelle essence de bois choisir pour une pergola durable et résistante. Comparaison des meilleures essences, prix et conseils pratiques pour votre terrasse.</description>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : beauté rouillée et durabilité éternelle</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Cas concret : pergola copropriété règles. Découvrez comment obtenir les autorisations en immeuble, les étapes légales et le budget réel 2026 à Bordeaux.</description>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 plantes grimpantes pergola France : le guide complet du jardinier</title>
-      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
-      <description>Découvrez les meilleures plantes grimpantes pergola France : clématite, lierre, glycine. Guide complet avec conseils de plantation et entretien pour votre jardin.</description>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
