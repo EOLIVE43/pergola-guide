@@ -271,5 +271,45 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "bache-pergola-comment-choisir": {
+    "popularite": "tres_faible",
+    "titre": "Comment choisir sa bâche de pergola : imperméabilité et résistance",
+    "pilier_id": "toiture",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Camille W.",
+        "region": "Champagne",
+        "style": "photographe, très sensible à l'esthétique visuelle",
+        "type_message": "partage_devis_recu",
+        "date_prevue": "2026-05-09",
+        "statut": "pending",
+        "reponses": [
+          {
+            "id": "r0_0",
+            "type": "reponse",
+            "profil": "Luna L.",
+            "region": "Marseille",
+            "style": "artiste, couleurs et lumière essentielles",
+            "type_message": "retour_experience_positif",
+            "date_prevue": "2026-05-11",
+            "statut": "pending",
+            "contre_reponse": {
+              "id": "cr0_0",
+              "type": "contre_reponse",
+              "profil": "Camille W.",
+              "region": "Champagne",
+              "style": "photographe, très sensible à l'esthétique visuelle",
+              "type_message": "remerciement_avec_question",
+              "date_prevue": "2026-05-14",
+              "statut": "pending"
+            }
+          }
+        ]
+      }
+    ]
   }
 }
