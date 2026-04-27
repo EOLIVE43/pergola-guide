@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:09:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:13:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine : 5 idées d'aménagement pour votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Découvrez comment aménager une pergola bord de piscine : styles, matériaux, prix et conseils pour créer un espace détente parfait.</description>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Bâche pergola : imperméabilité ou résistance ? Le guide pour choisir</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais coûts d'installation d'une pergola : main-d'œuvre, matériaux et pose. Guide complet des prix 2026 pour bien budgétiser votre projet.</description>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 meilleures marques de pergola bioclimatique 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Découvrez les 7 meilleures marques de pergola bioclimatique en 2026. Comparatif complet, prix, avis et conseils pour choisir votre pergola solaire idéale.</description>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
