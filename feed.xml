@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:13:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:10:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : beauté rouillée et durabilité éternelle</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten : découvrez cette structure moderne alliant esthétique rouillée naturelle et résistance exceptionnelle. Guide complet avec prix et conseils d'installation.</description>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine : 5 idées d'aménagement pour votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures plantes grimpantes pergola France : clématite, lierre, glycine. Guide complet avec conseils de plantation et entretien pour votre jardin.</description>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : 8 coûts à prévoir avant de construire</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Découvrez les vrais coûts d'installation d'une pergola : main-d'œuvre, matériaux et pose. Guide complet des prix 2026 pour bien budgétiser votre projet.</description>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
