@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:02:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:16:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 conseils pour bien choisir vos rideaux extérieurs pergola</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Découvrez nos 8 conseils pour choisir les meilleurs rideaux extérieurs pergola : matière, fixation, protection solaire et bien plus. Guide complet.</description>
+      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : 8 étapes annuelles indispensables</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique hiver : découvrez comment optimiser votre pergola solaire toute l'année avec nos réponses pratiques et conseils d'experts.</description>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 jardin : le guide complet pour aménager spacieusement</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Découvrez tout sur la pergola 4x4 jardin : avantages, installation, prix et conseils pour choisir la solution idéale pour vos espaces extérieurs spacieux.</description>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
