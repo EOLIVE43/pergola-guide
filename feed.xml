@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:21:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:29:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : 7 solutions pour prolonger l'utilisation</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Transformez votre pergola en espace 4 saisons avec nos astuces et produits. Découvrez comment aménager une pergola pour l'hiver, l'été et toute l'année. Solutions bioclimatiques et pratiques.</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 roses grimpantes pour pergola : les variétés à privilégier</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium ou bois ? Découvrez le comparatif complet 2026 : prix, durabilité, entretien et esthétique pour bien choisir votre structure.</description>
       <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer sa pergola en un week-end : 8 étapes simples</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Installer pergola week-end en 8 étapes faciles. Guide complet : préparation, fixation, pose. Résultat pro samedi-dimanche. Conseils d'expert gratuits.</description>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

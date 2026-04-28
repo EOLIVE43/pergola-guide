@@ -360,5 +360,24 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-toute-saison-amenager": {
+    "popularite": "tres_faible",
+    "titre": "Transformer sa pergola en espace 4 saisons : astuces et produits",
+    "pilier_id": "bioclimatique",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Lucie Q.",
+        "region": "Franche-Comté",
+        "style": "vétérinaire rurale, jardin fonctionnel",
+        "type_message": "question_entretien",
+        "date_prevue": "2026-05-12",
+        "statut": "pending",
+        "reponses": []
+      }
+    ]
   }
 }
