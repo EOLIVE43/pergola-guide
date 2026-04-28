@@ -420,5 +420,24 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-aluminium-entretien": {
+    "popularite": "tres_faible",
+    "titre": "Comment entretenir sa pergola en aluminium ?",
+    "pilier_id": "aluminium",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Nathalie D.",
+        "region": "Provence",
+        "style": "décoratrice, très attentive au style et aux couleurs",
+        "type_message": "retour_artisan",
+        "date_prevue": "2026-05-05",
+        "statut": "pending",
+        "reponses": []
+      }
+    ]
   }
 }

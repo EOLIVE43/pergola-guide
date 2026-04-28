@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 16:31:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:16:58 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola aluminium : nettoyage facile ou traitement complet ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
+      <description>Découvrez comment bien entretenir votre pergola aluminium. Comparatif nettoyage simple vs traitement annuel pour prolonger sa durée de vie.</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : 8 points clés pour bien choisir entre ipé, teck et…</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola couverte avantages : découvrez pourquoi choisir une pergola fermée. Comparaison complète avec pergola ouverte, protection, prix et conseils pratiques 2026.</description>
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : comment choisir la bonne finition ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Pergola aluminium couleur : guide complet des finitions, teintes et traitements pour sublimer votre terrasse. Conseils d'experts 2026.</description>
-      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
