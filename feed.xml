@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 13:25:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:24:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclarer sa pergola à l'assurance : 8 questions essentielles</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à l'assurance ? Guide complet sur l'assurance pergola déclaration, obligations légales et conseils pour bien protéger votre structure.</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : dois-je vraiment le demander ?</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment peindre ou lasurer une pergola en bois. Comparaison des techniques, prix, durabilité et conseils pratiques pour protéger votre pergola.</description>
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Quel budget pergola France 2026 ? Guide complet des prix : pergola pas cher, bioclimatique, en bois. Réponses claires et chiffres actualisés 2026.</description>
-      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

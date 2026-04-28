@@ -396,5 +396,24 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "assurance-pergola-declaration": {
+    "popularite": "tres_faible",
+    "titre": "Faut-il déclarer sa pergola à son assurance ?",
+    "pilier_id": "installation",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Kevin T.",
+        "region": "Ile-de-France",
+        "style": "millénial, influencé Instagram, goût moderne",
+        "type_message": "conseil_materiau",
+        "date_prevue": "2026-05-11",
+        "statut": "pending",
+        "reponses": []
+      }
+    ]
   }
 }
