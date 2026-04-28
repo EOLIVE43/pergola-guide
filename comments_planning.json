@@ -439,5 +439,10 @@
         "reponses": []
       }
     ]
+  },
+  "pergola-solaire-panneaux": {
+    "popularite": "tres_faible",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
