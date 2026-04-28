@@ -386,5 +386,10 @@
     "pilier_id": "installation",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-bois-autoclave": {
+    "popularite": "tres_faible",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }

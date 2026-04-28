@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:14:31 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:19:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : 5 ans de durabilité testée en climat humide</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Cas concret : pergola bois autoclave 18m² en Bretagne. Avantages réels, durée de vie, budget 2026 et conseils d'un propriétaire satisfait après 5 ans d'utilisation intensive.</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : 8 vérifications essentielles avant pose</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Quelle pergola résiste le mieux au vent ? Découvrez les matériaux, dimensions et critères pour une pergola résistante vent durable face aux tempêtes.</description>
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola terrasse bois composite : le chantier réussi de Sophie et Julien en…</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Découvrez comment ce couple a installé une pergola bioclimatique sur sa terrasse bois composite : fixation, budget réel 2026, et retours d'expérience précis pour votre projet.</description>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
