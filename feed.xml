@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:29:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:14:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola adossée mur mitoyen : 8 vérifications essentielles avant pose</title>
+      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
+      <description>Pergola adossée mur mitoyen : droits, permis, vérifications techniques et légales. Guide complet pour une installation conforme et sécurisée.</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 7 solutions pour prolonger l'utilisation</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment ce couple a installé une pergola bioclimatique sur sa terrasse bois composite : fixation, budget réel 2026, et retours d'expérience précis pour votre projet.</description>
       <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium vs bois : laquelle choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
-      <description>Pergola aluminium ou bois ? Découvrez le comparatif complet 2026 : prix, durabilité, entretien et esthétique pour bien choisir votre structure.</description>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

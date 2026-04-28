@@ -379,5 +379,12 @@
         "reponses": []
       }
     ]
+  },
+  "pergola-adossee-mur-mitoyen": {
+    "popularite": "tres_faible",
+    "titre": "Pergola adossée à un mur mitoyen : ce qu'il faut vérifier",
+    "pilier_id": "installation",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
