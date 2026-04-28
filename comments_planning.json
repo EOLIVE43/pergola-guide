@@ -415,5 +415,10 @@
         "reponses": []
       }
     ]
+  },
+  "pergola-bois-exotique-avantages": {
+    "popularite": "tres_faible",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }
