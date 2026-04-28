@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:19:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:25:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola et permis de construire 2026 : dois-je vraiment le demander ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
+      <description>Pergola permis construire 2026 : découvrez si votre installation en a besoin. Règles actualisées, exemptions et démarches à connaître pour bien choisir.</description>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : 5 ans de durabilité testée en climat humide</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget pergola France 2026 ? Guide complet des prix : pergola pas cher, bioclimatique, en bois. Réponses claires et chiffres actualisés 2026.</description>
       <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : comment bien la choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Quelle pergola résiste le mieux au vent ? Découvrez les matériaux, dimensions et critères pour une pergola résistante vent durable face aux tempêtes.</description>
-      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
