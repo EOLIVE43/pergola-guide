@@ -520,5 +520,10 @@
     "pilier_id": "prix",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-cuisine-exterieure-amenager": {
+    "popularite": "tres_faible",
+    "nb_commentaires": 0,
+    "planning": []
   }
 }

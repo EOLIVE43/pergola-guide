@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:05:23 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:18:06 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuisine extérieure sous pergola : aménager l'espace idéal</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola : comparatif des solutions, budget, entretien et conseils pour bien choisir votre configuration.</description>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : comment bien choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola acier corten : découvrez cette structure moderne alliant esthétique rouillée naturelle et résistance exceptionnelle. Guide complet avec prix et conseils d'installation.</description>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine : 5 idées d'aménagement pour votre jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez comment aménager une pergola bord de piscine : styles, matériaux, prix et conseils pour créer un espace détente parfait.</description>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
