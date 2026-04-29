@@ -468,5 +468,45 @@
     "popularite": "tres_faible",
     "nb_commentaires": 0,
     "planning": []
+  },
+  "pergola-fer-forge-avantages": {
+    "popularite": "tres_faible",
+    "titre": "Pergola en fer forgé : style, durabilité et entretien",
+    "pilier_id": "bois",
+    "nb_commentaires": 1,
+    "planning": [
+      {
+        "id": "c0",
+        "type": "commentaire",
+        "profil": "Florian B.",
+        "region": "Nantes",
+        "style": "musicien, terrasse pour répétitions dehors",
+        "type_message": "question_reglementation",
+        "date_prevue": "2026-05-05",
+        "statut": "pending",
+        "reponses": [
+          {
+            "id": "r0_0",
+            "type": "reponse",
+            "profil": "Céline V.",
+            "region": "Languedoc",
+            "style": "blogueuse jardinage, partage ses projets",
+            "type_message": "retour_experience_positif",
+            "date_prevue": "2026-05-06",
+            "statut": "pending",
+            "contre_reponse": {
+              "id": "cr0_0",
+              "type": "contre_reponse",
+              "profil": "Florian B.",
+              "region": "Nantes",
+              "style": "musicien, terrasse pour répétitions dehors",
+              "type_message": "remerciement_avec_question",
+              "date_prevue": "2026-05-07",
+              "statut": "pending"
+            }
+          }
+        ]
+      }
+    ]
   }
 }

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:57:55 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:09:36 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé : avantages, style intemporel et durabilité maximale</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola fer forgé : style, robustesse et entretien minimal. Guide complet pour choisir votre pergola en fer forgé durable.</description>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment faire en 5 étapes ?</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment créer une pergola japonaise zen dans votre jardin. Guide complet avec plans, matériaux, prix et conseils d'aménagement pour un espace de détente authentique.</description>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile ombrage pergola : 8 critères essentiels pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir votre voile ombrage pergola avec nos 8 critères clés. Matière, dimensions, installation : le guide complet pour une terrasse protégée.</description>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
