@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:18:42 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 11:57:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment faire en 5 étapes ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment faire une déclaration préalable pergola en France : démarches administratives, délais, documents requis et conseils pour éviter les erreurs courantes.</description>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : le printemps, moment idéal pour installer</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir votre voile ombrage pergola avec nos 8 critères clés. Matière, dimensions, installation : le guide complet pour une terrasse protégée.</description>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : 8 points essentiels avant d'acheter</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Store pergola motorisé : découvrez prix, avantages et installation en 8 étapes clés. Guide complet pour choisir votre équipement outdoor 2026.</description>
-      <pubDate>Sun, 26 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
