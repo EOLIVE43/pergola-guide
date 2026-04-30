@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:12:12 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:17:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir ? Guide pratique par terrasse</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir la bonne taille de pergola selon votre terrasse. Conseils, formules et erreurs à éviter pour un projet réussi.</description>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte : avantages et inconvénients face à l'ouverte</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez nos 8 conseils pour choisir les meilleurs rideaux extérieurs pergola : matière, fixation, protection solaire et bien plus. Guide complet.</description>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola bioclimatique : 8 étapes annuelles indispensables</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
-      <description>Entretien pergola bioclimatique : découvrez les 8 étapes clés pour préserver votre installation toute l'année. Guide complet avec conseils d'expert.</description>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
