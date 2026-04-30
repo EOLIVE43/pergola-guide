@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:17:48 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:56:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : guide complet de plantation et taille</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Découvrez comment planter, tailler et entretenir votre glycine sur pergola. Conseils pratiques, calendrier d'entretien et erreurs à éviter pour une floraison spectaculaire.</description>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir ? Guide pratique par terrasse</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola moderne vs contemporaine 2026 : découvrez les différences, tendances design et quel style correspond à votre projet. Guide comparatif complet.</description>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 conseils pour bien choisir vos rideaux extérieurs pergola</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Découvrez nos 8 conseils pour choisir les meilleurs rideaux extérieurs pergola : matière, fixation, protection solaire et bien plus. Guide complet.</description>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
