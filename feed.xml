@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 16:10:58 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:05:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : 8 points clés avant d'investir</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Découvrez les 8 éléments essentiels du store pergola motorisé : prix, avantages, installation et erreurs à éviter. Guide complet pour bien choisir.</description>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : 8 avantages à connaître absolument</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à l'assurance ? Guide complet sur l'assurance pergola déclaration, obligations légales et conseils pour bien protéger votre structure.</description>
       <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis de construire 2026 : dois-je vraiment le demander ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : découvrez si votre installation en a besoin. Règles actualisées, exemptions et démarches à connaître pour bien choisir.</description>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
