@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:05:45 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:01:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola bioclimatique : le guide annuel complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
+      <description>Entretien pergola bioclimatique : calendrier complet, conseils d'experts et astuces pour prolonger la durée de vie de votre structure. Tout ce qu'il faut savoir.</description>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : 8 points clés avant d'investir</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez notre comparatif pergola bois exotique : ipé vs teck vs cumaru. 8 critères essentiels pour choisir la meilleure pergola en bois pour votre terrasse. Durable et esthétique.</description>
       <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclarer sa pergola à l'assurance : 8 questions essentielles</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Faut-il déclarer sa pergola à l'assurance ? Guide complet sur l'assurance pergola déclaration, obligations légales et conseils pour bien protéger votre structure.</description>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
