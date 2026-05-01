@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:01:51 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:13:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : combien coûte vraiment la pose ?</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Découvrez le prix installation pergola en France. Guide complet sur les coûts de main-d'œuvre, pose et facteurs influençant le devis. Chiffres réels 2024.</description>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : le guide annuel complet</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien entretenir votre pergola aluminium. Comparatif nettoyage simple vs traitement annuel pour prolonger sa durée de vie.</description>
       <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique : 8 points clés pour bien choisir entre ipé, teck et…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Découvrez notre comparatif pergola bois exotique : ipé vs teck vs cumaru. 8 critères essentiels pour choisir la meilleure pergola en bois pour votre terrasse. Durable et esthétique.</description>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
