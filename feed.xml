@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:13:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:43:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : quel choix en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Pergola aluminium vs bois : découvrez le comparatif complet 2026. Prix, durabilité, maintenance, esthétique. Tous les critères pour bien choisir.</description>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : combien coûte vraiment la pose ?</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola solaire avec panneaux photovoltaïques : découvrez la rentabilité réelle en printemps 2026. Planifiez votre installation avant l'été et maximisez vos gains énergétiques dès maintenant.</description>
       <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola aluminium : nettoyage facile ou traitement complet ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
-      <description>Découvrez comment bien entretenir votre pergola aluminium. Comparatif nettoyage simple vs traitement annuel pour prolonger sa durée de vie.</description>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
