@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 01 May 2026 14:22:13 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:41:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola terrasse bois composite : installer avant l'été 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
+      <description>Pergola terrasse bois composite : guide complet de fixation et installation au printemps 2026. Conseils d'experts, planning d'action et budget pour poser votre pergola avant l'été.</description>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : 7 variétés pour transformer votre jardin</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages de la pergola fer forgé : style, robustesse et entretien minimal. Guide complet pour choisir votre pergola en fer forgé durable.</description>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment faire en 5 étapes ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Découvrez comment faire une déclaration préalable pergola en France : démarches administratives, délais, documents requis et conseils pour éviter les erreurs courantes.</description>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
