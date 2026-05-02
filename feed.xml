@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 01 May 2026 15:38:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 10:14:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola bioclimatique soi-même : 8 étapes gagnantes</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
+      <description>Installer une pergola bioclimatique soi-même est possible. Découvrez nos 8 étapes pour réussir votre installation DIY sans erreur coûteuse.</description>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium : avantages et inconvénients à connaître avant mai 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment trouver une pergola pas cher sans sacrifier la qualité. 7 questions essentielles pour investir malin dans votre terrasse. Conseils experts et prix réels.</description>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité, normes et prix en 2025</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : guide complet sur la sécurité, les normes de conformité, les démarches administratives et les tarifs. Réponses aux 8 questions essentielles des propriétaires français.</description>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
