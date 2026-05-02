@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 02 May 2026 10:14:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 11:34:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : blanc, gris ou anthracite ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Quelle couleur et finition choisir pour votre pergola aluminium ? Découvrez le comparatif complet des finitions avec tableau de sélection.</description>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer pergola bioclimatique soi-même : 8 étapes gagnantes</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola : comparatif des solutions, budget, entretien et conseils pour bien choisir votre configuration.</description>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : comment bien choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Découvrez comment trouver une pergola pas cher sans sacrifier la qualité. 7 questions essentielles pour investir malin dans votre terrasse. Conseils experts et prix réels.</description>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
