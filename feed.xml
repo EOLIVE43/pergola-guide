@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 02 May 2026 11:34:27 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 12:06:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola bois : le choix de Valérie en Île-de-France</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer une pergola bois ? Découvrez le cas concret de Valérie : comparaison budgets, durabilité et résultats réels 2026.</description>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : blanc, gris ou anthracite ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium en 2026. Guide complet pour bien choisir votre structure de jardin.</description>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Cuisine extérieure sous pergola : aménager l'espace idéal</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Découvrez comment aménager une cuisine extérieure pergola : comparatif des solutions, budget, entretien et conseils pour bien choisir votre configuration.</description>
-      <pubDate>Wed, 29 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
