@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 02 May 2026 14:42:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 11:08:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brise-vue pergola jardin : créer l'intimité sans sacrifier la beauté</title>
+      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
+      <description>Découvrez comment choisir le meilleur brise-vue pour pergola. Solutions esthétiques pour créer l'intimité au jardin. Conseils, prix et installation en 2025.</description>
+      <pubDate>Sun, 03 May 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 7 questions pour bien comparer les prix</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment planter, tailler et entretenir votre glycine sur pergola. Conseils pratiques, calendrier d'entretien et erreurs à éviter pour une floraison spectaculaire.</description>
       <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir ? Guide pratique par terrasse</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir la bonne taille de pergola selon votre terrasse. Conseils, formules et erreurs à éviter pour un projet réussi.</description>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
