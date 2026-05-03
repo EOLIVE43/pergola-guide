@@ -116,7 +116,7 @@
         "style": "sudiste, priorité à l'ombrage et la chaleur",
         "type_message": "partage_devis_recu",
         "date_prevue": "2026-05-03",
-        "statut": "pending",
+        "statut": "done",
         "reponses": [
           {
             "id": "r0_0",
