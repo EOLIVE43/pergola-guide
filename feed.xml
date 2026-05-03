@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 03 May 2026 14:17:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 15:07:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher au printemps : mode d'emploi sans risque</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on vraiment nettoyer sa pergola au Kärcher ? Guide complet printemps 2026 avec conseils, précautions et erreurs à éviter pour préserver votre structure bois ou alu.</description>
+      <pubDate>Sun, 03 May 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 avantages majeurs de la pergola polycarbonate en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment utiliser votre pergola bioclimatique en hiver pour profiter de votre terrasse 12 mois par an. Conseils, chauffage et solutions pratiques.</description>
       <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : comment Didier a sauvé 4 500 € sans perdre…</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Pergola pas cher bonne qualité : découvrez comment un propriétaire français a trouvé l'équilibre prix-durabilité. Chiffres, conseils et erreurs à éviter en 2026.</description>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
