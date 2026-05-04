@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:28:17 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:13:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola bois : quel traitement choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer votre pergola bois ? Découvrez les différences, avantages et inconvénients de chaque traitement pour bien protéger votre structure.</description>
+      <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : le retour d'expérience de Marc en Savoie</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola bioclimatique : calendrier complet, conseils d'experts et astuces pour prolonger la durée de vie de votre structure. Tout ce qu'il faut savoir.</description>
       <pubDate>Fri, 01 May 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : 8 points clés avant d'investir</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Découvrez les 8 éléments essentiels du store pergola motorisé : prix, avantages, installation et erreurs à éviter. Guide complet pour bien choisir.</description>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
