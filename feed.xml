@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 03 May 2026 15:07:55 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:22:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store zip pergola : les avantages d'une protection anti-vent efficace</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
+      <description>Découvrez les avantages du store zip pergola : protection vent optimale, étanchéité renforcée et confort garanti. Guide complet 2026.</description>
+      <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher au printemps : mode d'emploi sans risque</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 avantages d'une pergola 4x4 pour votre jardin spacieux. Guide complet pour choisir la meilleure structure ombragée.</description>
       <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : le guide complet pour l'utiliser toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez comment utiliser votre pergola bioclimatique en hiver pour profiter de votre terrasse 12 mois par an. Conseils, chauffage et solutions pratiques.</description>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
