@@ -231,7 +231,7 @@
         "style": "pseudo, paysagiste amateur très sérieux",
         "type_message": "complement_information",
         "date_prevue": "2026-05-04",
-        "statut": "pending",
+        "statut": "done",
         "reponses": [
           {
             "id": "r0_0",
@@ -336,7 +336,7 @@
         "style": "pseudo, retraité dynamique, temps et budget",
         "type_message": "remerciement_avec_question",
         "date_prevue": "2026-05-04",
-        "statut": "pending",
+        "statut": "done",
         "reponses": []
       }
     ]

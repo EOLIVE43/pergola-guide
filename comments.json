@@ -8,5 +8,25 @@
       "texte": "Bon article ! Je viens de recevoir un devis pour une pergola bioclimatique chez moi en Var, et franchement je me demandais si je pouvais la poser moi-même pour économiser la main-d'œuvre. Mais après avoir vu la complexité des lames orientables et l'électricité à gérer, je pense que je vais faire appel à un pro. Avez-vous une idée du surcoût si on fait installer par un professionnel plutôt que du DIY ?",
       "reponses": []
     }
+  ],
+  "pergola-aluminium-couleurs-disponibles": [
+    {
+      "id": "c0",
+      "auteur": "terrasse_pro",
+      "region": "Gironde",
+      "date": "2026-05-04",
+      "texte": "Petite précision qui a son importance en Gironde : n'oubliez pas que l'aluminium blanc ou gris clair va vraiment chauffer au soleil, surtout si vous mettez une toile de store par-dessus. Je conseillerais plutôt les teintes anthracite ou graphite qui restent plus stables thermiquement et qui vieillissent mieux face à nos embruns de l'Atlantique. L'anodisé mat fait aussi très bon effet et demande moins d'entretien que les finitions brillantes.",
+      "reponses": []
+    }
+  ],
+  "quelle-essence-bois-pergola": [
+    {
+      "id": "c0",
+      "auteur": "retraite_active",
+      "region": "Sud",
+      "date": "2026-05-04",
+      "texte": "Super article, ça m'aide bien pour mon projet de pergola en Sud ! J'hésite entre le pin traité et le mélèze pour le rapport durabilité/budget - vous pensez qu'il y a vraiment une grosse différence de prix entre les deux ? Et côté entretien, c'est vrai qu'on peut laisser le bois griser naturellement sans passer de produit tous les ans ?",
+      "reponses": []
+    }
   ]
 }
