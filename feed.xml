@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 05 May 2026 16:33:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:10:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten ou bois : esthétique rouillée vs naturelle en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten vs bois : découvrez laquelle choisir selon votre style, budget et entretien. Comparatif complet avec tableau décisionnel et verdict expert pour votre terrasse.</description>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : 8 règles et autorisations indispensables</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir le meilleur brise-vue pour pergola. Solutions esthétiques pour créer l'intimité au jardin. Conseils, prix et installation en 2025.</description>
       <pubDate>Sun, 03 May 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan : 7 questions pour bien comparer les prix</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Obtenez un bon devis pergola artisan en posant les bonnes questions. Guide complet pour comparer les prix et éviter les pièges. Tarifs 2024 et conseils.</description>
-      <pubDate>Sat, 02 May 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
