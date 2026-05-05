@@ -28,5 +28,25 @@
       "texte": "Super article, ça m'aide bien pour mon projet de pergola en Sud ! J'hésite entre le pin traité et le mélèze pour le rapport durabilité/budget - vous pensez qu'il y a vraiment une grosse différence de prix entre les deux ? Et côté entretien, c'est vrai qu'on peut laisser le bois griser naturellement sans passer de produit tous les ans ?",
       "reponses": []
     }
+  ],
+  "pergola-aluminium-entretien": [
+    {
+      "id": "c0",
+      "auteur": "Nathalie D.",
+      "region": "Provence",
+      "date": "2026-05-05",
+      "texte": "Excellente synthèse ! J'ai installé une pergola alu anthracite sur ma terrasse en Provence il y a trois ans, et je confirme que le nettoyage régulier à l'eau savonneuse est vraiment la clé pour préserver la teinte. Avec le soleil méditerranéen intense et la poussière des terres ocre, j'ai remarqué que les résidus s'incrustent rapidement si on ne nettoie pas tous les deux mois. Par curiosité, avez-vous des recommandations spécifiques pour protéger les joints entre les lames sans altérer l'aspect brut de l'aluminium ?",
+      "reponses": []
+    }
+  ],
+  "pergola-fer-forge-avantages": [
+    {
+      "id": "c0",
+      "auteur": "Florian B.",
+      "region": "Nantes",
+      "date": "2026-05-05",
+      "texte": "Salut ! Question rapide : est-ce qu'une pergola en fer forgé nécessite une déclaration de travaux à Nantes si on la pose sur une terrasse ? Je voudrais en installer une pour les répétitions avec mon groupe dehors, mais j'aimerais être sûr de respecter la réglementation avant de me lancer. Y a-t-il des normes particulières pour les structures métalliques en zone urbaine ?",
+      "reponses": []
+    }
   ]
 }
