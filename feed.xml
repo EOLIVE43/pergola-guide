@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:50:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:53:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola matériau : verre ou polycarbonate, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Quel matériau pour la toiture de votre pergola ? Comparatif complet : verre, polycarbonate, bois, alu. Guide de décision selon vos besoins et budget 2025.</description>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola polycarbonate avantages : guide complet 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer une pergola bois ? Découvrez le cas concret de Valérie : comparaison budgets, durabilité et résultats réels 2026.</description>
       <pubDate>Sat, 02 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : blanc, gris ou anthracite ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Quelle couleur et finition choisir pour votre pergola aluminium ? Découvrez le comparatif complet des finitions avec tableau de sélection.</description>
-      <pubDate>Sat, 02 May 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
