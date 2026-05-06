@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 06 May 2026 16:14:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:17:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : 4 stratégies pour l'utiliser toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Découvrez comment optimiser votre pergola bioclimatique en hiver avec nos 4 stratégies pour profiter de votre terrasse 12 mois par an. Guide complet.</description>
+      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : le vrai budget d'un couple à Toulouse</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer votre pergola bois ? Découvrez les différences, avantages et inconvénients de chaque traitement pour bien protéger votre structure.</description>
       <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : le retour d'expérience de Marc en Savoie</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : étude de cas réelle d'un propriétaire savoyard. Découvrez quelle structure supporte le poids de la neige et le budget 2026.</description>
-      <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
