@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 06 May 2026 11:32:31 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 12:18:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : 8 avantages qui changent tout</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les 8 avantages majeurs d'une pergola couverte : protection, confort, esthétique. Comparaison pergola ouverte vs couverte pour bien choisir.</description>
+      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : 7 variétés à cultiver cet été</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages clés de la pergola polycarbonate : transparence, durabilité, prix abordable et installation facile. Tout ce qu'il faut savoir pour bien choisir.</description>
       <pubDate>Sun, 03 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : créer une oasis privée et design</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment transformer votre pergola avec un brise-vue pergola jardin efficace. Solutions esthétiques et pratiques pour intimité garantie.</description>
-      <pubDate>Sun, 03 May 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
