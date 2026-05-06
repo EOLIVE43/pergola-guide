@@ -48,5 +48,15 @@
       "texte": "Salut ! Question rapide : est-ce qu'une pergola en fer forgé nécessite une déclaration de travaux à Nantes si on la pose sur une terrasse ? Je voudrais en installer une pour les répétitions avec mon groupe dehors, mais j'aimerais être sûr de respecter la réglementation avant de me lancer. Y a-t-il des normes particulières pour les structures métalliques en zone urbaine ?",
       "reponses": []
     }
+  ],
+  "entretien-pergola-printemps": [
+    {
+      "id": "c0",
+      "auteur": "construire_malin",
+      "region": "Lorraine",
+      "date": "2026-05-06",
+      "texte": "J'aurais une question sur le traitement du bois : vous recommandez quel type de produit pour une pergola exposée plein sud en Lorraine ? J'hésite entre un saturateur et une lasure pour limiter les frais de maintenance, sachant qu'on a pas mal d'humidité ici l'hiver. Y a-t-il une vraie différence de coût et de durabilité entre les deux ?",
+      "reponses": []
+    }
   ]
 }
