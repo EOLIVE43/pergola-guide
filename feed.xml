@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 06 May 2026 13:20:27 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:55:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment faire en 5 étapes ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment remplir une déclaration préalable pour votre pergola : démarches obligatoires, formulaires, délais et conseils pour éviter les recalages en mairie.</description>
+      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : peut-on vraiment au printemps 2026 ?</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages du store zip pergola : protection vent optimale, étanchéité renforcée et confort garanti. Guide complet 2026.</description>
       <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher au printemps : mode d'emploi sans risque</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on vraiment nettoyer sa pergola au Kärcher ? Guide complet printemps 2026 avec conseils, précautions et erreurs à éviter pour préserver votre structure bois ou alu.</description>
-      <pubDate>Sun, 03 May 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
