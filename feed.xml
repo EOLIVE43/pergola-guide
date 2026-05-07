@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:27:04 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:03:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : créer un jardin d'harmonie en Provence</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Découvrez comment Isabelle et Marc ont transformé leur jardin avec une pergola japonaise zen. Retour d'expérience concret, budget précis et leçons pratiques pour votre projet.</description>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 pour terrasse : 8 raisons d'en faire votre choix</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : découvrez les autorisations nécessaires, les démarches administratives et les conditions d'installation en copropriété. Guide complet 2026.</description>
       <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 meilleures marques de pergola bioclimatique en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Découvrez les 8 meilleures marques de pergola bioclimatique 2026. Comparatif complet : Leroy Merlin, Nortene, Biossun et plus. Qualité, prix, garantie.</description>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
