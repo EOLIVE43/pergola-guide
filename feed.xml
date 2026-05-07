@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 07 May 2026 15:57:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:20:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : 8 avantages qui changent tout en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les 8 avantages majeurs de la pergola couverte face à la pergola ouverte. Guide complet pour choisir la pergola idéale pour votre maison.</description>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : installez-la avant l'été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez tous les avantages de la pergola polycarbonate : prix, installation, durabilité et entretien. Réponses claires à vos questions.</description>
       <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : 8 réponses pour créer votre havre de paix</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen : découvrez comment créer un espace zen authentique dans votre jardin. Styles, matériaux, aménagement et prix pour une oasis nippone.</description>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
