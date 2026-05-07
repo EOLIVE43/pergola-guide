@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 06 May 2026 17:18:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:28:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons : comment l'aménager efficacement ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment transformer votre pergola en espace 4 saisons avec nos astuces et produits. Guide complet du pergola 4 saisons aménagement pour profiter toute l'année.</description>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : confort garanti et factures réduites</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola japonaise zen jardin : guide complet pour créer votre espace de détente au printemps 2026. Matériaux, budget, planning d'installation.</description>
       <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola dalle béton : le guide pratique complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Découvrez comment fixer pergola dalle béton facilement. Techniques, matériel, erreurs à éviter et tarifs 2026 pour une installation durable.</description>
-      <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
