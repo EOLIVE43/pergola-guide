@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 07 May 2026 16:27:38 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:27:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 pour terrasse : 8 raisons d'en faire votre choix</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Pergola 4x3 terrasse : découvrez 8 raisons pour lesquelles cette dimension est idéale. Conseils pratiques, prix et astuces d'installation.</description>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : vérifiez votre structure avant l'été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 meilleures marques de pergola bioclimatique 2026. Comparatif complet : Leroy Merlin, Nortene, Biossun et plus. Qualité, prix, garantie.</description>
       <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola matériau : verre ou polycarbonate, que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Quel matériau pour la toiture de votre pergola ? Comparatif complet : verre, polycarbonate, bois, alu. Guide de décision selon vos besoins et budget 2025.</description>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
