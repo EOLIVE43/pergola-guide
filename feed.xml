@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 07 May 2026 12:21:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:21:14 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : le guide complet pour une floraison spectaculaire</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Découvrez comment cultiver, tailler et entretenir une glycine sur pergola. Conseils pratiques pour une floraison abondante et durable en France.</description>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola : comment Sandrine a transformé sa terrasse battue par le vent</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola 3x3 : solutions pratiques, mobilier gain de place et décoration pour petits espaces. Guide complet 2024.</description>
       <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola aluminium : 8 gestes simples à faire chaque année</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
-      <description>Découvrez comment entretenir votre pergola aluminium facilement. 8 gestes essentiels pour prolonger sa durée de vie et conserver son éclat pendant 20 ans.</description>
-      <pubDate>Mon, 04 May 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
