@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:10:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:56:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 idées d'aménagement pergola piscine à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Pergola piscine aménagement : 8 idées pratiques pour créer un espace détente au bord de l'eau. Conseils, styles et erreurs à éviter.</description>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment choisir sa bâche de pergola : imperméabilité et résistance</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : comparatif complet des matériaux, prix, entretien et durabilité. Découvrez quel modèle choisir pour votre terrasse en 2026.</description>
       <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola acier corten ou bois : esthétique rouillée vs naturelle en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Pergola acier corten vs bois : découvrez laquelle choisir selon votre style, budget et entretien. Comparatif complet avec tableau décisionnel et verdict expert pour votre terrasse.</description>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
