@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:58:49 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:18:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité ou esthétique en 2024 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : découvrez comment choisir entre sécurité maximale et transparence totale. Comparatif complet avec prix et avantages.</description>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante vent : comment Stéphane a choisi l'alu face au Mistral</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 avantages majeurs d'une pergola couverte : protection, confort, esthétique. Comparaison pergola ouverte vs couverte pour bien choisir.</description>
       <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : 7 variétés à cultiver cet été</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Rose grimpante pergola : découvrez les meilleures variétés pour fleurir votre structure. Plantation, entretien et conseils experts pour un jardin en fleurs.</description>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
