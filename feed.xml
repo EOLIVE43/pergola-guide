@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 08 May 2026 15:11:38 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:08:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : le guide d'un propriétaire bourguignon en 2026</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Comment obtenir un bon devis pergola artisan ? Découvrez l'histoire concrète de Christophe en Bourgogne : budget réel, erreurs évitées et 5 conseils pour négocier.</description>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 aménagement : 5 idées pour sublimer petits espaces</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Audrey et Marc ont trouvé une pergola pas cher bonne qualité à Toulouse pour 4 500 €. Cas concret 2026 : matériaux, budget détaillé, conseil pratiques.</description>
       <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment faire en 5 étapes ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Découvrez comment remplir une déclaration préalable pour votre pergola : démarches obligatoires, formulaires, délais et conseils pour éviter les recalages en mairie.</description>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
