@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:56:02 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:58:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : comment Stéphane a choisi l'alu face au Mistral</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Stéphane en Provence a opté pour une pergola aluminium autoportante face aux vents violents. Retour chiffré sur son choix, budget et résultats concrets 2026.</description>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 idées d'aménagement pergola piscine à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Rose grimpante pergola : découvrez les meilleures variétés pour fleurir votre structure. Plantation, entretien et conseils experts pour un jardin en fleurs.</description>
       <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Aluminium vs Bois : Quel Choix en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
-      <description>Pergola aluminium vs bois : comparatif complet des matériaux, prix, entretien et durabilité. Découvrez quel modèle choisir pour votre terrasse en 2026.</description>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
