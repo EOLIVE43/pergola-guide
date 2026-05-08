@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:03:56 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:10:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment choisir sa bâche de pergola : imperméabilité et résistance</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Comment choisir sa bâche de pergola : imperméabilité et résistance</description>
+      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : créer un jardin d'harmonie en Provence</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola acier corten vs bois : découvrez laquelle choisir selon votre style, budget et entretien. Comparatif complet avec tableau décisionnel et verdict expert pour votre terrasse.</description>
       <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola en copropriété : 8 règles et autorisations indispensables</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : découvrez les autorisations nécessaires, les démarches administratives et les conditions d'installation en copropriété. Guide complet 2026.</description>
-      <pubDate>Tue, 05 May 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
