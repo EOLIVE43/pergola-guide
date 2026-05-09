@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 May 2026 11:40:22 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 14:21:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 : 8 idées d'aménagement pour petits espaces</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez 8 solutions d'aménagement pour pergola 3x3 : optimisation d'espace, mobilier, végétation et ambiance. Guide pratique pour petits jardins.</description>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : le choix gagnant d'une maison bordelaise</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages concrets d'un store zip pergola : retour d'expérience d'une propriétaire en Nouvelle-Aquitaine. Budget, installation et résultats chiffrés 2026.</description>
       <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Aluminium Couleur : Le Guide Complet pour Bien Choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Découvrez comment choisir la couleur et finition de votre pergola aluminium. Conseils d'experts, tendances 2024 et comparatif des meilleures options pour votre terrasse.</description>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
