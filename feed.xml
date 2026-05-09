@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:54:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:55:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : moderne ou traditionnelle pour votre jardin ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Pergola japonaise zen : comparez les styles modernes et traditionnels pour créer votre espace zen. Guide complet avec tableau comparatif et conseils d'installation.</description>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : 8 étapes annuelles essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, essences, entretien : nos solutions éprouvées pour une durabilité maximale en France.</description>
       <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : 4 stratégies pour l'utiliser toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez comment optimiser votre pergola bioclimatique en hiver avec nos 4 stratégies pour profiter de votre terrasse 12 mois par an. Guide complet.</description>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
