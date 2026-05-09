@@ -286,7 +286,7 @@
         "style": "photographe, très sensible à l'esthétique visuelle",
         "type_message": "partage_devis_recu",
         "date_prevue": "2026-05-09",
-        "statut": "pending",
+        "statut": "done",
         "reponses": [
           {
             "id": "r0_0",
