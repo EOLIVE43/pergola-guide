@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 May 2026 10:35:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:14:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir ? Le guide complet par terrasse</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Comment choisir la taille pergola parfaite pour votre terrasse ? Découvrez nos formules, calculs et erreurs à éviter pour un projet réussi.</description>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Glycine pergola entretien : 8 secrets pour une floraison spectaculaire</title>
       <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment transformer votre pergola en espace 4 saisons avec nos astuces et produits. Guide complet du pergola 4 saisons aménagement pour profiter toute l'année.</description>
       <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : confort garanti et factures réduites</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment le chauffage infrarouge pergola prolonge vos soirées en terrasse. Consommation, installation, économies et meilleurs modèles 2026.</description>
-      <pubDate>Wed, 06 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
