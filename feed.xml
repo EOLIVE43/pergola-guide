@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 09 May 2026 11:14:55 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:40:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : le choix gagnant d'une maison bordelaise</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez comment Valérie a transformé sa pergola avec 3 variétés de roses grimpantes. Cas concret, budget réel et conseils pour réussir votre rose grimpante pergola.</description>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir ? Le guide complet par terrasse</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la couleur et finition de votre pergola aluminium. Conseils d'experts, tendances 2024 et comparatif des meilleures options pour votre terrasse.</description>
       <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons : comment l'aménager efficacement ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment transformer votre pergola en espace 4 saisons avec nos astuces et produits. Guide complet du pergola 4 saisons aménagement pour profiter toute l'année.</description>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
