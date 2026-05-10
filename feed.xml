@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 10 May 2026 09:25:38 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:53:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 terrasse : 8 raisons d'adopter cette dimension</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Pergola 4x3 terrasse : découvrez les 8 avantages de cette dimension idéale pour votre aménagement extérieur. Guide complet et conseils d'experts.</description>
+      <pubDate>Sun, 10 May 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan ou estimation en ligne : que choisir ?</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez quelles structures supportent le poids en 2026. Guide complet avec timing actions et budget printemps.</description>
       <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte : 8 avantages qui changent tout en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Découvrez les 8 avantages majeurs de la pergola couverte face à la pergola ouverte. Guide complet pour choisir la pergola idéale pour votre maison.</description>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
