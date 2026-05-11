@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 11 May 2026 09:32:48 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:42:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les vrais tarifs, coûts d'installation et facteurs qui influencent vos dépenses. Guide complet et chiffres actualisés.</description>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Cuisine extérieure pergola : comment l'aménager pour 8 000 € à Toulouse</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : 8 idées pratiques pour créer un espace détente au bord de l'eau. Conseils, styles et erreurs à éviter.</description>
       <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment choisir sa bâche de pergola : imperméabilité et résistance</title>
-      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
-      <description>Comment choisir sa bâche de pergola : imperméabilité et résistance</description>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
