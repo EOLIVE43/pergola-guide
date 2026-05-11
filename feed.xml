@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 10 May 2026 13:40:32 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:32:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuisine extérieure pergola : comment l'aménager pour 8 000 € à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola : retour complet d'expérience d'un propriétaire toulousain. Budget, étapes, résultats et conseils pratiques 2026.</description>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclarer sa pergola à l'assurance : ce qu'il faut vraiment savoir</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Comment choisir sa bâche de pergola : imperméabilité et résistance</description>
       <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : créer un jardin d'harmonie en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Découvrez comment Isabelle et Marc ont transformé leur jardin avec une pergola japonaise zen. Retour d'expérience concret, budget précis et leçons pratiques pour votre projet.</description>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
