@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 11 May 2026 10:42:41 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 11:57:33 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment aménager une cuisine extérieure sous pergola : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et esthétique. Plans, équipements, budget : tout pour réussir votre projet 2026.</description>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Stéphane en Provence a opté pour une pergola aluminium autoportante face aux vents violents. Retour chiffré sur son choix, budget et résultats concrets 2026.</description>
       <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 idées d'aménagement pergola piscine à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : 8 idées pratiques pour créer un espace détente au bord de l'eau. Conseils, styles et erreurs à éviter.</description>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
