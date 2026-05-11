@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 11 May 2026 11:57:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 12:35:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : la checklist complète pour mai 2026</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Entretien pergola printemps : guide complet pour vérifier votre structure en mai 2026. Checklist, planning, budget et erreurs à éviter. Agissez maintenant !</description>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment aménager une cuisine extérieure sous pergola : le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola toit verre feuilleté : découvrez comment choisir entre sécurité maximale et transparence totale. Comparatif complet avec prix et avantages.</description>
       <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : comment Stéphane a choisi l'alu face au Mistral</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Stéphane en Provence a opté pour une pergola aluminium autoportante face aux vents violents. Retour chiffré sur son choix, budget et résultats concrets 2026.</description>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
