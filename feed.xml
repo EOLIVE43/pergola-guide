@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 12 May 2026 13:19:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 14:36:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : transformez votre terrasse toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment aménager une pergola 4 saisons pour profiter de votre terrasse hiver comme été. Solutions, produits et astuces pratiques pour tous les budgets.</description>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : checklist complète avant juin 2026</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Comment choisir la taille pergola parfaite pour votre terrasse ? Découvrez nos formules, calculs et erreurs à éviter pour un projet réussi.</description>
       <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Glycine pergola entretien : 8 secrets pour une floraison spectaculaire</title>
-      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
-      <description>Découvrez comment entretenir votre glycine pergola avec nos 8 conseils essentiels. Plantation, taille, arrosage : le guide complet pour une floraison abondante.</description>
-      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
