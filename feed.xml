@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 12 May 2026 11:12:34 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:47:14 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité, normes et prix 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : réponses aux questions essentielles sur la sécurité, les normes, le permis de construire et les coûts d'installation en France.</description>
+      <pubDate>Tue, 12 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium ou bois : quelle résiste le mieux au vent ?</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola japonaise zen : comparez les styles modernes et traditionnels pour créer votre espace zen. Guide complet avec tableau comparatif et conseils d'installation.</description>
       <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola bioclimatique : 8 étapes annuelles essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
-      <description>Entretien pergola bioclimatique : découvrez les 8 étapes clés pour préserver votre structure. Guide complet, conseils pratiques et économies garanties.</description>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
