@@ -375,7 +375,7 @@
         "style": "vétérinaire rurale, jardin fonctionnel",
         "type_message": "question_entretien",
         "date_prevue": "2026-05-12",
-        "statut": "pending",
+        "statut": "done",
         "reponses": []
       }
     ]
