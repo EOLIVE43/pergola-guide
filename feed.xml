@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 13 May 2026 09:51:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:26:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola en week-end : DIY ou faire appel à un pro ?</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Découvrez comment installer pergola week-end vous-même ou confier la pose à un professionnel. Comparatif complet, étapes, coûts et verdict selon votre profil.</description>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium : quelle couleur et finition choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Après l'hiver, vérifiez la pergola neige résistance de votre structure. Guide complet des actions prioritaires au printemps 2026 pour éviter les dégâts.</description>
       <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 3x3 : 8 idées d'aménagement pour petits espaces</title>
-      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
-      <description>Découvrez 8 solutions d'aménagement pour pergola 3x3 : optimisation d'espace, mobilier, végétation et ambiance. Guide pratique pour petits jardins.</description>
-      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
