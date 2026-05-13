@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 12 May 2026 14:36:27 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:39:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclarer sa pergola à l'assurance : guide complet 2024</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques d'oubli et les démarches essentielles pour protéger votre installation.</description>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : transformez votre terrasse toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Valérie a transformé sa pergola avec 3 variétés de roses grimpantes. Cas concret, budget réel et conseils pour réussir votre rose grimpante pergola.</description>
       <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir ? Le guide complet par terrasse</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Comment choisir la taille pergola parfaite pour votre terrasse ? Découvrez nos formules, calculs et erreurs à éviter pour un projet réussi.</description>
-      <pubDate>Sat, 09 May 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
