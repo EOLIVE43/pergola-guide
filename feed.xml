@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 14 May 2026 11:09:58 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:32:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola week-end : 8 étapes pour réussir</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Installez votre pergola en un week-end avec ce guide complet. 8 étapes clés pour une pose réussie et durable en 48h chrono.</description>
+      <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons : aménagement printemps 2026, avant les beaux jours</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et esthétique. Plans, équipements, budget : tout pour réussir votre projet 2026.</description>
       <pubDate>Mon, 11 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les vrais tarifs, coûts d'installation et facteurs qui influencent vos dépenses. Guide complet et chiffres actualisés.</description>
-      <pubDate>Mon, 11 May 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
