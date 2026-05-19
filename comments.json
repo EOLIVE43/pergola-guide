@@ -98,5 +98,15 @@
       "texte": "Ça m'intéresse vraiment pour ma pergola au-dessus du potager, mais j'hésite sur le choix des voiles d'ombrage en hiver – est-ce qu'il faut absolument les enlever quand il neige, ou ça tient bon en Franche-Comté ? Je cultive pas mal de plantes aromatiques dessous et j'aimerais les protéger sans avoir à tout enlever tous les mois !",
       "reponses": []
     }
+  ],
+  "pergola-chauffage-infrarouge": [
+    {
+      "id": "c0",
+      "auteur": "bricoleur69",
+      "region": "Rhône",
+      "date": "2026-05-14",
+      "texte": "Excellent retour sur les infrarouges pour pergola ! J'en ai installé une chez moi en Rhône l'an dernier et franchement, c'est du game-changer pour les soirées d'automne-printemps. La consommation est vraiment maîtrisée comparé à un chauffage traditionnel, surtout qu'on chauffe que quand on utilise l'espace. Un conseil : attention à bien dimensionner la puissance selon votre orientation (j'ai appris à mes dépens qu'au nord c'est moins efficace), et vérifiez que votre installation électrique peut supporter, ça peut demander un renforcement.",
+      "reponses": []
+    }
   ]
 }
