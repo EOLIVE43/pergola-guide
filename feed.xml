@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 19 May 2026 10:58:41 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:54:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages du store zip pergola : la protection anti-vent garantie</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
+      <description>Découvrez les 7 avantages du store zip pergola : protection vent, étanchéité, durabilité et confort. Comparatif complet et conseils d'installation pour votre pergola.</description>
+      <pubDate>Tue, 19 May 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : 8 étapes pour une installation réussie</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola résistante au vent : découvrez si l'aluminium ou le bois offre la meilleure protection. Comparatif complet avec tableau, prix et conseils d'installation.</description>
       <pubDate>Tue, 12 May 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quel matériau pour la toiture de sa pergola ? Le guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez tous les matériaux pour toiture pergola : polycarbonate, verre, toile, bois. Comparatif, prix, durabilité et conseils pour bien choisir.</description>
-      <pubDate>Tue, 12 May 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
