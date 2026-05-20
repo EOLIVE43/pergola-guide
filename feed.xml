@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:46:23 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 11:42:58 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois résistante aux intempéries : guide complet pour 10 ans de…</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, matériaux et entretien pour une durée de vie optimale en 2026.</description>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment bien déclarer en 7 étapes</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la couleur et finition de votre pergola aluminium. Comparatif des meilleures options et conseils pour harmoniser votre terrasse.</description>
       <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclarer sa pergola à l'assurance : guide complet 2024</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques d'oubli et les démarches essentielles pour protéger votre installation.</description>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
