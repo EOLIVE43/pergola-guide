@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 20 May 2026 12:15:08 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 13:44:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : 8 critères pour choisir la vôtre</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez les 8 critères essentiels pour sélectionner une pergola résistante au vent. Matériaux, dimensions, fixations : notre guide complet.</description>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium ou bois ? Découvrez les 8 points essentiels pour choisir entre ces deux matériaux : prix, durabilité, entretien et performance en climat français.</description>
       <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola en week-end : DIY ou faire appel à un pro ?</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer pergola week-end vous-même ou confier la pose à un professionnel. Comparatif complet, étapes, coûts et verdict selon votre profil.</description>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
