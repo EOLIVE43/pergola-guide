@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 19 May 2026 15:36:40 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:46:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment bien déclarer en 7 étapes</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment faire une déclaration préalable pergola en France. Guide complet des 7 étapes obligatoires, formalités et délais pour votre installation pergola sans surprise.</description>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons : 7 questions pour créer votre espace toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques d'oubli et les démarches essentielles pour protéger votre installation.</description>
       <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : transformez votre terrasse toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment aménager une pergola 4 saisons pour profiter de votre terrasse hiver comme été. Solutions, produits et astuces pratiques pour tous les budgets.</description>
-      <pubDate>Tue, 12 May 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
