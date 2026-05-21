@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 20 May 2026 15:34:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:46:35 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : la rouille qui devient beauté</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten : découvrez pourquoi cette rouille naturelle séduit les jardiniers. Esthétique, durabilité, prix et installation expliqués.</description>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante intempéries : 5 traitements pour durer 20 ans</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola en mai 2026. Guide complet avec prix, avantages et délais d'installation avant l'été.</description>
       <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment aménager une cuisine extérieure sous pergola : 8 étapes essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Aménager une cuisine extérieure pergola : guide complet avec 8 conseils pour créer votre espace de vie extérieur fonctionnel et convivial.</description>
-      <pubDate>Wed, 13 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
