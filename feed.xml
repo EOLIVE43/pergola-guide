@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 May 2026 14:17:28 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:39:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 pour terrasse : le guide de la dimension idéale</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Découvrez pourquoi une pergola 4x3 est la dimension parfaite pour votre terrasse standard. Guide complet avec conseils d'installation et budget 2026.</description>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : 8 variétés à cultiver en 2025</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Installez votre pergola en un week-end avec ce guide complet. 8 étapes clés pour une pose réussie et durable en 48h chrono.</description>
       <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons : aménagement printemps 2026, avant les beaux jours</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Pergola 4 saisons aménagement : découvrez comment transformer votre espace dès le printemps 2026. Guide complet, produits et budget pour une pergola toute l'année.</description>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
