@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 May 2026 12:01:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 12:39:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen ou moderne : laquelle créer dans son jardin ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Pergola japonaise zen : découvrez comment créer un espace zen dans votre jardin. Comparatif complet des styles, coûts et installation pour bien choisir.</description>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Assurance pergola déclaration : découvrez si vous devez déclarer votre pergola, quand et comment. Réponses claires aux questions essentielles des propriétaires français.</description>
       <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : quelles variétés pour votre jardin ?</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les meilleures variétés de rose grimpante pergola : Pierre de Ronsard, Knock Out, Coral Dawn. Guide complet pour choisir et cultiver vos rosiers grimpants.</description>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
