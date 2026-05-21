@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 May 2026 12:39:38 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:17:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : 8 variétés à cultiver en 2025</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les meilleures variétés de rose grimpante pour pergola : Pierre de Ronsard, Félicité Perpétue, conseils de culture et d'entretien détaillés.</description>
+      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen ou moderne : laquelle créer dans son jardin ?</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4 saisons aménagement : découvrez comment transformer votre espace dès le printemps 2026. Guide complet, produits et budget pour une pergola toute l'année.</description>
       <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola déclaration : faut-il vraiment déclarer ?</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Assurance pergola déclaration : découvrez si vous devez déclarer votre pergola, quand et comment. Réponses claires aux questions essentielles des propriétaires français.</description>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
