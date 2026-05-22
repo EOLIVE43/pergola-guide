@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 21 May 2026 15:39:55 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:39:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : que choisir entre motorisation complète et manuel ?</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Store pergola motorisé : comparatif prix, avantages et installation. Découvrez motorisation complète vs système manuel pour votre terrasse en 2025.</description>
+      <pubDate>Fri, 22 May 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 pour terrasse : le guide de la dimension idéale</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet : ipé, teck, cumaru. Découvrez la meilleure pergola bois exotique pour votre terrasse et agissez avant les fortes chaleurs de juin.</description>
       <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola week-end : 8 étapes pour réussir</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Installez votre pergola en un week-end avec ce guide complet. 8 étapes clés pour une pose réussie et durable en 48h chrono.</description>
-      <pubDate>Thu, 14 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
