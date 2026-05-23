@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 May 2026 09:47:53 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 10:22:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola dalle béton : le retour d'expérience de Marc à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment Marc a réussi à fixer sa pergola sur une dalle béton à Toulouse. Étapes concrètes, budget réel et conseils pratiques pour votre installation pergola.</description>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : 8 avantages et durée de vie à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 3x3 aménagement : découvrez comment optimiser votre petit espace au printemps 2026. Idées, planning et budget pour agir dès mai.</description>
       <pubDate>Tue, 19 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marques de pergola bioclimatique : Biossun ou Panorama en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Comparatif complet des meilleures marques de pergola bioclimatique. Découvrez les différences entre Biossun et Panorama pour bien choisir votre pergola en 2026.</description>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
