@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 May 2026 11:04:16 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:03:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola déclaration : 8 questions avant d'installer</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Guide complet sur l'assurance pergola déclaration, les obligations légales et les démarches administratives à suivre avant installation.</description>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Toiture pergola : matériau alu ou polycarbonate, lequel choisir ?</title>
       <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment faire une déclaration préalable pergola en France. Guide complet des 7 étapes obligatoires, formalités et délais pour votre installation pergola sans surprise.</description>
       <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons : 7 questions pour créer votre espace toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment transformer votre pergola en espace habitable 4 saisons. Astuces, produits et aménagements pour profiter de votre pergola toute l'année, été comme hiver.</description>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
