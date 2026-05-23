@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 May 2026 09:09:17 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:47:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : 8 avantages et durée de vie à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Découvrez les 8 avantages majeurs d'une pergola bois autoclave : durabilité, prix, entretien. Guide complet pour choisir votre structure durable.</description>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Aménager une cuisine extérieure sous pergola : le guide du printemps 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet des meilleures marques de pergola bioclimatique. Découvrez les différences entre Biossun et Panorama pour bien choisir votre pergola en 2026.</description>
       <pubDate>Tue, 19 May 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 avantages du store zip pergola : la protection anti-vent garantie</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez les 7 avantages du store zip pergola : protection vent, étanchéité, durabilité et confort. Comparatif complet et conseils d'installation pour votre pergola.</description>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
