@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 May 2026 12:03:22 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:47:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : 8 points clés pour choisir entre ipé, teck et cumaru</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Découvrez notre comparatif complet pergola bois exotique. Ipé vs teck vs cumaru : durabilité, prix, entretien. Guide 2026 pour bien choisir.</description>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola déclaration : 8 questions avant d'installer</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, matériaux et entretien pour une durée de vie optimale en 2026.</description>
       <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment bien déclarer en 7 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Découvrez comment faire une déclaration préalable pergola en France. Guide complet des 7 étapes obligatoires, formalités et délais pour votre installation pergola sans surprise.</description>
-      <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
