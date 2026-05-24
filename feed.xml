@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 24 May 2026 11:06:19 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:04:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer une pergola sur dalle béton : le guide complet étape par étape</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment fixer pergola dalle béton correctement. Techniques, matériaux, prix et erreurs à éviter pour une installation durable et sécurisée en France.</description>
+      <pubDate>Sun, 24 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : le guide complet des finitions en 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Rendre sa pergola bois résistante aux intempéries : guide complet des traitements, coûts et entretien pour protéger votre structure durablement.</description>
       <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : 8 critères pour choisir la vôtre</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez les 8 critères essentiels pour sélectionner une pergola résistante au vent. Matériaux, dimensions, fixations : notre guide complet.</description>
-      <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
