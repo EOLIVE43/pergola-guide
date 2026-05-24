@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 23 May 2026 13:47:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:27:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola aluminium : le guide complet pour 10 ans de durabilité</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
+      <description>Découvrez comment entretenir votre pergola aluminium efficacement. Nettoyage, traitement des joints, protection saisonnière : tous nos conseils pratiques et économiques.</description>
+      <pubDate>Sun, 24 May 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : 8 points clés pour choisir entre ipé, teck et cumaru</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment utiliser votre pergola bioclimatique en hiver et aux autres saisons. Guide complet 2026 pour maximiser votre investissement toute l'année en France.</description>
       <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante aux intempéries : guide complet pour 10 ans de…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, matériaux et entretien pour une durée de vie optimale en 2026.</description>
-      <pubDate>Wed, 20 May 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
