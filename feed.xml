@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 25 May 2026 12:19:28 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:55:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Pergola bioclimatique hiver : découvrez 8 astuces pour profiter de votre pergola toute l'année. Conseils d'installation et d'entretien.</description>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola moderne contemporaine 2026 : le projet de 18 m² qui a transformé une…</title>
       <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures variétés de rose grimpante pour pergola : Pierre de Ronsard, Félicité Perpétue, conseils de culture et d'entretien détaillés.</description>
       <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen ou moderne : laquelle créer dans son jardin ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen : découvrez comment créer un espace zen dans votre jardin. Comparatif complet des styles, coûts et installation pour bien choisir.</description>
-      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
