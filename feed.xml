@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 25 May 2026 14:13:41 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:19:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola : quel matériau choisir entre polycarbonate et alu ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Découvrez comment choisir le matériau idéal pour la toiture de votre pergola. Comparatif complet : polycarbonate vs aluminium avec tableau détaillé et verdict expert.</description>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : créer un jardin harmonieux en 7 questions</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : comparatif prix, avantages et installation. Découvrez motorisation complète vs système manuel pour votre terrasse en 2025.</description>
       <pubDate>Fri, 22 May 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 pour terrasse : le guide de la dimension idéale</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Découvrez pourquoi une pergola 4x3 est la dimension parfaite pour votre terrasse standard. Guide complet avec conseils d'installation et budget 2026.</description>
-      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
