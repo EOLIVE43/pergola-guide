@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 25 May 2026 12:55:54 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:13:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : créer un jardin harmonieux en 7 questions</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Pergola japonaise zen jardin : découvrez comment créer un espace de détente authentique. Guide complet avec matériaux, styles et conseils d'installation pour votre oasis personnelle.</description>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi une pergola 4x3 est la dimension parfaite pour votre terrasse standard. Guide complet avec conseils d'installation et budget 2026.</description>
       <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : 8 variétés à cultiver en 2025</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les meilleures variétés de rose grimpante pour pergola : Pierre de Ronsard, Félicité Perpétue, conseils de culture et d'entretien détaillés.</description>
-      <pubDate>Thu, 21 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
