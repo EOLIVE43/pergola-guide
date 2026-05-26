@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 25 May 2026 15:19:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:44:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : 8 différences essentielles</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique vs classique : découvrez les 8 différences majeures pour choisir la structure idéale pour votre terrasse et votre budget 2024.</description>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Toiture pergola : quel matériau choisir entre polycarbonate et alu ?</title>
       <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez si vous devez déclarer votre pergola à votre assurance, quand et comment. Tout sur l'assurance pergola déclaration, les obligations légales et les risques.</description>
       <pubDate>Fri, 22 May 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : que choisir entre motorisation complète et manuel ?</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Store pergola motorisé : comparatif prix, avantages et installation. Découvrez motorisation complète vs système manuel pour votre terrasse en 2025.</description>
-      <pubDate>Fri, 22 May 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
