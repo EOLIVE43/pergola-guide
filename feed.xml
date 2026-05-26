@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 26 May 2026 13:57:24 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:53:14 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : alu ou polycarbonate, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : comparez structures alu et polycarbonate. Charge maximale, durabilité et prix pour choisir la pergola idéale en montagne.</description>
+      <pubDate>Tue, 26 May 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : comment bien choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir vos rideaux extérieurs pergola : matériaux, installation, entretien et tarifs. Guide complet 2026 pour transformer votre terrasse.</description>
       <pubDate>Fri, 22 May 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola bioclimatique soi-même : nos réponses clés</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Installer pergola bioclimatique soi-même : guide complet avec astuces, réglementation et erreurs à éviter pour un projet DIY réussi en 2024.</description>
-      <pubDate>Fri, 22 May 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
