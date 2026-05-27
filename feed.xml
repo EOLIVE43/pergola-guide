@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 May 2026 12:14:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:48:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : 5 astuces pour l'utiliser toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Pergola bioclimatique hiver : guide complet pour utiliser votre pergola en toutes saisons. Conseils pratiques, entretien et solutions de chauffage.</description>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 : 8 idées d'aménagement pour maximiser votre petit espace</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Marc a réussi à fixer sa pergola sur une dalle béton à Toulouse. Étapes concrètes, budget réel et conseils pratiques pour votre installation pergola.</description>
       <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : 8 avantages et durée de vie à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Découvrez les 8 avantages majeurs d'une pergola bois autoclave : durabilité, prix, entretien. Guide complet pour choisir votre structure durable.</description>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
