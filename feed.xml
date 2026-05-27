@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 May 2026 11:33:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:14:19 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 : 8 idées d'aménagement pour maximiser votre petit espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez 8 solutions d'aménagement pour pergola 3x3. Conseils pratiques pour optimiser petits espaces, décoration et zones fonctionnelles.</description>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 avantages majeurs d'une pergola bois autoclave : durabilité, prix, entretien. Guide complet pour choisir votre structure durable.</description>
       <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Aménager une cuisine extérieure sous pergola : le guide du printemps 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Aménagez votre cuisine extérieure pergola au printemps 2026. Guide complet : préparation, actions prioritaires, budget et planning avant les beaux jours.</description>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
