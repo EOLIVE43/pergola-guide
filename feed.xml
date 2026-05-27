@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 27 May 2026 12:48:50 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:30:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store zip pergola : 7 avantages essentiels contre le vent</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
+      <description>Découvrez les avantages du store zip pour pergola : protection optimale, durabilité, confort. Questions/réponses complètes pour bien choisir votre équipement.</description>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 5 astuces pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Quel matériau pour votre toiture pergola ? Découvrez le comparatif complet entre aluminium et polycarbonate : prix, durabilité, entretien et notre verdict selon vos besoins.</description>
       <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola dalle béton : le retour d'expérience de Marc à Toulouse</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Découvrez comment Marc a réussi à fixer sa pergola sur une dalle béton à Toulouse. Étapes concrètes, budget réel et conseils pratiques pour votre installation pergola.</description>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
