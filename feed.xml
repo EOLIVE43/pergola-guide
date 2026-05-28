@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 28 May 2026 11:01:42 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:33:47 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé : 5 avantages décisifs pour votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les véritables avantages d'une pergola fer forgé : style, durabilité, entretien minimal. Guide complet pour choisir la meilleure structure.</description>
+      <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 : aménager votre petit espace avant l'été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment entretenir votre pergola aluminium efficacement. Nettoyage, traitement des joints, protection saisonnière : tous nos conseils pratiques et économiques.</description>
       <pubDate>Sun, 24 May 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique : 8 points clés pour choisir entre ipé, teck et cumaru</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Découvrez notre comparatif complet pergola bois exotique. Ipé vs teck vs cumaru : durabilité, prix, entretien. Guide 2026 pour bien choisir.</description>
-      <pubDate>Sat, 23 May 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
