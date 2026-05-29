@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 29 May 2026 14:12:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:52:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola : quel matériau choisir au printemps 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Printemps 2026 : découvrez les meilleurs matériaux pour votre toiture pergola. Comparatif saisonnier, budget et planning d'installation avant les fortes chaleurs.</description>
+      <pubDate>Fri, 29 May 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante vent : aluminium ou bois, qui gagne ?</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola pas cher bonne qualité : découvrez comment trouver une pergola de qualité sans dépenser une fortune. Guide pratique avec prix, matériaux et conseils d'experts.</description>
       <pubDate>Tue, 26 May 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique vs classique : 8 différences essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
-      <description>Pergola bioclimatique vs classique : découvrez les 8 différences majeures pour choisir la structure idéale pour votre terrasse et votre budget 2024.</description>
-      <pubDate>Tue, 26 May 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
