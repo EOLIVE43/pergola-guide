@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 29 May 2026 12:10:09 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:39:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuisine extérieure pergola : comment l'aménager parfaitement</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure sous pergola : emplacement, équipements, budget et conseils pratiques pour un espace de rêve.</description>
+      <pubDate>Fri, 29 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola copropriété : le parcours complet d'une résidente à Bordeaux</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir le matériau idéal pour la toiture de votre pergola. Comparatif complet : polycarbonate vs aluminium avec tableau détaillé et verdict expert.</description>
       <pubDate>Mon, 25 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : créer un jardin harmonieux en 7 questions</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen jardin : découvrez comment créer un espace de détente authentique. Guide complet avec matériaux, styles et conseils d'installation pour votre oasis personnelle.</description>
-      <pubDate>Mon, 25 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
