@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 30 May 2026 12:07:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 13:50:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment fixer pergola dalle béton : guide complet 2024</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Fixer pergola dalle béton : méthode étape par étape, matériaux, prix et erreurs à éviter. Découvrez l'installation pergola sécurisée sur terrasse.</description>
+      <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : créer un jardin harmonieux en 7 questions</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4 saisons aménagement : découvrez comment transformer votre espace avec des astuces, produits et solutions bioclimatiques adaptées à chaque saison.</description>
       <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : 7 avantages essentiels contre le vent</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez les avantages du store zip pour pergola : protection optimale, durabilité, confort. Questions/réponses complètes pour bien choisir votre équipement.</description>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
