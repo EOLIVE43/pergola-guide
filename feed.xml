@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 30 May 2026 09:25:37 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 10:44:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois résistante intempéries : traitement naturel ou composite ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif entre traitement naturel et composite pour choisir la meilleure protection en 2025.</description>
+      <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : pourquoi le printemps 2026 est le moment d'agir</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 solutions d'aménagement pour pergola 3x3. Conseils pratiques pour optimiser petits espaces, décoration et zones fonctionnelles.</description>
       <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Quel budget pergola France 2026 ? Guide complet des prix : pergola pas cher, bioclimatique, bois. Devis et conseils pour bien chiffrer votre projet.</description>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
