@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 30 May 2026 13:50:32 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 10:11:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : comment Valérie a prolongé sa saison de 6 mois</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Cas concret : chauffage infrarouge pergola. Budget, installation et économies réelles d'une propriétaire en région Rhône-Alpes. Retour d'expérience 2025.</description>
+      <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment fixer pergola dalle béton : guide complet 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 3x3 aménagement : découvrez comment transformer votre petit balcon ou terrasse au printemps 2026 avec nos conseils d'expert pour maximiser chaque m².</description>
       <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 8 solutions pour profiter toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Pergola 4 saisons aménagement : découvrez comment transformer votre espace avec des astuces, produits et solutions bioclimatiques adaptées à chaque saison.</description>
-      <pubDate>Wed, 27 May 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
