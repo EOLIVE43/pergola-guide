@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 31 May 2026 11:25:24 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:15:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 secrets : quelle pergola résiste le mieux au vent ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez quelle pergola résiste le mieux au vent. 7 critères essentiels pour choisir une pergola résistante face aux tempêtes en France.</description>
+      <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : guide printemps 2026 et précautions essentielles</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Aménagez votre pergola piscine cet printemps. Conseils, planning saisonnier et budget 2026 pour profiter dès juin en France.</description>
       <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola rustique campagne : transformez votre jardin ce printemps</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Pergola rustique campagne : matériaux, inspiration et guide complet pour aménager votre espace extérieur au printemps 2026. Découvrez nos conseils d'experts.</description>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
