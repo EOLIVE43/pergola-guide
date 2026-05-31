@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 31 May 2026 12:15:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 13:56:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : 8 ans sans entretien majeur, retour d'expérience à…</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Découvrez le retour d'expérience d'une pergola bois autoclave installée à Bordeaux : durée de vie réelle, budget 2026, maintenance et conseils concrets pour votre projet.</description>
+      <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 secrets : quelle pergola résiste le mieux au vent ?</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola sur mesure avantages : découvrez pourquoi cette option surpasse les modèles standards. Comparatif complet, prix et conseils pour bien choisir.</description>
       <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : le guide complet du printemps 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Aménagez votre pergola piscine cet printemps. Conseils, planning saisonnier et budget 2026 pour profiter dès juin en France.</description>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
