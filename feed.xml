@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 01 Jun 2026 11:23:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 12:46:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 critères pour bien choisir votre voile ombrage pergola</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez les 7 critères essentiels pour choisir votre voile ombrage pergola. Matière, dimension, installation : nos conseils d'expert pour ne pas vous tromper.</description>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave en été : durabilité et avantages à connaître maintenant</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x4 jardin : découvrez 8 critères essentiels pour sélectionner la structure parfaite. Conseils pratiques, prix, matériaux et installation expliqués.</description>
       <pubDate>Fri, 29 May 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 tendances pergola moderne contemporaine 2026 à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Découvrez les 8 tendances pergola moderne contemporaine 2026 : design, matériaux, et innovations. Guide complet pour choisir votre pergola idéale.</description>
-      <pubDate>Fri, 29 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
