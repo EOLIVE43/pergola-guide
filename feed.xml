@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 01 Jun 2026 16:43:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:52:18 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marque pergola bioclimatique : 8 questions essentielles 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparaison, prix, modèles (4x3, 6x4, 6x3) et conseils pour bien choisir votre pergola.</description>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : comment bien choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Printemps 2026 : découvrez les meilleurs matériaux pour votre toiture pergola. Comparatif saisonnier, budget et planning d'installation avant les fortes chaleurs.</description>
       <pubDate>Fri, 29 May 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : aluminium ou bois, qui gagne ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Quelle pergola résiste mieux au vent ? Comparatif complet entre aluminium et bois avec critères de choix, prix et performance. Guide 2025.</description>
-      <pubDate>Fri, 29 May 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
