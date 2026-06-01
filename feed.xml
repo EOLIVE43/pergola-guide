@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 31 May 2026 13:56:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 09:32:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : guide complet en 8 étapes</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec normes, matériaux, prix et conseils d'installation professionnels.</description>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : 8 ans sans entretien majeur, retour d'expérience à…</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez la rentabilité réelle d'une pergola solaire avec panneaux photovoltaïques : coûts, économies, délais ROI et aides en France. Questions/réponses experts.</description>
       <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure ou standard : quel choix en 2024 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Pergola sur mesure avantages : découvrez pourquoi cette option surpasse les modèles standards. Comparatif complet, prix et conseils pour bien choisir.</description>
-      <pubDate>Thu, 28 May 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
