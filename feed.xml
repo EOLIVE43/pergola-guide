@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 02 Jun 2026 13:46:46 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 14:59:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 jardin à Toulouse : comment Marc a gagné 16 m² d'espace de vie</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Découvrez le cas concret d'une pergola 4x4 installée à Toulouse : budget réel (8 900 €), délais, matériaux et résultats. Retour d'expérience d'un propriétaire.</description>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : bois ou bioclimatique ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Cas concret : chauffage infrarouge pergola. Budget, installation et économies réelles d'une propriétaire en région Rhône-Alpes. Retour d'expérience 2025.</description>
       <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment fixer pergola dalle béton : guide complet 2024</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Fixer pergola dalle béton : méthode étape par étape, matériaux, prix et erreurs à éviter. Découvrez l'installation pergola sécurisée sur terrasse.</description>
-      <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
