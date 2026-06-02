@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:25:03 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:01:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aménager une cuisine extérieure sous pergola : guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Aménager une cuisine extérieure sous pergola : guide complet</description>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : 8 structures qui supportent le poids</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget prévoir pour une pergola en France en 2026 ? Guide complet des prix, matériaux et devis. Pergola pas cher ou bioclimatique : comparatif actualisé.</description>
       <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : traitement naturel ou composite ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif entre traitement naturel et composite pour choisir la meilleure protection en 2025.</description>
-      <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
