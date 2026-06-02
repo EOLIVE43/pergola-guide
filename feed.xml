@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:34:39 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 13:46:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : bois ou bioclimatique ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Découvrez le budget pergola France 2026 selon le matériau. Comparatif complet bois vs bioclimatique : prix, entretien, durée de vie. Choisissez votre pergola pas cher.</description>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 8 questions pour payer le juste prix</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Fixer pergola dalle béton : méthode étape par étape, matériaux, prix et erreurs à éviter. Découvrez l'installation pergola sécurisée sur terrasse.</description>
       <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : créer un jardin harmonieux en 7 questions</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen : guide complet pour transformer votre jardin. Découvrez les caractéristiques, matériaux, installation et tarifs pour créer votre espace zen.</description>
-      <pubDate>Sat, 30 May 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
