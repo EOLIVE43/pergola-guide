@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 13:06:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 14:21:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire panneaux photovoltaïques : rentable ou pas en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Comparez pergola solaire avec panneaux photovoltaïques vs pergola bioclimatique classique. Rentabilité, prix, économies d'énergie : quel choix pour votre jardin ?</description>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer sa pergola bois : le guide complet pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages de la pergola bois autoclave pour résister à l'été 2026. Durée de vie, traitement, prix et installation : le guide complet saisonnier.</description>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola mur parpaing : guide complet en 8 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec normes, matériaux, prix et conseils d'installation professionnels.</description>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
