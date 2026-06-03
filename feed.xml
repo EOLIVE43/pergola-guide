@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 09:25:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:02:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment faire ? Retour sur un chantier à…</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Déclaration préalable pergola : comment la réaliser ? Cas pratique détaillé avec budget, délais et étapes administratives pour réussir votre installation pergola en 2026.</description>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Brise-vue pergola jardin : 7 réponses aux questions essentielles</title>
       <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez quelle pergola résiste le mieux au vent. 7 critères essentiels pour choisir une pergola résistante face aux tempêtes en France.</description>
       <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher : guide printemps 2026 et précautions essentielles</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on nettoyer sa pergola au Kärcher au printemps ? Conseils d'expert, précautions pour bois et matériaux, budget 2026. Agissez maintenant avant mai.</description>
-      <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
