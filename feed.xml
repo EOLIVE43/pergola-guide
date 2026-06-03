@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:38:48 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:06:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola bois : le guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer pergola bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et embellir votre pergola.</description>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : 8 questions essentielles sur les règles et…</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec normes, matériaux, prix et conseils d'installation professionnels.</description>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : 8 ans sans entretien majeur, retour d'expérience à…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Découvrez le retour d'expérience d'une pergola bois autoclave installée à Bordeaux : durée de vie réelle, budget 2026, maintenance et conseils concrets pour votre projet.</description>
-      <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
