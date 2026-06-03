@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:02:54 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:38:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en copropriété : 8 questions essentielles sur les règles et…</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : tout savoir sur les autorisations, l'installation et les démarches administratives. Guide complet avec réponses aux questions les plus posées.</description>
+      <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment faire ? Retour sur un chantier à…</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le retour d'expérience d'une pergola bois autoclave installée à Bordeaux : durée de vie réelle, budget 2026, maintenance et conseils concrets pour votre projet.</description>
       <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 secrets : quelle pergola résiste le mieux au vent ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez quelle pergola résiste le mieux au vent. 7 critères essentiels pour choisir une pergola résistante face aux tempêtes en France.</description>
-      <pubDate>Sun, 31 May 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
