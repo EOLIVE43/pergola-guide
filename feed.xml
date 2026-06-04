@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 04 Jun 2026 11:44:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:37:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marque pergola bioclimatique : comment Sophie a transformé sa terrasse pour…</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Étude de cas réelle : une famille bordelaise choisit une marque pergola bioclimatique 6x4. Budget, dimensions, marques testées et résultats concrets en 2026.</description>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : le guide complet avant l'été</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages majeurs de la pergola sur mesure : adaptation parfaite à votre espace, conformité légale, durabilité et économies. Questions/réponses complètes.</description>
       <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marque pergola bioclimatique : 8 questions essentielles 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparaison, prix, modèles (4x3, 6x4, 6x3) et conseils pour bien choisir votre pergola.</description>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
