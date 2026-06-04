@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 04 Jun 2026 08:47:57 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:43:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola déclaration : ce que vous devez savoir en 2025</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches essentielles pour protéger votre installation pergola correctement.</description>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer sa pergola en bois : que choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois autoclave : découvrez ses avantages réels, sa durée de vie (15-25 ans), l'entretien nécessaire et le coût. Guide complet pour bien choisir.</description>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola moderne contemporaine 2026 : le guide des 7 tendances incontournables</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux aluminium et styles qui transforment les terrasses françaises. Guide complet avec prix 2026.</description>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
