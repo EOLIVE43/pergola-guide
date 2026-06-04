@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 17:00:32 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:47:57 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola en bois : que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer une pergola bois ? Découvrez les différences, avantages et inconvénients de chaque finition pour bien choisir votre protection bois.</description>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 avantages du store zip pergola contre le vent</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux aluminium et styles qui transforment les terrasses françaises. Guide complet avec prix 2026.</description>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile d'ombrage pour pergola : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir votre voile ombrage pergola : matériaux, dimensions, prix et installation. Conseils d'experts pour une ombre optimale.</description>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
