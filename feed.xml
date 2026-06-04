@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 04 Jun 2026 14:08:01 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:26:33 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : oui, mais attention en été 2026</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on nettoyer sa pergola au Kärcher ? Conseils, précautions et planning été 2026 pour protéger votre bois. Guide complet.</description>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : gagnez 20°C de plus et réduisez vos factures</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez les 8 structures les plus robustes face aux hivers français. Aluminium, acier, bois traité. Guide complet.</description>
       <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : coûts réels de pose en 2025</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Combien coûte vraiment l'installation d'une pergola ? Découvrez le prix installation pergola, frais de main-d'œuvre et devis détaillés pour une pose professionnelle.</description>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
