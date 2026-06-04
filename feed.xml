@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:43:30 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:58:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir ? 8 règles pour votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir la taille pergola idéale selon votre terrasse. 8 règles essentielles pour éviter les erreurs et optimiser votre espace extérieur.</description>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola déclaration : ce que vous devez savoir en 2025</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique ou classique ? Découvrez les différences essentielles, les prix, l'entretien et les avantages de chaque type pour faire le bon choix en 2025.</description>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : durée de vie et avantages vérifiés</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Pergola bois autoclave : découvrez ses avantages réels, sa durée de vie (15-25 ans), l'entretien nécessaire et le coût. Guide complet pour bien choisir.</description>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
