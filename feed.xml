@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:37:46 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:08:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : gagnez 20°C de plus et réduisez vos factures</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Le chauffage infrarouge pour pergola offre confort thermique et économies d'énergie. Guide complet : technologie, installation, prix et ROI en France 2026.</description>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Marque pergola bioclimatique : comment Sophie a transformé sa terrasse pour…</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Combien coûte vraiment l'installation d'une pergola ? Découvrez le prix installation pergola, frais de main-d'œuvre et devis détaillés pour une pose professionnelle.</description>
       <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure : pourquoi c'est le meilleur choix en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Découvrez les 7 avantages majeurs de la pergola sur mesure : adaptation parfaite à votre espace, conformité légale, durabilité et économies. Questions/réponses complètes.</description>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
