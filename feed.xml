@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 05 Jun 2026 09:39:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:53:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola adossée mur mitoyen : 8 vérifications essentielles avant pose</title>
+      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
+      <description>Pergola adossée mur mitoyen : découvrez les 8 points clés à vérifier avant installation. Règlementation, fixation, droits du voisin… tout ce qu'il faut savoir.</description>
+      <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : 7 clés pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Obtenez un devis pergola artisan transparent. Guide complet : tarifs, comparaisons, pièges à éviter et conseils pour négocier le meilleur prix en 2025.</description>
       <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Aménager une cuisine extérieure sous pergola : guide complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Aménager une cuisine extérieure sous pergola : guide complet</description>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
