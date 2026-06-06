@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 06 Jun 2026 10:50:04 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 11:15:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : variétés classiques ou modernes ?</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez comment choisir votre rose grimpante pergola. Variétés classiques vs modernes : caractéristiques, entretien, prix et notre verdict selon votre jardin.</description>
+      <pubDate>Sat, 06 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire panneaux photovoltaïques : rentabilité maximale en été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages principaux du store zip pergola contre le vent. Protection optimale, confort garanti et durabilité exceptionnelle pour votre terrasse.</description>
       <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola solaire panneaux photovoltaïques : rentable ou pas en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Comparez pergola solaire avec panneaux photovoltaïques vs pergola bioclimatique classique. Rentabilité, prix, économies d'énergie : quel choix pour votre jardin ?</description>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
