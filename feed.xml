@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 06 Jun 2026 09:59:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:50:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire panneaux photovoltaïques : rentabilité maximale en été 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Pergola solaire avec panneaux photovoltaïques : calculez votre rentabilité en été. Guide complet 2026 pour optimiser votre installation avant septembre.</description>
+      <pubDate>Sat, 06 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : 7 clés pour bien choisir en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Comparez pergola solaire avec panneaux photovoltaïques vs pergola bioclimatique classique. Rentabilité, prix, économies d'énergie : quel choix pour votre jardin ?</description>
       <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Peindre ou lasurer sa pergola bois : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
-      <description>Peindre ou lasurer pergola bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et embellir votre pergola.</description>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
