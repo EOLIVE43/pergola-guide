@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 07 Jun 2026 12:24:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 14:05:06 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : la checklist complète pour l'été</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Découvrez la checklist d'entretien pergola printemps indispensable : nettoyage, traitement du bois, vérifications structurelles. Guide complet et pratique pour préparer votre pergola à la belle saison.</description>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : tarifs complets et économies possibles</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Le chauffage infrarouge pour pergola offre confort thermique et économies d'énergie. Guide complet : technologie, installation, prix et ROI en France 2026.</description>
       <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marque pergola bioclimatique : comment Sophie a transformé sa terrasse pour…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Étude de cas réelle : une famille bordelaise choisit une marque pergola bioclimatique 6x4. Budget, dimensions, marques testées et résultats concrets en 2026.</description>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
