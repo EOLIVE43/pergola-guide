@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 07 Jun 2026 11:42:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 12:24:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : tarifs complets et économies possibles</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget prévoir pour une pergola en France en 2026 ? Guide complet des tarifs, matériaux et solutions pas cher pour votre projet d'aménagement extérieur.</description>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en acier corten : esthétique rouillée et durabilité</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Étude de cas réelle : une famille bordelaise choisit une marque pergola bioclimatique 6x4. Budget, dimensions, marques testées et résultats concrets en 2026.</description>
       <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher : le guide complet avant l'été</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on vraiment nettoyer sa pergola au Kärcher ? Découvrez nos conseils complets, précautions essentielles et le timing parfait en été 2026 pour protéger votre terrasse.</description>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
