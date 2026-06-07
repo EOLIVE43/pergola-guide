@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 07 Jun 2026 10:09:57 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:25:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : matériaux, styles et inspiration 2024</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Pergola rustique campagne : guide complet des matériaux authentiques, styles de décoration et inspirations pour créer votre havre de paix champêtre. Conseils pratiques et idées aménagement.</description>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer sa pergola bois : que choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la taille pergola idéale selon votre terrasse. 8 règles essentielles pour éviter les erreurs et optimiser votre espace extérieur.</description>
       <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola déclaration : ce que vous devez savoir en 2025</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches essentielles pour protéger votre installation pergola correctement.</description>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
