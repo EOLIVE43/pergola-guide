@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 06 Jun 2026 13:54:41 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:09:57 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola bois : que choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Comparatif complet : peinture vs lasure pour pergola bois. Découvrez les avantages, coûts et entretien de chaque option pour bien choisir.</description>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : comparatif ipé, teck, cumaru 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches essentielles pour protéger votre installation pergola correctement.</description>
       <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Peindre ou lasurer sa pergola en bois : que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
-      <description>Peindre ou lasurer une pergola bois ? Découvrez les différences, avantages et inconvénients de chaque finition pour bien choisir votre protection bois.</description>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
