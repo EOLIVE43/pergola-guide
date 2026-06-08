@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 08 Jun 2026 12:05:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:24:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : les meilleures variétés pour cet été</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les meilleures variétés de rose grimpante pergola pour transformer votre terrasse en juin-août. Conseils d'experts et guide complet été 2026.</description>
+      <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : prix, installation et 5 avantages décisifs</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola adossée mur mitoyen : découvrez les 8 points clés à vérifier avant installation. Règlementation, fixation, droits du voisin… tout ce qu'il faut savoir.</description>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : 7 clés pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Pergola pas cher sans compromis sur la qualité ? Découvrez nos 7 réponses clés pour trouver la meilleure pergola au meilleur prix, matériaux, critères et pièges à éviter.</description>
-      <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
