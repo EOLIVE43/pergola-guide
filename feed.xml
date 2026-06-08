@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 08 Jun 2026 12:58:27 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 13:58:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : comparatif ipé, teck et cumaru</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Pergola bois exotique : découvrez le comparatif complet entre ipé, teck et cumaru. Durabilité, prix, entretien et conseil d'installation en France.</description>
+      <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : comparatif ipé/teck/cumaru en Pays de Loire</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures variétés de rose grimpante pergola : Pierre de Ronsard, Iceberg, Félicité... Conseils de culture, entretien et floraison pour votre jardin.</description>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : 8 structures qui tiennent bon</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Découvrez les 8 structures de pergola résistantes à la neige pour protéger votre terrasse hiver. Pergola neige résistance : guide complet 2026.</description>
-      <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
