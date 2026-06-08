@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 08 Jun 2026 12:24:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:58:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : comparatif ipé/teck/cumaru en Pays de Loire</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Cas concret : comment un couple a choisi sa pergola bois exotique en 2025. Comparatif ipé vs teck vs cumaru, budget réel (8 500€), durabilité et retour d'expérience.</description>
+      <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : les meilleures variétés pour cet été</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 structures de pergola résistantes à la neige pour protéger votre terrasse hiver. Pergola neige résistance : guide complet 2026.</description>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 8 vérifications essentielles avant pose</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : découvrez les 8 points clés à vérifier avant installation. Règlementation, fixation, droits du voisin… tout ce qu'il faut savoir.</description>
-      <pubDate>Fri, 05 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
