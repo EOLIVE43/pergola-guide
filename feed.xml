@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 10 Jun 2026 11:02:08 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:35:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : comment Thomas a transformé sa terrasse à Bordeaux</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Store pergola motorisé : découvrez le retour d'expérience de Thomas à Bordeaux. Budget réel, avantages et étapes d'installation. Guide concret 2026.</description>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : prix, installation et avantages</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois exotique : guide complet du comparatif ipé, teck et cumaru. Prix, durabilité, entretien et avantages des bois tropicaux pour votre terrasse.</description>
       <pubDate>Sat, 06 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : l'installation parfaite pour l'été 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : découvrez pourquoi c'est la dimension idéale en été. Installation, budget, erreurs à éviter. Guide complet 2026.</description>
-      <pubDate>Sat, 06 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
