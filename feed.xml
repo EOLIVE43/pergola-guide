@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 10 Jun 2026 12:14:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 12:49:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien, esthétique. Guide pratique pour bien choisir votre pergola en France 2026.</description>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : combien coûte la pose ?</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola rustique campagne : guide complet des matériaux authentiques, styles de décoration et inspirations pour créer votre havre de paix champêtre. Conseils pratiques et idées aménagement.</description>
       <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Peindre ou lasurer sa pergola bois : que choisir en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
-      <description>Comparatif complet : peinture vs lasure pour pergola bois. Découvrez les avantages, coûts et entretien de chaque option pour bien choisir.</description>
-      <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
