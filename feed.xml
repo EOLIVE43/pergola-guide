@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 09 Jun 2026 15:16:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:02:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : prix, installation et avantages</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Store pergola motorisé : découvrez les prix réels, les avantages et les étapes d'installation. Réponses claires aux 8 questions essentielles pour bien choisir.</description>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 8 questions essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : découvrez pourquoi c'est la dimension idéale en été. Installation, budget, erreurs à éviter. Guide complet 2026.</description>
       <pubDate>Sat, 06 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : variétés classiques ou modernes ?</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez comment choisir votre rose grimpante pergola. Variétés classiques vs modernes : caractéristiques, entretien, prix et notre verdict selon votre jardin.</description>
-      <pubDate>Sat, 06 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
