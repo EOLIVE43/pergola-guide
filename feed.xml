@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:28:02 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:07:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages du store zip pergola : la protection anti-vent idéale</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
+      <description>Découvrez les 7 avantages du store zip pergola pour protéger votre terrasse. Efficacité contre le vent, étanchéité, durabilité : le guide complet.</description>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola rustique campagne : matériaux et styles authentiques</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez quelles pergolas résistent au poids de la neige. 8 structures testées pour les régions froides. Pergola aluminium, acier, bois : comparatif complet.</description>
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola printemps : la checklist complète pour l'été</title>
-      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
-      <description>Découvrez la checklist d'entretien pergola printemps indispensable : nettoyage, traitement du bois, vérifications structurelles. Guide complet et pratique pour préparer votre pergola à la belle saison.</description>
-      <pubDate>Sun, 07 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
