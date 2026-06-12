@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:13:12 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:38:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : ipé ou teck ? Le comparatif complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Pergola bois exotique : découvrez le comparatif ipé vs teck vs cumaru. Caractéristiques, prix, durabilité et entretien pour bien choisir votre pergola en bois.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer sa pergola bois en été : le guide complet 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages de la pergola polycarbonate en été 2026. Prix, pose et bénéfices pour votre terrasse face aux fortes chaleurs de juin. Agissez maintenant.</description>
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique : comparatif ipé, teck et cumaru</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Pergola bois exotique : découvrez le comparatif complet entre ipé, teck et cumaru. Durabilité, prix, entretien et conseil d'installation en France.</description>
-      <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
