@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:11:22 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:48:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante au vent : les matériaux et structures qui tiennent vraiment</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez quelle pergola résiste le mieux au vent. Comparaison des matériaux, normes de résistance et solutions d'ancrage pour votre terrasse en 2026.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola déclaration : 8 points clés avant de déclarer</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, essences, étanchéité : guide complet pour une pergola durable en 2026.</description>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : guide complet prix et installation</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet avec réponses aux questions essentielles pour bien choisir.</description>
-      <pubDate>Tue, 09 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
