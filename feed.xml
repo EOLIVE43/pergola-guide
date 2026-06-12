@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:57:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 11:07:47 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 essences de bois pour pergola : le guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez les 7 meilleures essences de bois pour pergola : comparatif complet, durabilité et prix pour choisir la pergola bois idéale à votre budget.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire avec panneaux photovoltaïques : est-ce vraiment rentable en…</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le vrai prix installation pergola : tarifs main-d'œuvre, frais de pose et devis détaillés. Guide complet 2024 avec chiffres réels pour pergola bois ou bioclimatique.</description>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : pourquoi c'est la dimension parfaite</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : guide complet pour choisir la bonne dimension. Avantages, prix, installation et erreurs à éviter en 2026.</description>
-      <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
