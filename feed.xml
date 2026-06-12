@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 12 Jun 2026 14:12:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 15:27:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité et transparence garanties</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : guide complet sur la sécurité, l'esthétique et l'installation. Conseils, prix et normes en France 2026.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : 8 avantages pour sécurité et design</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : découvrez les prix réels, les avantages et les étapes d'installation. Réponses claires aux 8 questions essentielles pour bien choisir.</description>
       <pubDate>Wed, 10 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : 8 questions essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : découvrez nos conseils pour créer l'espace idéal au bord de l'eau. Matériaux, permis, prix, styles - réponses claires.</description>
-      <pubDate>Tue, 09 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
