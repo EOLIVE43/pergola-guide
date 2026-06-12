@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:38:28 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:57:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire avec panneaux photovoltaïques : est-ce vraiment rentable en…</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Découvrez comment une pergola solaire avec panneaux photovoltaïques peut réduire votre facture d'électricité. Guide complet sur la rentabilité, les tarifs et l'amortissement en France.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : ipé ou teck ? Le comparatif complet</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : guide complet pour choisir la bonne dimension. Avantages, prix, installation et erreurs à éviter en 2026.</description>
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola polycarbonate avantages : profitez de l'été 2026 dès maintenant</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Découvrez les avantages de la pergola polycarbonate en été 2026. Prix, pose et bénéfices pour votre terrasse face aux fortes chaleurs de juin. Agissez maintenant.</description>
-      <pubDate>Mon, 08 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
