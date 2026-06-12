@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:48:56 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:12:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : 8 avantages pour sécurité et design</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Découvrez les 8 raisons de choisir une pergola toit verre feuilleté : sécurité renforcée, esthétique moderne et durabilité. Guide complet France 2026.</description>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante au vent : les matériaux et structures qui tiennent vraiment</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : découvrez nos conseils pour créer l'espace idéal au bord de l'eau. Matériaux, permis, prix, styles - réponses claires.</description>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : 5 solutions durables prouvées</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, essences, étanchéité : guide complet pour une pergola durable en 2026.</description>
-      <pubDate>Tue, 09 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
