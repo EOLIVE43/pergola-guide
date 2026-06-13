@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 13 Jun 2026 10:24:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:09:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Traitement naturel ou lasure : comment protéger sa pergola bois des…</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif complet entre traitement naturel et lasure : avantages, prix, entretien et verdict selon votre profil.</description>
+      <pubDate>Sat, 13 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : le guide annuel complet</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien, esthétique. Guide pratique pour bien choisir votre pergola en France 2026.</description>
       <pubDate>Wed, 10 Jun 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : combien coûte la pose ?</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Découvrez le coût réel du prix installation pergola en France. Tarifs main-d'œuvre, frais de pose et économies possibles : nos réponses précises.</description>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
