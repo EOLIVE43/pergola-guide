@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : le guide annuel complet",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment entretenir votre pergola bioclimatique toute l'année. Guide pratique avec calendrier d'entretien, nettoyage et maintenance des systèmes mobiles.",
+    "date": "2026-06-13",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola : matériau polycarbonate ou toile, lequel choisir ?",
     "categorie": "Toiture",
