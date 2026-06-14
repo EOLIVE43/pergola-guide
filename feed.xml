@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 13 Jun 2026 14:11:40 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:41:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 aménagement : le vrai cas de Sandrine à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez comment Sandrine a transformé son petit jardin de 25 m² avec une pergola 3x3. Budget réel, étapes concrètes et résultats chiffrés dans ce cas pratique français.</description>
+      <pubDate>Sun, 14 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Plantes grimpantes pergola France : le projet de Valérie en Dordogne</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages du store zip pergola pour protéger votre terrasse. Efficacité contre le vent, étanchéité, durabilité : le guide complet.</description>
       <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola rustique campagne : matériaux et styles authentiques</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Pergola rustique campagne : découvrez les meilleurs matériaux, styles et inspirations pour créer une véritable ambiance fermière. Guide complet 2024.</description>
-      <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
