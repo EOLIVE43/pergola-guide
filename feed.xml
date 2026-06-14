@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 14 Jun 2026 11:49:12 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 13:02:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : 8 questions pour bien comparer 2024</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Obtenez un bon devis pergola auprès d'artisans qualifiés. Guide complet avec critères de comparaison, prix et conseils pour négocier malin en 2024.</description>
+      <pubDate>Sun, 14 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Marque pergola bioclimatique : Biossun ou Azenco en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer pergola bois ? Découvrez les différences, avantages et le meilleur choix pour l'été 2026. Guide complet avec planning et budget.</description>
       <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Cuisine extérieure pergola : comment bien l'aménager ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Aménager une cuisine extérieure pergola : guide complet des aménagements, équipements, normes et budgets pour transformer votre espace extérieur.</description>
-      <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
