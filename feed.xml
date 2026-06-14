@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 14 Jun 2026 11:23:34 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:49:12 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marque pergola bioclimatique : Biossun ou Azenco en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Comparez les meilleures marques de pergola bioclimatique 2026. Guide pour choisir entre Biossun, Azenco, stores Leroy Merlin. Caractéristiques, prix, verdict.</description>
+      <pubDate>Sun, 14 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Éclairage LED pergola : spots ou bandeaux LED en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Aménager une cuisine extérieure pergola : guide complet des aménagements, équipements, normes et budgets pour transformer votre espace extérieur.</description>
       <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola polycarbonate : 5 avantages qui changent tout (prix + pose 2026)</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Découvrez les avantages complets de la pergola polycarbonate : luminosité, durabilité, prix compétitifs et facilité de pose. Guide 2026 pour bien choisir.</description>
-      <pubDate>Thu, 11 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
