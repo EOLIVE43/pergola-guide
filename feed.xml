@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:24:23 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:50:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola Rustique Campagne : Guide Complet des Matériaux et Styles</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, inspirations et conseils pour transformer votre terrasse en espace champêtre irrésistible.</description>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise ou pergola bois moderne : quel style zen pour votre jardin ?</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les 8 points essentiels pour protéger votre installation et éviter les mauvaises surprises avec votre assureur.</description>
       <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis de construire 2026 : guide complet pour bien débuter</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : tout ce que vous devez savoir sur les démarches, les règles et les coûts avant d'installer votre structure en France.</description>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
