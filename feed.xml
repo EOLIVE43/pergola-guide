@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 15 Jun 2026 11:55:41 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:24:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise ou pergola bois moderne : quel style zen pour votre jardin ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Pergola japonaise zen jardin : découvrez comment choisir entre un style traditionnel nippon et une pergola bois contemporaine. Comparatif complet, tableau et verdict selon vos besoins.</description>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante au vent : vérifiez avant les tempêtes d'été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola permis construire 2026 : tout ce que vous devez savoir sur les démarches, les règles et les coûts avant d'installer votre structure en France.</description>
       <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 essences de bois pour pergola : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Découvrez les 7 meilleures essences de bois pour pergola : comparatif complet, durabilité et prix pour choisir la pergola bois idéale à votre budget.</description>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
