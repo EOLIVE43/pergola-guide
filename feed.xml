@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 15 Jun 2026 14:56:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 15:36:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bâche pergola : imperméabilité ou résistance, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet avec tableau décisionnel pour trouver votre solution idéale.</description>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer pergola bioclimatique soi-même : le défi de Marc en Provence</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 raisons de choisir une pergola toit verre feuilleté : sécurité renforcée, esthétique moderne et durabilité. Guide complet France 2026.</description>
       <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante au vent : les matériaux et structures qui tiennent vraiment</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez quelle pergola résiste le mieux au vent. Comparaison des matériaux, normes de résistance et solutions d'ancrage pour votre terrasse en 2026.</description>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
