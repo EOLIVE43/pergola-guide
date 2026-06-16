@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:49:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 13:23:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : la rouille qui sublime votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez la pergola acier corten : esthétique rouillée unique, durabilité exceptionnelle et prix. Guide complet pour bien choisir.</description>
+      <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer pergola en week-end : 8 étapes pour réussir sans stress</title>
       <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Valérie a transformé sa pergola grâce aux meilleures plantes grimpantes pour un climat français. Budget, choix végétaux et résultats concrets.</description>
       <pubDate>Sat, 13 Jun 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan : 8 questions pour bien chiffrer votre projet</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Comment obtenir un bon devis pergola artisan ? Découvrez les 8 questions essentielles pour comparer les prix et trouver le meilleur rapport qualité-prix en 2025.</description>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
