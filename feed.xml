@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:19:15 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:49:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola en week-end : 8 étapes pour réussir sans stress</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Installer sa pergola en un week-end, c'est possible ! Découvrez 8 étapes clés pour réussir votre installation pergola rapidement et sans appeler un pro. Guide complet.</description>
+      <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher en été : guide sûr et efficace</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Comment obtenir un bon devis pergola artisan ? Découvrez les 8 questions essentielles pour comparer les prix et trouver le meilleur rapport qualité-prix en 2025.</description>
       <pubDate>Sat, 13 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : les avantages face au vent d'été 2026</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Store zip pergola avantages : protection maximale contre le vent en été. Découvrez comment sécuriser votre espace extérieur avant les tempêtes de juin-août 2026.</description>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
