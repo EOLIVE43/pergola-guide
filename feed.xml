@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 17 Jun 2026 09:07:10 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:47:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois résistante aux intempéries : 5 étapes pour la protéger</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Guide complet avec traitements, matériaux et entretien pour une durabilité maximale en France.</description>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 critères clés pour choisir les bons rideaux extérieurs pergola</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Obtenez un bon devis pergola auprès d'artisans qualifiés. Guide complet avec critères de comparaison, prix et conseils pour négocier malin en 2024.</description>
       <pubDate>Sun, 14 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marque pergola bioclimatique : Biossun ou Azenco en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Comparez les meilleures marques de pergola bioclimatique 2026. Guide pour choisir entre Biossun, Azenco, stores Leroy Merlin. Caractéristiques, prix, verdict.</description>
-      <pubDate>Sun, 14 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
