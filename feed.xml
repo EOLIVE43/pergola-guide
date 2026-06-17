@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 17 Jun 2026 11:56:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:13:19 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : guide complet et précautions essentielles</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils, précautions et techniques pour un nettoyage sécurisé de votre pergola bois ou alu sans l'endommager.</description>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante intempéries : les 3 protections essentielles avant…</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget pour installer une pergola ? Guide complet des prix installation pergola, main-d'œuvre et pose en France 2025.</description>
       <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : structure fixe ou rétractable ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez comment bien aménager votre pergola piscine : comparaison entre structures fixes et rétractables, conseils d'installation et tableau décisionnel pour choisir la meilleure option.</description>
-      <pubDate>Sun, 14 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
