@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 18 Jun 2026 14:14:34 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 15:37:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine aménagement : 8 conseils pratiques pour votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Aménager une pergola au bord de la piscine : nos conseils sur l'implantation, la matière, la réglementation et le budget. Réponses claires aux questions essentielles.</description>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : 8 règles essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Puis-je nettoyer ma pergola au Kärcher en été 2026 ? Découvrez les conseils, précautions essentielles et le bon timing pour préserver votre structure bois.</description>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 3x3 aménagement : 8 idées pour optimiser votre petit espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
-      <description>Découvrez 8 idées d'aménagement pour votre pergola 3x3. Conseils pratiques pour maximiser cet espace compact et créer un jardin fonctionnel et élégant.</description>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
