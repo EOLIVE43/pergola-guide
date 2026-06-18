@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:17:53 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:45:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Essence bois pergola : quel bois choisir pour 10 ans de durabilité ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Essence bois pergola : guide complet pour choisir le bon bois. Durabilité, entretien, prix. Réponses aux questions essentielles des propriétaires français.</description>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire avec panneaux photovoltaïques : rentabilité ou gadget ?</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir sa bâche pergola en fonction de l'imperméabilité et la résistance. 8 critères pour une pergola durable et étanche.</description>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola printemps : la checklist complète avant l'été 2026</title>
-      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
-      <description>Retrouvez la checklist complète d'entretien pergola printemps. Guide 2026 : nettoyage, traitement du bois, inspection. À faire avant juin !</description>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
