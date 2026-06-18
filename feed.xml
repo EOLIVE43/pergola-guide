@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 17 Jun 2026 15:51:05 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:14:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : combien coûte vraiment la pose ?</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Quel est le prix installation pergola en France ? Découvrez les tarifs de main-d'œuvre, les coûts de pose et tous les facteurs qui influencent votre budget pergola.</description>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 : 5 idées d'aménagement pour transformer votre petit espace</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet avec tableau décisionnel pour trouver votre solution idéale.</description>
       <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola bioclimatique soi-même : le défi de Marc en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Marc a tenté d'installer sa pergola bioclimatique en DIY. Retour concret sur faisabilité, budget réel et pièges à éviter. Cas pratique 2026 en Provence.</description>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
