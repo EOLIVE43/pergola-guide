@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 19 Jun 2026 11:41:17 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:02:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : chevilles chimiques ou mécaniques ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Fixer pergola mur parpaing : comparatif chevilles chimiques vs mécaniques. Installation, prix, durabilité. Guide complet et verdict pour votre choix.</description>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : combien coûte vraiment la pose ?</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures variétés de rose grimpante pour pergola en été. Guide complet 2026 avec sélection, plantation et entretien saison par saison.</description>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola : quel matériau choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les meilleurs matériaux pour votre toiture pergola : verre, polycarbonate, toile, bois. Comparatif complet, prix et conseils d'installation en France.</description>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
