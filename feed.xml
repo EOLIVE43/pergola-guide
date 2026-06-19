@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 18 Jun 2026 15:37:16 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:10:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : le projet réussi de Valérie à Bordeaux</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Découvrez comment Valérie a transformé sa pergola en oasis floral. Guide complet de glycine pergola entretien avec budget réel, plantation et taille : cas pratique détaillé.</description>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 8 conseils pratiques pour votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Installer sa pergola en un week-end, c'est possible ! Découvrez 8 étapes clés pour réussir votre installation pergola rapidement et sans appeler un pro. Guide complet.</description>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher en été : guide sûr et efficace</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Puis-je nettoyer ma pergola au Kärcher en été 2026 ? Découvrez les conseils, précautions essentielles et le bon timing pour préserver votre structure bois.</description>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
