@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 19 Jun 2026 12:40:36 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:26:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en copropriété : 8 règles essentielles avant l'installation</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Découvrez les 8 règles de pergola copropriété : autorisations, syndic, réglement. Guide complet pour installer légalement votre pergola en immeuble.</description>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Guide complet avec traitements, matériaux et entretien pour une durabilité maximale en France.</description>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 critères clés pour choisir les bons rideaux extérieurs pergola</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Découvrez les 7 critères essentiels pour bien choisir vos rideaux extérieurs pergola. Guide d'achat complet avec conseils d'expert et erreurs à éviter.</description>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
