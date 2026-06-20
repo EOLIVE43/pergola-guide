@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 10:14:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:29:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte vs ouverte : guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Pergola couverte avantages et inconvénients face aux pergolas ouvertes. Comparaison détaillée pour faire le bon choix selon vos besoins et budget en 2024.</description>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer une pergola bioclimatique soi-même : le défi de Marc en Île-de-France</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries avec nos 7 solutions éprouvées. Traitement, entretien, matériaux : tous les secrets pour une pergola durable et protégée face à la pluie, neige et UV.</description>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : 8 raisons de choisir cette dimension</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse standard. 8 avantages pratiques et esthétiques à connaître absolument.</description>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
