@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 10:29:17 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:07:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 : la solution idéale pour les grands jardins</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Découvrez pourquoi la pergola 4x4 jardin est parfaite pour créer un espace ombragé spacieux. Guide complet avec dimensions, prix et conseils d'installation.</description>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte vs ouverte : guide complet pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola 3x3 dans un petit jardin. 5 solutions astucieuses pour maximiser l'espace et créer un coin détente élégant.</description>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : 7 clés pour protéger votre structure</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries avec nos 7 solutions éprouvées. Traitement, entretien, matériaux : tous les secrets pour une pergola durable et protégée face à la pluie, neige et UV.</description>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
