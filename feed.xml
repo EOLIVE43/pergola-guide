@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 07:55:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:14:12 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer une pergola bioclimatique soi-même : le défi de Marc en Île-de-France</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
+      <description>Marc a tenté d'installer sa pergola bioclimatique 4x3 en DIY. Découvrez son expérience concrète, les pièges évités et le budget réel 2026 engagé.</description>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : le comparatif complet 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse standard. 8 avantages pratiques et esthétiques à connaître absolument.</description>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Plantes grimpantes pergola France : le projet réussi de Claire en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
-      <description>Claire a transformé sa pergola en Provence avec les meilleures plantes grimpantes. Découvrez son projet concret : budget, espèces choisies et résultats après 18 mois.</description>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
