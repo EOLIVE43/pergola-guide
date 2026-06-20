@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 12:54:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:14:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte vs ouverte : que choisir selon vos besoins ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les pergola couverte avantages et inconvénients face à la pergola ouverte. Comparatif complet pour bien choisir votre structure.</description>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer pergola en un week-end : le guide complet étape par étape</title>
       <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola solaire avec panneaux photovoltaïques : découvrez si c'est vraiment rentable. Comparatif complet, prix, économies et ROI pour décider en 2025.</description>
       <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise : créer un espace zen dans son jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen jardin : découvrez 8 étapes essentielles pour transformer votre espace en sanctuaire de sérénité. Conseils, matériaux, prix et inspirations design.</description>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
