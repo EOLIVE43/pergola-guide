@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:12:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:21:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : combien coûte la main d'œuvre ?</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Quel est le prix installation pergola en France ? Guide complet des coûts de main-d'œuvre, pose et devis pour votre projet.</description>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique 4x3 : le guide annuel d'une maison lyonnaise</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le vrai prix installation pergola avec détails sur la main d'œuvre, la pose et tous les frais cachés. Estimations 2025 et conseils pour économiser.</description>
       <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : le choix malin d'une famille de Toulouse</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Découvrez le retour d'expérience détaillé d'une famille qui a installé une pergola toit verre feuilleté à Toulouse. Budget, sécurité, esthétique et résultats concrets en 2026.</description>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
