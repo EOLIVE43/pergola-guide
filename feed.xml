@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 14:14:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:39:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : 8 facteurs qui font exploser votre devis</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Découvrez les vrais prix d'installation d'une pergola en France. Coûts de main-d'œuvre, pose, matériaux : tous nos chiffres 2024-2025.</description>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte vs ouverte : que choisir selon vos besoins ?</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Essence bois pergola : guide complet pour choisir le bon bois. Durabilité, entretien, prix. Réponses aux questions essentielles des propriétaires français.</description>
       <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola solaire avec panneaux photovoltaïques : rentabilité ou gadget ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Pergola solaire avec panneaux photovoltaïques : découvrez si c'est vraiment rentable. Comparatif complet, prix, économies et ROI pour décider en 2025.</description>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
