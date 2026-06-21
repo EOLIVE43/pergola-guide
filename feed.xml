@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 21 Jun 2026 08:39:09 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:43:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 raisons d'adopter une pergola acier corten pour votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez pourquoi la pergola acier corten séduit les jardiniers français : esthétique rouillée, durabilité exceptionnelle et 7 avantages clés à connaître absolument.</description>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : 8 facteurs qui font exploser votre devis</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola permis construire 2026 : découvrez les 8 règles légales obligatoires pour installer votre pergola sans risque de démolition. Guide complet France.</description>
       <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Essence bois pergola : quel bois choisir pour 10 ans de durabilité ?</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Essence bois pergola : guide complet pour choisir le bon bois. Durabilité, entretien, prix. Réponses aux questions essentielles des propriétaires français.</description>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
