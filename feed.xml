@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:13:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:59:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Pergola solaire panneaux photovoltaïques : analyse complète de la rentabilité, coûts, économies d'énergie et ROI en France. Guide expert 2026.</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment choisir la taille de sa pergola : cas réel d'une terrasse à Bordeaux</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola couverte avantages et inconvénients face aux pergolas ouvertes. Comparaison détaillée pour faire le bon choix selon vos besoins et budget en 2024.</description>
       <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola bioclimatique soi-même : le défi de Marc en Île-de-France</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Marc a tenté d'installer sa pergola bioclimatique 4x3 en DIY. Découvrez son expérience concrète, les pièges évités et le budget réel 2026 engagé.</description>
-      <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
