@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 11:44:45 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:56:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité renforcée et transparence totale</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Découvrez pourquoi la pergola toit verre feuilleté offre sécurité maximale et beauté intemporelle. Guide complet, prix, avantages et installation.</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola mur parpaing : 8 étapes infaillibles</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing en 7 étapes simples. Guide complet de l'installation pergola pour terrasse.</description>
       <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola en copropriété : 8 règles essentielles avant l'installation</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Découvrez les 8 règles de pergola copropriété : autorisations, syndic, réglement. Guide complet pour installer légalement votre pergola en immeuble.</description>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
