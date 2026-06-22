@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:52:44 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:36:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 jardin : 8 secrets pour transformer votre espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Découvrez les 8 secrets d'une pergola 4x4 pour jardin spacieux. Installation, matériaux, prix et conseils d'experts pour réussir votre projet.</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola : faut-il la déclarer vraiment ?</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment utiliser votre pergola bioclimatique en hiver et profiter de votre terrasse 12 mois/an. Conseils, techniques et solutions pratiques pour une extension de saison.</description>
       <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola mur parpaing : chevilles chimiques ou mécaniques ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Fixer pergola mur parpaing : comparatif chevilles chimiques vs mécaniques. Installation, prix, durabilité. Guide complet et verdict pour votre choix.</description>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
