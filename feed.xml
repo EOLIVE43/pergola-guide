@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:36:55 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:44:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : 8 étapes infaillibles</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Fixer pergola mur parpaing demande précision. Découvrez 8 étapes pour une installation pergola sécurisée et durable sur votre mur.</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : 8 secrets pour transformer votre espace</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 règles de pergola copropriété : autorisations, syndic, réglement. Guide complet pour installer légalement votre pergola en immeuble.</description>
       <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez comment utiliser votre pergola bioclimatique en hiver et profiter de votre terrasse 12 mois/an. Conseils, techniques et solutions pratiques pour une extension de saison.</description>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
