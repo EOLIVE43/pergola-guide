@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:30:38 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 14:25:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : guide complet en 8 questions</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec techniques, matériel, réglementation et erreurs à éviter pour une fixation durable et sécurisée.</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : guide prix, avantages et installation 2026</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique vs classique : découvrez les différences essentielles, avantages, prix et comment choisir la meilleure solution pour votre terrasse en France.</description>
       <pubDate>Sat, 20 Jun 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : 5 variétés à planter cet été 2026</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Rose grimpante pergola : découvrez les meilleures variétés à cultiver en été 2026. Guide complet avec sélection, plantation et entretien pour une floraison spectaculaire.</description>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
