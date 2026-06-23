@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:28:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 13:45:36 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer une pergola sur dalle béton : le guide complet étape par étape</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment fixer pergola dalle béton comme un pro. Techniques, matériel, prix et erreurs à éviter pour une installation durable et sécurisée.</description>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : quelle pergola choisir en 2024 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi la pergola acier corten séduit les jardiniers français : esthétique rouillée, durabilité exceptionnelle et 7 avantages clés à connaître absolument.</description>
       <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : 8 facteurs qui font exploser votre devis</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Découvrez les vrais prix d'installation d'une pergola en France. Coûts de main-d'œuvre, pose, matériaux : tous nos chiffres 2024-2025.</description>
-      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
