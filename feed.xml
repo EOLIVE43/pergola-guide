@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 24 Jun 2026 13:26:58 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:41:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget pour une pergola en France en 2026 ? Découvrez les prix réels, les facteurs qui influencent le coût et comment économiser sur votre pergola pas cher ou bioclimatique.</description>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : 8 secrets pour une rouille sublime et durable</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 secrets d'une pergola 4x4 pour jardin spacieux. Installation, matériaux, prix et conseils d'experts pour réussir votre projet.</description>
       <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola : faut-il la déclarer vraiment ?</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Assurance pergola déclaration : guide complet sur les obligations, risques et démarches. Réponses claires aux questions essentielles des propriétaires français en 2025.</description>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
