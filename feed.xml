@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:38:34 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:13:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : la patine rouillée qui dure 50 ans</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten : découvrez pourquoi cette patine rouillée fascine les architectes. Esthétique, durabilité, prix et entretien en détail.</description>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile ombrage pergola : 8 critères essentiels pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Quel est le prix installation pergola en France ? Guide complet des coûts de main-d'œuvre, pose et devis pour votre projet.</description>
       <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola bioclimatique 4x3 : le guide annuel d'une maison lyonnaise</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
-      <description>Entretien pergola bioclimatique expliqué par un cas réel près de Lyon. Budget, étapes, conseils d'experts : conservez votre pergola 15 ans sans dégâts.</description>
-      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
