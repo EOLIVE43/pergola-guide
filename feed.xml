@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 24 Jun 2026 07:50:18 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:59:35 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : quel prix prévoir ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les tarifs, comparatifs et économies possibles selon le type de structure. Guide complet.</description>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire avec panneaux photovoltaïques : rentabilité</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Comment entretenir sa pergola aluminium ? Découvrez le cas réel de Marc en Normandie : durée, budget, techniques et résultats concrets pour 5 ans d'exploitation.</description>
       <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan : 7 questions pour bien négocier</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Comment obtenir un devis pergola artisan fiable et compétitif ? Découvrez les 7 questions essentielles pour bien comprendre votre devis et négocier le meilleur prix pergola avec un professionnel.</description>
-      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
