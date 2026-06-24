@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:13:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:26:58 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : 8 secrets pour une rouille sublime et durable</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez comment la pergola acier corten allie esthétique rouillée et robustesse extrême. 8 points essentiels pour transformer votre terrasse en oasis design.</description>
+      <pubDate>Wed, 24 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : la patine rouillée qui dure 50 ans</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Assurance pergola déclaration : guide complet sur les obligations, risques et démarches. Réponses claires aux questions essentielles des propriétaires français en 2025.</description>
       <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : combien coûte la main d'œuvre ?</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Quel est le prix installation pergola en France ? Guide complet des coûts de main-d'œuvre, pose et devis pour votre projet.</description>
-      <pubDate>Sun, 21 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
