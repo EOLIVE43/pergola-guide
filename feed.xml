@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:32:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:11:33 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment bien choisir sa bâche pergola avant l'été 2026 : imperméabilité et…</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment choisir la bâche pergola idéale pour l'été 2026. Imperméabilité, résistance aux UV et durabilité : nos conseils pour bien investir avant les mois chauds.</description>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons : 5 astuces pour transformer votre terrasse</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour bien choisir votre store automatisé en France.</description>
       <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité renforcée et transparence totale</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Découvrez pourquoi la pergola toit verre feuilleté offre sécurité maximale et beauté intemporelle. Guide complet, prix, avantages et installation.</description>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
