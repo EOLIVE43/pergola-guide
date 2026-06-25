@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 25 Jun 2026 13:23:33 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:42:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons : 8 astuces pour un aménagement réussi</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment transformer votre pergola 4 saisons en espace habitable toute l'année. 8 astuces, produits et solutions pour un aménagement optimal et confortable.</description>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Taille pergola : découvrez comment Stéphane a choisi les bonnes dimensions pour sa terrasse de 30m². Budget, étapes et résultats concrets.</description>
       <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola mur parpaing : guide complet en 8 questions</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec techniques, matériel, réglementation et erreurs à éviter pour une fixation durable et sécurisée.</description>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
