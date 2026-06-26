@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:16:35 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:35:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : prolongez vos soirées et réduisez vos frais</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment un chauffage infrarouge pergola transforme votre confort extérieur. Guide complet : fonctionnement, économies réelles, prix et installation en France.</description>
+      <pubDate>Fri, 26 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola mur parpaing : chevilles ou scellement chimique ?</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : découvrez les autorisations obligatoires, les restrictions légales et comment naviguer le syndic. Comparatif complet 2025.</description>
       <pubDate>Tue, 23 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer une pergola sur mur en parpaing : le guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Comment fixer une pergola adossée sur un mur en parpaing ? Découvrez les techniques, matériaux et étapes essentielles pour une installation pergola sécurisée et durable.</description>
-      <pubDate>Tue, 23 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
