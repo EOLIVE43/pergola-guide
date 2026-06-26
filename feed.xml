@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 26 Jun 2026 11:39:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 12:06:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment faire sans risque ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment effectuer une déclaration préalable pergola étape par étape. Conseils pratiques pour régulariser votre installation légalement et sans amende.</description>
+      <pubDate>Fri, 26 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : 8 teintes et finitions à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages d'une pergola sur mesure : adaptation parfaite, durabilité, esthétique. Guide complet pour bien choisir en 2026.</description>
       <pubDate>Tue, 23 Jun 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola : faut-il la déclarer ? Guide complet 2025</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Découvrez si vous devez déclarer votre pergola à votre assurance habitation. Guide complet sur l'assurance pergola déclaration, les obligations légales et les risques.</description>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
