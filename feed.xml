@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 27 Jun 2026 12:11:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:54:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine aménagement : le projet réussi de Nathalie en Provence</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Pergola piscine aménagement : découvrez comment Nathalie a transformé son bord de piscine avec une pergola bioclimatique. Budget, délai, conseils pratiques.</description>
+      <pubDate>Sat, 27 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : quel choix de finitions pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les tarifs, comparatifs et économies possibles selon le type de structure. Guide complet.</description>
       <pubDate>Wed, 24 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola solaire avec panneaux photovoltaïques : rentabilité</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Pergola solaire avec panneaux photovoltaïques : découvrez les 8 étapes essentielles pour optimiser votre rentabilité énergétique et vos économies d'électricité dès 2026.</description>
-      <pubDate>Wed, 24 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
