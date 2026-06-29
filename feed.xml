@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:57:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:58:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola copropriété : autorisation ou déclaration préalable ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : découvrez les différences entre demander une autorisation syndic et faire une déclaration préalable. Comparatif complet avec démarches.</description>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment faire en 5 étapes</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment transformer votre pergola 4 saisons en espace habitable toute l'année. 8 astuces, produits et solutions pour un aménagement optimal et confortable.</description>
       <pubDate>Thu, 25 Jun 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir la taille pergola idéale selon votre terrasse. Comparatif petit, moyen ou grand format avec tableau décisionnel complet.</description>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
