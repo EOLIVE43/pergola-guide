@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:05:54 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:26:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment l'obtenir en été 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment faire une déclaration préalable pergola étape par étape. Guide complet avec délais, erreurs à éviter et budget 2026. À faire avant septembre !</description>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile ombrage pergola : comment bien choisir en été 2026</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la bâche pergola idéale pour l'été 2026. Imperméabilité, résistance aux UV et durabilité : nos conseils pour bien investir avant les mois chauds.</description>
       <pubDate>Thu, 25 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons : 5 astuces pour transformer votre terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment aménager votre pergola 4 saisons avec nos astuces pratiques et produits. Guide complet pour profiter de votre terrasse toute l'année en France.</description>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
