@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 29 Jun 2026 15:58:30 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:52:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé : avantages, style intemporel et entretien facile</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola fer forgé : durabilité, esthétique élégante et maintenance simple. Guide complet avec prix et conseils d'entretien.</description>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire panneaux photovoltaïques : vraiment rentable ?</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment effectuer une déclaration préalable pergola étape par étape. Conseils pratiques pour régulariser votre installation légalement et sans amende.</description>
       <pubDate>Fri, 26 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : 8 teintes et finitions à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Découvrez les 8 meilleures couleurs et finitions pour votre pergola aluminium. Conseils, tendances 2026 et comparatif des teintes durables.</description>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
