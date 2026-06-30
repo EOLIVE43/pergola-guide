@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:04:34 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:11:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan ou DIY : comment bien choisir en 2024 ?</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Comparez devis pergola artisan vs auto-construction. Tarifs, délais, qualité : notre guide pour obtenir le meilleur rapport qualité-prix sur votre pergola en bois ou bioclimatique.</description>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile d'ombrage pergola : comment bien choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Étude de cas réelle : rideaux extérieurs pergola. Budget 4 200 €, installation 3 semaines. Chiffres concrets et conseils pour votre projet 2026.</description>
       <pubDate>Sat, 27 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : prolongez vos soirées et réduisez vos frais</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment un chauffage infrarouge pergola transforme votre confort extérieur. Guide complet : fonctionnement, économies réelles, prix et installation en France.</description>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
