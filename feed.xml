@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:36:38 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:47:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 plantes grimpantes pour pergola : guide France 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
+      <description>Découvrez les meilleures plantes grimpantes pergola France : clématite, lierre, vigne vierge. Conseils d'installation, entretien et prix 2025.</description>
+      <pubDate>Wed, 01 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quel matériau pour la toiture de sa pergola ? Guide complet 2026</title>
       <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les tendances 2026 pour votre pergola moderne et contemporaine. Design aluminium, dimensions optimales et budget : le guide complet de l'été 2026 pour agir maintenant.</description>
       <pubDate>Sun, 28 Jun 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : guide complet prix et installation 2025</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Store pergola motorisé : découvrez prix, avantages et installation. Guide complet pour bien choisir votre solution d'ombrage motorisée en France.</description>
-      <pubDate>Sun, 28 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
