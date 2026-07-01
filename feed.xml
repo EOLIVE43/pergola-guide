@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 01 Jul 2026 12:27:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 13:36:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quel matériau pour la toiture de sa pergola ? Guide complet 2026</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Découvrez les meilleurs matériaux pour la toiture pergola : polycarbonate, verre, toile, bois. Comparaison prix, durabilité et conseils d'installation en France.</description>
+      <pubDate>Wed, 01 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : sécurité et esthétique en été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : découvrez prix, avantages et installation. Guide complet pour bien choisir votre solution d'ombrage motorisée en France.</description>
       <pubDate>Sun, 28 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : le projet réussi de Nathalie en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : découvrez comment Nathalie a transformé son bord de piscine avec une pergola bioclimatique. Budget, délai, conseils pratiques.</description>
-      <pubDate>Sat, 27 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
