@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:01:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:01:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante au vent : aluminium ou acier, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez quelle pergola résiste le mieux au vent : comparatif complet entre aluminium et acier. Caractéristiques, prix et verdict selon votre région.</description>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : confort d'été et économies garanties</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment faire une déclaration préalable pergola étape par étape. Guide complet avec délais, erreurs à éviter et budget 2026. À faire avant septembre !</description>
       <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile ombrage pergola : comment bien choisir en été 2026</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Été 2026 : guide complet pour choisir votre voile ombrage pergola. Matériaux, installation et erreurs à éviter avant les pics de chaleur.</description>
-      <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
