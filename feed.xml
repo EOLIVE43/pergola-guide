@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:26:51 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:01:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : confort d'été et économies garanties</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pergola prolonge vos soirées en terrasse. Installation, prix, économies d'énergie et conseils experts 2026.</description>
+      <pubDate>Thu, 02 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : 7 variétés à cultiver</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Été 2026 : guide complet pour choisir votre voile ombrage pergola. Matériaux, installation et erreurs à éviter avant les pics de chaleur.</description>
       <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : préparez l'automne dès l'été 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Chauffage infrarouge pergola : découvrez comment profiter de votre terrasse jusqu'en novembre. Guide complet, prix 2026 et installation avant la chute des températures.</description>
-      <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
