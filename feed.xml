@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:59:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 13:00:18 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : 8 avantages sécurité et design</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Découvrez les 8 raisons de choisir une pergola toit verre feuilleté : sécurité renforcée, luminosité, esthétique moderne et résistance. Guide complet 2025.</description>
+      <pubDate>Fri, 03 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Meilleures marques pergola bioclimatique 2026 : le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages de la pergola fer forgé : durabilité, esthétique élégante et maintenance simple. Guide complet avec prix et conseils d'entretien.</description>
       <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola solaire panneaux photovoltaïques : vraiment rentable ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Pergola solaire avec panneaux photovoltaïques : comparaison rentabilité vs pergola bioclimatique. Investissement, économies d'énergie, délais. Guide complet 2026.</description>
-      <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
