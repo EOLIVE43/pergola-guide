@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 03 Jul 2026 10:32:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:25:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : combien coûte vraiment la pose ?</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Découvrez le prix installation pergola en France : main-d'œuvre, devis, tarifs bioclimatique et bois. Guide complet 2024 avec chiffres réels et astuces pour économiser.</description>
+      <pubDate>Fri, 03 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : le guide été 2026 pour protéger votre bois</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer un brise-vue pergola jardin efficace. 5 solutions d'intimité et esthétique : toile, végétal, bois. Conseils experts 2026.</description>
       <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola copropriété : autorisation ou déclaration préalable ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : découvrez les différences entre demander une autorisation syndic et faire une déclaration préalable. Comparatif complet avec démarches.</description>
-      <pubDate>Mon, 29 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
