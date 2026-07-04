@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:16:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:11:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voile ombrage pergola : comment bien choisir ? Le retour d'expérience de…</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Comment bien choisir voile ombrage pergola ? Découvrez le cas concret de Marie : budget réel 2 800 €, gain de 8°C, 95 % de satisfaction client.</description>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : quelle structure choisir pour l'hiver ?</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola adossée mur mitoyen : guide complet sur les vérifications réglementaires, les droits du voisin et les conditions légales d'installation. Réponses claires à vos 7 questions essentielles.</description>
       <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan ou DIY : comment bien choisir en 2024 ?</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Comparez devis pergola artisan vs auto-construction. Tarifs, délais, qualité : notre guide pour obtenir le meilleur rapport qualité-prix sur votre pergola en bois ou bioclimatique.</description>
-      <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
