@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 04 Jul 2026 12:11:20 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 13:44:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : quelles structures supportent le poids ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez quels matériaux et structures supportent le poids de la neige. Comparaison alu, bois, acier avec charges maximales et conseils d'installation.</description>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile ombrage pergola : comment bien choisir ? Le retour d'expérience de…</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la couleur et la finition de votre pergola aluminium. Conseils d'expert, tendances 2025 et solutions adaptées à tous les styles d'extérieur.</description>
       <pubDate>Wed, 01 Jul 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 7 points essentiels à vérifier avant…</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : guide complet sur les vérifications réglementaires, les droits du voisin et les conditions légales d'installation. Réponses claires à vos 7 questions essentielles.</description>
-      <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
