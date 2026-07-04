@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 04 Jul 2026 10:03:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 11:16:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : quelle structure choisir pour l'hiver ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez comment les pergolas aluminium supportent le poids de neige et quelles structures privilégier en montagne et régions froides.</description>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola copropriété : règles et démarches pour bien installer</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Comparez devis pergola artisan vs auto-construction. Tarifs, délais, qualité : notre guide pour obtenir le meilleur rapport qualité-prix sur votre pergola en bois ou bioclimatique.</description>
       <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile d'ombrage pergola : comment bien choisir en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir un voile ombrage pergola selon vos besoins. Matériaux, dimensions, prix : notre guide complet pour une pergola protégée.</description>
-      <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
