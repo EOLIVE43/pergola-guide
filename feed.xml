@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 03 Jul 2026 14:20:08 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:03:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola copropriété : règles et démarches pour bien installer</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : découvrez les autorisations obligatoires, les restrictions du syndic, et les démarches administratives pour installer légalement votre pergola en immeuble.</description>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 7 questions pour obtenir le meilleur prix</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir un voile ombrage pergola selon vos besoins. Matériaux, dimensions, prix : notre guide complet pour une pergola protégée.</description>
       <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola moderne contemporaine 2026 : 5 tendances qui transforment votre jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Découvrez la pergola moderne contemporaine 2026 : matériaux innovants, designs épurés, technologies intégrées. Guide complet des tendances et modèles à privilégier.</description>
-      <pubDate>Tue, 30 Jun 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
