@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 05 Jul 2026 11:21:57 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:21:14 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons : comment l'aménager toute l'année ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez les meilleures astuces pour transformer votre pergola en espace 4 saisons aménagement. Produits, systèmes bioclimatiques et conseils pratiques pour profiter de votre pergola toute l'année.</description>
+      <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 Pergolas résistantes au vent : comment bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures plantes grimpantes pergola France : clématite, lierre, vigne vierge. Conseils d'installation, entretien et prix 2025.</description>
       <pubDate>Wed, 01 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quel matériau pour la toiture de sa pergola ? Guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les meilleurs matériaux pour la toiture pergola : polycarbonate, verre, toile, bois. Comparaison prix, durabilité et conseils d'installation en France.</description>
-      <pubDate>Wed, 01 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
