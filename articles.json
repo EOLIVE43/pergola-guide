@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : les secrets du bois pour votre jardin",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles, inspirations et conseils pratiques pour transformer votre extérieur en havre champêtre.",
+    "date": "2026-07-06",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : 8 clés pour maximiser la rentabilité",
     "categorie": "Bioclimatique",
