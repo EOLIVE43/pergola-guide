@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 07 Jul 2026 13:24:04 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:48:14 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola sur mur parpaing : chevilles chimiques ou ancrages mécaniques ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Comment fixer une pergola adossée sur un mur en parpaing ? Découvrez le comparatif chevilles chimiques vs ancrages mécaniques : avantages, prix, durabilité et notre verdict selon votre projet.</description>
+      <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : un cas réel en Savoie, 6 ans sans problème</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez comment les pergolas aluminium supportent le poids de neige et quelles structures privilégier en montagne et régions froides.</description>
       <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola copropriété : règles et démarches pour bien installer</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : découvrez les autorisations obligatoires, les restrictions du syndic, et les démarches administratives pour installer légalement votre pergola en immeuble.</description>
-      <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
