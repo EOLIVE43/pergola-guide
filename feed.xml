@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:38:23 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:20:47 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : anticipez l'été 2026 dès maintenant</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>L'entretien pergola printemps est crucial pour profiter de votre terrasse en été. Checklist complète, actions prioritaires et planning pour préparer votre pergola bois dès juillet 2026.</description>
+      <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : quand la rouille devient design (retour d'expérience)</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment obtenir un devis pergola artisan sans vous faire arnaquer. Guide complet avec astuces de négociation et estimation des prix 2025.</description>
       <pubDate>Fri, 03 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : 8 avantages sécurité et design</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Découvrez les 8 raisons de choisir une pergola toit verre feuilleté : sécurité renforcée, luminosité, esthétique moderne et résistance. Guide complet 2025.</description>
-      <pubDate>Fri, 03 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
