@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:32:13 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 11:41:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : les 3 gestes essentiels de l'été 2026</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Glycine pergola entretien en juillet 2026 : découvrez les actions prioritaires, le planning complet et les erreurs à éviter avant septembre. Guide pratique saisonnier.</description>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez quels matériaux et structures supportent le poids de la neige. Comparaison alu, bois, acier avec charges maximales et conseils d'installation.</description>
       <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile ombrage pergola : comment bien choisir ? Le retour d'expérience de…</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Comment bien choisir voile ombrage pergola ? Découvrez le cas concret de Marie : budget réel 2 800 €, gain de 8°C, 95 % de satisfaction client.</description>
-      <pubDate>Sat, 04 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
