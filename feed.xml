@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 08 Jul 2026 12:25:02 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 14:27:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique été 2026 : comparatif ipé, teck, cumaru</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Pergola bois exotique : découvrez le comparatif complet ipé vs teck vs cumaru. Guide 2026 pour choisir et installer avant fin d'été.</description>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola : faut-il la déclarer ? 7 réponses clés</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages d'une pergola sur mesure cet été. Protection solaire, design personnalisé, durabilité : pourquoi c'est le meilleur choix en 2026.</description>
       <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : les avantages contre le vent expliqués</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez les avantages du store zip pergola pour protéger votre terrasse du vent. Comparatif complet avec solutions traditionnelles.</description>
-      <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
