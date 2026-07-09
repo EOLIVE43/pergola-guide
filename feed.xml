@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 09 Jul 2026 07:48:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:40:12 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : Quel prix prévoir vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget pour une pergola en France en 2026 ? Découvrez les vrais prix, les aides disponibles et comment économiser sur votre projet pergola.</description>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : 8 avantages qui changent tout</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures astuces pour transformer votre pergola en espace 4 saisons aménagement. Produits, systèmes bioclimatiques et conseils pratiques pour profiter de votre pergola toute l'année.</description>
       <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 Pergolas résistantes au vent : comment bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez les 8 critères essentiels pour choisir une pergola résistante vent durable. Matériaux, dimensions, ancrage : le guide complet pour investir sans risque.</description>
-      <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
