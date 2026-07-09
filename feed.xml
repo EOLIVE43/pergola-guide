@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:40:12 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:49:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aménager une cuisine extérieure sous pergola : 8 questions essentielles</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Guide complet pour aménager une cuisine extérieure pergola : réglementation, budget, installation, électricité, matériaux. Tout ce qu'il faut savoir pour réussir.</description>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : Quel prix prévoir vraiment ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Peut-on installer une pergola bioclimatique soi-même ? Découvrez les avantages et inconvénients du DIY vs professionnel. Comparatif complet et verdict.</description>
       <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons : comment l'aménager toute l'année ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez les meilleures astuces pour transformer votre pergola en espace 4 saisons aménagement. Produits, systèmes bioclimatiques et conseils pratiques pour profiter de votre pergola toute l'année.</description>
-      <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
