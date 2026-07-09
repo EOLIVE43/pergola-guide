@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:50:31 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:52:42 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer une pergola bioclimatique soi-même : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
+      <description>Découvrez comment installer une pergola bioclimatique soi-même. Guide pas-à-pas, coûts, outils nécessaires et pièges à éviter pour réussir votre projet.</description>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : quelles règles et autorisations ?</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment optimiser la rentabilité de votre pergola solaire avec panneaux photovoltaïques. 8 stratégies essentielles pour rentabiliser votre installation dès la première année.</description>
       <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 essences de bois pour pergola : le guide complet</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Quelle essence de bois choisir pour une pergola durable ? Découvrez les 7 meilleures options avec avantages, prix et caractéristiques pour votre terrasse.</description>
-      <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
