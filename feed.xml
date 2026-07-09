@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 09 Jul 2026 10:49:32 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:50:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en copropriété : quelles règles et autorisations ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : guide complet des autorisations, démarches administratives et conditions d'installation en immeuble collectif.</description>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Aménager une cuisine extérieure sous pergola : 8 questions essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Quelle essence de bois choisir pour une pergola durable ? Découvrez les 7 meilleures options avec avantages, prix et caractéristiques pour votre terrasse.</description>
       <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola bioclimatique soi-même ou faire appel à un pro ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Peut-on installer une pergola bioclimatique soi-même ? Découvrez les avantages et inconvénients du DIY vs professionnel. Comparatif complet et verdict.</description>
-      <pubDate>Sun, 05 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
