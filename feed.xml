@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:48:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:42:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : avantages, durabilité et prix en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie (15-25 ans), l'entretien nécessaire et les prix actuels. Guide complet avec comparatifs.</description>
+      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : quel choix pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer pergola bois ? Découvrez 8 critères décisifs pour protéger votre pergola en bois durablement et sans erreur coûteuse.</description>
       <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : quel prix prévoir ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Découvrez le vrai budget pergola France 2026 : tarifs bois, bioclimatique, devis. Tous les prix détaillés pour bien planifier votre projet.</description>
-      <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
