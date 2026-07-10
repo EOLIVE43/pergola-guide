@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:18:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:16:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte avantages : comparaison complète avec pergola ouverte</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les vrais avantages d'une pergola couverte vs pergola ouverte. Réponses claires sur protection, prix, installation et réglementation pour faire le bon choix.</description>
+      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 plantes grimpantes pergola France : guide complet 2025</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola acier corten : découvrez le cas concret de Marc à Bordeaux. Budget, installation, durabilité et esthétique rouillée expliquée en chiffres.</description>
       <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : 8 solutions éprouvées pour 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026 : conseils d'experts, comparatif des technologies et astuces pour bien choisir votre système.</description>
-      <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
