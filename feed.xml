@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 10 Jul 2026 10:28:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:48:14 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : quel choix pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Pergola aluminium couleur : guide des finitions, teintes RAL et conseils pour choisir la bonne. Anthracite, blanc, imitation bois... tout pour votre terrasse.</description>
+      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : 9 conseils pour optimiser votre espace</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le vrai budget pergola France 2026 : tarifs bois, bioclimatique, devis. Tous les prix détaillés pour bien planifier votre projet.</description>
       <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 tendances pergola moderne contemporaine 2026 à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Découvrez les 8 tendances pergola moderne contemporaine 2026 : design, matériaux et innovations. Guide complet pour votre aménagement extérieur.</description>
-      <pubDate>Mon, 06 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
