@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:09:52 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 10:51:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 secrets pour une pergola bois résistante aux intempéries</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez 7 solutions éprouvées pour protéger votre pergola bois résistante aux intempéries. Traitements, entretien et matériaux : le guide complet.</description>
+      <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante au vent : comment bien choisir en été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien et performances. Découvrez le meilleur choix pour votre terrasse en 2026.</description>
       <pubDate>Wed, 08 Jul 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola sur mur parpaing : chevilles chimiques ou ancrages mécaniques ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Comment fixer une pergola adossée sur un mur en parpaing ? Découvrez le comparatif chevilles chimiques vs ancrages mécaniques : avantages, prix, durabilité et notre verdict selon votre projet.</description>
-      <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
