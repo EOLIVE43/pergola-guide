@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 11 Jul 2026 09:22:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 10:09:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante au vent : comment bien choisir en été 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Quelle pergola résiste le mieux au vent ? Guide complet 2026 pour choisir une pergola résistante vent et sécuriser votre terrasse avant les tempêtes d'été.</description>
+      <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Glycine pergola entretien : 8 réponses essentielles pour réussir</title>
       <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Comment fixer une pergola adossée sur un mur en parpaing ? Découvrez le comparatif chevilles chimiques vs ancrages mécaniques : avantages, prix, durabilité et notre verdict selon votre projet.</description>
       <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : un cas réel en Savoie, 6 ans sans problème</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez comment une pergola aluminium 6x4 supporte chaque hiver 80 cm de neige en Savoie. Étude de cas 2026 avec chiffres précis.</description>
-      <pubDate>Tue, 07 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
