@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:04:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 12:04:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : guide complet + 5 erreurs à éviter</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils d'experts, précautions essentielles et techniques de nettoyage pour préserver votre pergola bois.</description>
+      <pubDate>Sun, 12 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante au vent : aluminium ou bois, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola toit verre feuilleté : sécurité renforcée, esthétique premium et intimité garantie. Découvrez les 8 raisons d'investir dans cette solution haut de gamme pour votre terrasse.</description>
       <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique été 2026 : comparatif ipé, teck, cumaru</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Pergola bois exotique : découvrez le comparatif complet ipé vs teck vs cumaru. Guide 2026 pour choisir et installer avant fin d'été.</description>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
