@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 13 Jul 2026 10:54:41 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:50:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola pas cher bonne qualité : comment bien choisir sans compromis ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
+      <description>Pergola pas cher bonne qualité : découvrez 8 conseils pour acheter une pergola durable sans se ruiner. Prix, matériaux, astuces d'achat.</description>
+      <pubDate>Mon, 13 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : sécurité et design réunis</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : guide complet des autorisations, démarches administratives et conditions d'installation en immeuble collectif.</description>
       <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Aménager une cuisine extérieure sous pergola : 8 questions essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Guide complet pour aménager une cuisine extérieure pergola : réglementation, budget, installation, électricité, matériaux. Tout ce qu'il faut savoir pour réussir.</description>
-      <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
