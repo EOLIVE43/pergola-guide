@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 14 Jul 2026 12:19:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:55:34 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget pour une pergola en France en 2026 ? Découvrez les prix réels, les matériaux pas cher, et les devis détaillés pour votre projet pergola.</description>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment aménager une cuisine extérieure sous pergola ? Guide pratique</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 meilleures plantes grimpantes pergola France pour ombrager votre terrasse. Conseils d'entretien, prix et sélection adapté au climat français.</description>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : avantages, durabilité et prix en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie (15-25 ans), l'entretien nécessaire et les prix actuels. Guide complet avec comparatifs.</description>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
