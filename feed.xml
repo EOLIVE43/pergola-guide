@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:52:16 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:16:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : 8 critères décisifs pour bien choisir en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Pergola aluminium vs bois : découvrez les 8 différences clés (durabilité, prix, entretien). Comparatif complet pour choisir votre pergola idéale en France.</description>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : prolongez vos soirées et économisez</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium couleur : guide des finitions, teintes RAL et conseils pour choisir la bonne. Anthracite, blanc, imitation bois... tout pour votre terrasse.</description>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : 9 conseils pour optimiser votre espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : découvrez 9 conseils pratiques pour bien dimensionner et installer votre pergola. Guide complet pour terrasses standard françaises.</description>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
