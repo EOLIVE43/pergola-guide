@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:16:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:19:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment aménager une cuisine extérieure sous pergola ? Guide pratique</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola : étapes, budget, réglementation, équipements indispensables et conseils d'experts pour votre jardin.</description>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : 8 critères décisifs pour bien choisir en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie (15-25 ans), l'entretien nécessaire et les prix actuels. Guide complet avec comparatifs.</description>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : quel choix pour votre terrasse ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Pergola aluminium couleur : guide des finitions, teintes RAL et conseils pour choisir la bonne. Anthracite, blanc, imitation bois... tout pour votre terrasse.</description>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
