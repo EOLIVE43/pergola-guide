@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 13 Jul 2026 14:45:36 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:12:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Essence bois pergola : le guide complet pour une durabilité maximale</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez comment choisir l'essence de bois idéale pour votre pergola. Guide complet des bois durables, prix, avantages et comparaison essence bois pergola.</description>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : sécurité, normes et esthétique</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures plantes grimpantes pour pergola en France : variétés, entretien et conseils de plantation pour une pergola verdoyante toute l'année.</description>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique vs classique : le retour d'expérience de Thomas à Toulouse</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
-      <description>Pergola bioclimatique vs classique : découvrez le cas concret de Thomas à Toulouse. Budget réel, dimensions 6x4m, résultats chiffrés et conseils actionnables pour votre projet 2026.</description>
-      <pubDate>Thu, 09 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
