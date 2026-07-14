@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:12:07 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:52:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : prolongez vos soirées et économisez</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez le chauffage infrarouge pergola : fonctionnement, économies d'énergie, installation et prix. Guide complet pour un confort optimal en extérieur toute l'année.</description>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Essence bois pergola : le guide complet pour une durabilité maximale</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : découvrez 9 conseils pratiques pour bien dimensionner et installer votre pergola. Guide complet pour terrasses standard françaises.</description>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 plantes grimpantes pour pergola en France : le guide complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
-      <description>Découvrez les meilleures plantes grimpantes pour pergola en France : variétés, entretien et conseils de plantation pour une pergola verdoyante toute l'année.</description>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
