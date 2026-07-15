@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Jul 2026 12:20:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:52:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine aménagement : 8 conseils pour réussir</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Pergola piscine aménagement : découvrez 8 conseils et idées pour créer un espace ombragé et fonctionnel au bord de votre piscine. Guide complet 2026.</description>
+      <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 pour terrasse : le guide complet des dimensions idéales</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, verre, bois, aluminium. Comparaison prix, durabilité et conseils d'installation.</description>
       <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 secrets pour une pergola bois résistante aux intempéries</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez 7 solutions éprouvées pour protéger votre pergola bois résistante aux intempéries. Traitements, entretien et matériaux : le guide complet.</description>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

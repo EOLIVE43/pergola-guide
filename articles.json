@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 8 conseils pour réussir",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : découvrez 8 conseils et idées pour créer un espace ombragé et fonctionnel au bord de votre piscine. Guide complet 2026.",
+    "date": "2026-07-15",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 pour terrasse : le guide complet des dimensions idéales",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine sur pergola : plantation, taille et entretien",
-    "categorie": "Jardin",
-    "description": "Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine magnifique sur votre pergola et la maintenir en parfait état.",
-    "date": "2026-04-20",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
