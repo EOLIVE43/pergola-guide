@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : prix, avantages et installation",
+    "categorie": "Stores",
+    "description": "Découvrez le store pergola motorisé : prix réels, avantages et étapes d'installation. Guide complet avec chiffres et conseils pratiques pour bien choisir.",
+    "date": "2026-07-15",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "Aménager une cuisine extérieure sous pergola : le guide complet",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-sur-mesure-avantages",
-    "titre": "Pergola sur mesure : pourquoi c'est souvent le meilleur choix ?",
-    "categorie": "Dimensions",
-    "description": "Pergola sur mesure : découvrez pourquoi c'est souvent le meilleur choix pour votre terrasse. Avantages, prix et conseils d'experts 2025.",
-    "date": "2026-04-20",
-    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-sur-mesure"
   }
 ]

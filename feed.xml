@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:42:08 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:19:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : prix, avantages et installation</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Découvrez le store pergola motorisé : prix réels, avantages et étapes d'installation. Guide complet avec chiffres et conseils pratiques pour bien choisir.</description>
+      <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Aménager une cuisine extérieure sous pergola : le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Quelle pergola résiste le mieux au vent ? Guide complet 2026 pour choisir une pergola résistante vent et sécuriser votre terrasse avant les tempêtes d'été.</description>
       <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Glycine pergola entretien : 8 réponses essentielles pour réussir</title>
-      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
-      <description>Découvrez comment cultiver, tailler et entretenir votre glycine sur pergola. Conseils pratiques, calendrier saisonnier et solutions aux problèmes courants.</description>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
