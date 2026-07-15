@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Aménager une cuisine extérieure sous pergola : le guide complet",
+    "categorie": "Jardin",
+    "description": "Aménager une cuisine extérieure pergola : découvrez comment créer votre espace culinaire extérieur. Plans, matériaux, budget et conseils pratiques pour réussir.",
+    "date": "2026-07-15",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Voile ombrage pergola : comment bien choisir en 2025 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Comment fixer une pergola adossée sur un mur en parpaing ?",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola adossée sur un mur en parpaing : matériel, techniques, prix et erreurs à éviter pour une installation durable et sécurisée.",
-    "date": "2026-04-20",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]

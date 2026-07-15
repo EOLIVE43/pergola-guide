@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:56:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:42:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aménager une cuisine extérieure sous pergola : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Aménager une cuisine extérieure pergola : découvrez comment créer votre espace culinaire extérieur. Plans, matériaux, budget et conseils pratiques pour réussir.</description>
+      <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile ombrage pergola : comment bien choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment cultiver, tailler et entretenir votre glycine sur pergola. Conseils pratiques, calendrier saisonnier et solutions aux problèmes courants.</description>
       <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : ce qu'il faut vérifier avant l'installation</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : guide complet sur la réglementation, les droits de voisinage, les autorisations et les règles de fixation. Tout ce qu'il faut vérifier.</description>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
