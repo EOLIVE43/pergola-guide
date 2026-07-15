@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 pour terrasse : le guide complet des dimensions idéales",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace. Avantages, prix, installation et erreurs à éviter en 2026.",
+    "date": "2026-07-15",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : prix, avantages et installation",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola et neige : quelles structures supportent le poids ?",
-    "categorie": "Conseils",
-    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids en France. Aluminium, acier, bois — guides et prix 2025.",
-    "date": "2026-04-20",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
