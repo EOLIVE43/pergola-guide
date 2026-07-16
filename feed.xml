@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:52:48 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:04:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : comment choisir la structure idéale ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez quelles structures supportent le poids, les normes, matériaux et solutions pour régions hivernales.</description>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 8 conseils pour réussir</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 meilleures marques de pergola bioclimatique du marché français en 2026. Guide complet pour choisir votre pergola bioclimatique idéale avec prix et avis.</description>
       <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quel matériau pour la toiture de sa pergola ? Guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, verre, bois, aluminium. Comparaison prix, durabilité et conseils d'installation.</description>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : comment choisir la structure idéale ?",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids, les normes, matériaux et solutions pour régions hivernales.",
+    "date": "2026-07-16",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 8 conseils pour réussir",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Comment obtenir un bon devis pour sa pergola ?",
-    "categorie": "Prix",
-    "description": "Découvrez comment obtenir un devis pergola artisan au meilleur prix. Guide complet pour comparer les offres, négocier et économiser sur votre pergola bioclimatique.",
-    "date": "2026-04-21",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
