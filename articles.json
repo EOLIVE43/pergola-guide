@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : 8 points clés pour bien choisir",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 essentiels du store pergola motorisé : prix, avantages, installation. Guide complet pour faire le bon choix et éviter les pièges.",
+    "date": "2026-07-16",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 : la solution idéale pour votre jardin spacieux",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "7 avantages de la pergola polycarbonate pour votre terrasse",
-    "categorie": "Toiture",
-    "description": "Découvrez les 7 avantages majeurs de la pergola polycarbonate : prix, durabilité, pose facile. Guide complet pour bien choisir votre pergola.",
-    "date": "2026-04-22",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]

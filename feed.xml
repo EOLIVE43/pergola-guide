@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:25:19 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:24:19 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : 8 points clés pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Découvrez les 8 essentiels du store pergola motorisé : prix, avantages, installation. Guide complet pour faire le bon choix et éviter les pièges.</description>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 : la solution idéale pour votre jardin spacieux</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi la pergola toit verre feuilleté combine protection optimale et esthétique. Caractéristiques, prix, installation et avantages en 2026.</description>
       <pubDate>Mon, 13 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : structures qui supportent l'hiver ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : guide complet sur les structures capables de supporter le poids de la neige. Pergola aluminium, matériaux robustes, normes, épaisseurs. Réponses claires.</description>
-      <pubDate>Sun, 12 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
