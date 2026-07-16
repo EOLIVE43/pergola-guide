@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 : la solution idéale pour votre jardin spacieux",
+    "categorie": "Dimensions",
+    "description": "Découvrez tout sur la pergola 4x4 jardin : dimensions, réglementation, prix, permis et conseils d'installation. Guide complet pour aménager votre espace extérieur.",
+    "date": "2026-07-16",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "nettoyage-pergola-karcher",
     "titre": "Nettoyage pergola Kärcher : guide été 2026 pour un résultat impeccable",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Comment choisir la taille pergola parfaite pour sa terrasse",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment choisir la taille pergola idéale selon votre terrasse. 7 conseils essentiels pour ne pas vous tromper et profiter pleinement de votre espace extérieur.",
-    "date": "2026-04-22",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]
