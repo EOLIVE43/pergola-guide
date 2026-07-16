@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher : guide été 2026 pour un résultat impeccable",
+    "categorie": "Entretien",
+    "description": "Peut-on nettoyer sa pergola au Kärcher ? Découvrez les conseils, précautions et le meilleur moment en été 2026 pour entretenir votre pergola bois ou alu sans l'endommager.",
+    "date": "2026-07-16",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "9 avantages pergola polycarbonate : le guide complet",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer pergola dalle béton : ancrage direct ou plots ?",
-    "categorie": "Installation",
-    "description": "Fixer pergola dalle béton : comparatif ancrage direct vs plots. Découvrez la meilleure technique d'installation selon votre terrasse et budget.",
-    "date": "2026-04-22",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
