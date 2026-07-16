@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:24:19 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:03:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment déclarer en 8 étapes</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Déclaration préalable pergola : découvrez comment la déclarer légalement en 8 étapes simples. Guide complet pour éviter les amendes et régulariser votre installation.</description>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : 8 points clés pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola pas cher bonne qualité : découvrez 8 conseils pour acheter une pergola durable sans se ruiner. Prix, matériaux, astuces d'achat.</description>
       <pubDate>Mon, 13 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité et design réunis</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Découvrez pourquoi la pergola toit verre feuilleté combine protection optimale et esthétique. Caractéristiques, prix, installation et avantages en 2026.</description>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

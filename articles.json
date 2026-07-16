@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : comment déclarer en 8 étapes",
+    "categorie": "Installation",
+    "description": "Déclaration préalable pergola : découvrez comment la déclarer légalement en 8 étapes simples. Guide complet pour éviter les amendes et régulariser votre installation.",
+    "date": "2026-07-16",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : 8 points clés pour bien choisir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Pergola : toiture en verre ou polycarbonate ? Le comparatif des matériaux",
-    "categorie": "Toiture",
-    "description": "Quel matériau choisir pour la toiture de sa pergola ? Découvrez le comparatif complet : verre, polycarbonate, bois. Avantages, prix, entretien.",
-    "date": "2026-04-22",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
