@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:04:22 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:02:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>9 avantages pergola polycarbonate : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les 9 avantages majeurs de la pergola polycarbonate : durabilité, prix, luminosité et pose. Guide complet pour bien choisir votre pergola.</description>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : comment choisir la structure idéale ?</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola résistante au vent : comparatif complet entre aluminium et bois. Découvrez quelle structure résiste le mieux aux rafales et aux intempéries en France.</description>
       <pubDate>Sun, 12 Jul 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Les 8 meilleures marques de pergola bioclimatique en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Découvrez les 8 meilleures marques de pergola bioclimatique du marché français en 2026. Guide complet pour choisir votre pergola bioclimatique idéale avec prix et avis.</description>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

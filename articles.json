@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "9 avantages pergola polycarbonate : le guide complet",
+    "categorie": "Toiture",
+    "description": "Découvrez les 9 avantages majeurs de la pergola polycarbonate : durabilité, prix, luminosité et pose. Guide complet pour bien choisir votre pergola.",
+    "date": "2026-07-16",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : comment choisir la structure idéale ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : 8 critères pour bien choisir",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique vs classique : découvrez les 8 différences majeures pour choisir la structure idéale pour votre terrasse et votre budget.",
-    "date": "2026-04-21",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
