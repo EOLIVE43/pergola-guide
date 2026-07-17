@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : quelles structures supportent le poids ?",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids, les charges maximales et comment choisir la bonne pergola pour les régions enneigées.",
+    "date": "2026-07-17",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment déclarer en 8 étapes",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-4x3-terrasse-standard",
-    "titre": "Pergola 4×3 terrasse : dimensions idéales & conseils pratiques",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x3 terrasse : découvrez si cette dimension convient à votre espace, les réglementations, tarifs et étapes d'installation. Guide complet en questions-réponses.",
-    "date": "2026-04-22",
-    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x3"
   }
 ]
