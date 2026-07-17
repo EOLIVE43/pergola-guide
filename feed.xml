@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 17 Jul 2026 12:13:57 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:49:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : comment Nathalie a transformé son jardin à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Rose grimpante pergola : découvrez comment une propriétaire a choisi ses variétés et réalisé son projet en 6 mois. Budget, conseils et résultats concrets.</description>
+      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : 8 conseils pour ne pas l'abîmer</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola : étapes, budget, réglementation, équipements indispensables et conseils d'experts pour votre jardin.</description>
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium vs bois : 8 critères décisifs pour bien choisir en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
-      <description>Pergola aluminium vs bois : découvrez les 8 différences clés (durabilité, prix, entretien). Comparatif complet pour choisir votre pergola idéale en France.</description>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : comment Nathalie a transformé son jardin à Toulouse",
+    "categorie": "Jardin",
+    "description": "Rose grimpante pergola : découvrez comment une propriétaire a choisi ses variétés et réalisé son projet en 6 mois. Budget, conseils et résultats concrets.",
+    "date": "2026-07-17",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "nettoyage-pergola-karcher",
     "titre": "Nettoyage pergola Kärcher : 8 conseils pour ne pas l'abîmer",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : la checklist complète 2026",
-    "categorie": "Entretien",
-    "description": "Entretien pergola printemps : nettoyage, traitement bois, vérifications structurelles. Checklist complète avril 2026 pour préparer l'été.",
-    "date": "2026-04-23",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
