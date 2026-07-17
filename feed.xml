@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:17:34 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:52:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité et esthétique en 8 questions</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : découvrez les réponses à vos questions sur la sécurité, l'esthétique, la réglementation et les prix. Guide complet et pratique.</description>
+      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rideaux extérieurs pergola : votre guide d'achat été 2026</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir l'essence de bois idéale pour votre pergola. Guide complet des bois durables, prix, avantages et comparaison essence bois pergola.</description>
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité, normes et esthétique</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : découvrez les normes de sécurité, les démarches administratives et les avantages esthétiques. Guide complet avec réglementations et conseils pratiques.</description>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
