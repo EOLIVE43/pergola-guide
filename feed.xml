@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:13:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:13:57 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : 8 conseils pour ne pas l'abîmer</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Le nettoyage pergola Kärcher est tentant mais risqué. Découvrez 8 conseils essentiels et les bonnes pratiques pour nettoyer sans endommager votre pergola en bois ou aluminium.</description>
+      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 : le guide complet pour aménager votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : découvrez les 8 différences clés (durabilité, prix, entretien). Comparatif complet pour choisir votre pergola idéale en France.</description>
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : prolongez vos soirées et économisez</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez le chauffage infrarouge pergola : fonctionnement, économies d'énergie, installation et prix. Guide complet pour un confort optimal en extérieur toute l'année.</description>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
