@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 : le guide complet pour aménager votre jardin",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x4 jardin : découvrez comment choisir, installer et optimiser votre pergola. Guide complet avec prix, matériaux et cas pratiques pour jardins spacieux.",
+    "date": "2026-07-17",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "pergola-toit-verre-securit",
     "titre": "Pergola toit verre feuilleté : sécurité et esthétique en 8 questions",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : 5 secrets pour la protéger 20 ans",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, entretien, matériaux : le guide complet pour une pergola durable sans entretien constant.",
-    "date": "2026-04-23",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
