@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : votre guide d'achat été 2026",
+    "categorie": "Stores",
+    "description": "Rideaux extérieurs pergola : tout ce qu'il faut savoir pour choisir et installer avant les fortes chaleurs. Guide complet été 2026 avec prix et délais.",
+    "date": "2026-07-17",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : quelles structures supportent le poids ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
     "pilier_id": "stores",
     "secondaire_slug": "brise-vue-pergola"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "8 matériaux pour une pergola rustique campagne authentique",
-    "categorie": "Style",
-    "description": "Découvrez les 8 meilleurs matériaux pour créer une pergola rustique campagne. Bois, fer forgé, pierre : guide complet avec inspirations et conseils d'experts.",
-    "date": "2026-04-23",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
