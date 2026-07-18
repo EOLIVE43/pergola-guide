@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2026 10:56:03 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:56:57 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir ? Guide pratique par terrasse</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment bien choisir la taille de pergola adaptée à votre terrasse. Critères, calculs et exemples concrets pour un investissement réussi.</description>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Glycine pergola entretien : le guide complet pour des fleurs spectaculaires</title>
       <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir votre voile ombrage pergola : matériaux, dimensions, installation, prix et réglementation. Guide complet avec réponses pratiques.</description>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : 8 solutions pour intimité et design</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment choisir votre brise-vue pergola jardin. Solutions esthétiques, réglementations et conseils pour créer une intimité durable au jardin.</description>
-      <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

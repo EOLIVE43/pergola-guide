@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir ? Guide pratique par terrasse",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment bien choisir la taille de pergola adaptée à votre terrasse. Critères, calculs et exemples concrets pour un investissement réussi.",
+    "date": "2026-07-18",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "glycine-pergola-entretien",
     "titre": "Glycine pergola entretien : le guide complet pour des fleurs spectaculaires",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : 8 coûts à prévoir avant de construire",
-    "categorie": "Prix",
-    "description": "Découvrez les vrais coûts d'installation d'une pergola : main-d'œuvre, matériaux et pose. Guide complet des prix 2026 pour bien budgétiser votre projet.",
-    "date": "2026-04-24",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
