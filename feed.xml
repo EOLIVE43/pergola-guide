@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2026 11:56:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:26:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 idées pour réussir votre pergola piscine aménagement</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Pergola piscine aménagement : 8 idées et conseils pour créer un espace ombragé et convivial au bord de votre bassin. Guide complet 2025.</description>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir ? Guide pratique par terrasse</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Aménager une cuisine extérieure pergola : découvrez comment créer votre espace culinaire extérieur. Plans, matériaux, budget et conseils pratiques pour réussir.</description>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile ombrage pergola : comment bien choisir en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir votre voile ombrage pergola : matériaux, dimensions, installation, prix et réglementation. Guide complet avec réponses pratiques.</description>
-      <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

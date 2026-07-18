@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "8 idées pour réussir votre pergola piscine aménagement",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : 8 idées et conseils pour créer un espace ombragé et convivial au bord de votre bassin. Guide complet 2025.",
+    "date": "2026-07-18",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Quelle taille de pergola choisir ? Guide pratique par terrasse",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "7 plantes grimpantes pergola France : le guide complet du jardinier",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures plantes grimpantes pergola France : clématite, lierre, glycine. Guide complet avec conseils de plantation et entretien pour votre jardin.",
-    "date": "2026-04-24",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
