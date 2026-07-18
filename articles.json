@@ -1,5 +1,15 @@
 [
   {
+    "slug": "glycine-pergola-entretien",
+    "titre": "Glycine pergola entretien : le guide complet pour des fleurs spectaculaires",
+    "categorie": "Jardin",
+    "description": "Glycine pergola entretien : découvrez comment planter, tailler et soigner votre glycine. Conseils pratiques pour des fleurs abondantes et durables.",
+    "date": "2026-07-18",
+    "thumb": "/images/blog/glycine-pergola-entretien.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-sur-mesure-avantages",
     "titre": "Pergola sur mesure : 5 avantages qui justifient vraiment l'investissement",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "7 meilleures marques de pergola bioclimatique 2026",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez les 7 meilleures marques de pergola bioclimatique en 2026. Comparatif complet, prix, avis et conseils pour choisir votre pergola solaire idéale.",
-    "date": "2026-04-24",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]

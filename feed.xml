@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2026 07:00:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:56:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : le guide complet pour des fleurs spectaculaires</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Glycine pergola entretien : découvrez comment planter, tailler et soigner votre glycine. Conseils pratiques pour des fleurs abondantes et durables.</description>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola sur mesure : 5 avantages qui justifient vraiment l'investissement</title>
       <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir votre brise-vue pergola jardin. Solutions esthétiques, réglementations et conseils pour créer une intimité durable au jardin.</description>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : combien prévoir vraiment ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Quel budget pour une pergola en France en 2026 ? Découvrez les prix réels, les matériaux pas cher, et les devis détaillés pour votre projet pergola.</description>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
