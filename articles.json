@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "Pergola sur mesure : 5 avantages qui justifient vraiment l'investissement",
+    "categorie": "Dimensions",
+    "description": "Découvrez les vrais avantages d'une pergola sur mesure : adaptation parfaite, durabilité, économies. Guide complet pour bien choisir votre pergola.",
+    "date": "2026-07-18",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "Rose grimpante pergola : comment Nathalie a transformé son jardin à Toulouse",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "pergola-bioclimatique-installation-soi-meme",
-    "titre": "Installer pergola bioclimatique soi-même : 9 étapes pour réussir",
-    "categorie": "Bioclimatique",
-    "description": "Installer une pergola bioclimatique soi-même est possible. Découvrez nos 9 étapes clés pour réussir votre installation sans erreur coûteuse.",
-    "date": "2026-04-24",
-    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 17 Jul 2026 13:49:08 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:00:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola sur mesure : 5 avantages qui justifient vraiment l'investissement</title>
+      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
+      <description>Découvrez les vrais avantages d'une pergola sur mesure : adaptation parfaite, durabilité, économies. Guide complet pour bien choisir votre pergola.</description>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : comment Nathalie a transformé son jardin à Toulouse</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget pour une pergola en France en 2026 ? Découvrez les prix réels, les matériaux pas cher, et les devis détaillés pour votre projet pergola.</description>
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment aménager une cuisine extérieure sous pergola ? Guide pratique</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Découvrez comment aménager une cuisine extérieure pergola : étapes, budget, réglementation, équipements indispensables et conseils d'experts pour votre jardin.</description>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
