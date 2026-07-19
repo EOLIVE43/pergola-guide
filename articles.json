@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : guide complet prix et installation 2026",
+    "categorie": "Stores",
+    "description": "Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour bien choisir votre équipement d'ombrage automatisé.",
+    "date": "2026-07-19",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer pergola week-end : DIY rapide ou faire appel à un pro ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer sa pergola en un week-end : 8 étapes simples",
-    "categorie": "Installation",
-    "description": "Installer pergola week-end en 8 étapes faciles. Guide complet : préparation, fixation, pose. Résultat pro samedi-dimanche. Conseils d'expert gratuits.",
-    "date": "2026-04-25",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
