@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 19 Jul 2026 12:02:53 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:27:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : le guide complet de l'été 2026</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Découvrez comment entretenir votre glycine en pergola durant l'été 2026. Taille, arrosage, traitement des parasites : toutes les actions essentielles à faire maintenant.</description>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola rustique campagne : guide complet des matériaux et styles</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez tout sur la pergola 4x4 jardin : dimensions, réglementation, prix, permis et conseils d'installation. Guide complet pour aménager votre espace extérieur.</description>
       <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher : guide été 2026 pour un résultat impeccable</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez les conseils, précautions et le meilleur moment en été 2026 pour entretenir votre pergola bois ou alu sans l'endommager.</description>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
