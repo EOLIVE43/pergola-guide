@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola week-end : DIY rapide ou faire appel à un pro ?",
+    "categorie": "Installation",
+    "description": "Installer pergola en week-end : comparez l'auto-installation et la pose professionnelle. Guide complet, étapes, coûts et conseils pour réussir votre projet.",
+    "date": "2026-07-19",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Comment bien choisir voile ombrage pergola : le guide complet",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "Store zip pergola : avantages et limites face aux stores classiques",
-    "categorie": "Stores",
-    "description": "Découvrez les vrais avantages du store zip pour pergola : protection au vent, étanchéité, entretien. Comparatif détaillé avec stores classiques pour bien choisir.",
-    "date": "2026-04-25",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
