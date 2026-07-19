@@ -1,5 +1,15 @@
 [
   {
+    "slug": "prix-installation-pergola",
+    "titre": "Prix installation pergola : pose par pro ou DIY en 2025 ?",
+    "categorie": "Prix",
+    "description": "Comparez les coûts d'installation d'une pergola : main d'œuvre professionnelle vs pose DIY. Tarifs, économies et conseils pour bien choisir.",
+    "date": "2026-07-19",
+    "thumb": "/images/blog/prix-installation-pergola.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "8 couleurs pergola aluminium à privilégier en 2025",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 jardin : le guide complet pour aménager spacieusement",
-    "categorie": "Dimensions",
-    "description": "Découvrez tout sur la pergola 4x4 jardin : avantages, installation, prix et conseils pour choisir la solution idéale pour vos espaces extérieurs spacieux.",
-    "date": "2026-04-24",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]
