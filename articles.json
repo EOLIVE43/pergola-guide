@@ -1,5 +1,15 @@
 [
   {
+    "slug": "voile-ombrage-pergola-choisir",
+    "titre": "Comment bien choisir voile ombrage pergola : le guide complet",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir le meilleur voile ombrage pergola : matériaux, dimensions, prix et installation. Réponses aux 8 questions essentielles des propriétaires français.",
+    "date": "2026-07-19",
+    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-voile-ombrage"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : pose par pro ou DIY en 2025 ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : comment l'utiliser 12 mois/an ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique hiver : découvrez comment optimiser votre pergola solaire toute l'année avec nos réponses pratiques et conseils d'experts.",
-    "date": "2026-04-24",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]

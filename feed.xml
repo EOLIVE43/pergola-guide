@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 19 Jul 2026 07:26:19 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:11:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment bien choisir voile ombrage pergola : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir le meilleur voile ombrage pergola : matériaux, dimensions, prix et installation. Réponses aux 8 questions essentielles des propriétaires français.</description>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : pose par pro ou DIY en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : découvrez 8 conseils et idées pour créer un espace ombragé et fonctionnel au bord de votre piscine. Guide complet 2026.</description>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 pour terrasse : le guide complet des dimensions idéales</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace. Avantages, prix, installation et erreurs à éviter en 2026.</description>
-      <pubDate>Wed, 15 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
