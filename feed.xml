@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 19 Jul 2026 11:02:50 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 12:02:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : guide complet des matériaux et styles</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, inspirations, prix et conseils pratiques pour un jardin de charme inoubliable.</description>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : guide complet prix et installation 2026</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez les conseils, précautions et le meilleur moment en été 2026 pour entretenir votre pergola bois ou alu sans l'endommager.</description>
       <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>9 avantages pergola polycarbonate : le guide complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Découvrez les 9 avantages majeurs de la pergola polycarbonate : durabilité, prix, luminosité et pose. Guide complet pour bien choisir votre pergola.</description>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
