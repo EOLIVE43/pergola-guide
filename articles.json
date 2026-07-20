@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé : avantages, style et entretien",
+    "categorie": "Matériaux",
+    "description": "Découvrez tous les avantages de la pergola fer forgé : durabilité, esthétique, résistance. Guide complet d'entretien et comparaison avec d'autres matériaux pour bien choisir.",
+    "date": "2026-07-20",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "nettoyage-pergola-karcher",
     "titre": "Nettoyage pergola Kärcher : guide complet et précautions essentielles",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : combien prévoir vraiment ?",
-    "categorie": "Prix",
-    "description": "Quel budget pergola France 2026 ? Guide complet des prix : pergola pas cher, bioclimatique, en bois. Réponses claires et chiffres actualisés 2026.",
-    "date": "2026-04-26",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
