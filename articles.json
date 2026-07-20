@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Aménager une cuisine extérieure pergola : 8 solutions clés",
+    "categorie": "Jardin",
+    "description": "Comment aménager une cuisine extérieure pergola ? Découvrez les solutions d'installation, réglementation, prix et matériaux pour votre jardin. Guide complet et pratique.",
+    "date": "2026-07-20",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "8 tendances pergola moderne contemporaine 2026 à connaître",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : comment choisir la bonne finition ?",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium couleur : guide complet des finitions, teintes et traitements pour sublimer votre terrasse. Conseils d'experts 2026.",
-    "date": "2026-04-26",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
