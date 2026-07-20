@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 20 Jul 2026 13:11:04 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:17:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages de la pergola acier corten pour votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez pourquoi la pergola acier corten séduit les propriétaires français : esthétique rouillée, durabilité exceptionnelle et 7 bénéfices clés pour transformer votre terrasse.</description>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Aménager une cuisine extérieure pergola : 8 solutions clés</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola toit verre feuilleté : découvrez les réponses à vos questions sur la sécurité, l'esthétique, la réglementation et les prix. Guide complet et pratique.</description>
       <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rideaux extérieurs pergola : votre guide d'achat été 2026</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Rideaux extérieurs pergola : tout ce qu'il faut savoir pour choisir et installer avant les fortes chaleurs. Guide complet été 2026 avec prix et délais.</description>
-      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

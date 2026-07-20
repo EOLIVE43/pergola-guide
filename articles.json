@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "7 avantages de la pergola acier corten pour votre jardin",
+    "categorie": "Matériaux",
+    "description": "Découvrez pourquoi la pergola acier corten séduit les propriétaires français : esthétique rouillée, durabilité exceptionnelle et 7 bénéfices clés pour transformer votre terrasse.",
+    "date": "2026-07-20",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "Aménager une cuisine extérieure pergola : 8 solutions clés",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-eclairage-led.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-eclairage"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte : avantages et inconvénients face à l'ouverte",
-    "categorie": "Toiture",
-    "description": "Pergola couverte avantages : découvrez pourquoi choisir une pergola fermée. Comparaison complète avec pergola ouverte, protection, prix et conseils pratiques 2026.",
-    "date": "2026-04-26",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
