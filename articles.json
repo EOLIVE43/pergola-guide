@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher : guide complet et précautions essentielles",
+    "categorie": "Entretien",
+    "description": "Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils pratiques, les risques à éviter et les bonnes techniques pour entretenir votre pergola sans l'endommager. Guide complet 2025.",
+    "date": "2026-07-20",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "glycine-pergola-entretien",
     "titre": "Glycine pergola entretien : le guide complet de l'été 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : comment bien la choisir ?",
-    "categorie": "Conseils",
-    "description": "Quelle pergola résiste le mieux au vent ? Découvrez les matériaux, dimensions et critères pour une pergola résistante vent durable face aux tempêtes.",
-    "date": "2026-04-26",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]

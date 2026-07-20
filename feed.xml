@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 19 Jul 2026 13:27:41 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:49:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : guide complet et précautions essentielles</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils pratiques, les risques à éviter et les bonnes techniques pour entretenir votre pergola sans l'endommager. Guide complet 2025.</description>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Glycine pergola entretien : le guide complet de l'été 2026</title>
       <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 essentiels du store pergola motorisé : prix, avantages, installation. Guide complet pour faire le bon choix et éviter les pièges.</description>
       <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 : la solution idéale pour votre jardin spacieux</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Découvrez tout sur la pergola 4x4 jardin : dimensions, réglementation, prix, permis et conseils d'installation. Guide complet pour aménager votre espace extérieur.</description>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
