@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:35:24 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:08:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 tendances pergola moderne contemporaine 2026 à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
+      <description>Découvrez les 8 tendances incontournables de la pergola moderne contemporaine 2026. Aluminium, design minimaliste, connecté : tout ce qu'il faut savoir pour bien choisir.</description>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola fer forgé : avantages, style et entretien</title>
       <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez quelles structures supportent le poids, les charges maximales et comment choisir la bonne pergola pour les régions enneigées.</description>
       <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment déclarer en 8 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Déclaration préalable pergola : découvrez comment la déclarer légalement en 8 étapes simples. Guide complet pour éviter les amendes et régulariser votre installation.</description>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-moderne-contemporaine",
+    "titre": "8 tendances pergola moderne contemporaine 2026 à connaître",
+    "categorie": "Style",
+    "description": "Découvrez les 8 tendances incontournables de la pergola moderne contemporaine 2026. Aluminium, design minimaliste, connecté : tout ce qu'il faut savoir pour bien choisir.",
+    "date": "2026-07-20",
+    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "Pergola fer forgé : avantages, style et entretien",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer sa pergola en bois : le guide pratique pour choisir",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment peindre ou lasurer une pergola en bois. Comparaison des techniques, prix, durabilité et conseils pratiques pour protéger votre pergola.",
-    "date": "2026-04-26",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
