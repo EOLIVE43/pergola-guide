@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:20:59 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:41:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola dalle béton : 8 étapes pour une installation durable</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment fixer une pergola sur dalle béton en 8 étapes simples. Guide complet d'installation pergola avec conseils professionnels et prix.</description>
+      <pubDate>Tue, 21 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Cuisine extérieure pergola : aménager avec style ou pragmatisme ?</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Rose grimpante pergola : découvrez comment une propriétaire a choisi ses variétés et réalisé son projet en 6 mois. Budget, conseils et résultats concrets.</description>
       <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher : 8 conseils pour ne pas l'abîmer</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Le nettoyage pergola Kärcher est tentant mais risqué. Découvrez 8 conseils essentiels et les bonnes pratiques pour nettoyer sans endommager votre pergola en bois ou aluminium.</description>
-      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
