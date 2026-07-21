@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver avec 8 astuces pratiques pour prolonger votre saison. Conseils d'expert et solutions thermiques.",
+    "date": "2026-07-21",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "7 avantages de la pergola acier corten pour votre jardin",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-eclairage-led",
-    "titre": "8 solutions d'éclairage LED pergola pour illuminer votre jardin",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures solutions d'éclairage LED pergola en 2026. Comparatif complet, prix et conseils pour choisir l'installation idéale de votre terrasse.",
-    "date": "2026-04-26",
-    "thumb": "/images/blog/pergola-eclairage-led.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-eclairage"
   }
 ]

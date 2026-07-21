@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:17:31 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:17:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Découvrez comment utiliser votre pergola bioclimatique en hiver avec 8 astuces pratiques pour prolonger votre saison. Conseils d'expert et solutions thermiques.</description>
+      <pubDate>Tue, 21 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 avantages de la pergola acier corten pour votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x4 jardin : découvrez comment choisir, installer et optimiser votre pergola. Guide complet avec prix, matériaux et cas pratiques pour jardins spacieux.</description>
       <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité et esthétique en 8 questions</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : découvrez les réponses à vos questions sur la sécurité, l'esthétique, la réglementation et les prix. Guide complet et pratique.</description>
-      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
