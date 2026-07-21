@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 21 Jul 2026 08:17:53 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:20:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuisine extérieure pergola : aménager avec style ou pragmatisme ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola : comparatif complet entre solutions classiques et modulables pour votre jardin.</description>
+      <pubDate>Tue, 21 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Le nettoyage pergola Kärcher est tentant mais risqué. Découvrez 8 conseils essentiels et les bonnes pratiques pour nettoyer sans endommager votre pergola en bois ou aluminium.</description>
       <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 : le guide complet pour aménager votre jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Pergola 4x4 jardin : découvrez comment choisir, installer et optimiser votre pergola. Guide complet avec prix, matériaux et cas pratiques pour jardins spacieux.</description>
-      <pubDate>Fri, 17 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
