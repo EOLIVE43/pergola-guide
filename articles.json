@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 8 avantages qui changent tout face au vent",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 avantages du store zip pergola contre le vent. Protection optimale, étanchéité, facilité d'usage : tout ce qu'il faut savoir pour bien choisir.",
+    "date": "2026-07-22",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : quels matériaux pour un charme authentique ?",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "Essence bois pergola : comment choisir le bois le plus durable ?",
-    "categorie": "Matériaux",
-    "description": "Découvrez quelle essence de bois choisir pour une pergola durable et résistante. Comparaison des meilleures essences, prix et conseils pratiques pour votre terrasse.",
-    "date": "2026-04-27",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
