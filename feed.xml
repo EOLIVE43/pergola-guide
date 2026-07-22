@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:41:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:28:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : avantages et durée de vie expliqués</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie, ses inconvénients et comment bien la choisir. Réponses claires aux questions essentielles.</description>
+      <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola : 8 avantages qui changent tout face au vent</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Comparez les coûts d'installation d'une pergola : main d'œuvre professionnelle vs pose DIY. Tarifs, économies et conseils pour bien choisir.</description>
       <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 couleurs pergola aluminium à privilégier en 2025</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Découvrez les meilleures couleurs et finitions pour votre pergola aluminium. 8 choix de teintes qui valorisent votre terrasse et augmentent votre confort d'été.</description>
-      <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
