@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:18:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:58:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : quels matériaux pour un charme authentique ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Pergola rustique campagne : guide complet des matériaux, styles et inspirations pour créer une ambiance bucolique. Réponses aux questions essentielles pour bien choisir votre pergola rustique.</description>
+      <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : 8 règles essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : 8 idées et conseils pour créer un espace ombragé et convivial au bord de votre bassin. Guide complet 2025.</description>
       <pubDate>Sat, 18 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir ? Guide pratique par terrasse</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir la taille de pergola adaptée à votre terrasse. Critères, calculs et exemples concrets pour un investissement réussi.</description>
-      <pubDate>Sat, 18 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
