@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "8 étapes pour fixer une pergola adossée sur mur en parpaing",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer une pergola adossée sur mur en parpaing en 8 étapes simples. Guide complet d'installation pergola et fixation sécurisée.",
+    "date": "2026-07-22",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : avantages et durée de vie expliqués",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "8 conseils pour bien choisir vos rideaux extérieurs pergola",
-    "categorie": "Stores",
-    "description": "Découvrez nos 8 conseils pour choisir les meilleurs rideaux extérieurs pergola : matière, fixation, protection solaire et bien plus. Guide complet.",
-    "date": "2026-04-27",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
