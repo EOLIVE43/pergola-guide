@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 5 idées pour transformer votre espace",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une pergola au bord de votre piscine : styles, matériaux, budget et conseils d'installation pour créer un espace détente optimal.",
+    "date": "2026-07-23",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 7 points clés à vérifier",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-permis-construire-quand.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : 5 ans de durabilité testée en climat humide",
-    "categorie": "Matériaux",
-    "description": "Cas concret : pergola bois autoclave 18m² en Bretagne. Avantages réels, durée de vie, budget 2026 et conseils d'un propriétaire satisfait après 5 ans d'utilisation intensive.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
