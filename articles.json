@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte : avantages et inconvénients face à l'ouverte",
+    "categorie": "Toiture",
+    "description": "Pergola couverte avantages : découvrez les bénéfices réels, les tarifs et comment choisir entre couverte et ouverte pour votre jardin.",
+    "date": "2026-07-23",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : 7 questions pour bien chiffrer votre projet",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons aménagement : 7 solutions pour prolonger l'utilisation",
-    "categorie": "Aménagement",
-    "description": "Transformez votre pergola en espace 4 saisons avec nos astuces et produits. Découvrez comment aménager une pergola pour l'hiver, l'été et toute l'année. Solutions bioclimatiques et pratiques.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
