@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "8 variétés de rose grimpante pour pergola : le guide complet",
+    "categorie": "Jardin",
+    "description": "Découvrez 8 variétés de rose grimpante pergola à cultiver en France. Conseils de sélection, plantation et entretien pour une floraison spectaculaire.",
+    "date": "2026-07-23",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-mur-parpaing-fixer",
     "titre": "8 étapes pour fixer une pergola adossée sur mur en parpaing",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne ou contemporaine 2026 : quel style choisir ?",
-    "categorie": "Style",
-    "description": "Pergola moderne vs contemporaine 2026 : découvrez les différences, tendances design et quel style correspond à votre projet. Guide comparatif complet.",
-    "date": "2026-04-27",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]

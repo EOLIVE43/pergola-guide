@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:06:33 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:22:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 variétés de rose grimpante pour pergola : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez 8 variétés de rose grimpante pergola à cultiver en France. Conseils de sélection, plantation et entretien pour une floraison spectaculaire.</description>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 étapes pour fixer une pergola adossée sur mur en parpaing</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Installer pergola en week-end : comparez l'auto-installation et la pose professionnelle. Guide complet, étapes, coûts et conseils pour réussir votre projet.</description>
       <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment bien choisir voile ombrage pergola : le guide complet</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir le meilleur voile ombrage pergola : matériaux, dimensions, prix et installation. Réponses aux 8 questions essentielles des propriétaires français.</description>
-      <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
