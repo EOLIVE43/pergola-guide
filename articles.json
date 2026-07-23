@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : 7 points clés à vérifier",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : guide complet des vérifications réglementaires, administratives et techniques avant installation. Droits, permis, assurance et prix.",
+    "date": "2026-07-23",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : avantages et inconvénients face à l'ouverte",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : 8 vérifications essentielles avant pose",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : droits, permis, vérifications techniques et légales. Guide complet pour une installation conforme et sécurisée.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
