@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : 7 questions pour bien chiffrer votre projet",
+    "categorie": "Prix",
+    "description": "Devis pergola artisan : guide complet pour obtenir les meilleures offres. Comparaison des tarifs, conseils de négociation et pièges à éviter. Réponses à vos 7 questions essentielles.",
+    "date": "2026-07-23",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "8 variétés de rose grimpante pour pergola : le guide complet",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "8 roses grimpantes pour pergola : les variétés à privilégier",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures variétés de rose grimpante pour pergola : Pierre d'Yvan, Laguna, Phyllis Bide... Conseils de plantation et d'entretien pour une floraison spectaculaire.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

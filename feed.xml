@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2026 08:22:53 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 09:30:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : 7 questions pour bien chiffrer votre projet</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Devis pergola artisan : guide complet pour obtenir les meilleures offres. Comparaison des tarifs, conseils de négociation et pièges à éviter. Réponses à vos 7 questions essentielles.</description>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 variétés de rose grimpante pour pergola : le guide complet</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour bien choisir votre équipement d'ombrage automatisé.</description>
       <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola week-end : DIY rapide ou faire appel à un pro ?</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Installer pergola en week-end : comparez l'auto-installation et la pose professionnelle. Guide complet, étapes, coûts et conseils pour réussir votre projet.</description>
-      <pubDate>Sun, 19 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
