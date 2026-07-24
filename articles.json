@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : Pierre Noire ou Barbara ? Quel choix ?",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures variétés de roses grimpantes pour pergola : comparatif complet entre Pierre Noire et Barbara pour transformer votre jardin",
+    "date": "2026-07-24",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola été 2026 : les 3 vérifications essentielles avant septembre",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Déclarer sa pergola à l'assurance : 8 questions essentielles",
-    "categorie": "Réglementation",
-    "description": "Faut-il déclarer sa pergola à l'assurance ? Guide complet sur l'assurance pergola déclaration, obligations légales et conseils pour bien protéger votre structure.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]

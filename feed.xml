@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:12:18 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:53:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : Pierre Noire ou Barbara ? Quel choix ?</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les meilleures variétés de roses grimpantes pour pergola : comparatif complet entre Pierre Noire et Barbara pour transformer votre jardin</description>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola été 2026 : les 3 vérifications essentielles avant septembre</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 tendances incontournables de la pergola moderne contemporaine 2026. Aluminium, design minimaliste, connecté : tout ce qu'il faut savoir pour bien choisir.</description>
       <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola fer forgé : avantages, style et entretien</title>
-      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
-      <description>Découvrez tous les avantages de la pergola fer forgé : durabilité, esthétique, résistance. Guide complet d'entretien et comparaison avec d'autres matériaux pour bien choisir.</description>
-      <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
