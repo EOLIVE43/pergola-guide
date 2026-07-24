@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola : quel matériau choisir en 2025 ?",
+    "categorie": "Toiture",
+    "description": "Quel matériau pour la toiture de votre pergola ? Découvrez notre comparatif complet : verre, polycarbonate, bois, alu. Avantages, prix, entretien et verdict selon votre profil.",
+    "date": "2026-07-24",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "Rose grimpante pergola : Pierre Noire ou Barbara ? Quel choix ?",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-entretien.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-sur-mesure"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique : 8 points clés pour bien choisir entre ipé, teck et…",
-    "categorie": "Matériaux",
-    "description": "Découvrez notre comparatif pergola bois exotique : ipé vs teck vs cumaru. 8 critères essentiels pour choisir la meilleure pergola en bois pour votre terrasse. Durable et esthétique.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

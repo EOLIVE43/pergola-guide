@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:53:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:29:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola : quel matériau choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Quel matériau pour la toiture de votre pergola ? Découvrez notre comparatif complet : verre, polycarbonate, bois, alu. Avantages, prix, entretien et verdict selon votre profil.</description>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rose grimpante pergola : Pierre Noire ou Barbara ? Quel choix ?</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Comment aménager une cuisine extérieure pergola ? Découvrez les solutions d'installation, réglementation, prix et matériaux pour votre jardin. Guide complet et pratique.</description>
       <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 tendances pergola moderne contemporaine 2026 à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Découvrez les 8 tendances incontournables de la pergola moderne contemporaine 2026. Aluminium, design minimaliste, connecté : tout ce qu'il faut savoir pour bien choisir.</description>
-      <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
