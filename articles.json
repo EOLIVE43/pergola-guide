@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola été 2026 : les 3 vérifications essentielles avant septembre",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps et été : checklist complète pour protéger votre structure bois. Découvrez les 3 actions prioritaires à faire maintenant avant les intempéries d'automne.",
+    "date": "2026-07-24",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 5 idées pour transformer votre espace",
     "categorie": "Jardin",
@@ -4986,16 +4996,6 @@
     "description": "Faut-il déclarer sa pergola à l'assurance ? Guide complet sur l'assurance pergola déclaration, obligations légales et conseils pour bien protéger votre structure.",
     "date": "2026-04-28",
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-permis-construire-quand",
-    "titre": "Pergola et permis de construire 2026 : dois-je vraiment le demander ?",
-    "categorie": "Installation",
-    "description": "Pergola permis construire 2026 : découvrez si votre installation en a besoin. Règles actualisées, exemptions et démarches à connaître pour bien choisir.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/pergola-permis-construire-quand.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
   }

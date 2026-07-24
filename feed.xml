@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 23 Jul 2026 14:12:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:12:18 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola été 2026 : les 3 vérifications essentielles avant septembre</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Entretien pergola printemps et été : checklist complète pour protéger votre structure bois. Découvrez les 3 actions prioritaires à faire maintenant avant les intempéries d'automne.</description>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 5 idées pour transformer votre espace</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez tous les avantages de la pergola fer forgé : durabilité, esthétique, résistance. Guide complet d'entretien et comparaison avec d'autres matériaux pour bien choisir.</description>
       <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher : guide complet et précautions essentielles</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils pratiques, les risques à éviter et les bonnes techniques pour entretenir votre pergola sans l'endommager. Guide complet 2025.</description>
-      <pubDate>Mon, 20 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
