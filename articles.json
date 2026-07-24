@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-plantes-grimpantes-meilleures",
+    "titre": "Plantes grimpantes pergola France : quel choix pour votre jardin ?",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures plantes grimpantes pour pergola en France : sélection, entretien et conseils pratiques. Tout ce qu'il faut savoir pour réussir votre aménagement.",
+    "date": "2026-07-24",
+    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola : quel matériau choisir en 2025 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : nettoyage facile ou traitement complet ?",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment bien entretenir votre pergola aluminium. Comparatif nettoyage simple vs traitement annuel pour prolonger sa durée de vie.",
-    "date": "2026-04-28",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]
