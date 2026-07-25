@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:23:53 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:14:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : 8 finitions pour sublimer votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Découvrez comment choisir la couleur et la finition de votre pergola aluminium. 8 options de styles pour harmoniser votre jardin avec élégance et durabilité.</description>
+      <pubDate>Sat, 25 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : le guide complet des prix et avantages</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer une pergola sur dalle béton en 8 étapes simples. Guide complet d'installation pergola avec conseils professionnels et prix.</description>
       <pubDate>Tue, 21 Jul 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Cuisine extérieure pergola : aménager avec style ou pragmatisme ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Découvrez comment aménager une cuisine extérieure pergola : comparatif complet entre solutions classiques et modulables pour votre jardin.</description>
-      <pubDate>Tue, 21 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
