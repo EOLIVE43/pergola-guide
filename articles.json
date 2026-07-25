@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : le guide complet des prix et avantages",
+    "categorie": "Stores",
+    "description": "Store pergola motorisé : découvrez les prix, les avantages de l'automatisation, et comment bien l'installer. Guide complet pour votre terrasse en 2026.",
+    "date": "2026-07-25",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "Pergola moderne contemporaine 2026 : 7 tendances qui révolutionnent votre jardin",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : le printemps, moment idéal pour installer",
-    "categorie": "Jardin",
-    "description": "Découvrez pourquoi le printemps 2026 est LA période pour installer un chauffage infrarouge pergola. Confort durable, économies garanties. Guide complet et planning d'action.",
-    "date": "2026-04-29",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
