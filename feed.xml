@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 25 Jul 2026 12:06:09 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:45:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 : la dimension idéale pour une terrasse standard</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Pergola 4x3 : la dimension idéale pour une terrasse standard</description>
+      <pubDate>Sat, 25 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment choisir sa bâche pergola : imperméabilité et résistance</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola permis construire 2026 : découvrez les 8 règles légales incontournables pour votre installation sans risque de démolition en France.</description>
       <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : 7 questions essentielles pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Découvrez comment trouver une pergola pas cher sans sacrifier la qualité. Guide complet avec conseils d'experts pour investir malin en 2024.</description>
-      <pubDate>Tue, 21 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

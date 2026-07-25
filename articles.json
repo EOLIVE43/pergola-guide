@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 : la dimension idéale pour une terrasse standard",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 : la dimension idéale pour une terrasse standard",
+    "date": "2026-07-25",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Comment choisir sa bâche pergola : imperméabilité et résistance",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : comment bien choisir ?",
-    "categorie": "Prix",
-    "description": "Découvrez comment trouver une pergola pas cher sans sacrifier la qualité. 7 questions essentielles pour investir malin dans votre terrasse. Conseils experts et prix réels.",
-    "date": "2026-04-29",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]
