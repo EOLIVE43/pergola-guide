@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Comment choisir sa bâche pergola : imperméabilité et résistance",
+    "categorie": "Toiture",
+    "description": "Découvrez comment bien choisir votre bâche pergola. Cas réel, conseils d'expert, critères d'imperméabilité et résistance. Budget et installation détaillés.",
+    "date": "2026-07-25",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Essence bois pergola : comment choisir le bon bois pour 30 ans de durabilité ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité, normes et prix en 2025",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : guide complet sur la sécurité, les normes de conformité, les démarches administratives et les tarifs. Réponses aux 8 questions essentielles des propriétaires français.",
-    "date": "2026-04-29",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
