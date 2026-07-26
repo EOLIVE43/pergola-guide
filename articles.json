@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "7 matériaux pour une pergola rustique campagne authentique",
+    "categorie": "Style",
+    "description": "Découvrez les 7 meilleurs matériaux pour créer une pergola rustique campagne. Bois, pierre, métal : inspirations et conseils pour votre terrasse de charme.",
+    "date": "2026-07-26",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 8 conseils pour créer l'espace parfait",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-avantages-inconvenients",
-    "titre": "Pergola aluminium : les avantages et inconvénients à connaître",
-    "categorie": "Aluminium",
-    "description": "Découvrez les vrais avantages et inconvénients de la pergola aluminium en 2026. Guide complet pour bien choisir votre structure de jardin.",
-    "date": "2026-04-29",
-    "thumb": "/images/blog/pergola-aluminium-avantages-inconvenients.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
