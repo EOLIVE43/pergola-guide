@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Jul 2026 12:08:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 13:39:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 secrets de la pergola acier corten : esthétique rouillée et durée de vie</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez les 8 avantages et caractéristiques de la pergola acier corten : design rouillé authentique, durabilité exceptionnelle et entretien minimal pour votre terrasse.</description>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola : faut-il la déclarer ? Guide complet 2024</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 variétés de rose grimpante pergola à cultiver en France. Conseils de sélection, plantation et entretien pour une floraison spectaculaire.</description>
       <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 étapes pour fixer une pergola adossée sur mur en parpaing</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer une pergola adossée sur mur en parpaing en 8 étapes simples. Guide complet d'installation pergola et fixation sécurisée.</description>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "8 secrets de la pergola acier corten : esthétique rouillée et durée de vie",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 8 avantages et caractéristiques de la pergola acier corten : design rouillé authentique, durabilité exceptionnelle et entretien minimal pour votre terrasse.",
+    "date": "2026-07-26",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2024",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : guide complet de plantation et taille",
-    "categorie": "Jardin",
-    "description": "Découvrez comment planter, tailler et entretenir votre glycine sur pergola. Conseils pratiques, calendrier d'entretien et erreurs à éviter pour une floraison spectaculaire.",
-    "date": "2026-04-30",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
