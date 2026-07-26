@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-marques",
+    "titre": "Pergola bioclimatique haut de gamme : le choix gagnant des Lyonnais en 2026",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment une famille lyonnaise a choisi sa marque pergola bioclimatique. Étude de cas concète avec budget réel, comparaison de marques et résultats mesurés après 6 mois d'utilisation.",
+    "date": "2026-07-26",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "7 matériaux pour une pergola rustique campagne authentique",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte : avantages et inconvénients face à l'ouverte",
-    "categorie": "Toiture",
-    "description": "Pergola couverte avantages : découvrez pourquoi choisir une pergola fermée, ses bénéfices réels et comment la comparer à une pergola ouverte pour votre terrasse.",
-    "date": "2026-04-29",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]

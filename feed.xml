@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Jul 2026 09:23:28 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 11:13:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique haut de gamme : le choix gagnant des Lyonnais en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Découvrez comment une famille lyonnaise a choisi sa marque pergola bioclimatique. Étude de cas concète avec budget réel, comparaison de marques et résultats mesurés après 6 mois d'utilisation.</description>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 matériaux pour une pergola rustique campagne authentique</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie, ses inconvénients et comment bien la choisir. Réponses claires aux questions essentielles.</description>
       <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : 8 avantages qui changent tout face au vent</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez les 8 avantages du store zip pergola contre le vent. Protection optimale, étanchéité, facilité d'usage : tout ce qu'il faut savoir pour bien choisir.</description>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
