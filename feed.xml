@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Jul 2026 11:13:26 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 12:08:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : faut-il la déclarer ? Guide complet 2024</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches essentielles pour protéger votre structure.</description>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique haut de gamme : le choix gagnant des Lyonnais en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer une pergola adossée sur mur en parpaing en 8 étapes simples. Guide complet d'installation pergola et fixation sécurisée.</description>
       <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : avantages et durée de vie expliqués</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie, ses inconvénients et comment bien la choisir. Réponses claires aux questions essentielles.</description>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

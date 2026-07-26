@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2024",
+    "categorie": "Réglementation",
+    "description": "Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches essentielles pour protéger votre structure.",
+    "date": "2026-07-26",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-marques",
     "titre": "Pergola bioclimatique haut de gamme : le choix gagnant des Lyonnais en 2026",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Quelle taille de pergola choisir ? Guide pratique par terrasse",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment choisir la bonne taille de pergola selon votre terrasse. Conseils, formules et erreurs à éviter pour un projet réussi.",
-    "date": "2026-04-30",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]
