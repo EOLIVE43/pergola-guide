@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 8 conseils pour créer l'espace parfait",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : 8 conseils d'experts pour transformer votre espace. Orientation, matériaux, budget, entretien. Guide complet 2026.",
+    "date": "2026-07-26",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 : la dimension idéale pour une terrasse standard",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-avantages-inconvenients.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Cuisine extérieure sous pergola : aménager l'espace idéal",
-    "categorie": "Jardin",
-    "description": "Découvrez comment aménager une cuisine extérieure pergola : comparatif des solutions, budget, entretien et conseils pour bien choisir votre configuration.",
-    "date": "2026-04-29",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
