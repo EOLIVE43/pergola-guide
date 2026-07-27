@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jul 2026 12:11:08 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:48:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : 8 questions pour bien comprendre les tarifs</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Comment obtenir un devis pergola artisan fiable ? Découvrez nos réponses sur les prix, les matériaux et les meilleures pratiques pour comparer efficacement vos devis.</description>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille pergola choisir ? 8 règles pour bien dimensionner</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola printemps et été : checklist complète pour protéger votre structure bois. Découvrez les 3 actions prioritaires à faire maintenant avant les intempéries d'automne.</description>
       <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : 5 idées pour transformer votre espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez comment aménager une pergola au bord de votre piscine : styles, matériaux, budget et conseils d'installation pour créer un espace détente optimal.</description>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
