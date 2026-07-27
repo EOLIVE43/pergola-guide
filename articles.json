@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : 8 vérifications légales à faire",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : droits des voisins, déclaration, assurance, fixation. Découvrez ce qu'il faut absolument vérifier avant l'installation.",
+    "date": "2026-07-27",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-pas-cher-bonne-qualite",
     "titre": "Pergola pas cher bonne qualité : comment bien choisir ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-entretien",
-    "titre": "Entretien pergola bioclimatique : le guide annuel complet",
-    "categorie": "Bioclimatique",
-    "description": "Entretien pergola bioclimatique : calendrier complet, conseils d'experts et astuces pour prolonger la durée de vie de votre structure. Tout ce qu'il faut savoir.",
-    "date": "2026-05-01",
-    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]

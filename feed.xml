@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:42:08 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 14:46:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola adossée mur mitoyen : 8 vérifications légales à faire</title>
+      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
+      <description>Pergola adossée mur mitoyen : droits des voisins, déclaration, assurance, fixation. Découvrez ce qu'il faut absolument vérifier avant l'installation.</description>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : comment bien choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Quel matériau pour la toiture de votre pergola ? Découvrez notre comparatif complet : verre, polycarbonate, bois, alu. Avantages, prix, entretien et verdict selon votre profil.</description>
       <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : Pierre Noire ou Barbara ? Quel choix ?</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les meilleures variétés de roses grimpantes pour pergola : comparatif complet entre Pierre Noire et Barbara pour transformer votre jardin</description>
-      <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
