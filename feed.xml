@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jul 2026 11:14:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:11:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille pergola choisir ? 8 règles pour bien dimensionner</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir la taille pergola adaptée à votre terrasse. 8 critères essentiels pour un dimensionnement réussi sans erreur coûteuse.</description>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : 8 secrets pour transformer votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola au bord de votre piscine : styles, matériaux, budget et conseils d'installation pour créer un espace détente optimal.</description>
       <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 7 points clés à vérifier</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : guide complet des vérifications réglementaires, administratives et techniques avant installation. Droits, permis, assurance et prix.</description>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

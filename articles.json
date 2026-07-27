@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille pergola choisir ? 8 règles pour bien dimensionner",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment choisir la taille pergola adaptée à votre terrasse. 8 critères essentiels pour un dimensionnement réussi sans erreur coûteuse.",
+    "date": "2026-07-27",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen : 8 secrets pour transformer votre jardin",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : le guide complet pour l'utiliser toute l'année",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver pour profiter de votre terrasse 12 mois par an. Conseils, chauffage et solutions pratiques.",
-    "date": "2026-04-30",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
