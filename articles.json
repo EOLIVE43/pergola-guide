@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : 8 secrets pour transformer votre jardin",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola japonaise zen dans votre jardin. 8 conseils essentiels pour un espace de détente authentique et harmonieux.",
+    "date": "2026-07-27",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Quel matériau pour la toiture pergola ? 7 réponses essentielles",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : comment Didier a sauvé 4 500 € sans perdre…",
-    "categorie": "Prix",
-    "description": "Pergola pas cher bonne qualité : découvrez comment un propriétaire français a trouvé l'équilibre prix-durabilité. Chiffres, conseils et erreurs à éviter en 2026.",
-    "date": "2026-04-30",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]

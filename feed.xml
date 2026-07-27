@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:50:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:14:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : 8 secrets pour transformer votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Découvrez comment créer une pergola japonaise zen dans votre jardin. 8 conseils essentiels pour un espace de détente authentique et harmonieux.</description>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quel matériau pour la toiture pergola ? 7 réponses essentielles</title>
       <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola adossée mur mitoyen : guide complet des vérifications réglementaires, administratives et techniques avant installation. Droits, permis, assurance et prix.</description>
       <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte : avantages et inconvénients face à l'ouverte</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Pergola couverte avantages : découvrez les bénéfices réels, les tarifs et comment choisir entre couverte et ouverte pour votre jardin.</description>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
