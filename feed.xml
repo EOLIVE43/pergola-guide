@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jul 2026 08:30:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:50:29 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quel matériau pour la toiture pergola ? 7 réponses essentielles</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Toiture pergola matériau : découvrez les 7 questions clés pour choisir entre verre, polycarbonate, bois et aluminium. Comparatif prix et durabilité.</description>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 aménagement : comment optimiser un petit espace ?</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola couverte avantages : découvrez les bénéfices réels, les tarifs et comment choisir entre couverte et ouverte pour votre jardin.</description>
       <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan : 7 questions pour bien chiffrer votre projet</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Devis pergola artisan : guide complet pour obtenir les meilleures offres. Comparaison des tarifs, conseils de négociation et pièges à éviter. Réponses à vos 7 questions essentielles.</description>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
