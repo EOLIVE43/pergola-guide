@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : le guide complet pour bien choisir",
+    "categorie": "Stores",
+    "description": "Rideaux extérieurs pergola : découvrez comment choisir le bon modèle, les matériaux résistants et les prix 2026. Guide d'achat complet avec conseils experts.",
+    "date": "2026-07-28",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "Pergola fer forgé ou bois : quel matériau pour votre terrasse ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola aluminium vs bois : quel choix en 2026 ?",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium vs bois : découvrez le comparatif complet 2026. Prix, durabilité, maintenance, esthétique. Tous les critères pour bien choisir.",
-    "date": "2026-05-01",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
