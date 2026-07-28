@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : 8 questions essentielles sur les règles 2024",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : guide complet sur les autorisations, syndic, déclarations et conditions d'installation. Réponses à vos 8 questions clés.",
+    "date": "2026-07-28",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-pas-cher-bonne-qualite",
     "titre": "Pergola pas cher : comment obtenir une bonne qualité sans dépenser plus ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-terrasse-bois"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : 7 variétés pour transformer votre jardin",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures variétés de rose grimpante pergola : caractéristiques, rusticité et conseils de plantation pour sublimer votre espace extérieur.",
-    "date": "2026-05-01",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
