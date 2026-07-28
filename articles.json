@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé ou bois : quel matériau pour votre terrasse ?",
+    "categorie": "Matériaux",
+    "description": "Comparez pergola fer forgé et bois : avantages, durabilité, entretien et prix. Guide complet pour choisir le matériau idéal selon votre budget et style.",
+    "date": "2026-07-28",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 8 vérifications légales à faire",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : combien coûte vraiment la pose ?",
-    "categorie": "Prix",
-    "description": "Découvrez le prix installation pergola en France. Guide complet sur les coûts de main-d'œuvre, pose et facteurs influençant le devis. Chiffres réels 2024.",
-    "date": "2026-05-01",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]

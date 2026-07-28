@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:46:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:09:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé ou bois : quel matériau pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Comparez pergola fer forgé et bois : avantages, durabilité, entretien et prix. Guide complet pour choisir le matériau idéal selon votre budget et style.</description>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : 8 vérifications légales à faire</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures plantes grimpantes pour pergola en France : sélection, entretien et conseils pratiques. Tout ce qu'il faut savoir pour réussir votre aménagement.</description>
       <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola : quel matériau choisir en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Quel matériau pour la toiture de votre pergola ? Découvrez notre comparatif complet : verre, polycarbonate, bois, alu. Avantages, prix, entretien et verdict selon votre profil.</description>
-      <pubDate>Fri, 24 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
