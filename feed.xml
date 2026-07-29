@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Jul 2026 13:04:26 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:21:35 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 matériaux pour toiture pergola : lequel choisir en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Découvrez les 8 meilleurs matériaux pour la toiture de votre pergola : polycarbonate, toile, bois, verre et plus. Guide complet avec prix et conseils.</description>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : 8 conseils pour optimiser confort et économies</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 meilleurs matériaux pour créer une pergola rustique campagne. Bois, pierre, métal : inspirations et conseils pour votre terrasse de charme.</description>
       <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : 8 conseils pour créer l'espace parfait</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : 8 conseils d'experts pour transformer votre espace. Orientation, matériaux, budget, entretien. Guide complet 2026.</description>
-      <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

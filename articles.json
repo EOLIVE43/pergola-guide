@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "8 matériaux pour toiture pergola : lequel choisir en 2026 ?",
+    "categorie": "Toiture",
+    "description": "Découvrez les 8 meilleurs matériaux pour la toiture de votre pergola : polycarbonate, toile, bois, verre et plus. Guide complet avec prix et conseils.",
+    "date": "2026-07-29",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : 8 conseils pour optimiser confort et économies",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer sa pergola bois : le choix de Valérie en Île-de-France",
-    "categorie": "Matériaux",
-    "description": "Peindre ou lasurer une pergola bois ? Découvrez le cas concret de Valérie : comparaison budgets, durabilité et résultats réels 2026.",
-    "date": "2026-05-02",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
