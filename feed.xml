@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:52:59 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:04:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : 8 conseils pour optimiser confort et économies</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment installer un chauffage infrarouge pergola efficace. 8 conseils pour maximiser votre confort tout en réduisant vos factures énergétiques cet hiver.</description>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : 7 points clés à vérifier avant la pose</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : 8 conseils d'experts pour transformer votre espace. Orientation, matériaux, budget, entretien. Guide complet 2026.</description>
       <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 : la dimension idéale pour une terrasse standard</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 : la dimension idéale pour une terrasse standard</description>
-      <pubDate>Sat, 25 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

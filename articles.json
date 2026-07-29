@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : 8 conseils pour optimiser confort et économies",
+    "categorie": "Jardin",
+    "description": "Découvrez comment installer un chauffage infrarouge pergola efficace. 8 conseils pour maximiser votre confort tout en réduisant vos factures énergétiques cet hiver.",
+    "date": "2026-07-29",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 7 points clés à vérifier avant la pose",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : blanc, gris ou anthracite ?",
-    "categorie": "Aluminium",
-    "description": "Quelle couleur et finition choisir pour votre pergola aluminium ? Découvrez le comparatif complet des finitions avec tableau de sélection.",
-    "date": "2026-05-02",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
