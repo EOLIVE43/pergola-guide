@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:45:14 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 12:49:12 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : 8 étapes pour maîtriser la main-d'œuvre</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Découvrez le prix installation pergola en détail : coûts de main-d'œuvre, devis gratuit et 8 étapes clés pour économiser. Guide complet 2026.</description>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante aux intempéries : le pari réussi de Marc en Bretagne</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 3x3 aménagement : découvrez comment aménager intelligemment votre petite terrasse. Comparatif complet des solutions et conseils d'installation pour maximiser votre espace extérieur.</description>
       <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 secrets de la pergola acier corten : esthétique rouillée et durée de vie</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Découvrez les 8 avantages et caractéristiques de la pergola acier corten : design rouillé authentique, durabilité exceptionnelle et entretien minimal pour votre terrasse.</description>
-      <pubDate>Sun, 26 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
