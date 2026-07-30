@@ -1,5 +1,15 @@
 [
   {
+    "slug": "budget-pergola-france",
+    "titre": "Quel budget pergola France 2026 ? Guide complet des tarifs",
+    "categorie": "Prix",
+    "description": "Budget pergola France 2026 : tarifs actualisés, coûts matériaux et installation. Découvrez combien investir pour votre pergola bois ou bioclimatique.",
+    "date": "2026-07-30",
+    "thumb": "/images/blog/budget-pergola-france.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "8 matériaux pour toiture pergola : lequel choisir en 2026 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité et esthétique au printemps 2026",
-    "categorie": "Toiture",
-    "description": "Découvrez pourquoi le verre feuilleté est la solution idéale pour votre pergola ce printemps : sécurité maximale, transparence et design. Guide complet 2026.",
-    "date": "2026-05-02",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
