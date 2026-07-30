@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:49:12 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:12:42 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 solutions pour une pergola bois résistante intempéries</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez 8 solutions pour rendre votre pergola bois résistante intempéries. Traitements, matériaux et entretien pour protéger votre pergola durablement face aux UV, pluies et variations climatiques.</description>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : 8 étapes pour maîtriser la main-d'œuvre</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Toiture pergola matériau : découvrez les 7 questions clés pour choisir entre verre, polycarbonate, bois et aluminium. Comparatif prix et durabilité.</description>
       <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 3x3 aménagement : comment optimiser un petit espace ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
-      <description>Pergola 3x3 aménagement : découvrez comment aménager intelligemment votre petite terrasse. Comparatif complet des solutions et conseils d'installation pour maximiser votre espace extérieur.</description>
-      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

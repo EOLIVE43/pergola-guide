@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "8 solutions pour une pergola bois résistante intempéries",
+    "categorie": "Matériaux",
+    "description": "Découvrez 8 solutions pour rendre votre pergola bois résistante intempéries. Traitements, matériaux et entretien pour protéger votre pergola durablement face aux UV, pluies et variations climatiques.",
+    "date": "2026-07-30",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : 8 étapes pour maîtriser la main-d'œuvre",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : créer une oasis privée et design",
-    "categorie": "Stores",
-    "description": "Découvrez comment transformer votre pergola avec un brise-vue pergola jardin efficace. Solutions esthétiques et pratiques pour intimité garantie.",
-    "date": "2026-05-03",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
