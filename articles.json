@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium vs bois : comparatif complet des avantages, prix et durabilité. Découvrez quel matériau correspond à votre projet extérieur.",
+    "date": "2026-07-31",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "7 avantages de la pergola fer forgé : style, durabilité et entretien",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer sa pergola bois : quel traitement choisir ?",
-    "categorie": "Matériaux",
-    "description": "Peindre ou lasurer votre pergola bois ? Découvrez les différences, avantages et inconvénients de chaque traitement pour bien protéger votre structure.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
