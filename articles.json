@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : pourquoi agir dès juillet 2026",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : checklist complète pour l'été 2026. Découvrez les 3 actions urgentes à faire avant fin juillet pour protéger votre structure.",
+    "date": "2026-07-31",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Taille pergola : 7 règles pour bien choisir selon votre terrasse",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "nettoyage-pergola-karcher",
-    "titre": "Nettoyage pergola Kärcher au printemps : mode d'emploi sans risque",
-    "categorie": "Entretien",
-    "description": "Peut-on vraiment nettoyer sa pergola au Kärcher ? Guide complet printemps 2026 avec conseils, précautions et erreurs à éviter pour préserver votre structure bois ou alu.",
-    "date": "2026-05-03",
-    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]

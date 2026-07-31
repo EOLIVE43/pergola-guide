@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:42:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:18:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : pourquoi agir dès juillet 2026</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Entretien pergola printemps : checklist complète pour l'été 2026. Découvrez les 3 actions urgentes à faire avant fin juillet pour protéger votre structure.</description>
+      <pubDate>Fri, 31 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Taille pergola : 7 règles pour bien choisir selon votre terrasse</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la taille pergola adaptée à votre terrasse. 8 critères essentiels pour un dimensionnement réussi sans erreur coûteuse.</description>
       <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : 8 secrets pour transformer votre jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Découvrez comment créer une pergola japonaise zen dans votre jardin. 8 conseils essentiels pour un espace de détente authentique et harmonieux.</description>
-      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
