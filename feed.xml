@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:18:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:51:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : quel bois choisir entre ipé, teck et cumaru ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Comparatif pergola bois exotique : ipé, teck, cumaru. Découvrez les différences, durabilité, prix et entretien pour choisir le meilleur bois exotique pour votre terrasse.</description>
+      <pubDate>Fri, 31 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : pourquoi agir dès juillet 2026</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Comment obtenir un devis pergola artisan fiable ? Découvrez nos réponses sur les prix, les matériaux et les meilleures pratiques pour comparer efficacement vos devis.</description>
       <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille pergola choisir ? 8 règles pour bien dimensionner</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir la taille pergola adaptée à votre terrasse. 8 critères essentiels pour un dimensionnement réussi sans erreur coûteuse.</description>
-      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

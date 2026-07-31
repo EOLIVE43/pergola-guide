@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : quel bois choisir entre ipé, teck et cumaru ?",
+    "categorie": "Matériaux",
+    "description": "Comparatif pergola bois exotique : ipé, teck, cumaru. Découvrez les différences, durabilité, prix et entretien pour choisir le meilleur bois exotique pour votre terrasse.",
+    "date": "2026-07-31",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola printemps : pourquoi agir dès juillet 2026",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "Store zip pergola : les avantages d'une protection anti-vent efficace",
-    "categorie": "Stores",
-    "description": "Découvrez les avantages du store zip pergola : protection vent optimale, étanchéité renforcée et confort garanti. Guide complet 2026.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
