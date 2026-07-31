@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Taille pergola : 7 règles pour bien choisir selon votre terrasse",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment bien choisir la taille pergola idéale pour votre terrasse. 7 règles essentielles pour une installation réussie et durable.",
+    "date": "2026-07-31",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "8 solutions pour une pergola bois résistante intempéries",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "7 avantages majeurs de la pergola polycarbonate en 2026",
-    "categorie": "Toiture",
-    "description": "Découvrez les 7 avantages clés de la pergola polycarbonate : transparence, durabilité, prix abordable et installation facile. Tout ce qu'il faut savoir pour bien choisir.",
-    "date": "2026-05-03",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]

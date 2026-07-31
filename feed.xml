@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:12:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:42:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Taille pergola : 7 règles pour bien choisir selon votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment bien choisir la taille pergola idéale pour votre terrasse. 7 règles essentielles pour une installation réussie et durable.</description>
+      <pubDate>Fri, 31 Jul 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 solutions pour une pergola bois résistante intempéries</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment créer une pergola japonaise zen dans votre jardin. 8 conseils essentiels pour un espace de détente authentique et harmonieux.</description>
       <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quel matériau pour la toiture pergola ? 7 réponses essentielles</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Toiture pergola matériau : découvrez les 7 questions clés pour choisir entre verre, polycarbonate, bois et aluminium. Comparatif prix et durabilité.</description>
-      <pubDate>Mon, 27 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
