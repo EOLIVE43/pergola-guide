@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "Pergola résistante vent : quel modèle choisir face aux tempêtes ?",
+    "categorie": "Conseils",
+    "description": "Pergola résistante vent : découvrez les matériaux, structures et dimensions qui résistent le mieux. Comparaison aluminium vs autres matériaux avec conseils d'installation.",
+    "date": "2026-08-01",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Quelle taille pergola choisir pour sa terrasse : petit ou grand format ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-entretien.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-sur-mesure"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate : 5 avantages qui justifient l'investissement",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages de la pergola polycarbonate : protection UV, résistance, transparence et prix. Guide complet avec pose et conseils 2024.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]

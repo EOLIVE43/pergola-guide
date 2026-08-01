@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 01 Aug 2026 09:12:42 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:10:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : quel modèle choisir face aux tempêtes ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Pergola résistante vent : découvrez les matériaux, structures et dimensions qui résistent le mieux. Comparaison aluminium vs autres matériaux avec conseils d'installation.</description>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille pergola choisir pour sa terrasse : petit ou grand format ?</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : guide complet sur les autorisations, syndic, déclarations et conditions d'installation. Réponses à vos 8 questions clés.</description>
       <pubDate>Tue, 28 Jul 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher : comment obtenir une bonne qualité sans dépenser plus ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Découvrez comment choisir une pergola pas cher bonne qualité. Guide complet : matériaux, prix, astuces d'achat et erreurs à éviter pour économiser sans sacrifier la durabilité.</description>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
