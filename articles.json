@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : aluminium ou acier galvanisé ?",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quel matériau supporte le poids efficacement. Comparatif aluminium vs acier galvanisé pour votre région hivernale.",
+    "date": "2026-08-01",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante vent : quel modèle choisir face aux tempêtes ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-3x3"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : 8 gestes simples à faire chaque année",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment entretenir votre pergola aluminium facilement. 8 gestes essentiels pour prolonger sa durée de vie et conserver son éclat pendant 20 ans.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]
