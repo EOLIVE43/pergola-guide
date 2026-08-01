@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte avantages : le guide complet pour bien choisir",
+    "categorie": "Toiture",
+    "description": "Pergola couverte avantages : découvrez les bénéfices, prix et différences avec une pergola ouverte. Guide complet pour faire le bon choix en 2026.",
+    "date": "2026-08-01",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : 8 inspirations matériaux authentiques",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer pergola dalle béton : le guide pratique complet",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer pergola dalle béton facilement. Techniques, matériel, erreurs à éviter et tarifs 2026 pour une installation durable.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
