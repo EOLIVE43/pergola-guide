@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille pergola choisir pour sa terrasse : petit ou grand format ?",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment choisir la taille pergola adaptée à votre terrasse. Comparatif petit vs grand format avec conseils pratiques et tableau décisionnel.",
+    "date": "2026-08-01",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte avantages : le guide complet pour bien choisir",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : créez votre jardin de sérénité au printemps 2026",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen jardin : guide complet pour créer votre espace de détente au printemps 2026. Matériaux, budget, planning d'installation.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

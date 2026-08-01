@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:12:59 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:12:42 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille pergola choisir pour sa terrasse : petit ou grand format ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir la taille pergola adaptée à votre terrasse. Comparatif petit vs grand format avec conseils pratiques et tableau décisionnel.</description>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte avantages : le guide complet pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir une pergola pas cher bonne qualité. Guide complet : matériaux, prix, astuces d'achat et erreurs à éviter pour économiser sans sacrifier la durabilité.</description>
       <pubDate>Tue, 28 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rideaux extérieurs pergola : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Rideaux extérieurs pergola : découvrez comment choisir le bon modèle, les matériaux résistants et les prix 2026. Guide d'achat complet avec conseils experts.</description>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
