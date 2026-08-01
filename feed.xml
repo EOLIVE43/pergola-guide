@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 01 Aug 2026 12:05:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:37:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : quel modèle vous convient vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique ou classique ? Découvrez les différences essentielles, prix, performances thermiques et conseils pour choisir le modèle adapté à votre maison.</description>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : aluminium ou acier galvanisé ?</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux innovants et solutions sur mesure pour votre extérieur. Guide complet 2026.</description>
       <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : comment bien choisir sans compromis ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Découvrez comment trouver une pergola pas cher de bonne qualité. Guide complet avec astuces pour économiser sans sacrifier la durabilité et l'esthétique.</description>
-      <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

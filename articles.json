@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : quel modèle vous convient vraiment ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique ou classique ? Découvrez les différences essentielles, prix, performances thermiques et conseils pour choisir le modèle adapté à votre maison.",
+    "date": "2026-08-01",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : aluminium ou acier galvanisé ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : 5 idées d'aménagement pour optimiser votre petit espace",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment aménager une pergola 3x3 : solutions pratiques, mobilier gain de place et décoration pour petits espaces. Guide complet 2024.",
-    "date": "2026-05-04",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
