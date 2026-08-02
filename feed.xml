@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 02 Aug 2026 12:07:39 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 13:38:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Éclairage LED pergola : le guide complet 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
+      <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026. Guide complet avec prix, installation et conseils pour illuminer votre terrasse.</description>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rideaux ou stores pour pergola : lequel choisir ?</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Budget pergola France 2026 : tarifs actualisés, coûts matériaux et installation. Découvrez combien investir pour votre pergola bois ou bioclimatique.</description>
       <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 matériaux pour toiture pergola : lequel choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les 8 meilleurs matériaux pour la toiture de votre pergola : polycarbonate, toile, bois, verre et plus. Guide complet avec prix et conseils.</description>
-      <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

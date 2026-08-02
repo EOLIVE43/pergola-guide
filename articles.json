@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : le guide complet 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026. Guide complet avec prix, installation et conseils pour illuminer votre terrasse.",
+    "date": "2026-08-02",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux ou stores pour pergola : lequel choisir ?",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "8 meilleures marques de pergola bioclimatique en 2026",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez les 8 meilleures marques de pergola bioclimatique 2026. Comparatif complet : Leroy Merlin, Nortene, Biossun et plus. Qualité, prix, garantie.",
-    "date": "2026-05-05",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]
