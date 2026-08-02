@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé : 5 avantages qui changent votre terrasse",
+    "categorie": "Matériaux",
+    "description": "Découvrez les avantages de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Guide complet avec prix et conseils.",
+    "date": "2026-08-02",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : quel modèle vous convient vraiment ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : 8 réponses pour créer votre havre de paix",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen : découvrez comment créer un espace zen authentique dans votre jardin. Styles, matériaux, aménagement et prix pour une oasis nippone.",
-    "date": "2026-05-05",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

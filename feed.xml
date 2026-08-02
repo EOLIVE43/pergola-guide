@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 01 Aug 2026 13:37:53 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 09:51:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé : 5 avantages qui changent votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Guide complet avec prix et conseils.</description>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : quel modèle vous convient vraiment ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola adossée mur mitoyen : guide complet sur la réglementation, les droits du voisin, les autorisations et l'installation. Tout ce qu'il faut vérifier avant de fixer votre pergola.</description>
       <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola moderne contemporaine 2026 : le guide complet des tendances qui…</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux innovants et solutions sur mesure pour votre extérieur. Guide complet 2026.</description>
-      <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
