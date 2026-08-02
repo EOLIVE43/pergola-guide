@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : ipé, teck ou cumaru – quel choix en 2024 ?",
+    "categorie": "Matériaux",
+    "description": "Pergola bois exotique : comparez ipé, teck et cumaru. Durabilité, prix, entretien. Trouvez le meilleur bois pour votre pergola en terrasse.",
+    "date": "2026-08-02",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "Pergola fer forgé : 5 avantages qui changent votre terrasse",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate avantages : guide complet 2024",
-    "categorie": "Toiture",
-    "description": "Découvrez tous les avantages de la pergola polycarbonate : prix, installation, durabilité et entretien. Réponses claires à vos questions.",
-    "date": "2026-05-05",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
