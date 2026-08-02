@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux ou stores pour pergola : lequel choisir ?",
+    "categorie": "Stores",
+    "description": "Rideaux extérieurs pergola : comparez stores et rideaux. Guide d'achat avec tableau comparatif, prix et conseils pour bien choisir selon vos besoins.",
+    "date": "2026-08-02",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : ipé, teck ou cumaru – quel choix en 2024 ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Toiture pergola matériau : verre ou polycarbonate, que choisir ?",
-    "categorie": "Toiture",
-    "description": "Quel matériau pour la toiture de votre pergola ? Comparatif complet : verre, polycarbonate, bois, alu. Guide de décision selon vos besoins et budget 2025.",
-    "date": "2026-05-05",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 02 Aug 2026 11:11:07 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 12:07:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux ou stores pour pergola : lequel choisir ?</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Rideaux extérieurs pergola : comparez stores et rideaux. Guide d'achat avec tableau comparatif, prix et conseils pour bien choisir selon vos besoins.</description>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : ipé, teck ou cumaru – quel choix en 2024 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 meilleurs matériaux pour la toiture de votre pergola : polycarbonate, toile, bois, verre et plus. Guide complet avec prix et conseils.</description>
       <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : 8 conseils pour optimiser confort et économies</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment installer un chauffage infrarouge pergola efficace. 8 conseils pour maximiser votre confort tout en réduisant vos factures énergétiques cet hiver.</description>
-      <pubDate>Wed, 29 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
