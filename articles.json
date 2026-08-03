@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante aux intempéries : traitement ou bois exotique ?",
+    "categorie": "Matériaux",
+    "description": "Pergola bois résistante intempéries : comparatif entre bois traité haute performance et essences exotiques. Découvrez quel choix convient à votre projet terrasse en 2026.",
+    "date": "2026-08-03",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate : 8 avantages qui changent tout",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-acier-corten",
-    "titre": "Pergola acier corten ou bois : esthétique rouillée vs naturelle en 2026",
-    "categorie": "Matériaux",
-    "description": "Pergola acier corten vs bois : découvrez laquelle choisir selon votre style, budget et entretien. Comparatif complet avec tableau décisionnel et verdict expert pour votre terrasse.",
-    "date": "2026-05-05",
-    "thumb": "/images/blog/pergola-acier-corten.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

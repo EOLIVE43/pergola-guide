@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 03 Aug 2026 07:35:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 09:34:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois résistante aux intempéries : traitement ou bois exotique ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Pergola bois résistante intempéries : comparatif entre bois traité haute performance et essences exotiques. Découvrez quel choix convient à votre projet terrasse en 2026.</description>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola polycarbonate : 8 avantages qui changent tout</title>
       <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Marc a transformé sa pergola en bois en structure résistante aux intempéries. Budget, étapes et résultats concrets d'un projet réaliste en 2026.</description>
       <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : créer une intimité sans sacrifier l'esthétique</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment choisir un brise-vue pergola jardin pour allier intimité et style. Solutions, matériaux, prix et conseils d'installation en 2026.</description>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
