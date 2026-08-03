@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte ou ouverte ? Les vrais avantages comparés",
+    "categorie": "Toiture",
+    "description": "Découvrez les avantages réels de la pergola couverte vs pergola ouverte. Comparatif complet avec tableau, prix et conseil selon votre profil.",
+    "date": "2026-08-03",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : confort d'été et économies garanties",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : 7 variétés à cultiver cet été",
-    "categorie": "Jardin",
-    "description": "Rose grimpante pergola : découvrez les meilleures variétés pour fleurir votre structure. Plantation, entretien et conseils experts pour un jardin en fleurs.",
-    "date": "2026-05-06",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

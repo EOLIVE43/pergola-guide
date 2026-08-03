@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:16:38 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:12:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte ou ouverte ? Les vrais avantages comparés</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les avantages réels de la pergola couverte vs pergola ouverte. Comparatif complet avec tableau, prix et conseil selon votre profil.</description>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : confort d'été et économies garanties</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 solutions pour rendre votre pergola bois résistante intempéries. Traitements, matériaux et entretien pour protéger votre pergola durablement face aux UV, pluies et variations climatiques.</description>
       <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : 8 étapes pour maîtriser la main-d'œuvre</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Découvrez le prix installation pergola en détail : coûts de main-d'œuvre, devis gratuit et 8 étapes clés pour économiser. Guide complet 2026.</description>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
