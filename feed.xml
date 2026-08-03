@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 02 Aug 2026 13:38:27 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:35:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate : 8 avantages qui changent tout</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les 8 avantages majeurs d'une pergola polycarbonate : transparence, durabilité, prix attractif et installation facile. Guide complet 2026.</description>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Éclairage LED pergola : le guide complet 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir un brise-vue pergola jardin pour allier intimité et style. Solutions, matériaux, prix et conseils d'installation en 2026.</description>
       <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quel budget pergola France 2026 ? Guide complet des tarifs</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Budget pergola France 2026 : tarifs actualisés, coûts matériaux et installation. Découvrez combien investir pour votre pergola bois ou bioclimatique.</description>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
