@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:34:50 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:16:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : confort d'été et économies garanties</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées d'été. Installation, coûts, consommation et bénéfices : guide complet 2026.</description>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante aux intempéries : traitement ou bois exotique ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le prix installation pergola en détail : coûts de main-d'œuvre, devis gratuit et 8 étapes clés pour économiser. Guide complet 2026.</description>
       <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante aux intempéries : le pari réussi de Marc en Bretagne</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Marc a transformé sa pergola en bois en structure résistante aux intempéries. Budget, étapes et résultats concrets d'un projet réaliste en 2026.</description>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

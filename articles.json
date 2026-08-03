@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : confort d'été et économies garanties",
+    "categorie": "Jardin",
+    "description": "Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées d'été. Installation, coûts, consommation et bénéfices : guide complet 2026.",
+    "date": "2026-08-03",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "Pergola bois résistante aux intempéries : traitement ou bois exotique ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola Aluminium vs Bois : Quel Choix en 2026 ?",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium vs bois : comparatif complet des matériaux, prix, entretien et durabilité. Découvrez quel modèle choisir pour votre terrasse en 2026.",
-    "date": "2026-05-06",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
