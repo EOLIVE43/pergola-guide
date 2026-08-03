@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : le cas réussi d'une famille à Toulouse",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment une famille toulousaine a transformé sa terrasse avec une pergola 4x3. Budget réel, dimensions, retours d'expérience 2026.",
+    "date": "2026-08-03",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-eclairage-led",
     "titre": "Éclairage LED pergola : guide complet des meilleures solutions 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment faire en 5 étapes ?",
-    "categorie": "Installation",
-    "description": "Découvrez comment remplir une déclaration préalable pour votre pergola : démarches obligatoires, formulaires, délais et conseils pour éviter les recalages en mairie.",
-    "date": "2026-05-06",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
