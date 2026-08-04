@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:06:01 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:27:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : anticipez dès l'été pour l'automne 2026</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Entretien pergola printemps : checklist complète pour préparer votre pergola bois. Actions à faire maintenant en été 2026 avant les intempéries d'automne.</description>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola sur mesure : 5 avantages qui justifient l'investissement</title>
       <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la taille pergola adaptée à votre terrasse. Comparatif petit vs grand format avec conseils pratiques et tableau décisionnel.</description>
       <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte avantages : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Pergola couverte avantages : découvrez les bénéfices, prix et différences avec une pergola ouverte. Guide complet pour faire le bon choix en 2026.</description>
-      <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

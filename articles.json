@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : anticipez dès l'été pour l'automne 2026",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : checklist complète pour préparer votre pergola bois. Actions à faire maintenant en été 2026 avant les intempéries d'automne.",
+    "date": "2026-08-04",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-sur-mesure-avantages",
     "titre": "Pergola sur mesure : 5 avantages qui justifient l'investissement",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons : comment l'aménager efficacement ?",
-    "categorie": "Aménagement",
-    "description": "Découvrez comment transformer votre pergola en espace 4 saisons avec nos astuces et produits. Guide complet du pergola 4 saisons aménagement pour profiter toute l'année.",
-    "date": "2026-05-07",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
