@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : ipé vs teck vs cumaru, quel bois choisir ?",
+    "categorie": "Matériaux",
+    "description": "Pergola bois exotique : comparatif complet ipé, teck, cumaru. Durabilité, prix, entretien. Guide expert pour bien choisir votre pergola en bois durable.",
+    "date": "2026-08-04",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-aluminium-avantages-inconvenients",
     "titre": "Pergola aluminium : 8 avantages et inconvénients à connaître en 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : 4 stratégies pour l'utiliser toute l'année",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment optimiser votre pergola bioclimatique en hiver avec nos 4 stratégies pour profiter de votre terrasse 12 mois par an. Guide complet.",
-    "date": "2026-05-06",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
