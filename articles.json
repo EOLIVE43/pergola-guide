@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "Pergola sur mesure : 5 avantages qui justifient l'investissement",
+    "categorie": "Dimensions",
+    "description": "Pergola sur mesure avantages : découvrez pourquoi une pergola personnalisée surpasse les modèles standards. Comparatif complet, prix et verdict.",
+    "date": "2026-08-04",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "8 solutions de brise-vue pour pergola : intimité et style au jardin",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : confort garanti et factures réduites",
-    "categorie": "Jardin",
-    "description": "Découvrez comment le chauffage infrarouge pergola prolonge vos soirées en terrasse. Consommation, installation, économies et meilleurs modèles 2026.",
-    "date": "2026-05-06",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
