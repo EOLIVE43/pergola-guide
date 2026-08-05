@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:58:53 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:20:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment la remplir en 5 étapes</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Apprenez comment faire une déclaration préalable pour une pergola. Guide complet avec étapes, documents obligatoires et délais d'instruction en France 2026.</description>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : 8 gestes essentiels par saison</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Guide complet avec prix et conseils.</description>
       <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique vs classique : quel modèle vous convient vraiment ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
-      <description>Pergola bioclimatique ou classique ? Découvrez les différences essentielles, prix, performances thermiques et conseils pour choisir le modèle adapté à votre maison.</description>
-      <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
