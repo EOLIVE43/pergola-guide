@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : 8 gestes essentiels par saison",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez notre guide complet d'entretien pergola bioclimatique : 8 gestes clés par saison pour prolonger la durée de vie de votre structure et optimiser ses performances.",
+    "date": "2026-08-05",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : ipé, teck ou cumaru ? Le comparatif complet",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : le guide complet pour une floraison spectaculaire",
-    "categorie": "Jardin",
-    "description": "Découvrez comment cultiver, tailler et entretenir une glycine sur pergola. Conseils pratiques pour une floraison abondante et durable en France.",
-    "date": "2026-05-07",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
