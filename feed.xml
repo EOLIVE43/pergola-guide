@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:27:16 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:11:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : Pierre Noire ou Blanche en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Quel type de rose grimpante choisir pour votre pergola ? Découvrez notre comparatif détaillé entre variétés classiques et modernes pour créer votre jardin de rêve.</description>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : anticipez dès l'été pour l'automne 2026</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola résistante vent : découvrez les matériaux, structures et dimensions qui résistent le mieux. Comparaison aluminium vs autres matériaux avec conseils d'installation.</description>
       <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille pergola choisir pour sa terrasse : petit ou grand format ?</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir la taille pergola adaptée à votre terrasse. Comparatif petit vs grand format avec conseils pratiques et tableau décisionnel.</description>
-      <pubDate>Sat, 01 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
