@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : le projet réussi de Claire en Provence",
+    "categorie": "Jardin",
+    "description": "Comment aménager une pergola au bord de sa piscine ? Découvrez le cas concret de Claire : budget, matériaux, étapes et résultats mesurables.",
+    "date": "2026-08-06",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment la remplir en 5 étapes",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte : 8 avantages qui changent tout en 2026",
-    "categorie": "Toiture",
-    "description": "Découvrez les 8 avantages majeurs de la pergola couverte face à la pergola ouverte. Guide complet pour choisir la pergola idéale pour votre maison.",
-    "date": "2026-05-07",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
