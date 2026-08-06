@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 06 Aug 2026 13:00:07 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:23:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : 8 critères clés pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Pergola aluminium vs bois : découvrez notre comparatif complet 2026 avec 8 critères décisifs pour choisir entre alu et bois. Guide pratique France.</description>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 8 astuces pour en profiter toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 avantages majeurs d'une pergola polycarbonate : transparence, durabilité, prix attractif et installation facile. Guide complet 2026.</description>
       <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : le guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026. Guide complet avec prix, installation et conseils pour illuminer votre terrasse.</description>
-      <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
