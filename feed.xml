@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:55:44 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:00:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : 8 astuces pour en profiter toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Transformez votre pergola en espace 4 saisons : découvrez nos astuces, produits et solutions pour l'aménager été comme hiver. Guide complet et pratique.</description>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rideaux extérieurs pergola : comment bien les choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026. Guide complet avec prix, installation et conseils pour illuminer votre terrasse.</description>
       <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rideaux ou stores pour pergola : lequel choisir ?</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Rideaux extérieurs pergola : comparez stores et rideaux. Guide d'achat avec tableau comparatif, prix et conseils pour bien choisir selon vos besoins.</description>
-      <pubDate>Sun, 02 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
