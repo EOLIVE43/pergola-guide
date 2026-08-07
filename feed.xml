@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:50:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:50:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : ipé vs teck vs cumaru, lequel choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Comparatif complet des pergolas en bois exotique (ipé, teck, cumaru). Durabilité, prix, entretien : tout pour bien choisir votre pergola bois exotique.</description>
+      <pubDate>Fri, 07 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola avantages : la protection ultime contre le vent</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées d'été. Installation, coûts, consommation et bénéfices : guide complet 2026.</description>
       <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante aux intempéries : traitement ou bois exotique ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Pergola bois résistante intempéries : comparatif entre bois traité haute performance et essences exotiques. Découvrez quel choix convient à votre projet terrasse en 2026.</description>
-      <pubDate>Mon, 03 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

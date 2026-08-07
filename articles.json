@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : ipé vs teck vs cumaru, lequel choisir ?",
+    "categorie": "Matériaux",
+    "description": "Comparatif complet des pergolas en bois exotique (ipé, teck, cumaru). Durabilité, prix, entretien : tout pour bien choisir votre pergola bois exotique.",
+    "date": "2026-08-07",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "store-pergola-zip-avantages",
     "titre": "Store zip pergola avantages : la protection ultime contre le vent",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "8 idées d'aménagement pergola piscine à connaître",
-    "categorie": "Jardin",
-    "description": "Pergola piscine aménagement : 8 idées pratiques pour créer un espace détente au bord de l'eau. Conseils, styles et erreurs à éviter.",
-    "date": "2026-05-08",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
