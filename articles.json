@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Comment choisir sa bâche pergola : imperméabilité et résistance",
+    "categorie": "Toiture",
+    "description": "Guide complet pour bien choisir votre bâche pergola selon l'imperméabilité et la résistance. Découvrez les critères essentiels et les normes de qualité 2025.",
+    "date": "2026-08-07",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : ipé vs teck vs cumaru, lequel choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : comment Stéphane a choisi l'alu face au Mistral",
-    "categorie": "Conseils",
-    "description": "Stéphane en Provence a opté pour une pergola aluminium autoportante face aux vents violents. Retour chiffré sur son choix, budget et résultats concrets 2026.",
-    "date": "2026-05-08",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
