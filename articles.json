@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : 8 astuces pour transformer votre espace",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment aménager votre pergola 4 saisons avec nos 8 astuces pratiques. Conseils, produits et solutions pour profiter toute l'année.",
+    "date": "2026-08-08",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola bois : le guide complet pour choisir",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 aménagement : 5 idées pour sublimer petits espaces",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment aménager une pergola 3x3 mètres dans un petit jardin. Solutions pratiques, idées déco et conseils d'experts pour optimiser votre terrasse.",
-    "date": "2026-05-08",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
