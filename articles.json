@@ -1,6 +1,16 @@
 [
   {
     "slug": "bache-pergola-comment-choisir",
+    "titre": "Bâche pergola : comment choisir l'imperméabilité et la résistance",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir sa bâche pergola selon l'imperméabilité, la résistance et les matériaux. Guide complet pour une protection optimale de votre terrasse en 2026.",
+    "date": "2026-08-08",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
+    "slug": "bache-pergola-comment-choisir",
     "titre": "Comment choisir sa bâche pergola : imperméabilité et résistance",
     "categorie": "Toiture",
     "description": "Guide complet pour bien choisir votre bâche pergola selon l'imperméabilité et la résistance. Découvrez les critères essentiels et les normes de qualité 2025.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité ou esthétique en 2024 ?",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : découvrez comment choisir entre sécurité maximale et transparence totale. Comparatif complet avec prix et avantages.",
-    "date": "2026-05-08",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
