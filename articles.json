@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-peindre-lasurer",
+    "titre": "Peindre ou lasurer sa pergola bois : le guide complet pour choisir",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment choisir entre peindre et lasurer votre pergola bois. Comparaison, prix, durabilité et conseils pratiques pour protéger votre structure.",
+    "date": "2026-08-08",
+    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Bâche pergola : comment choisir l'imperméabilité et la résistance",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-3x3"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne 2026 : 8 questions pour tout comprendre aux tendances",
-    "categorie": "Style",
-    "description": "Pergola moderne contemporaine 2026 : découvrez les tendances actuelles, matériaux innovants, dimensions populaires et solutions d'installation. Réponses claires à vos questions.",
-    "date": "2026-05-08",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
