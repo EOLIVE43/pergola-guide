@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 7 questions pour réussir votre projet",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : découvrez comment bien installer une pergola près de votre piscine. Conseils, normes, prix et idées d'aménagement pratiques.",
+    "date": "2026-08-09",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : 8 astuces pour transformer votre espace",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan : le guide d'un propriétaire bourguignon en 2026",
-    "categorie": "Prix",
-    "description": "Comment obtenir un bon devis pergola artisan ? Découvrez l'histoire concrète de Christophe en Bourgogne : budget réel, erreurs évitées et 5 conseils pour négocier.",
-    "date": "2026-05-08",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
