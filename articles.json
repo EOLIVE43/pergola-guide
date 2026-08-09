@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Bâche pergola : imperméabilité ou résistance, que choisir ?",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet, tableau et verdict selon votre usage.",
+    "date": "2026-08-09",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Quelle essence de bois choisir pour une pergola durable ? Notre guide complet",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : moderne ou traditionnelle pour votre jardin ?",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen : comparez les styles modernes et traditionnels pour créer votre espace zen. Guide complet avec tableau comparatif et conseils d'installation.",
-    "date": "2026-05-09",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

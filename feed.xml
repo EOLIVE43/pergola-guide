@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:58:13 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:34:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bâche pergola : imperméabilité ou résistance, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet, tableau et verdict selon votre usage.</description>
+      <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle essence de bois choisir pour une pergola durable ? Notre guide complet</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 solutions de brise-vue pour pergola qui allient intimité et esthétique. Stores, panneaux, plantes : tous les conseils pour transformer votre jardin en oasis privé.</description>
       <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique : ipé vs teck vs cumaru, quel bois choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Pergola bois exotique : comparatif complet ipé, teck, cumaru. Durabilité, prix, entretien. Guide expert pour bien choisir votre pergola en bois durable.</description>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
