@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 08:34:54 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 09:29:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 aménagement : 7 idées pour sublimer votre petit espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez comment aménager une pergola 3x3 pour créer un coin détente optimal. Solutions pratiques, budget et inspirations pour petits jardins.</description>
+      <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Bâche pergola : imperméabilité ou résistance, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola sur mesure avantages : découvrez pourquoi une pergola personnalisée surpasse les modèles standards. Comparatif complet, prix et verdict.</description>
       <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 solutions de brise-vue pour pergola : intimité et style au jardin</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez 8 solutions de brise-vue pour pergola qui allient intimité et esthétique. Stores, panneaux, plantes : tous les conseils pour transformer votre jardin en oasis privé.</description>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 aménagement : 7 idées pour sublimer votre petit espace",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment aménager une pergola 3x3 pour créer un coin détente optimal. Solutions pratiques, budget et inspirations pour petits jardins.",
+    "date": "2026-08-09",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Bâche pergola : imperméabilité ou résistance, que choisir ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : 8 secrets pour une floraison spectaculaire",
-    "categorie": "Jardin",
-    "description": "Découvrez comment entretenir votre glycine pergola avec nos 8 conseils essentiels. Plantation, taille, arrosage : le guide complet pour une floraison abondante.",
-    "date": "2026-05-09",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
