@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 05:11:42 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:58:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle essence de bois choisir pour une pergola durable ? Notre guide complet</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Essence bois pergola : guide complet pour choisir entre bois exotique, européen et traité. Comparatif prix, durabilité et entretien pour votre pergola en bois.</description>
+      <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 7 questions pour réussir votre projet</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois exotique : comparatif complet ipé, teck, cumaru. Durabilité, prix, entretien. Guide expert pour bien choisir votre pergola en bois durable.</description>
       <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium : 8 avantages et inconvénients à connaître en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Découvrez les 8 avantages et inconvénients majeurs de la pergola aluminium. Analyse complète pour bien choisir votre pergola alu en 2026.</description>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
