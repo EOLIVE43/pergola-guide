@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte ou ouverte : que choisir selon vos besoins ?",
+    "categorie": "Toiture",
+    "description": "Découvrez les avantages et inconvénients de la pergola couverte vs ouverte. Comparatif complet pour faire le bon choix en fonction de votre usage et budget.",
+    "date": "2026-08-09",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-3x3-idees-amenagement",
     "titre": "Pergola 3x3 aménagement : 7 idées pour sublimer votre petit espace",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Quelle taille de pergola choisir ? Le guide complet par terrasse",
-    "categorie": "Dimensions",
-    "description": "Comment choisir la taille pergola parfaite pour votre terrasse ? Découvrez nos formules, calculs et erreurs à éviter pour un projet réussi.",
-    "date": "2026-05-09",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]

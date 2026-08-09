@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:29:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:34:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte ou ouverte : que choisir selon vos besoins ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les avantages et inconvénients de la pergola couverte vs ouverte. Comparatif complet pour faire le bon choix en fonction de votre usage et budget.</description>
+      <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 aménagement : 7 idées pour sublimer votre petit espace</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola printemps : checklist complète pour préparer votre pergola bois. Actions à faire maintenant en été 2026 avant les intempéries d'automne.</description>
       <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure : 5 avantages qui justifient l'investissement</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Pergola sur mesure avantages : découvrez pourquoi une pergola personnalisée surpasse les modèles standards. Comparatif complet, prix et verdict.</description>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
