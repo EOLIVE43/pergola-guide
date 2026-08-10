@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:12:39 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:08:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : quel choix pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Pergola aluminium couleur : découvrez les finitions disponibles, tendances 2024 et conseils pour choisir la teinte idéale de votre pergola alu.</description>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment bien choisir sa bâche pergola : imperméabilité et résistance</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez notre guide complet d'entretien pergola bioclimatique : 8 gestes clés par saison pour prolonger la durée de vie de votre structure et optimiser ses performances.</description>
       <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique : ipé, teck ou cumaru ? Le comparatif complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Pergola bois exotique : découvrez les différences entre ipé, teck et cumaru. Comparatif détaillé, prix, durabilité et entretien pour bien choisir.</description>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
