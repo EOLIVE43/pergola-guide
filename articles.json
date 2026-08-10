@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-marques",
+    "titre": "Marque pergola bioclimatique : Alukov ou Suncomfort en 2026 ?",
+    "categorie": "Bioclimatique",
+    "description": "Comparez les meilleures marques de pergola bioclimatique 2026. Alukov vs Suncomfort : prix, installation, durabilité et design pour bien choisir.",
+    "date": "2026-08-10",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Quelle taille de pergola choisir pour votre terrasse ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan ou estimation en ligne : que choisir ?",
-    "categorie": "Prix",
-    "description": "Devis pergola artisan vs en ligne : comparez les avantages, délais et prix. Guide complet pour bien choisir votre mode de devis en 2026.",
-    "date": "2026-05-10",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]

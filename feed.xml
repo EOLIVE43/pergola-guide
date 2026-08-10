@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:52:05 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:18:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marque pergola bioclimatique : Alukov ou Suncomfort en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Comparez les meilleures marques de pergola bioclimatique 2026. Alukov vs Suncomfort : prix, installation, durabilité et design pour bien choisir.</description>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Comment aménager une pergola au bord de sa piscine ? Découvrez le cas concret de Claire : budget, matériaux, étapes et résultats mesurables.</description>
       <pubDate>Thu, 06 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment la remplir en 5 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Apprenez comment faire une déclaration préalable pour une pergola. Guide complet avec étapes, documents obligatoires et délais d'instruction en France 2026.</description>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
