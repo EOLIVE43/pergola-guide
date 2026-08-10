@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:08:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:52:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Guide complet pour choisir la taille de pergola adaptée à votre terrasse. Dimensions, réglementation, permis : réponses aux questions essentielles.</description>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : quel choix pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Apprenez comment faire une déclaration préalable pour une pergola. Guide complet avec étapes, documents obligatoires et délais d'instruction en France 2026.</description>
       <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola bioclimatique : 8 gestes essentiels par saison</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
-      <description>Découvrez notre guide complet d'entretien pergola bioclimatique : 8 gestes clés par saison pour prolonger la durée de vie de votre structure et optimiser ses performances.</description>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

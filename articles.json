@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir pour votre terrasse ?",
+    "categorie": "Dimensions",
+    "description": "Guide complet pour choisir la taille de pergola adaptée à votre terrasse. Dimensions, réglementation, permis : réponses aux questions essentielles.",
+    "date": "2026-08-10",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium couleur : quel choix pour votre terrasse ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : 7 finitions qui transforment votre terrasse",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment choisir la couleur et la finition de votre pergola aluminium. Guide complet des teintes tendance et conseils pour bien investir en 2026.",
-    "date": "2026-05-09",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
