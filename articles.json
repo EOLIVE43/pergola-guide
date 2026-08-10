@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Comment bien choisir sa bâche pergola : imperméabilité et résistance",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir sa bâche pergola idéale : imperméabilité, matériaux, résistance aux UV et longévité. Guide complet avec critères de sélection essentiels.",
+    "date": "2026-08-10",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Déclaration pergola assurance : 7 questions essentielles avant d'installer",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : 8 idées d'aménagement pour petits espaces",
-    "categorie": "Dimensions",
-    "description": "Découvrez 8 solutions d'aménagement pour pergola 3x3 : optimisation d'espace, mobilier, végétation et ambiance. Guide pratique pour petits jardins.",
-    "date": "2026-05-09",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]

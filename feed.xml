@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 13:00:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:12:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment bien choisir sa bâche pergola : imperméabilité et résistance</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment choisir sa bâche pergola idéale : imperméabilité, matériaux, résistance aux UV et longévité. Guide complet avec critères de sélection essentiels.</description>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration pergola assurance : 7 questions essentielles avant d'installer</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois exotique : découvrez les différences entre ipé, teck et cumaru. Comparatif détaillé, prix, durabilité et entretien pour bien choisir.</description>
       <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : Pierre Noire ou Blanche en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Quel type de rose grimpante choisir pour votre pergola ? Découvrez notre comparatif détaillé entre variétés classiques et modernes pour créer votre jardin de rêve.</description>
-      <pubDate>Wed, 05 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
