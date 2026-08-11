@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:48:44 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:16:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marques pergola bioclimatique : Biossun vs Azenco en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Comparatif complet des meilleures marques de pergola bioclimatique 2026. Découvrez les différences de prix, options 4x3, 6x4, 6x3 et caractéristiques selon votre budget et vos besoins réels.</description>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile ombrage pergola : 7 questions pour bien choisir en 2026</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : découvrez notre comparatif complet 2026 avec 8 critères décisifs pour choisir entre alu et bois. Guide pratique France.</description>
       <pubDate>Thu, 06 Aug 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 8 astuces pour en profiter toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Transformez votre pergola en espace 4 saisons : découvrez nos astuces, produits et solutions pour l'aménager été comme hiver. Guide complet et pratique.</description>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
