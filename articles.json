@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-autoclave",
+    "titre": "Pergola bois autoclave : 8 avantages qui justifient l'investissement",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 8 avantages majeurs de la pergola bois autoclave : durabilité, esthétique et économies. Tout ce qu'il faut savoir avant d'acheter.",
+    "date": "2026-08-12",
+    "thumb": "/images/blog/pergola-bois-autoclave.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "8 solutions de brise-vue pergola jardin pour plus d'intimité",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : combien prévoir vraiment ?",
-    "categorie": "Prix",
-    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les vrais tarifs, coûts d'installation et facteurs qui influencent vos dépenses. Guide complet et chiffres actualisés.",
-    "date": "2026-05-11",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
