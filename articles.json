@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten ou bois : esthétique et durabilité face à face",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten vs bois : comparatif complet sur prix, entretien et durabilité. Découvrez quelle structure choisir pour votre terrasse en 2026.",
+    "date": "2026-08-12",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : 8 avantages qui justifient l'investissement",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Comment aménager une cuisine extérieure sous pergola : le guide complet",
-    "categorie": "Jardin",
-    "description": "Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et esthétique. Plans, équipements, budget : tout pour réussir votre projet 2026.",
-    "date": "2026-05-11",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]

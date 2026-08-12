@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:53:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:49:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten ou bois : esthétique et durabilité face à face</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten vs bois : comparatif complet sur prix, entretien et durabilité. Découvrez quelle structure choisir pour votre terrasse en 2026.</description>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : 8 avantages qui justifient l'investissement</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Guide complet pour bien choisir votre bâche pergola selon l'imperméabilité et la résistance. Découvrez les critères essentiels et les normes de qualité 2025.</description>
       <pubDate>Fri, 07 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois exotique : ipé vs teck vs cumaru, lequel choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
-      <description>Comparatif complet des pergolas en bois exotique (ipé, teck, cumaru). Durabilité, prix, entretien : tout pour bien choisir votre pergola bois exotique.</description>
-      <pubDate>Fri, 07 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
