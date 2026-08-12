@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-couleurs-disponibles",
+    "titre": "Pergola aluminium couleur : 8 finitions à connaître",
+    "categorie": "Aluminium",
+    "description": "Découvrez les 8 meilleures finitions pour votre pergola aluminium couleur. Guide complet des teintes modernes et intemporelles pour votre jardin.",
+    "date": "2026-08-12",
+    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : 8 étapes essentielles pour réussir",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : prix, avantages et guide d'installation",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour choisir le meilleur équipement de votre terrasse.",
-    "date": "2026-05-11",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:52:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:19:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : 8 finitions à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Découvrez les 8 meilleures finitions pour votre pergola aluminium couleur. Guide complet des teintes modernes et intemporelles pour votre jardin.</description>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : 8 étapes essentielles pour réussir</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir entre peindre et lasurer votre pergola bois. Comparaison, prix, durabilité et conseils pratiques pour protéger votre structure.</description>
       <pubDate>Sat, 08 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Bâche pergola : comment choisir l'imperméabilité et la résistance</title>
-      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
-      <description>Découvrez comment choisir sa bâche pergola selon l'imperméabilité, la résistance et les matériaux. Guide complet pour une protection optimale de votre terrasse en 2026.</description>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
