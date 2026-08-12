@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Fixer pergola dalle béton : 8 étapes essentielles pour réussir",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer une pergola sur dalle béton en 8 étapes. Guide complet d'installation pergola pour terrasse durable et sécurisée.",
+    "date": "2026-08-12",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "Pergola acier corten ou bois : esthétique et durabilité face à face",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : la checklist complète pour mai 2026",
-    "categorie": "Entretien",
-    "description": "Entretien pergola printemps : guide complet pour vérifier votre structure en mai 2026. Checklist, planning, budget et erreurs à éviter. Agissez maintenant !",
-    "date": "2026-05-11",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
