@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:19:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:51:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment choisir la taille de sa pergola selon sa terrasse</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Guide complet pour choisir la taille pergola adaptée à votre terrasse. Calculs, erreurs à éviter et conseils d'expert pour un investissement réussi.</description>
+      <pubDate>Thu, 13 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : 8 finitions à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager votre pergola 4 saisons avec nos 8 astuces pratiques. Conseils, produits et solutions pour profiter toute l'année.</description>
       <pubDate>Sat, 08 Aug 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Peindre ou lasurer sa pergola bois : le guide complet pour choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
-      <description>Découvrez comment choisir entre peindre et lasurer votre pergola bois. Comparaison, prix, durabilité et conseils pratiques pour protéger votre structure.</description>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
