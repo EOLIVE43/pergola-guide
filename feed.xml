@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:51:01 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:52:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : 8 critères pour bien choisir en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Pergola aluminium vs bois : découvrez le comparatif complet avec 8 critères essentiels pour choisir la meilleure pergola en 2026. Guide expert France.</description>
+      <pubDate>Thu, 13 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment choisir la taille de sa pergola selon sa terrasse</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : découvrez comment bien installer une pergola près de votre piscine. Conseils, normes, prix et idées d'aménagement pratiques.</description>
       <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 8 astuces pour transformer votre espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment aménager votre pergola 4 saisons avec nos 8 astuces pratiques. Conseils, produits et solutions pour profiter toute l'année.</description>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
