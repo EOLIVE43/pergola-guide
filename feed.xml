@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:49:17 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:16:29 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 étapes pour une pergola bois résistante aux intempéries</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries avec 8 solutions éprouvées. Traitements, entretien et matériaux : le guide complet.</description>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : comment bien choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola 3x3 pour créer un coin détente optimal. Solutions pratiques, budget et inspirations pour petits jardins.</description>
       <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Bâche pergola : imperméabilité ou résistance, que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
-      <description>Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet, tableau et verdict selon votre usage.</description>
-      <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
