@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-pas-cher-bonne-qualite",
+    "titre": "Pergola pas cher bonne qualité : comment bien choisir ?",
+    "categorie": "Prix",
+    "description": "Découvrez comment trouver une pergola pas cher bonne qualité sans compromis. Prix, matériaux, conseils d'experts et astuces pour économiser intelligemment.",
+    "date": "2026-08-14",
+    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "pergola-pas-cher"
+  },
+  {
     "slug": "pergola-toit-verre-securit",
     "titre": "Pergola toit verre feuilleté : sécurité ou esthétique ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité, normes et prix 2026",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : réponses aux questions essentielles sur la sécurité, les normes, le permis de construire et les coûts d'installation en France.",
-    "date": "2026-05-12",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
