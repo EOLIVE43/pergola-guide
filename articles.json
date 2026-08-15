@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : les 5 avantages qui changent tout contre le vent",
+    "categorie": "Stores",
+    "description": "Découvrez les avantages du store zip pergola pour protéger votre espace extérieur du vent. Guide complet avec prix, installation et comparatifs 2026.",
+    "date": "2026-08-15",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : budget et délais avant septembre 2026",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium : quelle couleur et finition choisir en 2025 ?",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment choisir la couleur et finition de votre pergola aluminium. Comparatif des meilleures options et conseils pour harmoniser votre terrasse.",
-    "date": "2026-05-13",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
