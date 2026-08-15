@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 13:16:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:38:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages de la pergola polycarbonate à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les 7 avantages majeurs de la pergola polycarbonate : protection UV, transparence, durabilité. Prix, pose et conseils pratiques pour bien choisir.</description>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 étapes pour une pergola bois résistante aux intempéries</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages et inconvénients de la pergola couverte vs ouverte. Comparatif complet pour faire le bon choix en fonction de votre usage et budget.</description>
       <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 3x3 aménagement : 7 idées pour sublimer votre petit espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
-      <description>Découvrez comment aménager une pergola 3x3 pour créer un coin détente optimal. Solutions pratiques, budget et inspirations pour petits jardins.</description>
-      <pubDate>Sun, 09 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

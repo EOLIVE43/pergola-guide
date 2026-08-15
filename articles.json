@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "7 avantages de la pergola polycarbonate à connaître",
+    "categorie": "Toiture",
+    "description": "Découvrez les 7 avantages majeurs de la pergola polycarbonate : protection UV, transparence, durabilité. Prix, pose et conseils pratiques pour bien choisir.",
+    "date": "2026-08-15",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "8 étapes pour une pergola bois résistante aux intempéries",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons aménagement : transformez votre terrasse toute l'année",
-    "categorie": "Aménagement",
-    "description": "Découvrez comment aménager une pergola 4 saisons pour profiter de votre terrasse hiver comme été. Solutions, produits et astuces pratiques pour tous les budgets.",
-    "date": "2026-05-12",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
