@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 15 Aug 2026 10:12:17 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 11:25:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten ou bois : quel matériau choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten vs pergola bois : comparez durabilité, esthétique rouillée et prix. Guide comparatif pour bien choisir votre pergola en 2025.</description>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : comparatif complet été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Guide complet pour choisir la taille de pergola adaptée à votre terrasse. Dimensions, réglementation, permis : réponses aux questions essentielles.</description>
       <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : quel choix pour votre terrasse ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Pergola aluminium couleur : découvrez les finitions disponibles, tendances 2024 et conseils pour choisir la teinte idéale de votre pergola alu.</description>
-      <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

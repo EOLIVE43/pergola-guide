@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten ou bois : quel matériau choisir ?",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten vs pergola bois : comparez durabilité, esthétique rouillée et prix. Guide comparatif pour bien choisir votre pergola en 2025.",
+    "date": "2026-08-15",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : comparatif complet été 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola aluminium vs bois : 8 critères de choix décisifs 2026",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium ou bois ? Découvrez les 8 points essentiels pour choisir entre ces deux matériaux : prix, durabilité, entretien et performance en climat français.",
-    "date": "2026-05-13",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
