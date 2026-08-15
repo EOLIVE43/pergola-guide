@@ -1,5 +1,15 @@
 [
   {
+    "slug": "voile-ombrage-pergola-choisir",
+    "titre": "Voile d'ombrage pergola : voile ou toile, que choisir ?",
+    "categorie": "Toiture",
+    "description": "Découvrez comment bien choisir votre voile ombrage pergola. Comparatif complet entre voile ajouré et toile tendue : prix, durabilité, installation et entretien.",
+    "date": "2026-08-15",
+    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-voile-ombrage"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "Pergola acier corten ou bois : quel matériau choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Comment aménager une cuisine extérieure sous pergola : 8 étapes essentielles",
-    "categorie": "Jardin",
-    "description": "Aménager une cuisine extérieure pergola : guide complet avec 8 conseils pour créer votre espace de vie extérieur fonctionnel et convivial.",
-    "date": "2026-05-13",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
