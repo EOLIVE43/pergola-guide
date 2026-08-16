@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 16 Aug 2026 11:25:21 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 12:48:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : comparatif complet pour choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique vs classique : découvrez les différences réelles, prix, avantages et inconvénients pour faire le bon choix en 2026.</description>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte ou ouverte : quels avantages pour votre jardin ?</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet des meilleures marques de pergola bioclimatique 2026. Découvrez les différences de prix, options 4x3, 6x4, 6x3 et caractéristiques selon votre budget et vos besoins réels.</description>
       <pubDate>Tue, 11 Aug 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile ombrage pergola : 7 questions pour bien choisir en 2026</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Comment choisir un voile ombrage pergola adapté ? Découvrez les critères essentiels : matière, protection UV, durabilité, prix et installation. Guide complet.</description>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
