@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 8 avantages pour protéger votre terrasse du vent",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 avantages majeurs du store zip pergola pour protéger votre terrasse contre le vent. Solutions efficaces et durables pour vos espaces extérieurs.",
+    "date": "2026-08-16",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Voile d'ombrage pergola : voile ou toile, que choisir ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Toiture pergola : quel matériau choisir au printemps 2026 ?",
-    "categorie": "Toiture",
-    "description": "Découvrez les meilleurs matériaux pour la toiture de votre pergola en mai 2026. Guide complet avec prix, avantages et délais d'installation avant l'été.",
-    "date": "2026-05-13",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 15 Aug 2026 12:46:24 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:18:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store zip pergola : 8 avantages pour protéger votre terrasse du vent</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
+      <description>Découvrez les 8 avantages majeurs du store zip pergola pour protéger votre terrasse contre le vent. Solutions efficaces et durables pour vos espaces extérieurs.</description>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile d'ombrage pergola : voile ou toile, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : guide complet pour choisir la bonne dimension. Avantages, inconvénients et recommandations selon votre espace.</description>
       <pubDate>Tue, 11 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marque pergola bioclimatique : Alukov ou Suncomfort en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Comparez les meilleures marques de pergola bioclimatique 2026. Alukov vs Suncomfort : prix, installation, durabilité et design pour bien choisir.</description>
-      <pubDate>Mon, 10 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
