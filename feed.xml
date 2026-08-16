@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 16 Aug 2026 09:18:15 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:25:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte ou ouverte : quels avantages pour votre jardin ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les véritables avantages d'une pergola couverte vs ouverte. Comparatif détaillé avec tableau, prix et verdict selon votre profil.</description>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola : 8 avantages pour protéger votre terrasse du vent</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Comment choisir un voile ombrage pergola adapté ? Découvrez les critères essentiels : matière, protection UV, durabilité, prix et installation. Guide complet.</description>
       <pubDate>Tue, 11 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 pour terrasse : dimension idéale ou trop petite ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : guide complet pour choisir la bonne dimension. Avantages, inconvénients et recommandations selon votre espace.</description>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
