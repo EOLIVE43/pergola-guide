@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : confort été/hiver à -40% d'énergie",
+    "categorie": "Jardin",
+    "description": "Découvrez comment le chauffage infrarouge pergola prolonge votre terrasse 8 mois/an avec 40% d'économies. Guide complet installation, tarifs, avantages 2025.",
+    "date": "2026-08-17",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : comparatif complet pour choisir",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola déclaration : faut-il vraiment déclarer ?",
-    "categorie": "Réglementation",
-    "description": "Assurance pergola déclaration : découvrez si vous devez déclarer votre pergola, quand et comment. Réponses claires aux questions essentielles des propriétaires français.",
-    "date": "2026-05-14",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
