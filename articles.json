@@ -1,5 +1,15 @@
 [
   {
+    "slug": "glycine-pergola-entretien",
+    "titre": "Glycine pergola entretien : comment bien planter et tailler ?",
+    "categorie": "Jardin",
+    "description": "Découvrez comment réussir la plantation, la taille et l'entretien de votre glycine sur pergola. Guide complet avec conseils pratiques pour une belle floraison.",
+    "date": "2026-08-17",
+    "thumb": "/images/blog/glycine-pergola-entretien.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : quel modèle choisir en 2024 ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer pergola week-end : 8 étapes pour réussir",
-    "categorie": "Installation",
-    "description": "Installez votre pergola en un week-end avec ce guide complet. 8 étapes clés pour une pose réussie et durable en 48h chrono.",
-    "date": "2026-05-14",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
