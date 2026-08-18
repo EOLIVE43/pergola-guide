@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:30:26 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:55:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : le retour d'expérience d'une famille en Provence</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : découvrez le cas concret d'Isabelle et Marc en Provence. Budget réel, installation, résultats et conseils d'experts.</description>
+      <pubDate>Tue, 18 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Glycine pergola entretien : le guide complet pour une floraison spectaculaire</title>
       <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Guide complet pour choisir la taille pergola adaptée à votre terrasse. Calculs, erreurs à éviter et conseils d'expert pour un investissement réussi.</description>
       <pubDate>Thu, 13 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : 8 finitions à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Découvrez les 8 meilleures finitions pour votre pergola aluminium couleur. Guide complet des teintes modernes et intemporelles pour votre jardin.</description>
-      <pubDate>Wed, 12 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
