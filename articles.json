@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Fixer pergola dalle béton : chevilles ou scellement chimique ?",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer une pergola sur dalle béton : comparatif chevilles vs scellement chimique avec pros, cons et tableau décisionnel complet.",
+    "date": "2026-08-19",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pergola : rideau ou store, que choisir ?",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : aménagement printemps 2026, les idées à concrétiser maintenant",
-    "categorie": "Dimensions",
-    "description": "Pergola 3x3 aménagement : découvrez comment optimiser votre petit espace au printemps 2026. Idées, planning et budget pour agir dès mai.",
-    "date": "2026-05-19",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
