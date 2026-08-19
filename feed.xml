@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:16:51 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:30:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : rideau ou store, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Rideaux extérieurs pergola : comparatif complet entre rideaux et stores. Découvrez les avantages, prix et critères de choix pour votre terrasse.</description>
+      <pubDate>Wed, 19 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola terrasse bois composite : fixation et installation 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment trouver une pergola pas cher bonne qualité sans compromis. Prix, matériaux, conseils d'experts et astuces pour économiser intelligemment.</description>
       <pubDate>Fri, 14 Aug 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité ou esthétique ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : comparez sécurité, coût et entretien. Guide complet pour choisir la meilleure toiture selon vos besoins et budget.</description>
-      <pubDate>Thu, 13 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
