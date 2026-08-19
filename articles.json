@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : sécurité et esthétique en 8 questions",
+    "categorie": "Toiture",
+    "description": "Pergola toit verre feuilleté : découvrez les normes de sécurité, l'esthétique, les prix et démarches administratives. Réponses claires et complètes pour bien choisir.",
+    "date": "2026-08-19",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
+    "slug": "pergola-toit-verre-securit",
     "titre": "Pergola toit verre feuilleté : le retour d'expérience d'une famille en Provence",
     "categorie": "Toiture",
     "description": "Pergola toit verre feuilleté : découvrez le cas concret d'Isabelle et Marc en Provence. Budget réel, installation, résultats et conseils d'experts.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer pergola dalle béton : 8 étapes pour une installation réussie",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola sur dalle béton en 8 étapes simples. Guide complet d'installation pergola pour terrasse durable et sécurisée.",
-    "date": "2026-05-19",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]

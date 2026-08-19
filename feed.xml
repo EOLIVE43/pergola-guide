@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:55:32 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:46:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité et esthétique en 8 questions</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : découvrez les normes de sécurité, l'esthétique, les prix et démarches administratives. Réponses claires et complètes pour bien choisir.</description>
+      <pubDate>Wed, 19 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : le retour d'expérience d'une famille en Provence</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : découvrez le comparatif complet avec 8 critères essentiels pour choisir la meilleure pergola en 2026. Guide expert France.</description>
       <pubDate>Thu, 13 Aug 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment choisir la taille de sa pergola selon sa terrasse</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Guide complet pour choisir la taille pergola adaptée à votre terrasse. Calculs, erreurs à éviter et conseils d'expert pour un investissement réussi.</description>
-      <pubDate>Thu, 13 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
