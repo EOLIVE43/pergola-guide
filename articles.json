@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : créez votre refuge dès août 2026",
+    "categorie": "Stores",
+    "description": "Brise-vue pergola jardin : intimité et esthétique garanties cet été. Découvrez les solutions, installation rapide et budget 2026 pour transformer votre espace.",
+    "date": "2026-08-20",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 jardin : 8 avantages pour l'aménagement extérieur",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante aux intempéries : guide complet pour 10 ans de…",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, matériaux et entretien pour une durée de vie optimale en 2026.",
-    "date": "2026-05-20",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
