@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante intempéries : traitement naturel ou artificiel ?",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif complet entre traitements naturels et artificiels pour une durabilité maximale.",
+    "date": "2026-08-20",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : 8 ans sans entretien, le retour d'expérience de Thomas",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : 8 critères pour choisir la vôtre",
-    "categorie": "Conseils",
-    "description": "Découvrez les 8 critères essentiels pour sélectionner une pergola résistante au vent. Matériaux, dimensions, fixations : notre guide complet.",
-    "date": "2026-05-20",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
