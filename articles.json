@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : 8 avantages pour l'aménagement extérieur",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x4 jardin : découvrez les 8 avantages clés, dimensions idéales et conseils d'installation pour transformer votre espace extérieur.",
+    "date": "2026-08-20",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "8 essences de bois pour pergola : guide complet du choix durable",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment bien déclarer en 7 étapes",
-    "categorie": "Installation",
-    "description": "Découvrez comment faire une déclaration préalable pergola en France. Guide complet des 7 étapes obligatoires, formalités et délais pour votre installation pergola sans surprise.",
-    "date": "2026-05-20",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
