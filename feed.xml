@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:31:36 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:57:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : 7 questions pour bien comprendre les tarifs</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Comment obtenir un devis pergola artisan fiable ? Découvrez nos réponses aux 7 questions essentielles pour évaluer le prix de votre pergola et comparer les offres intelligemment.</description>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante intempéries : traitement naturel ou artificiel ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir votre voile ombrage pergola. Comparatif complet entre voile ajouré et toile tendue : prix, durabilité, installation et entretien.</description>
       <pubDate>Sat, 15 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola acier corten ou bois : quel matériau choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Pergola acier corten vs pergola bois : comparez durabilité, esthétique rouillée et prix. Guide comparatif pour bien choisir votre pergola en 2025.</description>
-      <pubDate>Sat, 15 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

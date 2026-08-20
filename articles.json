@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : 7 questions pour bien comprendre les tarifs",
+    "categorie": "Prix",
+    "description": "Comment obtenir un devis pergola artisan fiable ? Découvrez nos réponses aux 7 questions essentielles pour évaluer le prix de votre pergola et comparer les offres intelligemment.",
+    "date": "2026-08-20",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "Pergola bois résistante intempéries : traitement naturel ou artificiel ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : 5 traitements pour durer 20 ans",
-    "categorie": "Matériaux",
-    "description": "Rendre sa pergola bois résistante aux intempéries : guide complet des traitements, coûts et entretien pour protéger votre structure durablement.",
-    "date": "2026-05-20",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
