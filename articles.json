@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-autoclave",
+    "titre": "Pergola bois autoclave : 8 ans sans entretien, le retour d'expérience de Thomas",
+    "categorie": "Matériaux",
+    "description": "Pergola bois autoclave : découvrez comment Thomas a transformé sa terrasse pour 3 800 € avec une durée de vie garantie 15 ans. Cas concret, chiffres réels, conseils d'expert.",
+    "date": "2026-08-20",
+    "thumb": "/images/blog/pergola-bois-autoclave.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "Brise-vue pergola jardin : créez votre refuge dès août 2026",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver et aux autres saisons. Guide complet 2026 pour maximiser votre investissement toute l'année en France.",
-    "date": "2026-05-20",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
