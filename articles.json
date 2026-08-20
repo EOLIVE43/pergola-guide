@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "8 essences de bois pour pergola : guide complet du choix durable",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 8 meilleures essences de bois pour pergola durable. Comparaison, prix et conseils pour bien choisir votre bois pergola.",
+    "date": "2026-08-20",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : chevilles ou scellement chimique ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons : 7 questions pour créer votre espace toute l'année",
-    "categorie": "Aménagement",
-    "description": "Découvrez comment transformer votre pergola en espace habitable 4 saisons. Astuces, produits et aménagements pour profiter de votre pergola toute l'année, été comme hiver.",
-    "date": "2026-05-19",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]

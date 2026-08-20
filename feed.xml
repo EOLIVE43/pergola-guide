@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:55:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:49:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 essences de bois pour pergola : guide complet du choix durable</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez les 8 meilleures essences de bois pour pergola durable. Comparaison, prix et conseils pour bien choisir votre bois pergola.</description>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : chevilles ou scellement chimique ?</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages majeurs de la pergola polycarbonate : protection UV, transparence, durabilité. Prix, pose et conseils pratiques pour bien choisir.</description>
       <pubDate>Sat, 15 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 étapes pour une pergola bois résistante aux intempéries</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries avec 8 solutions éprouvées. Traitements, entretien et matériaux : le guide complet.</description>
-      <pubDate>Fri, 14 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
