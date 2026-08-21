@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "7 solutions de brise-vue pour pergola : intimité et style garantis",
+    "categorie": "Stores",
+    "description": "Découvrez 7 solutions de brise-vue pergola jardin pour créer une intimité chic. Toiles, panneaux, plantes : comparatif complet et conseils d'installation.",
+    "date": "2026-08-21",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Comment obtenir un devis pergola artisan fiable et adapté ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen ou moderne : laquelle créer dans son jardin ?",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen : découvrez comment créer un espace zen dans votre jardin. Comparatif complet des styles, coûts et installation pour bien choisir.",
-    "date": "2026-05-21",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
