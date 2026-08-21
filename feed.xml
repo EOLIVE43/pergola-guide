@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:57:46 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:50:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment la faire en 5 étapes</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment faire une déclaration préalable pergola étape par étape. Guide complet avec démarches administratives, délais et conseils pratiques 2026.</description>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 7 questions pour bien comprendre les tarifs</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 avantages majeurs du store zip pergola pour protéger votre terrasse contre le vent. Solutions efficaces et durables pour vos espaces extérieurs.</description>
       <pubDate>Sun, 16 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile d'ombrage pergola : voile ou toile, que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir votre voile ombrage pergola. Comparatif complet entre voile ajouré et toile tendue : prix, durabilité, installation et entretien.</description>
-      <pubDate>Sat, 15 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
