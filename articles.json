@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "8 étapes pour aménager une cuisine extérieure pergola réussie",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une cuisine extérieure pergola en 8 étapes essentielles. Guide complet avec conseils pratiques et erreurs à éviter pour créer votre espace idéal.",
+    "date": "2026-08-22",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "7 solutions de brise-vue pour pergola : intimité et style garantis",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : 8 variétés à cultiver en 2025",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures variétés de rose grimpante pour pergola : Pierre de Ronsard, Félicité Perpétue, conseils de culture et d'entretien détaillés.",
-    "date": "2026-05-21",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
