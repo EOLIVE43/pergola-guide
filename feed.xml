@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:33:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:40:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 essences de bois à connaître pour votre pergola durable</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez les meilleures essences de bois pour pergola durable : douglas, cèdre, teck. Guide complet avec 7 critères de sélection essentiels.</description>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : ancrages vs plots, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment cultiver et entretenir une glycine sur pergola : plantation, taille, arrosage et astuces pour une floraison abondante et durable.</description>
       <pubDate>Tue, 18 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les tarifs réels, les variables de coût et nos conseils pour bien négocier votre projet pergola.</description>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

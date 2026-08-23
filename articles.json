@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "7 essences de bois à connaître pour votre pergola durable",
+    "categorie": "Matériaux",
+    "description": "Découvrez les meilleures essences de bois pour pergola durable : douglas, cèdre, teck. Guide complet avec 7 critères de sélection essentiels.",
+    "date": "2026-08-23",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : ancrages vs plots, que choisir ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola : faut-il la déclarer à son assureur ?",
-    "categorie": "Réglementation",
-    "description": "Découvrez si vous devez déclarer votre pergola à votre assurance, quand et comment. Tout sur l'assurance pergola déclaration, les obligations légales et les risques.",
-    "date": "2026-05-22",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
