@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-couleurs-disponibles",
+    "titre": "Pergola aluminium couleur : guide complet des finitions 2026",
+    "categorie": "Aluminium",
+    "description": "Découvrez comment choisir la couleur de votre pergola aluminium couleur. Finitions, durabilité, entretien : tout pour bien décider selon votre style et budget.",
+    "date": "2026-08-23",
+    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : 8 structures qui tiennent bon l'hiver",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : le guide complet pour bien choisir",
-    "categorie": "Stores",
-    "description": "Découvrez comment choisir vos rideaux extérieurs pergola : matériaux, installation, entretien et tarifs. Guide complet 2026 pour transformer votre terrasse.",
-    "date": "2026-05-22",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
