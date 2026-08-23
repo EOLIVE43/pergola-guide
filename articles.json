@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Fixer pergola dalle béton : ancrages vs plots, que choisir ?",
+    "categorie": "Installation",
+    "description": "Fixer une pergola sur dalle béton : comparez ancrages chimiques et systèmes sur plots. Découvrez la meilleure solution pour votre terrasse en 2025.",
+    "date": "2026-08-23",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : guide complet des matériaux authentiques",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : que choisir entre motorisation complète et manuel ?",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : comparatif prix, avantages et installation. Découvrez motorisation complète vs système manuel pour votre terrasse en 2025.",
-    "date": "2026-05-22",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
