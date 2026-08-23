@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:40:44 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:12:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : 8 structures qui tiennent bon l'hiver</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez 8 structures robustes pour supporter le poids de la neige. Aluminium, acier, bois—comparaison complète et conseils d'installation.</description>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 essences de bois à connaître pour votre pergola durable</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola toit verre feuilleté : découvrez le cas concret d'Isabelle et Marc en Provence. Budget réel, installation, résultats et conseils d'experts.</description>
       <pubDate>Tue, 18 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Glycine pergola entretien : le guide complet pour une floraison spectaculaire</title>
-      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
-      <description>Découvrez comment cultiver et entretenir une glycine sur pergola : plantation, taille, arrosage et astuces pour une floraison abondante et durable.</description>
-      <pubDate>Tue, 18 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : 8 structures qui tiennent bon l'hiver",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez 8 structures robustes pour supporter le poids de la neige. Aluminium, acier, bois—comparaison complète et conseils d'installation.",
+    "date": "2026-08-23",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "7 essences de bois à connaître pour votre pergola durable",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-bioclimatique-installation-soi-meme",
-    "titre": "Installer une pergola bioclimatique soi-même : nos réponses clés",
-    "categorie": "Bioclimatique",
-    "description": "Installer pergola bioclimatique soi-même : guide complet avec astuces, réglementation et erreurs à éviter pour un projet DIY réussi en 2024.",
-    "date": "2026-05-22",
-    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
