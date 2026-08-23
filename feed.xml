@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:25:20 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:48:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola et permis construire 2026 : 8 questions essentielles</title>
+      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
+      <description>Pergola permis construire 2026 : obligations légales, démarches administratives et installations autorisées. Guide complet avec réponses claires pour 2026.</description>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : guide complet des finitions 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola terrasse bois composite : guide complet de fixation, installation et conseils pratiques. Découvrez les meilleures méthodes pour poser votre pergola en toute sécurité.</description>
       <pubDate>Wed, 19 Aug 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité et esthétique en 8 questions</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : découvrez les normes de sécurité, l'esthétique, les prix et démarches administratives. Réponses claires et complètes pour bien choisir.</description>
-      <pubDate>Wed, 19 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
