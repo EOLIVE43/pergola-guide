@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : 8 questions pour bien négocier",
+    "categorie": "Prix",
+    "description": "Devis pergola artisan : prix, comparaison, documents à demander. Guide complet pour obtenir une offre adaptée et économiser jusqu'à 30% sur votre pergola.",
+    "date": "2026-08-24",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pergola : guide d'achat 2026 pour bien choisir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Toiture pergola : matériau alu ou polycarbonate, lequel choisir ?",
-    "categorie": "Toiture",
-    "description": "Quel matériau pour votre toiture pergola ? Découvrez le comparatif complet entre aluminium et polycarbonate : prix, durabilité, entretien et notre verdict selon vos besoins.",
-    "date": "2026-05-23",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
