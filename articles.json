@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : guide d'achat 2026 pour bien choisir",
+    "categorie": "Stores",
+    "description": "Découvrez comment choisir les rideaux extérieurs pergola idéaux. Matériaux, installation, prix, entretien : tout ce qu'il faut savoir avant d'acheter.",
+    "date": "2026-08-24",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : 8 critères pour choisir en 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer pergola dalle béton : le retour d'expérience de Marc à Toulouse",
-    "categorie": "Installation",
-    "description": "Découvrez comment Marc a réussi à fixer sa pergola sur une dalle béton à Toulouse. Étapes concrètes, budget réel et conseils pratiques pour votre installation pergola.",
-    "date": "2026-05-23",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
