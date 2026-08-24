@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : 8 critères pour choisir en 2026",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium vs bois : comparatif complet des 8 critères essentiels. Durabilité, prix, maintenance, esthétique. Trouvez votre matériau idéal.",
+    "date": "2026-08-24",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-permis-construire-quand",
     "titre": "Pergola et permis construire 2026 : 8 questions essentielles",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : 8 avantages et durée de vie à connaître",
-    "categorie": "Matériaux",
-    "description": "Découvrez les 8 avantages majeurs d'une pergola bois autoclave : durabilité, prix, entretien. Guide complet pour choisir votre structure durable.",
-    "date": "2026-05-23",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 23 Aug 2026 12:48:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:36:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : 8 critères pour choisir en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Pergola aluminium vs bois : comparatif complet des 8 critères essentiels. Durabilité, prix, maintenance, esthétique. Trouvez votre matériau idéal.</description>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis construire 2026 : 8 questions essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Rideaux extérieurs pergola : comparatif complet entre rideaux et stores. Découvrez les avantages, prix et critères de choix pour votre terrasse.</description>
       <pubDate>Wed, 19 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola terrasse bois composite : fixation et installation 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Pergola terrasse bois composite : guide complet de fixation, installation et conseils pratiques. Découvrez les meilleures méthodes pour poser votre pergola en toute sécurité.</description>
-      <pubDate>Wed, 19 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
