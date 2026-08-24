@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "8 critères essentiels pour choisir vos rideaux extérieurs pergola",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 critères clés pour bien choisir vos rideaux extérieurs pergola. Guide complet avec conseils d'experts et comparatifs 2026.",
+    "date": "2026-08-24",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : 8 questions pour bien négocier",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola déclaration : 8 questions avant d'installer",
-    "categorie": "Réglementation",
-    "description": "Faut-il déclarer sa pergola à son assurance ? Guide complet sur l'assurance pergola déclaration, les obligations légales et les démarches administratives à suivre avant installation.",
-    "date": "2026-05-23",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
