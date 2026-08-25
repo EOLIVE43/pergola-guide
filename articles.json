@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : guide des meilleures solutions 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez comment bien choisir votre éclairage LED pergola : solutions, prix, installation et erreurs à éviter. Guide complet 2026 pour illuminer votre jardin.",
+    "date": "2026-08-25",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "pergola-toit-verre-securit",
     "titre": "Pergola toit verre feuilleté : sécurité et protection maximales en été 2026",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : le guide complet pour 10 ans de durabilité",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment entretenir votre pergola aluminium efficacement. Nettoyage, traitement des joints, protection saisonnière : tous nos conseils pratiques et économiques.",
-    "date": "2026-05-24",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]

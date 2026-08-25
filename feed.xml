@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:30:09 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:24:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Éclairage LED pergola : guide des meilleures solutions 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
+      <description>Découvrez comment bien choisir votre éclairage LED pergola : solutions, prix, installation et erreurs à éviter. Guide complet 2026 pour illuminer votre jardin.</description>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : sécurité et protection maximales en été 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois autoclave : découvrez comment Thomas a transformé sa terrasse pour 3 800 € avec une durée de vie garantie 15 ans. Cas concret, chiffres réels, conseils d'expert.</description>
       <pubDate>Thu, 20 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : créez votre refuge dès août 2026</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Brise-vue pergola jardin : intimité et esthétique garanties cet été. Découvrez les solutions, installation rapide et budget 2026 pour transformer votre espace.</description>
-      <pubDate>Thu, 20 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
