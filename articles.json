@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "Quelle essence de bois choisir pour une pergola durable ?",
+    "categorie": "Matériaux",
+    "description": "Quelle essence de bois choisir pour une pergola durable ?",
+    "date": "2026-08-25",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola bois : le choix qui a changé la terrasse de…",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-entretien.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-sur-mesure"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer une pergola sur dalle béton : le guide complet étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer pergola dalle béton correctement. Techniques, matériaux, prix et erreurs à éviter pour une installation durable et sécurisée en France.",
-    "date": "2026-05-24",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
