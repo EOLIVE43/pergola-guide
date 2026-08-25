@@ -1,5 +1,15 @@
 [
   {
+    "slug": "prix-installation-pergola",
+    "titre": "Prix installation pergola : combien budgéter pour la pose ?",
+    "categorie": "Prix",
+    "description": "Découvrez le prix installation pergola en France : coûts de main-d'œuvre, tarifs de pose et facteurs qui influencent votre budget. Guide complet et transparent.",
+    "date": "2026-08-25",
+    "thumb": "/images/blog/prix-installation-pergola.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Quelle essence de bois choisir pour une pergola durable ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : le guide complet pour 10 ans de durée",
-    "categorie": "Aluminium",
-    "description": "Entretien pergola aluminium : nettoyage, maintenance, traitement. Guide pratique avec conseils d'experts pour prolonger la durée de vie de votre structure.",
-    "date": "2026-05-24",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]
