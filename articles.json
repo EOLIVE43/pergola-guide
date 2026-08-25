@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : sécurité et protection maximales en été 2026",
+    "categorie": "Toiture",
+    "description": "Pergola toit verre feuilleté : découvrez comment sécuriser votre terrasse cet été. Guide complet avec budget 2026 et actions prioritaires avant septembre.",
+    "date": "2026-08-25",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "8 critères essentiels pour choisir vos rideaux extérieurs pergola",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-entretien.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-sur-mesure"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique : 8 points clés pour choisir entre ipé, teck et cumaru",
-    "categorie": "Matériaux",
-    "description": "Découvrez notre comparatif complet pergola bois exotique. Ipé vs teck vs cumaru : durabilité, prix, entretien. Guide 2026 pour bien choisir.",
-    "date": "2026-05-23",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
