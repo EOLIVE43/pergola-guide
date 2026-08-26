@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : guide complet pour prolonger votre saison",
+    "categorie": "Jardin",
+    "description": "Chauffage infrarouge pergola : découvrez comment chauffer votre terrasse efficacement, réduire vos factures et profiter de votre espace toute l'année. Économies et confort garantis.",
+    "date": "2026-08-26",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : combien budgéter pour la pose ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-3x3"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Comment aménager une cuisine extérieure sous pergola ? 9 réponses essentielles",
-    "categorie": "Jardin",
-    "description": "Aménager une cuisine extérieure pergola : guide complet. Découvrez les étapes, réglementations, budgets et solutions pratiques pour créer votre espace culinaire outdoor idéal.",
-    "date": "2026-05-25",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
