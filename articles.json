@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Comment bien choisir sa bâche pergola : 8 critères essentiels",
+    "categorie": "Toiture",
+    "description": "Découvrez les 8 critères pour bien choisir sa bâche pergola. Imperméabilité, résistance et durabilité : notre guide complet pour ne pas vous tromper.",
+    "date": "2026-08-26",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Comment bien choisir voile ombrage pergola : 8 critères",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique hiver : découvrez 8 astuces pour profiter de votre pergola toute l'année. Conseils d'installation et d'entretien.",
-    "date": "2026-05-25",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]

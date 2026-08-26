@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:34:39 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:00:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment bien choisir sa bâche pergola : 8 critères essentiels</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez les 8 critères pour bien choisir sa bâche pergola. Imperméabilité, résistance et durabilité : notre guide complet pour ne pas vous tromper.</description>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment bien choisir voile ombrage pergola : 8 critères</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola en 8 étapes essentielles. Guide complet avec conseils pratiques et erreurs à éviter pour créer votre espace idéal.</description>
       <pubDate>Sat, 22 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 solutions de brise-vue pour pergola : intimité et style garantis</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez 7 solutions de brise-vue pergola jardin pour créer une intimité chic. Toiles, panneaux, plantes : comparatif complet et conseils d'installation.</description>
-      <pubDate>Fri, 21 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
