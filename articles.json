@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "8 secrets pour réussir votre pergola rustique campagne",
+    "categorie": "Style",
+    "description": "Découvrez les 8 secrets pour créer la pergola rustique campagne parfaite : matériaux, styles et inspirations pour un jardin authentique et chaleureux.",
+    "date": "2026-08-26",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : guide complet pour prolonger votre saison",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 aménagement : optimisez vos petits espaces au printemps 2026",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment aménager une pergola 3x3 pour petits espaces. Guide pratique printemps 2026 : idées, layout, budget et timeline d'installation.",
-    "date": "2026-05-25",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]

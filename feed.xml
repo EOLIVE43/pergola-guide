@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:46:20 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:33:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 secrets pour réussir votre pergola rustique campagne</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez les 8 secrets pour créer la pergola rustique campagne parfaite : matériaux, styles et inspirations pour un jardin authentique et chaleureux.</description>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : guide complet pour prolonger votre saison</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Devis pergola artisan : guide complet pour bien chiffrer votre projet. Comparaison de prix, critères de sélection et démarches pour économiser jusqu'à 40%.</description>
       <pubDate>Fri, 21 Aug 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Aménager une cuisine extérieure pergola : l'expérience réussie des Martin à…</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Comment aménager une cuisine extérieure pergola ? Découvrez le cas pratique complet des Martin : budget, étapes, résultats chiffrés et conseils pour votre projet 2026.</description>
-      <pubDate>Fri, 21 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
