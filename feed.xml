@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:33:25 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:34:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment bien choisir voile ombrage pergola : 8 critères</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez 8 critères essentiels pour bien choisir votre voile ombrage pergola. Guide complet avec astuces, erreurs à éviter et conseils d'expert pour une pergola ombragée durable.</description>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 secrets pour réussir votre pergola rustique campagne</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 7 solutions de brise-vue pergola jardin pour créer une intimité chic. Toiles, panneaux, plantes : comparatif complet et conseils d'installation.</description>
       <pubDate>Fri, 21 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment obtenir un devis pergola artisan fiable et adapté ?</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Devis pergola artisan : guide complet pour bien chiffrer votre projet. Comparaison de prix, critères de sélection et démarches pour économiser jusqu'à 40%.</description>
-      <pubDate>Fri, 21 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
