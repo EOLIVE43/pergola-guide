@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:14:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:44:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : quelle variété pour votre jardin ?</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les meilleures variétés de roses grimpantes pour pergola : Madame Alfred Carrière, Pierre de Ronsard, Jasminum... Conseils pratiques et sélection optimale.</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : 8 avantages de cette esthétique rouillée</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la couleur de votre pergola aluminium couleur. Finitions, durabilité, entretien : tout pour bien décider selon votre style et budget.</description>
       <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : 8 structures qui tiennent bon l'hiver</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez 8 structures robustes pour supporter le poids de la neige. Aluminium, acier, bois—comparaison complète et conseils d'installation.</description>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

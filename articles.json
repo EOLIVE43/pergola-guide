@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : quelle variété pour votre jardin ?",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures variétés de roses grimpantes pour pergola : Madame Alfred Carrière, Pierre de Ronsard, Jasminum... Conseils pratiques et sélection optimale.",
+    "date": "2026-08-27",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "Pergola acier corten : 8 avantages de cette esthétique rouillée",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola neige résistance : alu ou polycarbonate, que choisir ?",
-    "categorie": "Conseils",
-    "description": "Pergola neige résistance : comparez structures alu et polycarbonate. Charge maximale, durabilité et prix pour choisir la pergola idéale en montagne.",
-    "date": "2026-05-26",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
