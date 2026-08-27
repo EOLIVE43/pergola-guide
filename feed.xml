@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:14:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : 8 différences clés entre ipé, teck et cumaru</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Découvrez les 8 différences essentielles entre pergola bois exotique (ipé, teck, cumaru). Durabilité, prix, entretien : le comparatif complet pour bien choisir.</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer une pergola en un week-end : 8 étapes clés pour réussir</title>
       <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures essences de bois pour pergola durable : douglas, cèdre, teck. Guide complet avec 7 critères de sélection essentiels.</description>
       <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola dalle béton : ancrages vs plots, que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Fixer une pergola sur dalle béton : comparez ancrages chimiques et systèmes sur plots. Découvrez la meilleure solution pour votre terrasse en 2025.</description>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
