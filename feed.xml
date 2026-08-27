@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:00:41 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:06:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola matériau : quel revêtement choisir cet été ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Août 2026 : découvrez les meilleurs matériaux pour la toiture de votre pergola face à la chaleur estivale. Comparatif complet et conseils pour agir maintenant.</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment bien choisir sa bâche pergola : 8 critères essentiels</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola rustique campagne : découvrez les meilleurs matériaux, styles et inspirations pour créer une pergola bois authentique. Guide complet avec prix 2026.</description>
       <pubDate>Sat, 22 Aug 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 étapes pour aménager une cuisine extérieure pergola réussie</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Découvrez comment aménager une cuisine extérieure pergola en 8 étapes essentielles. Guide complet avec conseils pratiques et erreurs à éviter pour créer votre espace idéal.</description>
-      <pubDate>Sat, 22 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

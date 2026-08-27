@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola matériau : quel revêtement choisir cet été ?",
+    "categorie": "Toiture",
+    "description": "Août 2026 : découvrez les meilleurs matériaux pour la toiture de votre pergola face à la chaleur estivale. Comparatif complet et conseils pour agir maintenant.",
+    "date": "2026-08-27",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Comment bien choisir sa bâche pergola : 8 critères essentiels",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : créer un jardin harmonieux en 7 questions",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen jardin : découvrez comment créer un espace de détente authentique. Guide complet avec matériaux, styles et conseils d'installation pour votre oasis personnelle.",
-    "date": "2026-05-25",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
