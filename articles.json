@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola en polycarbonate : 5 avantages qui changent tout + prix 2026",
+    "categorie": "Toiture",
+    "description": "Découvrez les avantages de la pergola polycarbonate : lumière, durabilité, prix attractif. Guide complet avec conseils de pose et comparaison des matériaux.",
+    "date": "2026-08-27",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-aluminium-entretien",
     "titre": "Entretien pergola aluminium : le guide pratique complet",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : 8 idées d'aménagement pour maximiser votre petit espace",
-    "categorie": "Dimensions",
-    "description": "Découvrez 8 solutions d'aménagement pour pergola 3x3. Conseils pratiques pour optimiser petits espaces, décoration et zones fonctionnelles.",
-    "date": "2026-05-27",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]

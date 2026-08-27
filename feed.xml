@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:20:04 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:03:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en polycarbonate : 5 avantages qui changent tout + prix 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola polycarbonate : lumière, durabilité, prix attractif. Guide complet avec conseils de pose et comparaison des matériaux.</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola aluminium : le guide pratique complet</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : comparatif complet des 8 critères essentiels. Durabilité, prix, maintenance, esthétique. Trouvez votre matériau idéal.</description>
       <pubDate>Mon, 24 Aug 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis construire 2026 : 8 questions essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : obligations légales, démarches administratives et installations autorisées. Guide complet avec réponses claires pour 2026.</description>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
