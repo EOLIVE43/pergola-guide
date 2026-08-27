@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : 8 avantages de cette esthétique rouillée",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 8 secrets de la pergola acier corten : esthétique rouillée, durabilité extrême et prestige. Tout ce qu'il faut savoir avant d'installer.",
+    "date": "2026-08-27",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : 8 différences clés entre ipé, teck et cumaru",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : comment bien choisir en 2026 ?",
-    "categorie": "Prix",
-    "description": "Pergola pas cher bonne qualité : découvrez comment trouver une pergola de qualité sans dépenser une fortune. Guide pratique avec prix, matériaux et conseils d'experts.",
-    "date": "2026-05-26",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]

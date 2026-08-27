@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:14:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:14:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : 8 avantages de cette esthétique rouillée</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez les 8 secrets de la pergola acier corten : esthétique rouillée, durabilité extrême et prestige. Tout ce qu'il faut savoir avant d'installer.</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : 8 différences clés entre ipé, teck et cumaru</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez 8 structures robustes pour supporter le poids de la neige. Aluminium, acier, bois—comparaison complète et conseils d'installation.</description>
       <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 essences de bois à connaître pour votre pergola durable</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Découvrez les meilleures essences de bois pour pergola durable : douglas, cèdre, teck. Guide complet avec 7 critères de sélection essentiels.</description>
-      <pubDate>Sun, 23 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
