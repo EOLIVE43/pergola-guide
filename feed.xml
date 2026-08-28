@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Aug 2026 20:29:35 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:02:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer sa pergola en un week-end : le guide complet étape par étape</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Découvrez comment installer pergola week-end sans stress. Guide complet avec étapes, fixations, outils et conseils d'experts pour réussir votre pose en 48h.</description>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le prix installation pergola en France : coûts de main-d'œuvre, tarifs de pose et facteurs qui influencent votre budget. Guide complet et transparent.</description>
       <pubDate>Tue, 25 Aug 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle essence de bois choisir pour une pergola durable ?</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Quelle essence de bois choisir pour une pergola durable ?</description>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
