@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : bois massif ou structure légère ?",
+    "categorie": "Style",
+    "description": "Pergola japonaise zen pour créer un jardin paisible. Découvrez le comparatif bois massif vs structure légère : caractéristiques, prix, entretien et verdict.",
+    "date": "2026-08-28",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-pas-cher-bonne-qualite",
     "titre": "Pergola pas cher bonne qualité : nos 8 conseils pour bien choisir",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-3x3"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons aménagement : 8 solutions pour profiter toute l'année",
-    "categorie": "Aménagement",
-    "description": "Pergola 4 saisons aménagement : découvrez comment transformer votre espace avec des astuces, produits et solutions bioclimatiques adaptées à chaque saison.",
-    "date": "2026-05-27",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]

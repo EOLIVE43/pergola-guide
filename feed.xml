@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:30:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:10:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : bois massif ou structure légère ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Pergola japonaise zen pour créer un jardin paisible. Découvrez le comparatif bois massif vs structure légère : caractéristiques, prix, entretien et verdict.</description>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : nos 8 conseils pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 critères clés pour bien choisir vos rideaux extérieurs pergola. Guide complet avec conseils d'experts et comparatifs 2026.</description>
       <pubDate>Mon, 24 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan : 8 questions pour bien négocier</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Devis pergola artisan : prix, comparaison, documents à demander. Guide complet pour obtenir une offre adaptée et économiser jusqu'à 30% sur votre pergola.</description>
-      <pubDate>Mon, 24 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
