@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : pourquoi c'est la dimension gagnante",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale pour les terrasses standards. Guide complet, prix, installation et avantages.",
+    "date": "2026-08-28",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Voile d'ombrage pour pergola : le guide complet pour bien choisir",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "8 tendances pergola moderne contemporaine 2026 à connaître",
-    "categorie": "Style",
-    "description": "Découvrez les 8 tendances pergola moderne contemporaine 2026 : design, matériaux, et innovations. Guide complet pour choisir votre pergola idéale.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
