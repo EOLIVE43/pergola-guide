@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : toile ou stores, que choisir ?",
+    "categorie": "Stores",
+    "description": "Découvrez comment bien choisir vos rideaux extérieurs pergola : comparatif complet entre toile et stores avec tableau décisionnel et conseils d'experts.",
+    "date": "2026-08-28",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "store-pergola-zip-avantages",
     "titre": "Store zip pergola : 8 avantages qui changent la donne",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola rustique campagne : transformez votre jardin ce printemps",
-    "categorie": "Style",
-    "description": "Pergola rustique campagne : matériaux, inspiration et guide complet pour aménager votre espace extérieur au printemps 2026. Découvrez nos conseils d'experts.",
-    "date": "2026-05-28",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:24:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:50:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : toile ou stores, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Découvrez comment bien choisir vos rideaux extérieurs pergola : comparatif complet entre toile et stores avec tableau décisionnel et conseils d'experts.</description>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola : 8 avantages qui changent la donne</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Marc, propriétaire d'une pergola bois 30 m² à Aix-en-Provence, a dû choisir entre peinture et lasure. Découvrez son retour d'expérience concret, son budget 2026, et les erreurs à éviter.</description>
       <pubDate>Tue, 25 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : guide des meilleures solutions 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Découvrez comment bien choisir votre éclairage LED pergola : solutions, prix, installation et erreurs à éviter. Guide complet 2026 pour illuminer votre jardin.</description>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
