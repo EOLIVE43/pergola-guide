@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 7 idées pour votre oasis estivale",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : guide complet avec idées, conseils, prix et étapes pour transformer votre bord de piscine en espace de vie estival convivial et ombragé.",
+    "date": "2026-08-28",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen : bois massif ou structure légère ?",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : aménager votre petit espace avant l'été 2026",
-    "categorie": "Dimensions",
-    "description": "Pergola 3x3 aménagement : découvrez comment transformer votre petit balcon ou terrasse au printemps 2026 avec nos conseils d'expert pour maximiser chaque m².",
-    "date": "2026-05-28",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
