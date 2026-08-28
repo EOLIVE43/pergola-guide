@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 8 avantages qui changent la donne",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 avantages majeurs du store zip pergola pour protéger votre espace. Protection vent, étanchéité, confort. Guide complet 2026.",
+    "date": "2026-08-28",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 7 idées pour votre oasis estivale",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-fer-forge-avantages",
-    "titre": "Pergola fer forgé : 5 avantages décisifs pour votre terrasse",
-    "categorie": "Matériaux",
-    "description": "Découvrez les véritables avantages d'une pergola fer forgé : style, durabilité, entretien minimal. Guide complet pour choisir la meilleure structure.",
-    "date": "2026-05-28",
-    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-sur-mesure"
   }
 ]
