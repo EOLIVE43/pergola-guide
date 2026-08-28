@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:02:40 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:21:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voile d'ombrage pour pergola : le guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir le bon voile ombrage pergola selon vos besoins. Matières, dimensions, pose : tous nos conseils pour une pergola ombragée durable et efficace.</description>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer sa pergola en un week-end : le guide complet étape par étape</title>
       <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
@@ -176,15 +185,6 @@
       <description>Chauffage infrarouge pergola : découvrez comment chauffer votre terrasse efficacement, réduire vos factures et profiter de votre espace toute l'année. Économies et confort garantis.</description>
       <pubDate>Wed, 26 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Prix installation pergola : combien budgéter pour la pose ?</title>
-      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
-      <description>Découvrez le prix installation pergola en France : coûts de main-d'œuvre, tarifs de pose et facteurs qui influencent votre budget. Guide complet et transparent.</description>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
