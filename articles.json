@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : comment bien déclarer ses travaux",
+    "categorie": "Installation",
+    "description": "Découvrez comment faire une déclaration préalable pergola en 8 étapes. Guide complet avec les formalités administratives et conseils pour réussir votre projet.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : pourquoi c'est la dimension gagnante",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 jardin : 8 secrets pour bien la choisir",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x4 jardin : découvrez 8 critères essentiels pour sélectionner la structure parfaite. Conseils pratiques, prix, matériaux et installation expliqués.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]

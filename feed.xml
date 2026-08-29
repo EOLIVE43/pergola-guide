@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:59:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:29:18 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment bien déclarer ses travaux</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment faire une déclaration préalable pergola en 8 étapes. Guide complet avec les formalités administratives et conseils pour réussir votre projet.</description>
+      <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : pourquoi c'est la dimension gagnante</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 critères essentiels pour bien choisir votre voile ombrage pergola. Guide complet avec astuces, erreurs à éviter et conseils d'expert pour une pergola ombragée durable.</description>
       <pubDate>Wed, 26 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 secrets pour réussir votre pergola rustique campagne</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Découvrez les 8 secrets pour créer la pergola rustique campagne parfaite : matériaux, styles et inspirations pour un jardin authentique et chaleureux.</description>
-      <pubDate>Wed, 26 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
