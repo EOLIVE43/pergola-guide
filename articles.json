@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : la checklist avant l'été 2026",
+    "categorie": "Entretien",
+    "description": "Découvrez la checklist complète d'entretien pergola printemps. Guide pratique avec planning, budget et 3 actions prioritaires avant l'été pour protéger votre structure.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment bien déclarer ses travaux",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : quel choix pour votre maison ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique vs classique : découvrez les différences, les avantages, les prix et les démarches administratives. Comparatif complet pour choisir.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
