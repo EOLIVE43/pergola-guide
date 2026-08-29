@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : ipé, teck, cumaru – lequel choisir ?",
+    "categorie": "Matériaux",
+    "description": "Pergola bois exotique : découvrez le comparatif complet de l'ipé, teck et cumaru. Durabilité, prix, entretien et conseils pour bien choisir votre bois tropical.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola printemps : la checklist avant l'été 2026",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola copropriété : le parcours complet d'une résidente à Bordeaux",
-    "categorie": "Réglementation",
-    "description": "Étude de cas complète : pergola copropriété règles, autorisations et budget réel. Retour d'expérience détaillé d'une résidente bordelaise avec chiffres 2026.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
