@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : comment Isabelle a créé son oasis privée",
+    "categorie": "Stores",
+    "description": "Découvrez le cas concret d'Isabelle : brise-vue pour pergola de 25 m², budget réel 4 200 €, transformation complète de son jardin. Guide 2026 avec chiffres précis.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "Aménager une cuisine extérieure sous pergola : le guide complet",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Toiture pergola : quel matériau choisir au printemps 2026 ?",
-    "categorie": "Toiture",
-    "description": "Printemps 2026 : découvrez les meilleurs matériaux pour votre toiture pergola. Comparatif saisonnier, budget et planning d'installation avant les fortes chaleurs.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
