@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : pourquoi c'est la dimension idéale ?",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace. Comparatif, avantages et guide complet pour bien choisir.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : ipé, teck, cumaru – lequel choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Cuisine extérieure pergola : comment l'aménager parfaitement",
-    "categorie": "Jardin",
-    "description": "Découvrez comment aménager une cuisine extérieure sous pergola : emplacement, équipements, budget et conseils pratiques pour un espace de rêve.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]

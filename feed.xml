@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:08:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:32:42 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 terrasse : pourquoi c'est la dimension idéale ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace. Comparatif, avantages et guide complet pour bien choisir.</description>
+      <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois exotique : ipé, teck, cumaru – lequel choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer pergola week-end facilement. Guide complet en 8 étapes : préparation, fixation, pose et finitions pour un résultat pro.</description>
       <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola matériau : quel revêtement choisir cet été ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Août 2026 : découvrez les meilleurs matériaux pour la toiture de votre pergola face à la chaleur estivale. Comparatif complet et conseils pour agir maintenant.</description>
-      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
