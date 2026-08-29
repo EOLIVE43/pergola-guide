@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire avec panneaux photovoltaïques : rentabilité réelle ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola solaire panneaux photovoltaïques : découvrez la rentabilité réelle, les économies d'énergie, les aides et délais d'amortissement. Réponses complètes aux 8 questions essentielles.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "Brise-vue pergola jardin : comment Isabelle a créé son oasis privée",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "7 plantes grimpantes pergola France pour transformer votre jardin",
-    "categorie": "Jardin",
-    "description": "Découvrez les 7 meilleures plantes grimpantes pergola France pour créer un havre de verdure. Conseils de plantation et entretien inclus pour réussir votre projet.",
-    "date": "2026-05-30",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
