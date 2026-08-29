@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:32:42 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:04:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aménager une cuisine extérieure sous pergola : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, équipements, budget et conseils d'experts pour votre projet.</description>
+      <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : pourquoi c'est la dimension idéale ?</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 différences essentielles entre pergola bois exotique (ipé, teck, cumaru). Durabilité, prix, entretien : le comparatif complet pour bien choisir.</description>
       <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola en un week-end : 8 étapes clés pour réussir</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer pergola week-end facilement. Guide complet en 8 étapes : préparation, fixation, pose et finitions pour un résultat pro.</description>
-      <pubDate>Thu, 27 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

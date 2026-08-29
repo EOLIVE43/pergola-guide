@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Aménager une cuisine extérieure sous pergola : le guide complet",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, équipements, budget et conseils d'experts pour votre projet.",
+    "date": "2026-08-29",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : pourquoi c'est la dimension idéale ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : aluminium ou bois, qui gagne ?",
-    "categorie": "Conseils",
-    "description": "Quelle pergola résiste mieux au vent ? Comparatif complet entre aluminium et bois avec critères de choix, prix et performance. Guide 2025.",
-    "date": "2026-05-29",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
