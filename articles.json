@@ -1,5 +1,15 @@
 [
   {
+    "slug": "budget-pergola-france",
+    "titre": "Budget pergola France 2026 : quel prix prévoir vraiment ?",
+    "categorie": "Prix",
+    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les prix réels, les coûts cachés et les économies possibles dans notre guide complet Q/R.",
+    "date": "2026-08-30",
+    "thumb": "/images/blog/budget-pergola-france.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola copropriété : quelles règles et autorisations ?",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Comment fixer pergola dalle béton : guide complet 2024",
-    "categorie": "Installation",
-    "description": "Fixer pergola dalle béton : méthode étape par étape, matériaux, prix et erreurs à éviter. Découvrez l'installation pergola sécurisée sur terrasse.",
-    "date": "2026-05-30",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
