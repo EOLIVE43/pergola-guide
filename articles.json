@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola copropriété : quelles règles et autorisations ?",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : découvrez les autorisations nécessaires, les formalités administratives et les obligations légales pour installer une pergola en copropriété.",
+    "date": "2026-08-30",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "8 rose grimpante pergola à choisir pour un jardin fleuri toute l'été",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : créer un jardin harmonieux en 7 questions",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen : guide complet pour transformer votre jardin. Découvrez les caractéristiques, matériaux, installation et tarifs pour créer votre espace zen.",
-    "date": "2026-05-30",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
