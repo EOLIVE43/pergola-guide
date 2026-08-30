@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : comment Frédéric a prolongé l'été 5 mois",
+    "categorie": "Jardin",
+    "description": "Découvrez le cas concret de Frédéric en Île-de-France : comment il a installé un chauffage infrarouge pergola pour 8 400 € et réalisé 1 200 € d'économies d'énergie annuelles. Retour d'expérience détaillé.",
+    "date": "2026-08-30",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate : 8 avantages qui changent tout",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : traitement naturel ou composite ?",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif entre traitement naturel et composite pour choisir la meilleure protection en 2025.",
-    "date": "2026-05-30",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
