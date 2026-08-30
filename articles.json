@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "8 rose grimpante pergola à choisir pour un jardin fleuri toute l'été",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures variétés de rose grimpante pergola pour fleurir votre jardin. Guide complet avec conseils de plantation et d'entretien.",
+    "date": "2026-08-30",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : comment Frédéric a prolongé l'été 5 mois",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : tous les prix et comment économiser",
-    "categorie": "Prix",
-    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Guide complet des prix, matériaux et devis. Pergola pas cher ou bioclimatique : comparatif actualisé.",
-    "date": "2026-05-30",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
