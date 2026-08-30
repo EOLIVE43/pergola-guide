@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : voile ou panneaux, que choisir ?",
+    "categorie": "Stores",
+    "description": "Découvrez comment bien choisir votre brise-vue pergola jardin entre voile occultant et panneaux fixes. Comparatif complet, prix, installation et verdict selon votre style.",
+    "date": "2026-08-30",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : quel prix prévoir vraiment ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : comment Valérie a prolongé sa saison de 6 mois",
-    "categorie": "Jardin",
-    "description": "Cas concret : chauffage infrarouge pergola. Budget, installation et économies réelles d'une propriétaire en région Rhône-Alpes. Retour d'expérience 2025.",
-    "date": "2026-05-31",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
