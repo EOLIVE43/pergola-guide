@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:04:39 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:34:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola terrasse bois composite : fixation et conseils 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
+      <description>Pergola terrasse bois composite : guide complet de fixation, installation et conseils pratiques. Découvrez comment bien poser votre pergola et les erreurs à éviter.</description>
+      <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Brise-vue pergola jardin : voile ou panneaux, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 avantages majeurs du store zip pergola pour protéger votre espace. Protection vent, étanchéité, confort. Guide complet 2026.</description>
       <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : 7 idées pour votre oasis estivale</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : guide complet avec idées, conseils, prix et étapes pour transformer votre bord de piscine en espace de vie estival convivial et ombragé.</description>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
