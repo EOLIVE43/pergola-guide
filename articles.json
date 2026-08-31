@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher en été : guide complet et précautions essentielles",
+    "categorie": "Entretien",
+    "description": "Peut-on nettoyer sa pergola au Kärcher en été 2026 ? Découvrez nos conseils, précautions et le bon timing pour préserver votre pergola bois sans l'endommager.",
+    "date": "2026-08-31",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer sa pergola en un week-end : le guide complet étape par étape",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : comment bien choisir ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique ou classique ? Découvrez les différences essentielles, les prix, l'entretien et les avantages de chaque type pour faire le bon choix en 2025.",
-    "date": "2026-06-01",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]

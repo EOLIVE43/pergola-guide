@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:17:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:58:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher en été : guide complet et précautions essentielles</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on nettoyer sa pergola au Kärcher en été 2026 ? Découvrez nos conseils, précautions et le bon timing pour préserver votre pergola bois sans l'endommager.</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer sa pergola en un week-end : le guide complet étape par étape</title>
       <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, équipements, budget et conseils d'experts pour votre projet.</description>
       <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : pourquoi c'est la dimension idéale ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace. Comparatif, avantages et guide complet pour bien choisir.</description>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
