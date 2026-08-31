@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:22:10 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:28:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : préparez l'été 2026 maintenant</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Entretien pergola printemps : découvrez la checklist complète pour préparer votre structure avant l'été. Actions prioritaires, planning et budget 2026.</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : la checklist avant l'été 2026</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale pour les terrasses standards. Guide complet, prix, installation et avantages.</description>
       <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile d'ombrage pour pergola : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir le bon voile ombrage pergola selon vos besoins. Matières, dimensions, pose : tous nos conseils pour une pergola ombragée durable et efficace.</description>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

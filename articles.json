@@ -1,6 +1,16 @@
 [
   {
     "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : préparez l'été 2026 maintenant",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : découvrez la checklist complète pour préparer votre structure avant l'été. Actions prioritaires, planning et budget 2026.",
+    "date": "2026-08-31",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
+    "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola printemps : la checklist avant l'été 2026",
     "categorie": "Entretien",
     "description": "L'entretien pergola printemps ne peut pas attendre. Découvrez la checklist complète pour préparer votre pergola aux pics de chaleur et UV de l'été 2026. Guide pratique et calendrier d'action.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave en été : durabilité et avantages à connaître maintenant",
-    "categorie": "Matériaux",
-    "description": "Découvrez les avantages de la pergola bois autoclave pour résister à l'été 2026. Durée de vie, traitement, prix et installation : le guide complet saisonnier.",
-    "date": "2026-06-01",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
