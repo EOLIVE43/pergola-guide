@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Comment aménager une cuisine extérieure pergola : le guide complet",
+    "categorie": "Jardin",
+    "description": "Aménagez votre cuisine extérieure sous pergola : guide pratique complet avec solutions, budget, étapes et erreurs à éviter pour transformer votre jardin.",
+    "date": "2026-08-31",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium : 8 couleurs et finitions à connaître en 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Voile d'ombrage pour pergola : le guide complet pour bien choisir",
-    "categorie": "Toiture",
-    "description": "Découvrez comment choisir votre voile ombrage pergola : matériaux, dimensions, prix et installation. Conseils d'experts pour une ombre optimale.",
-    "date": "2026-06-01",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]
