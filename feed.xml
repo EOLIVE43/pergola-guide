@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:58:17 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:00:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : aluminium ou structure autoportante ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Quelle pergola résiste le mieux au vent ? Comparatif complet entre pergola aluminium et autoportante. Caractéristiques, prix, durabilité. Guide d'achat 2025.</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher en été : guide complet et précautions essentielles</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le cas concret d'Isabelle : brise-vue pour pergola de 25 m², budget réel 4 200 €, transformation complète de son jardin. Guide 2026 avec chiffres précis.</description>
       <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Aménager une cuisine extérieure sous pergola : le guide complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, équipements, budget et conseils d'experts pour votre projet.</description>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
