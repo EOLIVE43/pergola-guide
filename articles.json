@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer sa pergola en un week-end : le guide complet étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer pergola week-end sans stress. Guide complet avec techniques de fixation, conseils d'experts et erreurs à éviter pour réussir votre pose.",
+    "date": "2026-08-31",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "glycine-pergola-entretien",
     "titre": "Glycine pergola entretien : 7 secrets pour une floraison spectaculaire",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : durée de vie et avantages vérifiés",
-    "categorie": "Matériaux",
-    "description": "Pergola bois autoclave : découvrez ses avantages réels, sa durée de vie (15-25 ans), l'entretien nécessaire et le coût. Guide complet pour bien choisir.",
-    "date": "2026-06-01",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
