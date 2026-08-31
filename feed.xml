@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 10:44:20 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:22:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : la checklist avant l'été 2026</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>L'entretien pergola printemps ne peut pas attendre. Découvrez la checklist complète pour préparer votre pergola aux pics de chaleur et UV de l'été 2026. Guide pratique et calendrier d'action.</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : quel modèle choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir le bon voile ombrage pergola selon vos besoins. Matières, dimensions, pose : tous nos conseils pour une pergola ombragée durable et efficace.</description>
       <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer sa pergola en un week-end : le guide complet étape par étape</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer pergola week-end sans stress. Guide complet avec étapes, fixations, outils et conseils d'experts pour réussir votre pose en 48h.</description>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

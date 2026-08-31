@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : la checklist avant l'été 2026",
+    "categorie": "Entretien",
+    "description": "L'entretien pergola printemps ne peut pas attendre. Découvrez la checklist complète pour préparer votre pergola aux pics de chaleur et UV de l'été 2026. Guide pratique et calendrier d'action.",
+    "date": "2026-08-31",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : quel modèle choisir ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Fixer pergola mur parpaing : guide complet en 8 étapes",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec normes, matériaux, prix et conseils d'installation professionnels.",
-    "date": "2026-06-01",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
