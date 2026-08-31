@@ -1,5 +1,15 @@
 [
   {
+    "slug": "glycine-pergola-entretien",
+    "titre": "Glycine pergola entretien : 7 secrets pour une floraison spectaculaire",
+    "categorie": "Jardin",
+    "description": "Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine luxuriante qui fleurit chaque printemps.",
+    "date": "2026-08-31",
+    "thumb": "/images/blog/glycine-pergola-entretien.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "Comment aménager une cuisine extérieure pergola : le guide complet",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne contemporaine 2026 : le guide des 7 tendances incontournables",
-    "categorie": "Style",
-    "description": "Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux aluminium et styles qui transforment les terrasses françaises. Guide complet avec prix 2026.",
-    "date": "2026-06-01",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]

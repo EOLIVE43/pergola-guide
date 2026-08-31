@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:45:50 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:30:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glycine pergola entretien : 7 secrets pour une floraison spectaculaire</title>
+      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
+      <description>Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine luxuriante qui fleurit chaque printemps.</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment aménager une cuisine extérieure pergola : le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois exotique : découvrez le comparatif complet de l'ipé, teck et cumaru. Durabilité, prix, entretien et conseils pour bien choisir votre bois tropical.</description>
       <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola printemps : la checklist avant l'été 2026</title>
-      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
-      <description>Découvrez la checklist complète d'entretien pergola printemps. Guide pratique avec planning, budget et 3 actions prioritaires avant l'été pour protéger votre structure.</description>
-      <pubDate>Sat, 29 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
