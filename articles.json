@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : économies d'énergie et confort garanti",
+    "categorie": "Stores",
+    "description": "Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour une terrasse protégée et automatisée en 2026.",
+    "date": "2026-09-01",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il déclarer son installation ?",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Aménager une cuisine extérieure sous pergola : guide complet",
-    "categorie": "Jardin",
-    "description": "Aménager une cuisine extérieure sous pergola : guide complet",
-    "date": "2026-06-02",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
