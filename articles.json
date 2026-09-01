@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : faut-il déclarer son installation ?",
+    "categorie": "Réglementation",
+    "description": "Assurance pergola déclaration : tout ce que vous devez savoir. Guide complet sur l'obligation déclarative, les risques et les démarches pour protéger votre terrasse.",
+    "date": "2026-09-01",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate avantages : le guide complet pour choisir",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola neige résistance : 8 structures qui supportent le poids",
-    "categorie": "Conseils",
-    "description": "Pergola neige résistance : découvrez les 8 structures les plus robustes face aux hivers français. Aluminium, acier, bois traité. Guide complet.",
-    "date": "2026-06-02",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
