@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Fixer une pergola sur dalle béton : le guide complet et pratique",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer pergola dalle béton en 7 étapes. Techniques, matériaux, prix et erreurs à éviter pour une installation durable et sécurisée.",
+    "date": "2026-09-01",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante vent : aluminium ou structure autoportante ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-sur-mesure-avantages",
-    "titre": "Pergola sur mesure : pourquoi c'est le meilleur choix en 2025 ?",
-    "categorie": "Dimensions",
-    "description": "Découvrez les 7 avantages majeurs de la pergola sur mesure : adaptation parfaite à votre espace, conformité légale, durabilité et économies. Questions/réponses complètes.",
-    "date": "2026-06-02",
-    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-sur-mesure"
   }
 ]
