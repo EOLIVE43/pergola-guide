@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:47:32 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:23:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voile d'ombrage pergola : comment bien choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez comment bien choisir votre voile d'ombrage pergola : comparatif détaillé des tissus, prix, durabilité et entretien pour trouver la solution idéale.</description>
+      <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : économies d'énergie et confort garanti</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : découvrez les autorisations nécessaires, les formalités administratives et les obligations légales pour installer une pergola en copropriété.</description>
       <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 rose grimpante pergola à choisir pour un jardin fleuri toute l'été</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les 8 meilleures variétés de rose grimpante pergola pour fleurir votre jardin. Guide complet avec conseils de plantation et d'entretien.</description>
-      <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
