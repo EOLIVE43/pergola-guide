@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "Pergola résistante vent : comment choisir la meilleure ?",
+    "categorie": "Conseils",
+    "description": "Découvrez quelle pergola résiste le mieux au vent. Guide complet sur les matériaux, normes et modèles pergola aluminium adaptés aux zones venteuses.",
+    "date": "2026-09-01",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Voile d'ombrage pergola : comment bien choisir en 2025 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : bois ou bioclimatique ?",
-    "categorie": "Prix",
-    "description": "Découvrez le budget pergola France 2026 selon le matériau. Comparatif complet bois vs bioclimatique : prix, entretien, durée de vie. Choisissez votre pergola pas cher.",
-    "date": "2026-06-02",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
