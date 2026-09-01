@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : 8 règles essentielles avant de vous lancer",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : découvrez les autorisations, démarches et conditions légales pour installer une pergola sur votre terrasse en immeuble. Guide complet 2024.",
+    "date": "2026-09-01",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante vent : comment choisir la meilleure ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 jardin à Toulouse : comment Marc a gagné 16 m² d'espace de vie",
-    "categorie": "Dimensions",
-    "description": "Découvrez le cas concret d'une pergola 4x4 installée à Toulouse : budget réel (8 900 €), délais, matériaux et résultats. Retour d'expérience d'un propriétaire.",
-    "date": "2026-06-02",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]
