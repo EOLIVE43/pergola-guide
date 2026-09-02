@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : toile ou panneaux fixes ?",
+    "categorie": "Stores",
+    "description": "Rideaux extérieurs pergola : comparez toile et panneaux fixes. Guide complet avec tableau comparatif, prix et verdict selon votre usage.",
+    "date": "2026-09-02",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment l'obtenir en 4 semaines",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola en copropriété : 8 questions essentielles sur les règles et…",
-    "categorie": "Réglementation",
-    "description": "Pergola copropriété règles : tout savoir sur les autorisations, l'installation et les démarches administratives. Guide complet avec réponses aux questions les plus posées.",
-    "date": "2026-06-03",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
