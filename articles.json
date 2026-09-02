@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : le cas d'Isabelle et Marc en Île-de-France",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment transformer une pergola classique en espace 4 saisons. Cas concret Île-de-France : choix, budget réel et résultats après 18 mois d'utilisation intensive.",
+    "date": "2026-09-02",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment la remplir en 2026 ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire panneaux photovoltaïques : rentable ou pas en 2025 ?",
-    "categorie": "Bioclimatique",
-    "description": "Comparez pergola solaire avec panneaux photovoltaïques vs pergola bioclimatique classique. Rentabilité, prix, économies d'énergie : quel choix pour votre jardin ?",
-    "date": "2026-06-03",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
