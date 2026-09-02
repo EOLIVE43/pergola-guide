@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : comment la remplir en 2026 ?",
+    "categorie": "Installation",
+    "description": "Apprenez comment faire une déclaration préalable pergola en France. Étapes, dossier, délais et astuces pour ne rien oublier. Guide complet et actualisé.",
+    "date": "2026-09-02",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pergola : toile ou panneaux fixes ?",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer sa pergola bois : le guide complet pour bien choisir",
-    "categorie": "Matériaux",
-    "description": "Peindre ou lasurer pergola bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et embellir votre pergola.",
-    "date": "2026-06-03",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
