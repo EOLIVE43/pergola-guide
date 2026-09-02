@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:04:47 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:28:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment l'obtenir en 4 semaines</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Comment faire une déclaration préalable pergola ? Retour d'expérience d'un propriétaire français avec budget, étapes et délais concrets 2026.</description>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : checklist avant les beaux jours 2026</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment trouver une pergola pas cher sans sacrifier la qualité. Guide 2026 avec budget, matériaux et pièges à éviter pour l'été en France.</description>
       <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 9 astuces pour transformer votre espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment aménager une pergola 4 saisons avec nos 9 astuces pratiques : lames orientables, chauffage, stores. Créez votre oasis tout l'année.</description>
-      <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
