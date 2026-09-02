@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : checklist avant les beaux jours 2026",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : guide complet pour préparer votre structure dès l'automne 2026. Actions, budget et planning pratique à découvrir.",
+    "date": "2026-09-02",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Bien choisir sa bâche pergola avant l'automne : imperméabilité et résistance",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : 7 réponses aux questions essentielles",
-    "categorie": "Stores",
-    "description": "Brise-vue pergola jardin : découvrez comment créer intimité et esthétique, quel matériau choisir, et tous les conseils pour votre terrasse.",
-    "date": "2026-06-03",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
