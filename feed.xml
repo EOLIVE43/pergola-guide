@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:20:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:27:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bien choisir sa bâche pergola avant l'automne : imperméabilité et résistance</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment choisir la bâche pergola idéale en automne 2026. Imperméabilité, résistance aux intempéries : le guide complet pour protéger votre pergola avant les pluies.</description>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : 8 règles essentielles avant de vous lancer</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola terrasse bois composite : guide complet de fixation, installation et conseils pratiques. Découvrez comment bien poser votre pergola et les erreurs à éviter.</description>
       <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : voile ou panneaux, que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment bien choisir votre brise-vue pergola jardin entre voile occultant et panneaux fixes. Comparatif complet, prix, installation et verdict selon votre style.</description>
-      <pubDate>Sun, 30 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

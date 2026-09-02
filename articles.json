@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Bien choisir sa bâche pergola avant l'automne : imperméabilité et résistance",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir la bâche pergola idéale en automne 2026. Imperméabilité, résistance aux intempéries : le guide complet pour protéger votre pergola avant les pluies.",
+    "date": "2026-09-02",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola en copropriété : 8 règles essentielles avant de vous lancer",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
     "pilier_id": "stores",
     "secondaire_slug": "brise-vue-pergola"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Voile ombrage pergola : comment bien choisir en été 2026",
-    "categorie": "Toiture",
-    "description": "Voile ombrage pergola : guide complet pour choisir le bon système en été 2026. Critères, types, budget. À installer avant les fortes chaleurs !",
-    "date": "2026-06-02",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]
