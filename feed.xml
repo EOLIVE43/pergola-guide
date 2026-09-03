@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:58:53 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:57:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : 7 questions essentielles avant d'acheter</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Rideaux extérieurs pergola : guide complet des matériaux, prix, installation et entretien. Réponses aux 7 questions que se posent tous les propriétaires en 2024.</description>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 étapes pour fixer pergola mur parpaing sans risque</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer pergola dalle béton en 7 étapes. Techniques, matériaux, prix et erreurs à éviter pour une installation durable et sécurisée.</description>
       <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : aluminium ou structure autoportante ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Quelle pergola résiste le mieux au vent ? Comparatif complet entre pergola aluminium et autoportante. Caractéristiques, prix, durabilité. Guide d'achat 2025.</description>
-      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
