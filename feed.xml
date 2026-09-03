@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:04:30 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:28:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voile ombrage pergola : tissu ou rétractable, que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez comment bien choisir votre voile d'ombrage pour pergola. Comparaison entre tissu fixe et système rétractable : prix, durabilité, entretien.</description>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer une pergola bioclimatique soi-même : guide complet et réaliste</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer pergola week-end sans stress. Guide complet avec techniques de fixation, conseils d'experts et erreurs à éviter pour réussir votre pose.</description>
       <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Glycine pergola entretien : 7 secrets pour une floraison spectaculaire</title>
-      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
-      <description>Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine luxuriante qui fleurit chaque printemps.</description>
-      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

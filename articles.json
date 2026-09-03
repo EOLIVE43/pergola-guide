@@ -1,5 +1,15 @@
 [
   {
+    "slug": "voile-ombrage-pergola-choisir",
+    "titre": "Voile ombrage pergola : tissu ou rétractable, que choisir ?",
+    "categorie": "Toiture",
+    "description": "Découvrez comment bien choisir votre voile d'ombrage pour pergola. Comparaison entre tissu fixe et système rétractable : prix, durabilité, entretien.",
+    "date": "2026-09-03",
+    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-voile-ombrage"
+  },
+  {
     "slug": "pergola-bioclimatique-installation-soi-meme",
     "titre": "Installer une pergola bioclimatique soi-même : guide complet et réaliste",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola déclaration : ce que vous devez savoir en 2025",
-    "categorie": "Réglementation",
-    "description": "Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches essentielles pour protéger votre installation pergola correctement.",
-    "date": "2026-06-04",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
