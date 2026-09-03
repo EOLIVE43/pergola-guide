@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola en week-end : 8 étapes pour réussir",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer sa pergola en un week-end avec notre guide complet. 8 étapes essentielles pour une installation pergola réussie sans professionnel.",
+    "date": "2026-09-03",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-aluminium-avantages-inconvenients",
     "titre": "Pergola aluminium : 8 avantages et inconvénients essentiels en 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "7 avantages du store zip pergola contre le vent",
-    "categorie": "Stores",
-    "description": "Découvrez les 7 avantages du store zip pergola pour protéger votre terrasse du vent. Protection maximale, étanchéité, design : tout ce qu'il faut savoir.",
-    "date": "2026-06-03",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
