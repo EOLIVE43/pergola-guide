@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-installation-soi-meme",
+    "titre": "Installer une pergola bioclimatique soi-même : guide complet et réaliste",
+    "categorie": "Bioclimatique",
+    "description": "Peut-on installer une pergola bioclimatique soi-même ? Découvrez notre guide complet : niveau de difficulté, outils nécessaires, étapes clés et quand faire appel à un pro.",
+    "date": "2026-09-03",
+    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer pergola en week-end : 8 étapes pour réussir",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer sa pergola en bois : que choisir ?",
-    "categorie": "Matériaux",
-    "description": "Peindre ou lasurer une pergola bois ? Découvrez les différences, avantages et inconvénients de chaque finition pour bien choisir votre protection bois.",
-    "date": "2026-06-04",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
