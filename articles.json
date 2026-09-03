@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : guide d'achat et conseils essentiels",
+    "categorie": "Stores",
+    "description": "Découvrez notre guide complet sur les rideaux extérieurs pergola : matériaux, prix, installation et entretien. Réponses aux 8 questions clés pour bien choisir.",
+    "date": "2026-09-03",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Voile ombrage pergola : tissu ou rétractable, que choisir ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Quelle taille de pergola choisir ? 8 règles pour votre terrasse",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment choisir la taille pergola idéale selon votre terrasse. 8 règles essentielles pour éviter les erreurs et optimiser votre espace extérieur.",
-    "date": "2026-06-04",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]

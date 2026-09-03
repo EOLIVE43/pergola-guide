@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:28:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:06:17 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : guide d'achat et conseils essentiels</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Découvrez notre guide complet sur les rideaux extérieurs pergola : matériaux, prix, installation et entretien. Réponses aux 8 questions clés pour bien choisir.</description>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Voile ombrage pergola : tissu ou rétractable, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Peut-on nettoyer sa pergola au Kärcher en été 2026 ? Découvrez nos conseils, précautions et le bon timing pour préserver votre pergola bois sans l'endommager.</description>
       <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer sa pergola en un week-end : le guide complet étape par étape</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer pergola week-end sans stress. Guide complet avec techniques de fixation, conseils d'experts et erreurs à éviter pour réussir votre pose.</description>
-      <pubDate>Mon, 31 Aug 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
