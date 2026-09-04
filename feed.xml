@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:06:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:26:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte vs ouverte : 9 avantages à peser</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Pergola couverte avantages : découvrez 9 critères essentiels pour choisir entre une pergola couverte et ouverte. Comparaison complète et conseils pratiques.</description>
+      <pubDate>Fri, 04 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rideaux extérieurs pergola : guide complet d'achat et conseils</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour une terrasse protégée et automatisée en 2026.</description>
       <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola : faut-il déclarer son installation ?</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Assurance pergola déclaration : tout ce que vous devez savoir. Guide complet sur l'obligation déclarative, les risques et les démarches pour protéger votre terrasse.</description>
-      <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
