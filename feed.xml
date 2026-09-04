@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:53:56 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:03:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 secrets pour choisir une pergola résistante au vent</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez les 7 critères essentiels pour sélectionner une pergola résistante au vent. Aluminium, structure, ancrage : le guide complet pour ne pas vous tromper.</description>
+      <pubDate>Fri, 04 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola Aluminium Couleur : Guide Complet des Finitions 2025</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir la bâche pergola idéale en automne 2026. Imperméabilité, résistance aux intempéries : le guide complet pour protéger votre pergola avant les pluies.</description>
       <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola en copropriété : 8 règles essentielles avant de vous lancer</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : découvrez les autorisations, démarches et conditions légales pour installer une pergola sur votre terrasse en immeuble. Guide complet 2024.</description>
-      <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

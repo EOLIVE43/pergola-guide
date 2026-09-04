@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "7 secrets pour choisir une pergola résistante au vent",
+    "categorie": "Conseils",
+    "description": "Découvrez les 7 critères essentiels pour sélectionner une pergola résistante au vent. Aluminium, structure, ancrage : le guide complet pour ne pas vous tromper.",
+    "date": "2026-09-04",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola Aluminium Couleur : Guide Complet des Finitions 2025",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-aluminium-avantages-inconvenients",
-    "titre": "Pergola aluminium : 7 avantages et 5 inconvénients à connaître en 2026",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium avantages inconvénients : découvrez la durabilité, l'entretien minimal et les vrais pièges avant d'acheter. Comparatif complet 2026.",
-    "date": "2026-06-05",
-    "thumb": "/images/blog/pergola-aluminium-avantages-inconvenients.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
