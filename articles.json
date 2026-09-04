@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan ou plateforme en ligne : comment bien choisir ?",
+    "categorie": "Prix",
+    "description": "Comparez devis pergola artisan vs plateforme : tarifs, délais, qualité. Guide 2025 pour obtenir le meilleur rapport qualité-prix sur votre pergola.",
+    "date": "2026-09-04",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte vs ouverte : 9 avantages à peser",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : 8 vérifications essentielles avant pose",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : découvrez les 8 points clés à vérifier avant installation. Règlementation, fixation, droits du voisin… tout ce qu'il faut savoir.",
-    "date": "2026-06-05",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]

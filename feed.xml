@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:26:44 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:01:35 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan ou plateforme en ligne : comment bien choisir ?</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Comparez devis pergola artisan vs plateforme : tarifs, délais, qualité. Guide 2025 pour obtenir le meilleur rapport qualité-prix sur votre pergola.</description>
+      <pubDate>Fri, 04 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte vs ouverte : 9 avantages à peser</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir votre voile d'ombrage pergola : comparatif détaillé des tissus, prix, durabilité et entretien pour trouver la solution idéale.</description>
       <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : économies d'énergie et confort garanti</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour une terrasse protégée et automatisée en 2026.</description>
-      <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
