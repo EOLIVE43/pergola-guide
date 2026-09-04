@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : quel modèle choisir ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique vs classique : guide complet pour choisir. Différences, prix, avantages et comparaison des deux types de pergolas.",
+    "date": "2026-09-04",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan ou plateforme en ligne : comment bien choisir ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola neige résistance : 8 structures qui tiennent bon",
-    "categorie": "Conseils",
-    "description": "Découvrez les 8 structures de pergola résistantes à la neige pour protéger votre terrasse hiver. Pergola neige résistance : guide complet 2026.",
-    "date": "2026-06-05",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
