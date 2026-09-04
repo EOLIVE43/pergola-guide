@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:51:17 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:53:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola Aluminium Couleur : Guide Complet des Finitions 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Choisir la couleur et la finition de votre pergola aluminium : nos conseils d'expert, tendances 2025, comparatif des matériaux et solutions pour tous budgets. Découvrez comment bien choisir.</description>
+      <pubDate>Fri, 04 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : quel modèle choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : découvrez les autorisations, démarches et conditions légales pour installer une pergola sur votre terrasse en immeuble. Guide complet 2024.</description>
       <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : comment choisir la meilleure ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez quelle pergola résiste le mieux au vent. Guide complet sur les matériaux, normes et modèles pergola aluminium adaptés aux zones venteuses.</description>
-      <pubDate>Tue, 01 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
