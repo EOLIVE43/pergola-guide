@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : 8 points essentiels avant l'installation",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : découvrez les 8 vérifications obligatoires avant installation pour éviter les conflits de voisinage et les surcoûts.",
+    "date": "2026-09-05",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "7 avantages de la pergola fer forgé pour votre terrasse",
     "categorie": "Matériaux",
@@ -4986,16 +4996,6 @@
     "description": "Store pergola motorisé : prix, avantages et installation. Juin 2026 : le moment idéal pour équiper votre pergola avant les fortes chaleurs. Guide complet avec tarifs actualisés.",
     "date": "2026-06-06",
     "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "Store zip pergola : avantages et protection vent en 2025",
-    "categorie": "Stores",
-    "description": "Découvrez les avantages du store zip pergola : protection optimale contre le vent, étanchéité et confort. Comparatif complet pour bien choisir votre solution.",
-    "date": "2026-06-05",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
   }
