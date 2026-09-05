@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:15:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:33:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 secrets pour choisir une pergola résistante au vent</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez les 7 critères essentiels pour sélectionner une pergola résistante au vent. Matériaux, structure et ancrage : le guide complet pour un abri durable face aux intempéries.</description>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : 8 points essentiels avant l'installation</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Rideaux extérieurs pergola : comparez toile et panneaux fixes. Guide complet avec tableau comparatif, prix et verdict selon votre usage.</description>
       <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment l'obtenir en 4 semaines</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Comment faire une déclaration préalable pergola ? Retour d'expérience d'un propriétaire français avec budget, étapes et délais concrets 2026.</description>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
