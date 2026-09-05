@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:47:56 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:54:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium : avantages et inconvénients en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
+      <description>Pergola aluminium : découvrez les 8 avantages et inconvénients majeurs en 2026. Pergola alu, résistance, prix, entretien. Guide complet pour bien choisir.</description>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : quelles structures supportent le poids ?</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer sa pergola en un week-end avec notre guide complet. 8 étapes essentielles pour une installation pergola réussie sans professionnel.</description>
       <pubDate>Thu, 03 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium : 8 avantages et inconvénients essentiels en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Pergola aluminium : découvrez les 8 avantages et inconvénients majeurs pour bien choisir votre structure. Guide complet 2026 pour investir malin.</description>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
