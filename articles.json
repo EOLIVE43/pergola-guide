@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "7 avantages de la pergola fer forgé pour votre terrasse",
+    "categorie": "Matériaux",
+    "description": "Pergola fer forgé avantages : découvrez les 7 raisons d'adopter ce style intemporel pour votre jardin et terrasse. Durabilité, entretien et beauté garantis.",
+    "date": "2026-09-05",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "7 secrets pour choisir une pergola résistante au vent",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "Plantes grimpantes pergola France : quel choix pour votre jardin ?",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures plantes grimpantes pour pergola en France : climat, entretien, prix. Réponses claires aux questions essentielles des jardiniers.",
-    "date": "2026-06-05",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
