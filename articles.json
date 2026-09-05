@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : spots ou bandeaux ? Le guide 2026",
+    "categorie": "Jardin",
+    "description": "Éclairage LED pergola : comparez spots encastrés vs bandeaux flexibles. Tableau comparatif, prix, installation et verdict selon votre usage. Trouvez la meilleure solution.",
+    "date": "2026-09-05",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "7 secrets pour choisir une pergola résistante au vent",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : 7 clés pour bien choisir en 2026",
-    "categorie": "Prix",
-    "description": "Découvrez comment trouver une pergola pas cher bonne qualité sans compromis. 7 questions essentielles pour acheter malin et installer durabilement votre pergola.",
-    "date": "2026-06-06",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]

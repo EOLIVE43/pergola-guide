@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Sep 2026 11:33:10 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:13:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Éclairage LED pergola : spots ou bandeaux ? Le guide 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
+      <description>Éclairage LED pergola : comparez spots encastrés vs bandeaux flexibles. Tableau comparatif, prix, installation et verdict selon votre usage. Trouvez la meilleure solution.</description>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 secrets pour choisir une pergola résistante au vent</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Apprenez comment faire une déclaration préalable pergola en France. Étapes, dossier, délais et astuces pour ne rien oublier. Guide complet et actualisé.</description>
       <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rideaux extérieurs pergola : toile ou panneaux fixes ?</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Rideaux extérieurs pergola : comparez toile et panneaux fixes. Guide complet avec tableau comparatif, prix et verdict selon votre usage.</description>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
