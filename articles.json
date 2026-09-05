@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : quelles structures supportent le poids ?",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures (aluminium, bois) supportent le poids de la neige et comment les choisir correctement. Guide complet 2025.",
+    "date": "2026-09-05",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Comment fixer une pergola sur dalle béton ? Guide complet 2025",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : variétés classiques ou modernes ?",
-    "categorie": "Jardin",
-    "description": "Découvrez comment choisir votre rose grimpante pergola. Variétés classiques vs modernes : caractéristiques, entretien, prix et notre verdict selon votre jardin.",
-    "date": "2026-06-06",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

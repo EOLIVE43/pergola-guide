@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:06:52 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:47:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : quelles structures supportent le poids ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez quelles structures (aluminium, bois) supportent le poids de la neige et comment les choisir correctement. Guide complet 2025.</description>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment fixer une pergola sur dalle béton ? Guide complet 2025</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium : découvrez les 8 avantages et inconvénients majeurs pour bien choisir votre structure. Guide complet 2026 pour investir malin.</description>
       <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : le cas d'Isabelle et Marc en Île-de-France</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment transformer une pergola classique en espace 4 saisons. Cas concret Île-de-France : choix, budget réel et résultats après 18 mois d'utilisation intensive.</description>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
