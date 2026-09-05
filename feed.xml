@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:13:43 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:06:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment fixer une pergola sur dalle béton ? Guide complet 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Fixer pergola dalle béton : méthodes, prix, normes. Découvrez les solutions d'installation, matériaux, permis et astuces pour une pose durable et sécurisée.</description>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Éclairage LED pergola : spots ou bandeaux ? Le guide 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment transformer une pergola classique en espace 4 saisons. Cas concret Île-de-France : choix, budget réel et résultats après 18 mois d'utilisation intensive.</description>
       <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment la remplir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Apprenez comment faire une déclaration préalable pergola en France. Étapes, dossier, délais et astuces pour ne rien oublier. Guide complet et actualisé.</description>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

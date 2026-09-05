@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Comment fixer une pergola sur dalle béton ? Guide complet 2025",
+    "categorie": "Installation",
+    "description": "Fixer pergola dalle béton : méthodes, prix, normes. Découvrez les solutions d'installation, matériaux, permis et astuces pour une pose durable et sécurisée.",
+    "date": "2026-09-05",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-eclairage-led",
     "titre": "Éclairage LED pergola : spots ou bandeaux ? Le guide 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire panneaux photovoltaïques : rentabilité maximale en été 2026",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire avec panneaux photovoltaïques : calculez votre rentabilité en été. Guide complet 2026 pour optimiser votre installation avant septembre.",
-    "date": "2026-06-06",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
