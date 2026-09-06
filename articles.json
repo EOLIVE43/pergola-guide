@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique hiver : utiliser dehors 12 mois/an ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique en hiver : guide complet pour l'utiliser toute l'année. Comparaison lames orientables vs pergola solaire. Conseils et verdicts.",
+    "date": "2026-09-06",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : 8 étapes essentielles avant pose",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer sa pergola bois : que choisir en 2025 ?",
-    "categorie": "Matériaux",
-    "description": "Comparatif complet : peinture vs lasure pour pergola bois. Découvrez les avantages, coûts et entretien de chaque option pour bien choisir.",
-    "date": "2026-06-07",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
