@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : guide complet des prix, avantages et pose en 2026",
+    "categorie": "Stores",
+    "description": "Découvrez tout sur le store pergola motorisé : prix, avantages, installation DIY ou pro. Comparatif, conseils et erreurs à éviter pour bien choisir.",
+    "date": "2026-09-06",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2026",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola neige résistance : 8 structures qui supportent le poids",
-    "categorie": "Conseils",
-    "description": "Découvrez quelles pergolas résistent au poids de la neige. 8 structures testées pour les régions froides. Pergola aluminium, acier, bois : comparatif complet.",
-    "date": "2026-06-08",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
