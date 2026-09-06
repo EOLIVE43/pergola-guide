@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 06 Sep 2026 11:53:32 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 12:28:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : faut-il la déclarer ? Guide complet 2026</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Assurance pergola déclaration obligatoire ? Découvrez les règles, les risques et comment bien déclarer votre pergola à votre assureur pour éviter les pièges.</description>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : anthracite ou blanc ? Le guide complet 2025</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures marques de pergola bioclimatique en automne 2026. Comparatif complet, prix actualisés et conseils avant les froids pour bien choisir votre marque.</description>
       <pubDate>Thu, 03 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rideaux extérieurs pergola : 7 questions essentielles avant d'acheter</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Rideaux extérieurs pergola : guide complet des matériaux, prix, installation et entretien. Réponses aux 7 questions que se posent tous les propriétaires en 2024.</description>
-      <pubDate>Thu, 03 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

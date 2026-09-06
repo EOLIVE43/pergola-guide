@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2026",
+    "categorie": "Réglementation",
+    "description": "Assurance pergola déclaration obligatoire ? Découvrez les règles, les risques et comment bien déclarer votre pergola à votre assureur pour éviter les pièges.",
+    "date": "2026-09-06",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium couleur : anthracite ou blanc ? Le guide complet 2025",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : la checklist complète pour l'été",
-    "categorie": "Entretien",
-    "description": "Découvrez la checklist d'entretien pergola printemps indispensable : nettoyage, traitement du bois, vérifications structurelles. Guide complet et pratique pour préparer votre pergola à la belle saison.",
-    "date": "2026-06-07",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
