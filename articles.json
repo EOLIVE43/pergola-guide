@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte avantages : 7 raisons de sauter le pas",
+    "categorie": "Toiture",
+    "description": "Découvrez les 7 avantages majeurs de la pergola couverte vs pergola ouverte. Protection, durabilité, confort : le guide complet pour bien choisir en 2024.",
+    "date": "2026-09-07",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-mur-parpaing-fixer",
     "titre": "Fixer pergola mur parpaing : 8 étapes essentielles avant de percer",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : 8 points clés à vérifier",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : vérifiez la réglementation, les droits de voisinage, les permis et la fixation. Guide complet pour une installation légale et sécurisée.",
-    "date": "2026-06-09",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
