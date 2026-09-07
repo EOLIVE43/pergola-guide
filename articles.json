@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : 5 astuces pour l'utiliser toute l'année",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver. Guide complet avec solutions de chauffage, isolation et entretien pour prolonger votre confort extérieur.",
+    "date": "2026-09-07",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "Entretien pergola bioclimatique : le guide annuel complet",
     "categorie": "Bioclimatique",
@@ -4984,16 +4994,6 @@
     "titre": "Pergola bois exotique : comparatif ipé, teck et cumaru",
     "categorie": "Matériaux",
     "description": "Pergola bois exotique : découvrez le comparatif complet entre ipé, teck et cumaru. Durabilité, prix, entretien et conseil d'installation en France.",
-    "date": "2026-06-08",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique : comparatif ipé/teck/cumaru en Pays de Loire",
-    "categorie": "Matériaux",
-    "description": "Cas concret : comment un couple a choisi sa pergola bois exotique en 2025. Comparatif ipé vs teck vs cumaru, budget réel (8 500€), durabilité et retour d'expérience.",
     "date": "2026-06-08",
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
