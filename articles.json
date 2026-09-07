@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "Essence bois pergola : bois exotique ou résineux durable ?",
+    "categorie": "Matériaux",
+    "description": "Quel bois choisir pour votre pergola durable ? Découvrez la comparaison complète : bois exotique vs résineux. Prix, entretien, durée de vie. Guide décision 2026.",
+    "date": "2026-09-07",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-bioclimatique-hiver",
     "titre": "Pergola bioclimatique en hiver : 5 astuces pour l'utiliser toute l'année",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique : comparatif ipé, teck et cumaru",
-    "categorie": "Matériaux",
-    "description": "Pergola bois exotique : découvrez le comparatif complet entre ipé, teck et cumaru. Durabilité, prix, entretien et conseil d'installation en France.",
-    "date": "2026-06-08",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
