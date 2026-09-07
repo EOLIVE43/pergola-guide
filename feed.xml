@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:21:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:35:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : prolongez votre terrasse 9 mois par an</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Chauffage infrarouge pergola : découvrez comment chauffer votre espace extérieur efficacement, réaliser 40% d'économies et profiter toute l'année. Guide complet 2026.</description>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte avantages : 7 raisons de sauter le pas</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Éclairage LED pergola : comparez spots encastrés vs bandeaux flexibles. Tableau comparatif, prix, installation et verdict selon votre usage. Trouvez la meilleure solution.</description>
       <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 secrets pour choisir une pergola résistante au vent</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez les 7 critères essentiels pour sélectionner une pergola résistante au vent. Matériaux, structure et ancrage : le guide complet pour un abri durable face aux intempéries.</description>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : prolongez votre terrasse 9 mois par an",
+    "categorie": "Jardin",
+    "description": "Chauffage infrarouge pergola : découvrez comment chauffer votre espace extérieur efficacement, réaliser 40% d'économies et profiter toute l'année. Guide complet 2026.",
+    "date": "2026-09-07",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte avantages : 7 raisons de sauter le pas",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : guide complet prix et installation",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet avec réponses aux questions essentielles pour bien choisir.",
-    "date": "2026-06-09",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
