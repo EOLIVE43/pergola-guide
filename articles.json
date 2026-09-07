@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : tous les gestes annuels indispensables",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment entretenir votre pergola bioclimatique toute l'année. Guide complet avec calendrier d'entretien, nettoyage lames et joints, prévention usure.",
+    "date": "2026-09-07",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Essence bois pergola : bois exotique ou résineux durable ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate avantages : profitez de l'été 2026 dès maintenant",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages de la pergola polycarbonate en été 2026. Prix, pose et bénéfices pour votre terrasse face aux fortes chaleurs de juin. Agissez maintenant.",
-    "date": "2026-06-08",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
