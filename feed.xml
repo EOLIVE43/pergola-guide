@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:53:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:35:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : 7 questions essentielles pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Obtenez un devis pergola artisan adapté à votre budget. Guide complet : prix, matériaux, démarches et conseils pour négocier le meilleur tarif pergola.</description>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : tous les gestes annuels indispensables</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola fer forgé avantages : découvrez les 7 raisons d'adopter ce style intemporel pour votre jardin et terrasse. Durabilité, entretien et beauté garantis.</description>
       <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 secrets pour choisir une pergola résistante au vent</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez les 7 critères essentiels pour sélectionner une pergola résistante au vent. Aluminium, structure, ancrage : le guide complet pour ne pas vous tromper.</description>
-      <pubDate>Fri, 04 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

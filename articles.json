@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : 7 questions essentielles pour bien choisir",
+    "categorie": "Prix",
+    "description": "Obtenez un devis pergola artisan adapté à votre budget. Guide complet : prix, matériaux, démarches et conseils pour négocier le meilleur tarif pergola.",
+    "date": "2026-09-07",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "Entretien pergola bioclimatique : tous les gestes annuels indispensables",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-4x3-terrasse-standard",
-    "titre": "Pergola 4x3 terrasse : pourquoi c'est la dimension parfaite",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x3 terrasse : guide complet pour choisir la bonne dimension. Avantages, prix, installation et erreurs à éviter en 2026.",
-    "date": "2026-06-08",
-    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x3"
   }
 ]
