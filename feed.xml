@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:35:46 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:23:29 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : 8 étapes essentielles avant de percer</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing en 8 étapes. Installation pergola sécurisée et durable garantie.</description>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 7 questions essentielles pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola adossée mur mitoyen : découvrez les 8 vérifications obligatoires avant installation pour éviter les conflits de voisinage et les surcoûts.</description>
       <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 avantages de la pergola fer forgé pour votre terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
-      <description>Pergola fer forgé avantages : découvrez les 7 raisons d'adopter ce style intemporel pour votre jardin et terrasse. Durabilité, entretien et beauté garantis.</description>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
