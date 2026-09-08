@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:06:39 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:31:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : 8 différences décisives</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique vs classique : découvrez les 8 critères essentiels pour choisir la structure idéale selon vos besoins et votre budget.</description>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Brise-vue pergola jardin : protégez votre intimité avant l'automne</title>
       <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium : découvrez les 8 avantages et inconvénients majeurs en 2026. Pergola alu, résistance, prix, entretien. Guide complet pour bien choisir.</description>
       <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : quelles structures supportent le poids ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez quelles structures (aluminium, bois) supportent le poids de la neige et comment les choisir correctement. Guide complet 2025.</description>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
