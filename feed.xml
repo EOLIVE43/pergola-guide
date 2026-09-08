@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 07 Sep 2026 17:35:50 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:48:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola adossée mur mitoyen : obtenir l'accord avant 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
+      <description>Pergola adossée mur mitoyen : décryptez les règles légales, les risques d'installation et les solutions pour éviter les conflits de voisinage. Guide complet 2025.</description>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : prolongez votre terrasse 9 mois par an</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Fixer pergola dalle béton : méthodes, prix, normes. Découvrez les solutions d'installation, matériaux, permis et astuces pour une pose durable et sécurisée.</description>
       <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : spots ou bandeaux ? Le guide 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Éclairage LED pergola : comparez spots encastrés vs bandeaux flexibles. Tableau comparatif, prix, installation et verdict selon votre usage. Trouvez la meilleure solution.</description>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

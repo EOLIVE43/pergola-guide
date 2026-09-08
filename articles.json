@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : obtenir l'accord avant 2025",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : décryptez les règles légales, les risques d'installation et les solutions pour éviter les conflits de voisinage. Guide complet 2025.",
+    "date": "2026-09-08",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : prolongez votre terrasse 9 mois par an",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : 5 solutions durables prouvées",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, essences, étanchéité : guide complet pour une pergola durable en 2026.",
-    "date": "2026-06-09",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
