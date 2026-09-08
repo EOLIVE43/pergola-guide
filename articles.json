@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "Quelle essence de bois choisir pour une pergola durable ?",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment sélectionner la meilleure essence bois pergola pour garantir durabilité et résistance. Comparatif complet, prix et conseils pratiques pour votre pergola bois.",
+    "date": "2026-09-08",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : 8 différences décisives",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : comment Thomas a transformé sa terrasse à Bordeaux",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez le retour d'expérience de Thomas à Bordeaux. Budget réel, avantages et étapes d'installation. Guide concret 2026.",
-    "date": "2026-06-10",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]

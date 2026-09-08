@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:31:05 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:10:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle essence de bois choisir pour une pergola durable ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez comment sélectionner la meilleure essence bois pergola pour garantir durabilité et résistance. Comparatif complet, prix et conseils pratiques pour votre pergola bois.</description>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : 8 différences décisives</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment faire une déclaration préalable pergola en 8 étapes. Guide complet avec conseils administratifs et techniques avant installation pergola en France.</description>
       <pubDate>Sun, 06 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium : avantages et inconvénients en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Pergola aluminium : découvrez les 8 avantages et inconvénients majeurs en 2026. Pergola alu, résistance, prix, entretien. Guide complet pour bien choisir.</description>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
