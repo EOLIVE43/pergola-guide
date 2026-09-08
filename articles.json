@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer sa pergola en un week-end : le guide complet étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer pergola week-end sans stress. Guide complet avec les 7 étapes, conseils de fixation et erreurs à éviter. Posez votre pergola seul en 48h.",
+    "date": "2026-09-08",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : avantages et inconvénients face à la pergola ouverte",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
-    "categorie": "Aluminium",
-    "description": "Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien, esthétique. Guide pratique pour bien choisir votre pergola en France 2026.",
-    "date": "2026-06-10",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
