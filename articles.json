@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : protégez votre intimité avant l'automne",
+    "categorie": "Stores",
+    "description": "Découvrez comment installer un brise-vue pergola jardin pour retrouver intimité et esthétique. Guide complet automne 2026 : solutions, prix, planning d'installation.",
+    "date": "2026-09-08",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : obtenir l'accord avant 2025",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : 8 questions essentielles",
-    "categorie": "Jardin",
-    "description": "Pergola piscine aménagement : découvrez nos conseils pour créer l'espace idéal au bord de l'eau. Matériaux, permis, prix, styles - réponses claires.",
-    "date": "2026-06-09",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
