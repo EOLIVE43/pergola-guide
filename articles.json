@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-couleurs-disponibles",
+    "titre": "Pergola aluminium couleur : le guide pour choisir la finition idéale",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium couleur : découvrez comment choisir la teinte et finition parfaite selon votre maison. Conseils d'experts et tendances 2026.",
+    "date": "2026-09-09",
+    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il vraiment la déclarer ?",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : utiliser votre terrasse 12 mois/an",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique hiver : découvrez comment transformer votre terrasse en espace habitable toute l'année. Conseils, isolation et solutions pratiques pour un confort optimal.",
-    "date": "2026-06-11",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]

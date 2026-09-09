@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:39:04 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:18:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : le guide pour choisir la finition idéale</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Pergola aluminium couleur : découvrez comment choisir la teinte et finition parfaite selon votre maison. Conseils d'experts et tendances 2026.</description>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola : faut-il vraiment la déclarer ?</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures plantes grimpantes pergola France pour créer une oasis ombragée. Variétés rustiques, conseils de plantation et entretien.</description>
       <pubDate>Sun, 06 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : guide complet des prix, avantages et pose en 2026</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Découvrez tout sur le store pergola motorisé : prix, avantages, installation DIY ou pro. Comparatif, conseils et erreurs à éviter pour bien choisir.</description>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
