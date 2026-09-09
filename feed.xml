@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:21:45 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:53:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer une pergola sur dalle béton en automne : le guide complet 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment fixer pergola dalle béton avant les pluies d'automne. Guide complet avec technique, budget et planning septembre 2026.</description>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Cuisine extérieure pergola : aménager avant l'hiver 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium couleur : découvrez les meilleures finitions (blanc, anthracite, gris). Comparatif complet, entretien et conseil de choix selon votre style.</description>
       <pubDate>Sun, 06 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : allier confort et économies d'énergie</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées en terrasse. Solutions performantes, économiques et faciles à installer : le guide complet.</description>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
