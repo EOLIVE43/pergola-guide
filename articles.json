@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : faut-il vraiment la déclarer ?",
+    "categorie": "Réglementation",
+    "description": "Déclaration pergola à l'assurance : obligations légales, tarifs, démarches et risques. Réponses claires à vos 8 questions essentielles sur l'assurance pergola déclaration.",
+    "date": "2026-09-09",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "7 critères pour choisir une pergola résistante au vent",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "7 avantages du store zip pergola : la protection anti-vent idéale",
-    "categorie": "Stores",
-    "description": "Découvrez les 7 avantages du store zip pergola pour protéger votre terrasse. Efficacité contre le vent, étanchéité, durabilité : le guide complet.",
-    "date": "2026-06-11",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
