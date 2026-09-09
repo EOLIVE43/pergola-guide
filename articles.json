@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : pourquoi agir maintenant en automne 2026",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi l'automne 2026 est le moment idéal pour installer une pergola 4x4 dans votre jardin. Guide complet avec 3 actions prioritaires et planning d'installation.",
+    "date": "2026-09-09",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "Brise-vue pergola jardin : intimité et esthétique en 8 questions",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Cuisine extérieure pergola : comment bien l'aménager ?",
-    "categorie": "Jardin",
-    "description": "Aménager une cuisine extérieure pergola : guide complet des aménagements, équipements, normes et budgets pour transformer votre espace extérieur.",
-    "date": "2026-06-11",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
