@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "7 critères pour choisir une pergola résistante au vent",
+    "categorie": "Conseils",
+    "description": "Découvrez comment sélectionner une pergola résistante au vent. 7 critères essentiels pour garantir stabilité et durabilité face aux tempêtes et rafales fortes.",
+    "date": "2026-09-09",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer une pergola sur dalle béton en automne : le guide complet 2026",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola rustique campagne : matériaux et styles authentiques",
-    "categorie": "Style",
-    "description": "Pergola rustique campagne : découvrez les meilleurs matériaux, styles et inspirations pour créer une véritable ambiance fermière. Guide complet 2024.",
-    "date": "2026-06-11",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
