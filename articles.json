@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2025",
+    "categorie": "Bioclimatique",
+    "description": "Pergola solaire avec panneaux photovoltaïques : guide complet sur la rentabilité, amortissement et économies réelles pour votre maison France 2025.",
+    "date": "2026-09-09",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment l'obtenir en 5 étapes",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire avec panneaux photovoltaïques : est-ce vraiment rentable en…",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment une pergola solaire avec panneaux photovoltaïques peut réduire votre facture d'électricité. Guide complet sur la rentabilité, les tarifs et l'amortissement en France.",
-    "date": "2026-06-12",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
