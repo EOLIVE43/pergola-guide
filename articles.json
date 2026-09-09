@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : intimité et esthétique en 8 questions",
+    "categorie": "Stores",
+    "description": "Découvrez comment choisir un brise-vue pergola jardin pour créer une zone intime et harmonieuse. Guide complet : matériaux, installation, prix et réglementations.",
+    "date": "2026-09-09",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium couleur : le guide pour choisir la finition idéale",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate : 5 avantages qui changent tout (prix + pose 2026)",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages complets de la pergola polycarbonate : luminosité, durabilité, prix compétitifs et facilité de pose. Guide 2026 pour bien choisir.",
-    "date": "2026-06-11",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
