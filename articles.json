@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Fixer une pergola sur mur parpaing : guide pratique étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer pergola mur parpaing avec sécurité. Technique, matériel, erreurs à éviter : tout pour une pose durable et stable.",
+    "date": "2026-09-10",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2025",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-permis-construire-quand.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "7 essences de bois pour pergola : le guide complet pour bien choisir",
-    "categorie": "Matériaux",
-    "description": "Découvrez les 7 meilleures essences de bois pour pergola : comparatif complet, durabilité et prix pour choisir la pergola bois idéale à votre budget.",
-    "date": "2026-06-12",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
