@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge ou gaz pour pergola : quel confort choisir ?",
+    "categorie": "Jardin",
+    "description": "Chauffage infrarouge pergola : comparatif complet entre infrarouge électrique et gaz. Confort, économies, installation. Trouvez la solution idéale pour votre espace.",
+    "date": "2026-09-10",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 7 points clés à vérifier avant l'installation",
     "categorie": "Réglementation",
@@ -4986,16 +4996,6 @@
     "description": "Comparatif complet des matériaux pour toiture de pergola : polycarbonate vs toile. Avantages, prix, durabilité et conseil pour bien choisir selon vos besoins.",
     "date": "2026-06-13",
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité et transparence garanties",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : guide complet sur la sécurité, l'esthétique et l'installation. Conseils, prix et normes en France 2026.",
-    "date": "2026-06-12",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
   }

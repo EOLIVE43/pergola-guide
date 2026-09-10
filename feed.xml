@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:57:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:57:33 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge ou gaz pour pergola : quel confort choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Chauffage infrarouge pergola : comparatif complet entre infrarouge électrique et gaz. Confort, économies, installation. Trouvez la solution idéale pour votre espace.</description>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : 7 points clés à vérifier avant l'installation</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique vs classique : découvrez les 8 critères essentiels pour choisir la structure idéale selon vos besoins et votre budget.</description>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : protégez votre intimité avant l'automne</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment installer un brise-vue pergola jardin pour retrouver intimité et esthétique. Guide complet automne 2026 : solutions, prix, planning d'installation.</description>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
