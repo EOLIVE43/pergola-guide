@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : Comment bien comparer et économiser ?",
+    "categorie": "Prix",
+    "description": "Obtenir un devis pergola artisan fiable et compétitif. Guide complet pour comparer les tarifs, négocier et éviter les pièges du marché en 2026.",
+    "date": "2026-09-10",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "Plantes grimpantes pergola France : lierre ou clématite ?",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola déclaration : 8 points clés avant de déclarer",
-    "categorie": "Réglementation",
-    "description": "Faut-il déclarer sa pergola à son assurance ? Découvrez les 8 points essentiels pour protéger votre installation et éviter les mauvaises surprises avec votre assureur.",
-    "date": "2026-06-12",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
