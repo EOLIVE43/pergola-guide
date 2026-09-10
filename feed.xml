@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:37:17 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:13:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola bois en automne 2026 : le guide décisif</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer pergola bois ? Découvrez le comparatif complet pour automne 2026, avec délais, budgets et erreurs à éviter avant les premiers froids.</description>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : Comment bien comparer et économiser ?</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola adossée mur mitoyen : décryptez les règles légales, les risques d'installation et les solutions pour éviter les conflits de voisinage. Guide complet 2025.</description>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : prolongez votre terrasse 9 mois par an</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Chauffage infrarouge pergola : découvrez comment chauffer votre espace extérieur efficacement, réaliser 40% d'économies et profiter toute l'année. Guide complet 2026.</description>
-      <pubDate>Mon, 07 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

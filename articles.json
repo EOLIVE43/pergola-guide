@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-peindre-lasurer",
+    "titre": "Peindre ou lasurer sa pergola bois en automne 2026 : le guide décisif",
+    "categorie": "Matériaux",
+    "description": "Peindre ou lasurer pergola bois ? Découvrez le comparatif complet pour automne 2026, avec délais, budgets et erreurs à éviter avant les premiers froids.",
+    "date": "2026-09-10",
+    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : Comment bien comparer et économiser ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante au vent : les matériaux et structures qui tiennent vraiment",
-    "categorie": "Conseils",
-    "description": "Découvrez quelle pergola résiste le mieux au vent. Comparaison des matériaux, normes de résistance et solutions d'ancrage pour votre terrasse en 2026.",
-    "date": "2026-06-12",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
