@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:58:05 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:11:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment faire en automne 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Déclaration préalable pergola : comment constituer votre dossier avant l'hiver. Étapes, délais et conseils pour une installation conforme en automne 2026.</description>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola avantages : le retour de Mathieu face au vent de la Côte…</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium couleur : découvrez comment choisir la teinte et finition parfaite selon votre maison. Conseils d'experts et tendances 2026.</description>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola : faut-il vraiment la déclarer ?</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Déclaration pergola à l'assurance : obligations légales, tarifs, démarches et risques. Réponses claires à vos 8 questions essentielles sur l'assurance pergola déclaration.</description>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

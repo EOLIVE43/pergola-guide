@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : comment faire en automne 2026",
+    "categorie": "Installation",
+    "description": "Déclaration préalable pergola : comment constituer votre dossier avant l'hiver. Étapes, délais et conseils pour une installation conforme en automne 2026.",
+    "date": "2026-09-11",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "store-pergola-zip-avantages",
     "titre": "Store zip pergola avantages : le retour de Mathieu face au vent de la Côte…",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-eclairage-led.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-eclairage"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : comment une maison d'Annecy a gagné 3 mois de…",
-    "categorie": "Stores",
-    "description": "Étude de cas réelle : rideaux extérieurs pergola installés en Haute-Savoie. Budget, dimensions, matériaux. Retour d'expérience chiffré et conseils pratiques pour votre projet.",
-    "date": "2026-06-14",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
