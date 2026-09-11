@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:11:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:31:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 aménagement : 5 idées pour maximiser un petit espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez comment aménager une pergola 3x3 pour petit jardin. Solutions pratiques, mobilier malin et conseils pour créer votre havre de paix extérieur. Guide complet.</description>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3×3 : aménagement minimaliste ou maximaliste ?</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Aménager une cuisine extérieure sous pergola en automne 2026 : guide complet avec planning, budget et erreurs à éviter avant les premiers froids.</description>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer sa pergola en un week-end : le guide complet étape par étape</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer pergola week-end sans stress. Guide complet avec les 7 étapes, conseils de fixation et erreurs à éviter. Posez votre pergola seul en 48h.</description>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

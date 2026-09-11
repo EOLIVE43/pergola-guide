@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 aménagement : 5 idées pour maximiser un petit espace",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment aménager une pergola 3x3 pour petit jardin. Solutions pratiques, mobilier malin et conseils pour créer votre havre de paix extérieur. Guide complet.",
+    "date": "2026-09-11",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
+    "slug": "pergola-3x3-idees-amenagement",
     "titre": "Pergola 3×3 : aménagement minimaliste ou maximaliste ?",
     "categorie": "Dimensions",
     "description": "Découvrez comment aménager une pergola 3×3 pour petits espaces. Comparatif des styles minimalistes vs maximalistes avec tableau décisionnel et conseils experts.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "Store zip pergola : les avantages face au vent d'été 2026",
-    "categorie": "Stores",
-    "description": "Store zip pergola avantages : protection maximale contre le vent en été. Découvrez comment sécuriser votre espace extérieur avant les tempêtes de juin-août 2026.",
-    "date": "2026-06-13",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
