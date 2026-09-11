@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:22:37 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:11:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3×3 : aménagement minimaliste ou maximaliste ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez comment aménager une pergola 3×3 pour petits espaces. Comparatif des styles minimalistes vs maximalistes avec tableau décisionnel et conseils experts.</description>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola polycarbonate ou aluminium : avantages et différences</title>
       <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer pergola week-end sans stress. Guide complet avec les 7 étapes, conseils de fixation et erreurs à éviter. Posez votre pergola seul en 48h.</description>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte : avantages et inconvénients face à la pergola ouverte</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Pergola couverte vs ouverte : découvrez les avantages, inconvénients et quel modèle choisir pour votre terrasse. Guide 2026 complet.</description>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

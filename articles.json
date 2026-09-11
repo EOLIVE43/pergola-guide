@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3×3 : aménagement minimaliste ou maximaliste ?",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment aménager une pergola 3×3 pour petits espaces. Comparatif des styles minimalistes vs maximalistes avec tableau décisionnel et conseils experts.",
+    "date": "2026-09-11",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate ou aluminium : avantages et différences",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Traitement naturel ou lasure : comment protéger sa pergola bois des…",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif complet entre traitement naturel et lasure : avantages, prix, entretien et verdict selon votre profil.",
-    "date": "2026-06-13",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
