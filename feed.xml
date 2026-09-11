@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:08:08 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:22:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate ou aluminium : avantages et différences</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Pergola polycarbonate : découvrez les avantages, prix et installation. Comparatif complet avec l'aluminium pour bien choisir votre toiture extérieure.</description>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Plantes grimpantes pergola France : le guide automne 2026 pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola couverte vs ouverte : découvrez les avantages, inconvénients et quel modèle choisir pour votre terrasse. Guide 2026 complet.</description>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle essence de bois choisir pour une pergola durable ?</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Découvrez comment sélectionner la meilleure essence bois pergola pour garantir durabilité et résistance. Comparatif complet, prix et conseils pratiques pour votre pergola bois.</description>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

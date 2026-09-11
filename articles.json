@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate ou aluminium : avantages et différences",
+    "categorie": "Toiture",
+    "description": "Pergola polycarbonate : découvrez les avantages, prix et installation. Comparatif complet avec l'aluminium pour bien choisir votre toiture extérieure.",
+    "date": "2026-09-11",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "Plantes grimpantes pergola France : le guide automne 2026 pour bien choisir",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-bioclimatique-entretien",
-    "titre": "Entretien pergola bioclimatique : le guide annuel complet",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment entretenir votre pergola bioclimatique toute l'année. Guide pratique avec calendrier d'entretien, nettoyage et maintenance des systèmes mobiles.",
-    "date": "2026-06-13",
-    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
