@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:31:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:07:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 idées pour un pergola piscine aménagement réussi</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Découvrez 8 idées et conseils d'aménagement pour votre pergola piscine. Guide complet pour transformer votre espace bord de piscine en oasis de détente.</description>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 aménagement : 5 idées pour maximiser un petit espace</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer pergola dalle béton avant les pluies d'automne. Guide complet avec technique, budget et planning septembre 2026.</description>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Cuisine extérieure pergola : aménager avant l'hiver 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Aménager une cuisine extérieure sous pergola en automne 2026 : guide complet avec planning, budget et erreurs à éviter avant les premiers froids.</description>
-      <pubDate>Tue, 08 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
