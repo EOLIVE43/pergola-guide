@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 pour votre terrasse : le guide complet du format idéal",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale, comment l'installer et combien elle coûte. Guide complet avec conseils pratiques.",
+    "date": "2026-09-12",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : préparez votre structure dès l'automne 2026",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "Marque pergola bioclimatique : Biossun ou Azenco en 2026 ?",
-    "categorie": "Bioclimatique",
-    "description": "Comparez les meilleures marques de pergola bioclimatique 2026. Guide pour choisir entre Biossun, Azenco, stores Leroy Merlin. Caractéristiques, prix, verdict.",
-    "date": "2026-06-14",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]

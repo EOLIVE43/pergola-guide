@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:03:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:57:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 pour votre terrasse : le guide complet du format idéal</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale, comment l'installer et combien elle coûte. Guide complet avec conseils pratiques.</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : préparez votre structure dès l'automne 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi l'automne 2026 est le moment idéal pour installer une pergola 4x4 dans votre jardin. Guide complet avec 3 actions prioritaires et planning d'installation.</description>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : intimité et esthétique en 8 questions</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment choisir un brise-vue pergola jardin pour créer une zone intime et harmonieuse. Guide complet : matériaux, installation, prix et réglementations.</description>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
