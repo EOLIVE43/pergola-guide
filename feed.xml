@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:57:53 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:19:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola sur mesure : 7 avantages décisifs pour votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
+      <description>Découvrez les véritables avantages d'une pergola sur mesure : adaptation parfaite, budget optimisé, conformité réglementaire. Questions-réponses complètes pour bien choisir.</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : le guide annuel complet</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Obtenir un devis pergola artisan fiable et compétitif. Guide complet pour comparer les tarifs, négocier et éviter les pièges du marché en 2026.</description>
       <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Plantes grimpantes pergola France : lierre ou clématite ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
-      <description>Quel est le meilleur choix entre lierre et clématite pour vos plantes grimpantes pergola France ? Comparatif complet, prix, entretien et conseils d'experts.</description>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
