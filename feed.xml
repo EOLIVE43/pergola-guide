@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:35:54 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:54:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola terrasse bois composite : fixation automne 2026, le guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
+      <description>Pergola terrasse bois composite : conseils de fixation et installation avant l'automne. Découvrez les meilleures pratiques et tarifs 2026 pour sécuriser votre terrasse.</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante vent : quels matériaux et structures choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Déclaration préalable pergola comment : guide complet des démarches administratives, délais et conditions pour régulariser votre projet avant installation.</description>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : avantages et durée de vie réelle</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Pergola bois autoclave : découvrez ses avantages durables, sa résistance aux intempéries et sa durée de vie en France. Guide complet 2026.</description>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

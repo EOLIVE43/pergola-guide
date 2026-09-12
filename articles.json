@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-terrasse-bois-composite",
+    "titre": "Pergola terrasse bois composite : fixation automne 2026, le guide complet",
+    "categorie": "Installation",
+    "description": "Pergola terrasse bois composite : conseils de fixation et installation avant l'automne. Découvrez les meilleures pratiques et tarifs 2026 pour sécuriser votre terrasse.",
+    "date": "2026-09-12",
+    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-terrasse-bois"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante vent : quels matériaux et structures choisir ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : structure fixe ou rétractable ?",
-    "categorie": "Jardin",
-    "description": "Découvrez comment bien aménager votre pergola piscine : comparaison entre structures fixes et rétractables, conseils d'installation et tableau décisionnel pour choisir la meilleure option.",
-    "date": "2026-06-14",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
