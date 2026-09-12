@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:54:03 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:30:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir avant l'automne ? Le guide essentiel 2026</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Automne 2026 : découvrez comment choisir la taille pergola idéale pour votre terrasse. Dimensionnement, budget et planning avant l'hiver. Guide complet et actionable.</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola terrasse bois composite : fixation automne 2026, le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola solaire avec panneaux photovoltaïques : guide complet sur la rentabilité, amortissement et économies réelles pour votre maison France 2025.</description>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment l'obtenir en 5 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Déclaration préalable pergola comment : guide complet des démarches administratives, délais et conditions pour régulariser votre projet avant installation.</description>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

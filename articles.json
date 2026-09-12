@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir avant l'automne ? Le guide essentiel 2026",
+    "categorie": "Dimensions",
+    "description": "Automne 2026 : découvrez comment choisir la taille pergola idéale pour votre terrasse. Dimensionnement, budget et planning avant l'hiver. Guide complet et actionable.",
+    "date": "2026-09-12",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-terrasse-bois-composite",
     "titre": "Pergola terrasse bois composite : fixation automne 2026, le guide complet",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola 2025 : coûts main-d'œuvre expliqués",
-    "categorie": "Prix",
-    "description": "Quel budget pour installer une pergola ? Guide complet des prix installation pergola, main-d'œuvre et pose en France 2025.",
-    "date": "2026-06-15",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
