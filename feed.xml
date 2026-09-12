@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:57:52 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:35:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : quels matériaux et structures choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez quelle pergola résiste le mieux au vent. Comparaison aluminium, bois, acier + conseils pour une pergola résistante aux tempêtes et rafales.</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 pour votre terrasse : le guide complet du format idéal</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois autoclave : découvrez ses avantages durables, sa résistance aux intempéries et sa durée de vie en France. Guide complet 2026.</description>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 jardin : pourquoi agir maintenant en automne 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Découvrez pourquoi l'automne 2026 est le moment idéal pour installer une pergola 4x4 dans votre jardin. Guide complet avec 3 actions prioritaires et planning d'installation.</description>
-      <pubDate>Wed, 09 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
