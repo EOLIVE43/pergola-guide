@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:13:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:57:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola bioclimatique : le guide annuel complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
+      <description>Entretien pergola bioclimatique : calendrier annuel, nettoyage des lames, maintenance moteur et conseils d'experts pour prolonger la durée de vie</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pour une pergola : étapes et conseils</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Quel est le meilleur choix entre lierre et clématite pour vos plantes grimpantes pergola France ? Comparatif complet, prix, entretien et conseils d'experts.</description>
       <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer une pergola sur mur parpaing : guide pratique étape par étape</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer pergola mur parpaing avec sécurité. Technique, matériel, erreurs à éviter : tout pour une pose durable et stable.</description>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
