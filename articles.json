@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : quel modèle choisir en 2025 ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique ou classique ? Découvrez les différences, avantages, prix et comment choisir le modèle idéal pour votre terrasse. Guide complet France 2025.",
+    "date": "2026-09-13",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "7 plantes grimpantes pergola France : guide complet du jardinage",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-terrasse-bois"
-  },
-  {
-    "slug": "bache-pergola-comment-choisir",
-    "titre": "Bâche pergola : imperméabilité ou résistance, que choisir ?",
-    "categorie": "Toiture",
-    "description": "Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet avec tableau décisionnel pour trouver votre solution idéale.",
-    "date": "2026-06-15",
-    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-bache-toile"
   }
 ]
