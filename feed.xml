@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 14:53:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:56:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : quel choix pour votre jardin ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique ou classique ? Découvrez les différences, avantages et prix pour choisir la solution idéale adaptée à votre budget et vos besoins.</description>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : quel choix en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 idées et conseils d'aménagement pour votre pergola piscine. Guide complet pour transformer votre espace bord de piscine en oasis de détente.</description>
       <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 3x3 aménagement : 5 idées pour maximiser un petit espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
-      <description>Découvrez comment aménager une pergola 3x3 pour petit jardin. Solutions pratiques, mobilier malin et conseils pour créer votre havre de paix extérieur. Guide complet.</description>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

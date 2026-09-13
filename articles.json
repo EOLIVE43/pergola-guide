@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : quel choix pour votre jardin ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique ou classique ? Découvrez les différences, avantages et prix pour choisir la solution idéale adaptée à votre budget et vos besoins.",
+    "date": "2026-09-13",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : quel choix en 2026 ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer pergola en week-end : 8 étapes pour réussir sans stress",
-    "categorie": "Installation",
-    "description": "Installer sa pergola en un week-end, c'est possible ! Découvrez 8 étapes clés pour réussir votre installation pergola rapidement et sans appeler un pro. Guide complet.",
-    "date": "2026-06-16",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
