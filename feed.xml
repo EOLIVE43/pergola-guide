@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:32:24 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:58:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé en automne : style et durabilité avant l'hiver</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les avantages réels de la pergola fer forgé en automne 2026. Entretien, protection hivernale et durabilité : le guide complet pour sécuriser votre investissement avant les premiers froids.</description>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola terrasse bois composite : fixation murale ou sur plots ?</title>
       <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola 3×3 pour petits espaces. Comparatif des styles minimalistes vs maximalistes avec tableau décisionnel et conseils experts.</description>
       <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola polycarbonate ou aluminium : avantages et différences</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Pergola polycarbonate : découvrez les avantages, prix et installation. Comparatif complet avec l'aluminium pour bien choisir votre toiture extérieure.</description>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

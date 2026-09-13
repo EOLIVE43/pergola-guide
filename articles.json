@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé en automne : style et durabilité avant l'hiver",
+    "categorie": "Matériaux",
+    "description": "Découvrez les avantages réels de la pergola fer forgé en automne 2026. Entretien, protection hivernale et durabilité : le guide complet pour sécuriser votre investissement avant les premiers froids.",
+    "date": "2026-09-13",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-terrasse-bois-composite",
     "titre": "Pergola terrasse bois composite : fixation murale ou sur plots ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 aménagement : 8 idées pour optimiser votre petit espace",
-    "categorie": "Dimensions",
-    "description": "Découvrez 8 idées d'aménagement pour votre pergola 3x3. Conseils pratiques pour maximiser cet espace compact et créer un jardin fonctionnel et élégant.",
-    "date": "2026-06-16",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
