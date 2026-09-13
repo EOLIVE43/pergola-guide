@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 10:59:52 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:42:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : 8 points clés pour bien déclarer sa pergola</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Assurance pergola déclaration : découvrez les 8 points essentiels pour déclarer correctement votre pergola à votre assureur et éviter les mauvaises surprises.</description>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : quel modèle choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Chauffage infrarouge pergola : comparatif complet entre infrarouge électrique et gaz. Confort, économies, installation. Trouvez la solution idéale pour votre espace.</description>
       <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 7 points clés à vérifier avant l'installation</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : découvrez les vérifications obligatoires, règles légales et techniques pour une installation sans risques ni conflits de voisinage.</description>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

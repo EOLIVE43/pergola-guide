@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : 8 points clés pour bien déclarer sa pergola",
+    "categorie": "Réglementation",
+    "description": "Assurance pergola déclaration : découvrez les 8 points essentiels pour déclarer correctement votre pergola à votre assureur et éviter les mauvaises surprises.",
+    "date": "2026-09-13",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : quel modèle choisir en 2025 ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-terrasse-bois-composite",
-    "titre": "Pergola terrasse bois composite : 8 secrets de fixation qui changent tout",
-    "categorie": "Installation",
-    "description": "Pergola terrasse bois composite : découvrez les 8 secrets de fixation et d'installation pour une pose durable et sécurisée. Conseils experts.",
-    "date": "2026-06-15",
-    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-terrasse-bois"
   }
 ]
