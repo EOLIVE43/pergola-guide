@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire avec panneaux photovoltaïques : est-elle rentable ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola solaire panneaux photovoltaïques : découvrez la rentabilité réelle, les économies d'énergie, l'amortissement et les aides disponibles. Guide complet 2025.",
+    "date": "2026-09-14",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : 8 clés pour un confort optimal",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : les 3 protections essentielles avant…",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries estivales. 3 actions prioritaires à faire maintenant, budget et planning 2026 pour une protection durable.",
-    "date": "2026-06-17",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]

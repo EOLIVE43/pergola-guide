@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:23:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:02:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire avec panneaux photovoltaïques : est-elle rentable ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Pergola solaire panneaux photovoltaïques : découvrez la rentabilité réelle, les économies d'énergie, l'amortissement et les aides disponibles. Guide complet 2025.</description>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : 8 clés pour un confort optimal</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola terrasse bois composite : conseils de fixation et installation avant l'automne. Découvrez les meilleures pratiques et tarifs 2026 pour sécuriser votre terrasse.</description>
       <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : quels matériaux et structures choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez quelle pergola résiste le mieux au vent. Comparaison aluminium, bois, acier + conseils pour une pergola résistante aux tempêtes et rafales.</description>
-      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
