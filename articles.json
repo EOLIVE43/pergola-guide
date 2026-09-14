@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : 8 clés pour un confort optimal",
+    "categorie": "Jardin",
+    "description": "Découvrez comment optimiser votre chauffage infrarouge pergola pour profiter de votre terrasse toute l'année. 8 conseils pour confort et économies d'énergie.",
+    "date": "2026-09-14",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate avantages : tout savoir sur la pose et le prix",
     "categorie": "Toiture",
@@ -4984,16 +4994,6 @@
     "titre": "Pergola bois résistante intempéries : les 3 protections essentielles avant…",
     "categorie": "Matériaux",
     "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries estivales. 3 actions prioritaires à faire maintenant, budget et planning 2026 pour une protection durable.",
-    "date": "2026-06-17",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante aux intempéries : 5 étapes pour la protéger",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Guide complet avec traitements, matériaux et entretien pour une durabilité maximale en France.",
     "date": "2026-06-17",
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
