@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : créer un jardin d'harmonie en 7 questions",
+    "categorie": "Style",
+    "description": "Pergola japonaise zen jardin : guide complet pour transformer votre espace extérieur. Découvrez comment créer une ambiance zen authentique avec conseils, matériaux et entretien.",
+    "date": "2026-09-14",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire avec panneaux photovoltaïques : est-elle rentable ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "nettoyage-pergola-karcher",
-    "titre": "Nettoyage pergola Kärcher : guide complet et précautions essentielles",
-    "categorie": "Entretien",
-    "description": "Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils, précautions et techniques pour un nettoyage sécurisé de votre pergola bois ou alu sans l'endommager.",
-    "date": "2026-06-17",
-    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
