@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:56:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:44:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : le guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Rideaux extérieurs pergola : découvrez comment les choisir, les installer et les entretenir. Comparatif, prix, matériaux et conseils experts 2026.</description>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : quel choix pour votre jardin ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer votre pergola bois ? Découvrez 8 critères décisifs pour faire le bon choix entre ces 2 traitements et protéger durablement votre structure.</description>
       <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 idées pour un pergola piscine aménagement réussi</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez 8 idées et conseils d'aménagement pour votre pergola piscine. Guide complet pour transformer votre espace bord de piscine en oasis de détente.</description>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
