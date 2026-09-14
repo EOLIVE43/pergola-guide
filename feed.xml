@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:54:41 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:57:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons : comment créer un espace habitable toute l'année ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Aménager une pergola 4 saisons : guide complet des solutions bioclimatiques, lames orientables et produits pour transformer votre terrasse en espace cosy hiver comme été.</description>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : créer un jardin d'harmonie en 7 questions</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Déclaration préalable pour une pergola : étapes et conseils</description>
       <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir avant l'automne ? Le guide essentiel 2026</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Automne 2026 : découvrez comment choisir la taille pergola idéale pour votre terrasse. Dimensionnement, budget et planning avant l'hiver. Guide complet et actionable.</description>
-      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

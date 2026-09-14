@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons : comment créer un espace habitable toute l'année ?",
+    "categorie": "Aménagement",
+    "description": "Aménager une pergola 4 saisons : guide complet des solutions bioclimatiques, lames orientables et produits pour transformer votre terrasse en espace cosy hiver comme été.",
+    "date": "2026-09-14",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen : créer un jardin d'harmonie en 7 questions",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "Plantes grimpantes pergola France : le projet réussi de Claire en Provence",
-    "categorie": "Jardin",
-    "description": "Claire a transformé sa pergola en Provence avec les meilleures plantes grimpantes. Découvrez son projet concret : budget, espèces choisies et résultats après 18 mois.",
-    "date": "2026-06-17",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
