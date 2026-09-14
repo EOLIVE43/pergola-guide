@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate avantages : tout savoir sur la pose et le prix",
+    "categorie": "Toiture",
+    "description": "Découvrez les avantages concrets d'une pergola polycarbonate, les prix actuels et les étapes de pose. Guide complet pour bien choisir votre structure de jardin.",
+    "date": "2026-09-14",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-eclairage-led",
     "titre": "8 solutions d'éclairage LED pergola pour transformer votre terrasse",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "7 critères clés pour choisir les bons rideaux extérieurs pergola",
-    "categorie": "Stores",
-    "description": "Découvrez les 7 critères essentiels pour bien choisir vos rideaux extérieurs pergola. Guide d'achat complet avec conseils d'expert et erreurs à éviter.",
-    "date": "2026-06-17",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:53:13 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:39:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate avantages : tout savoir sur la pose et le prix</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les avantages concrets d'une pergola polycarbonate, les prix actuels et les étapes de pose. Guide complet pour bien choisir votre structure de jardin.</description>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 solutions d'éclairage LED pergola pour transformer votre terrasse</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale, comment l'installer et combien elle coûte. Guide complet avec conseils pratiques.</description>
       <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : préparez votre structure dès l'automne 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez comment préparer votre structure avant l'hiver. Guide complet et actions prioritaires automne 2026.</description>
-      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
