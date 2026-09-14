@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "8 solutions d'éclairage LED pergola pour transformer votre terrasse",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures solutions d'éclairage LED pergola en 2026 : spots encastrés, rubans flexibles, suspensions design. Conseils d'installation et prix.",
+    "date": "2026-09-14",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate ou aluminium : quel matériau choisir ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : 5 variétés parfaites pour cet été 2026",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures variétés de rose grimpante pour pergola en été. Guide complet 2026 avec sélection, plantation et entretien saison par saison.",
-    "date": "2026-06-16",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
