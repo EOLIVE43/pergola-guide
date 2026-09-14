@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:21:17 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:32:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate ou aluminium : quel matériau choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola polycarbonate face à l'aluminium : prix, durabilité, entretien et installation. Comparatif complet pour bien choisir.</description>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola mur parpaing : le guide étape par étape</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Déclaration préalable pergola : comment constituer votre dossier avant l'hiver. Étapes, délais et conseils pour une installation conforme en automne 2026.</description>
       <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola avantages : le retour de Mathieu face au vent de la Côte…</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez comment un propriétaire azuréen a résolu ses problèmes de vent avec un store zip pergola. Avantages concrets, budget 2026 et conseils applicables.</description>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
