@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : sécurité et esthétique en 8 questions",
+    "categorie": "Toiture",
+    "description": "Pergola toit verre feuilleté : découvrez les règles de sécurité, l'esthétique, les coûts et les démarches administratives. Questions/réponses complètes et pratiques.",
+    "date": "2026-09-15",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "8 étapes clés pour aménager une cuisine extérieure pergola",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire avec panneaux photovoltaïques : rentabilité ou gadget ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire avec panneaux photovoltaïques : découvrez si c'est vraiment rentable. Comparatif complet, prix, économies et ROI pour décider en 2025.",
-    "date": "2026-06-18",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
