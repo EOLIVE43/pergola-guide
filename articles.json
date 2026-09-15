@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "8 étapes clés pour aménager une cuisine extérieure pergola",
+    "categorie": "Jardin",
+    "description": "Aménager une cuisine extérieure pergola : 8 étapes indispensables pour réussir votre espace cuisson. Guide complet avec conseils et prix 2026.",
+    "date": "2026-09-15",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pergola : tissu ou toile acrylique ?",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise : créer un espace zen dans son jardin",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen jardin : découvrez 8 étapes essentielles pour transformer votre espace en sanctuaire de sérénité. Conseils, matériaux, prix et inspirations design.",
-    "date": "2026-06-18",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
