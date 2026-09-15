@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : tissu ou toile acrylique ?",
+    "categorie": "Stores",
+    "description": "Rideaux extérieurs pergola : comparez tissu et toile acrylique. Résistance, prix, entretien. Guide complet pour choisir selon votre usage.",
+    "date": "2026-09-15",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola copropriété : 8 questions essentielles sur les règles et autorisations",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : combien coûte vraiment la pose ?",
-    "categorie": "Prix",
-    "description": "Quel est le prix installation pergola en France ? Découvrez les tarifs de main-d'œuvre, les coûts de pose et tous les facteurs qui influencent votre budget pergola.",
-    "date": "2026-06-18",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
