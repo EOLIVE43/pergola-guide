@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola copropriété : 8 questions essentielles sur les règles et autorisations",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : guide complet sur les autorisations, permis, syndic et réglement intérieur. Découvrez les démarches obligatoires et les pièges à éviter.",
+    "date": "2026-09-15",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "Pergola moderne contemporaine 2026 : 8 questions essentielles",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : 5 idées d'aménagement pour transformer votre petit espace",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment aménager une pergola 3x3 dans un petit jardin. 5 solutions astucieuses pour maximiser l'espace et créer un coin détente élégant.",
-    "date": "2026-06-17",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]

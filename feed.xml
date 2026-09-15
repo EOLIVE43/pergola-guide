@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:03:50 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:58:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola copropriété : 8 questions essentielles sur les règles et autorisations</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : guide complet sur les autorisations, permis, syndic et réglement intérieur. Découvrez les démarches obligatoires et les pièges à éviter.</description>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola moderne contemporaine 2026 : 8 questions essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 meilleures plantes grimpantes pergola France pour transformer votre jardin. Conseils de plantation, entretien et variétés adaptées au climat français.</description>
       <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure : 7 avantages décisifs pour votre jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Découvrez les véritables avantages d'une pergola sur mesure : adaptation parfaite, budget optimisé, conformité réglementaire. Questions-réponses complètes pour bien choisir.</description>
-      <pubDate>Sat, 12 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
