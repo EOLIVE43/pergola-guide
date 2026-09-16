@@ -1,5 +1,15 @@
 [
   {
+    "slug": "voile-ombrage-pergola-choisir",
+    "titre": "Voile d'ombrage pergola : comment bien choisir entre tissus et alternatives ?",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir le meilleur voile ombrage pergola : comparatif détaillé entre tissus techniques, toiles motorisées et solutions fixes. Guide d'achat avec tableau comparatif et verdict selon votre profil.",
+    "date": "2026-09-16",
+    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-voile-ombrage"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante vent : quel matériau choisir en 2025 ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : 8 conseils pratiques pour votre jardin",
-    "categorie": "Jardin",
-    "description": "Aménager une pergola au bord de la piscine : nos conseils sur l'implantation, la matière, la réglementation et le budget. Réponses claires aux questions essentielles.",
-    "date": "2026-06-18",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]

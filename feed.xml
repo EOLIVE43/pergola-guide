@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:45:56 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:34:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voile d'ombrage pergola : comment bien choisir entre tissus et alternatives ?</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir le meilleur voile ombrage pergola : comparatif détaillé entre tissus techniques, toiles motorisées et solutions fixes. Guide d'achat avec tableau comparatif et verdict selon votre profil.</description>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante vent : quel matériau choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : comparatif complet des matériaux. Durabilité, prix, entretien, réglementation. Découvrez quel choix est fait pour vous.</description>
       <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola fer forgé en automne : style et durabilité avant l'hiver</title>
-      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
-      <description>Découvrez les avantages réels de la pergola fer forgé en automne 2026. Entretien, protection hivernale et durabilité : le guide complet pour sécuriser votre investissement avant les premiers froids.</description>
-      <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
