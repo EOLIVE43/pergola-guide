@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:13:50 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:45:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : quel matériau choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez quelle pergola résiste le mieux au vent. Comparaison matériaux, conseils installation et normes résistance pour votre terrasse. Guide complet 2025.</description>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : sécurité ou esthétique ?</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages réels de la pergola fer forgé en automne 2026. Entretien, protection hivernale et durabilité : le guide complet pour sécuriser votre investissement avant les premiers froids.</description>
       <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola terrasse bois composite : fixation murale ou sur plots ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Pergola terrasse bois composite : guide complet de fixation. Découvrez les différentes méthodes d'installation, leurs avantages et le meilleur choix selon votre terrasse.</description>
-      <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
