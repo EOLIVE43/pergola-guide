@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola Japonaise Zen : Créer un Jardin de Méditation Chez Soi",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola japonaise zen dans votre jardin. Guide complet : styles, matériaux bois, aménagement et prix pour un espace de détente authentique.",
+    "date": "2026-09-16",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bioclimatique-marques",
     "titre": "Meilleures marques de pergola bioclimatique en 2026 : guide complet",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : le choix malin d'une famille de Toulouse",
-    "categorie": "Toiture",
-    "description": "Découvrez le retour d'expérience détaillé d'une famille qui a installé une pergola toit verre feuilleté à Toulouse. Budget, sécurité, esthétique et résultats concrets en 2026.",
-    "date": "2026-06-19",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
