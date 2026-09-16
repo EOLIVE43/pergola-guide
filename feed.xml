@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:24:18 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:31:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 essences de bois pour pergola : le guide pour choisir</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez les meilleures essences de bois pour pergola durable. Comparatif complet : prix, résistance et entretien. Guide 2026.</description>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : bien choisir avant l'automne 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 meilleures solutions d'éclairage LED pergola en 2026 : spots encastrés, rubans flexibles, suspensions design. Conseils d'installation et prix.</description>
       <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola polycarbonate ou aluminium : quel matériau choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Découvrez les avantages de la pergola polycarbonate face à l'aluminium : prix, durabilité, entretien et installation. Comparatif complet pour bien choisir.</description>
-      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
