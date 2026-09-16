@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:38:59 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 09:13:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité ou esthétique ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : comparez sécurité, durabilité et design. Guide complet pour choisir entre verre feuilleté et polycarbonate en 2024.</description>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola toit verre feuilleté : sécurité et esthétique en 8 questions</title>
       <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola terrasse bois composite : guide complet de fixation. Découvrez les différentes méthodes d'installation, leurs avantages et le meilleur choix selon votre terrasse.</description>
       <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure ou standard : quel choix en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Pergola sur mesure avantages vs modèles standards : comparatif complet pour choisir la solution idéale selon votre jardin et budget.</description>
-      <pubDate>Sun, 13 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
