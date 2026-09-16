@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : 8 clés pour 40 % d'économies",
+    "categorie": "Jardin",
+    "description": "Découvrez comment optimiser votre chauffage infrarouge pergola pour réduire vos factures de 40% et profiter de votre terrasse toute l'année. Conseils experts 2024.",
+    "date": "2026-09-16",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Voile d'ombrage pergola : comment bien choisir entre tissus et alternatives ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : le projet réussi de Valérie à Bordeaux",
-    "categorie": "Jardin",
-    "description": "Découvrez comment Valérie a transformé sa pergola en oasis floral. Guide complet de glycine pergola entretien avec budget réel, plantation et taille : cas pratique détaillé.",
-    "date": "2026-06-19",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
