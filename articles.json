@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-autoclave",
+    "titre": "Pergola bois autoclave : protéger votre terrasse avant l'hiver 2026",
+    "categorie": "Matériaux",
+    "description": "Pergola bois autoclave : découvrez les avantages et la durée de vie. Guide complet automne 2026 pour préserver votre structure avant l'hiver. Conseils d'experts.",
+    "date": "2026-09-17",
+    "thumb": "/images/blog/pergola-bois-autoclave.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "7 essences de bois pour pergola : le guide pour choisir",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver et profiter de votre terrasse 12 mois/an. Conseils, techniques et solutions pratiques pour une extension de saison.",
-    "date": "2026-06-19",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
