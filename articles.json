@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher : le guide complet avant l'automne 2026",
+    "categorie": "Entretien",
+    "description": "Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils et précautions essentielles pour l'automne 2026. Guide complet + planning d'action.",
+    "date": "2026-09-17",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : protéger votre terrasse avant l'hiver 2026",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola en copropriété : 8 règles essentielles avant l'installation",
-    "categorie": "Réglementation",
-    "description": "Découvrez les 8 règles de pergola copropriété : autorisations, syndic, réglement. Guide complet pour installer légalement votre pergola en immeuble.",
-    "date": "2026-06-19",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
