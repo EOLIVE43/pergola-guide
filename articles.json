@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate : avantages et prix face au bois",
+    "categorie": "Toiture",
+    "description": "Découvrez les avantages de la pergola polycarbonate, comparée au bois. Prix, durabilité, pose : le guide complet pour bien choisir en 2025.",
+    "date": "2026-09-17",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "nettoyage-pergola-karcher",
     "titre": "Nettoyage pergola Kärcher : le guide complet avant l'automne 2026",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "7 étapes pour fixer une pergola adossée sur mur parpaing",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola adossée sur un mur en parpaing en 7 étapes simples. Guide complet de l'installation pergola pour terrasse.",
-    "date": "2026-06-19",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]

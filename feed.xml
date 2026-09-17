@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:34:28 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:58:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate : avantages et prix face au bois</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola polycarbonate, comparée au bois. Prix, durabilité, pose : le guide complet pour bien choisir en 2025.</description>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : le guide complet avant l'automne 2026</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola solaire panneaux photovoltaïques : découvrez la rentabilité réelle, les économies d'énergie, l'amortissement et les aides disponibles. Guide complet 2025.</description>
       <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : 8 clés pour un confort optimal</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment optimiser votre chauffage infrarouge pergola pour profiter de votre terrasse toute l'année. 8 conseils pour confort et économies d'énergie.</description>
-      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
