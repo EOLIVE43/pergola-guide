@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:55:11 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:31:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola aluminium : nettoyage ou traitement ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
+      <description>Entretien pergola aluminium simplifié : découvrez les 2 méthodes essentielles pour préserver votre pergola alu pendant 20 ans. Comparatif, prix et conseils pratiques.</description>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 critères essentiels pour choisir vos rideaux extérieurs pergola</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Aménager une pergola 4 saisons : guide complet des solutions bioclimatiques, lames orientables et produits pour transformer votre terrasse en espace cosy hiver comme été.</description>
       <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : créer un jardin d'harmonie en 7 questions</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen jardin : guide complet pour transformer votre espace extérieur. Découvrez comment créer une ambiance zen authentique avec conseils, matériaux et entretien.</description>
-      <pubDate>Mon, 14 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

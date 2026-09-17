@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-entretien",
+    "titre": "Entretien pergola aluminium : nettoyage ou traitement ?",
+    "categorie": "Aluminium",
+    "description": "Entretien pergola aluminium simplifié : découvrez les 2 méthodes essentielles pour préserver votre pergola alu pendant 20 ans. Comparatif, prix et conseils pratiques.",
+    "date": "2026-09-17",
+    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-sur-mesure"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "7 critères essentiels pour choisir vos rideaux extérieurs pergola",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : le comparatif complet 2024",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique vs classique : découvrez les différences essentielles, avantages, prix et comment choisir la meilleure solution pour votre terrasse en France.",
-    "date": "2026-06-20",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
