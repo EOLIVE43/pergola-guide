@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:30:30 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:37:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 jardin : le guide complet pour l'espace parfait</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Pergola 4x4 jardin : découvrez pourquoi cette dimension est idéale pour les espaces spacieux. Guide complet, prix, installation et conseils d'experts.</description>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 critères essentiels pour choisir vos rideaux extérieurs pergola</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola moderne contemporaine 2026 : tendances design, matériaux, prix et installation. Réponses claires à vos 8 questions principales sur les pergolas actuelles.</description>
       <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure ou standard : quel choix pour votre terrasse ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Découvrez les avantages d'une pergola sur mesure face aux modèles standards. Comparatif complet avec prix, installation et verdict selon votre profil.</description>
-      <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

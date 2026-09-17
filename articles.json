@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : le guide complet pour l'espace parfait",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x4 jardin : découvrez pourquoi cette dimension est idéale pour les espaces spacieux. Guide complet, prix, installation et conseils d'experts.",
+    "date": "2026-09-17",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "7 critères essentiels pour choisir vos rideaux extérieurs pergola",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte vs ouverte : guide complet pour bien choisir",
-    "categorie": "Toiture",
-    "description": "Pergola couverte avantages et inconvénients face aux pergolas ouvertes. Comparaison détaillée pour faire le bon choix selon vos besoins et budget en 2024.",
-    "date": "2026-06-20",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
