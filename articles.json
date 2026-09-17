@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "7 critères essentiels pour choisir vos rideaux extérieurs pergola",
+    "categorie": "Stores",
+    "description": "Découvrez comment bien choisir vos rideaux extérieurs pergola : 7 critères clés pour un achat réussi, durable et adapté à votre terrasse.",
+    "date": "2026-09-17",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-aluminium-entretien",
     "titre": "Entretien pergola aluminium : nettoyage ou traitement ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-installation-soi-meme",
-    "titre": "Installer une pergola bioclimatique soi-même : le défi de Marc en Île-de-France",
-    "categorie": "Bioclimatique",
-    "description": "Marc a tenté d'installer sa pergola bioclimatique 4x3 en DIY. Découvrez son expérience concrète, les pièges évités et le budget réel 2026 engagé.",
-    "date": "2026-06-20",
-    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
