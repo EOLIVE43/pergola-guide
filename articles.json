@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : 3 vérifications essentielles avant l'hiver 2026",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids de la neige. Guide complet automne 2026 pour préparer votre pergola à l'hiver.",
+    "date": "2026-09-18",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : 8 différences décisives",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer pergola en un week-end : le guide complet étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment installer votre pergola en un week-end. Guide complet étape par étape : préparation, fixation, finitions. Réalisez votre projet DIY en 48h.",
-    "date": "2026-06-20",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
