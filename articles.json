@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : 8 différences décisives",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique vs classique ? Découvrez 8 critères essentiels pour choisir la pergola idéale : lames orientables, prix, entretien et performance thermique.",
+    "date": "2026-09-18",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "7 avantages de la pergola polycarbonate à connaître",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : 7 stratégies pour bien choisir",
-    "categorie": "Prix",
-    "description": "Découvrez comment trouver une pergola pas cher bonne qualité. Nos 7 conseils pour économiser sans sacrifier la durabilité et l'esthétique de votre pergola.",
-    "date": "2026-06-20",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]
