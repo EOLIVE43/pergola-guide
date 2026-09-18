@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante intempéries : préparez-la dès septembre 2026",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries avant l'automne. Guide complet avec 3 actions prioritaires à faire maintenant en septembre 2026.",
+    "date": "2026-09-18",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Comment choisir un voile ombrage pour pergola : cas d'une terrasse à Toulouse",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : 8 facteurs qui font exploser votre devis",
-    "categorie": "Prix",
-    "description": "Découvrez les vrais prix d'installation d'une pergola en France. Coûts de main-d'œuvre, pose, matériaux : tous nos chiffres 2024-2025.",
-    "date": "2026-06-21",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
