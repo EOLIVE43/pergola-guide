@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:53:24 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:09:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 variétés de rose grimpante pergola à cultiver absolument</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les 8 meilleures variétés de rose grimpante pergola pour embellir votre jardin. Conseils de plantation, entretien et sélection adaptée à votre région.</description>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante intempéries : préparez-la dès septembre 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez quelle pergola résiste le mieux au vent. Comparaison matériaux, conseils installation et normes résistance pour votre terrasse. Guide complet 2025.</description>
       <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité ou esthétique ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : comparez sécurité, durabilité et design. Guide complet pour choisir entre verre feuilleté et polycarbonate en 2024.</description>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

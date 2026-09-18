@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "8 variétés de rose grimpante pergola à cultiver absolument",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures variétés de rose grimpante pergola pour embellir votre jardin. Conseils de plantation, entretien et sélection adaptée à votre région.",
+    "date": "2026-09-18",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "Pergola bois résistante intempéries : préparez-la dès septembre 2026",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-acier-corten",
-    "titre": "7 raisons d'adopter une pergola acier corten pour votre jardin",
-    "categorie": "Matériaux",
-    "description": "Découvrez pourquoi la pergola acier corten séduit les jardiniers français : esthétique rouillée, durabilité exceptionnelle et 7 avantages clés à connaître absolument.",
-    "date": "2026-06-21",
-    "thumb": "/images/blog/pergola-acier-corten.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
