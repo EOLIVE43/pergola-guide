@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:15:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:57:36 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment choisir un voile ombrage pour pergola : cas d'une terrasse à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Découvrez comment bien choisir un voile ombrage pergola : étude de cas réelle avec budget, matériaux et résultats chiffrés pour votre terrasse.</description>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : 3 vérifications essentielles avant l'hiver 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola toit verre feuilleté : découvrez les règles de sécurité, l'esthétique, les coûts et les démarches administratives. Questions/réponses complètes et pratiques.</description>
       <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 étapes clés pour aménager une cuisine extérieure pergola</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Aménager une cuisine extérieure pergola : 8 étapes indispensables pour réussir votre espace cuisson. Guide complet avec conseils et prix 2026.</description>
-      <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
