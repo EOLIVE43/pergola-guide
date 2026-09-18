@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "7 avantages de la pergola polycarbonate à connaître",
+    "categorie": "Toiture",
+    "description": "Découvrez les 7 avantages clés de la pergola polycarbonate : transparence, résistance, prix et facilité de pose. Guide complet pour bien choisir.",
+    "date": "2026-09-18",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 jardin : le guide complet pour l'espace parfait",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 : la solution idéale pour les grands jardins",
-    "categorie": "Dimensions",
-    "description": "Découvrez pourquoi la pergola 4x4 jardin est parfaite pour créer un espace ombragé spacieux. Guide complet avec dimensions, prix et conseils d'installation.",
-    "date": "2026-06-20",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]

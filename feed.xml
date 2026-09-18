@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:37:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:12:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages de la pergola polycarbonate à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les 7 avantages clés de la pergola polycarbonate : transparence, résistance, prix et facilité de pose. Guide complet pour bien choisir.</description>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : le guide complet pour l'espace parfait</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : guide complet sur les autorisations, permis, syndic et réglement intérieur. Découvrez les démarches obligatoires et les pièges à éviter.</description>
       <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola moderne contemporaine 2026 : 8 questions essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Pergola moderne contemporaine 2026 : tendances design, matériaux, prix et installation. Réponses claires à vos 8 questions principales sur les pergolas actuelles.</description>
-      <pubDate>Tue, 15 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
