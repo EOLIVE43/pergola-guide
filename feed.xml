@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:46:48 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:33:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : prolongez votre automne en terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Profitez de votre pergola en automne 2026 grâce au chauffage infrarouge : confort, économies et installation avant les froids. Le guide complet.</description>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : le choix qui a changé la terrasse des…</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Quelle couleur pour votre pergola aluminium en automne ? Guide complet des finitions, teintes tendance et choix durables avant l'hiver 2026.</description>
       <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Japonaise Zen : Créer un Jardin de Méditation Chez Soi</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Découvrez comment créer une pergola japonaise zen dans votre jardin. Guide complet : styles, matériaux bois, aménagement et prix pour un espace de détente authentique.</description>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

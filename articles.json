@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : prolongez votre automne en terrasse",
+    "categorie": "Jardin",
+    "description": "Profitez de votre pergola en automne 2026 grâce au chauffage infrarouge : confort, économies et installation avant les froids. Le guide complet.",
+    "date": "2026-09-19",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : le choix qui a changé la terrasse des…",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : combien coûte la main d'œuvre ?",
-    "categorie": "Prix",
-    "description": "Quel est le prix installation pergola en France ? Guide complet des coûts de main-d'œuvre, pose et devis pour votre projet.",
-    "date": "2026-06-21",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
