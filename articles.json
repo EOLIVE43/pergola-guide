@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : 9 étapes pour préparer votre structure",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : découvrez la checklist complète en 9 étapes pour nettoyer, traiter et préparer votre pergola bois à la belle saison.",
+    "date": "2026-09-19",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : 8 différences essentielles",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 jardin : 8 secrets pour transformer votre espace",
-    "categorie": "Dimensions",
-    "description": "Découvrez les 8 secrets d'une pergola 4x4 pour jardin spacieux. Installation, matériaux, prix et conseils d'experts pour réussir votre projet.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]
