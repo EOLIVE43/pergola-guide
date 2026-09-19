@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : le choix qui a changé la terrasse des…",
+    "categorie": "Bioclimatique",
+    "description": "Cas réel : comment une famille bordelaise a comparé pergola bioclimatique et classique. Budget, installation et résultats concrets 2026.",
+    "date": "2026-09-19",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment la faire en 5 étapes",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-entretien",
-    "titre": "Entretien pergola bioclimatique 4x3 : le guide annuel d'une maison lyonnaise",
-    "categorie": "Bioclimatique",
-    "description": "Entretien pergola bioclimatique expliqué par un cas réel près de Lyon. Budget, étapes, conseils d'experts : conservez votre pergola 15 ans sans dégâts.",
-    "date": "2026-06-21",
-    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
