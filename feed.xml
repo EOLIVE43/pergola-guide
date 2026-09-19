@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:10:26 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:54:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola week-end : 8 étapes pour réussir votre pose</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Installer pergola en un week-end, c'est possible ! Découvrez nos 8 étapes essentielles pour réussir votre installation de pergola sans stress et sans appel à un pro.</description>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 essences de bois pour pergola : comment choisir la plus durable</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment optimiser votre chauffage infrarouge pergola pour réduire vos factures de 40% et profiter de votre terrasse toute l'année. Conseils experts 2024.</description>
       <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile d'ombrage pergola : comment bien choisir entre tissus et alternatives ?</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir le meilleur voile ombrage pergola : comparatif détaillé entre tissus techniques, toiles motorisées et solutions fixes. Guide d'achat avec tableau comparatif et verdict selon votre profil.</description>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

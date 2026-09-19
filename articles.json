@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola week-end : 8 étapes pour réussir votre pose",
+    "categorie": "Installation",
+    "description": "Installer pergola en un week-end, c'est possible ! Découvrez nos 8 étapes essentielles pour réussir votre installation de pergola sans stress et sans appel à un pro.",
+    "date": "2026-09-19",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "7 essences de bois pour pergola : comment choisir la plus durable",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-entretien.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-sur-mesure"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan : 7 questions pour bien négocier",
-    "categorie": "Prix",
-    "description": "Comment obtenir un devis pergola artisan fiable et compétitif ? Découvrez les 7 questions essentielles pour bien comprendre votre devis et négocier le meilleur prix pergola avec un professionnel.",
-    "date": "2026-06-21",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
