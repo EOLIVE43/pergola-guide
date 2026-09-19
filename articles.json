@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : 8 différences essentielles",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique ou classique ? Découvrez 8 critères majeurs pour choisir la pergola idéale selon votre budget et vos besoins de confort.",
+    "date": "2026-09-19",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : prolongez votre automne en terrasse",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola : faut-il la déclarer vraiment ?",
-    "categorie": "Réglementation",
-    "description": "Assurance pergola déclaration : guide complet sur les obligations, risques et démarches. Réponses claires aux questions essentielles des propriétaires français en 2025.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
