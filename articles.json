@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : comment la faire en 5 étapes",
+    "categorie": "Installation",
+    "description": "Découvrez comment faire une déclaration préalable pour votre pergola. Guide complet avec étapes, délais et conseils pour éviter les erreurs administratives.",
+    "date": "2026-09-19",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer pergola week-end : 8 étapes pour réussir votre pose",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : le guide complet d'un propriétaire normand",
-    "categorie": "Aluminium",
-    "description": "Comment entretenir sa pergola aluminium ? Découvrez le cas réel de Marc en Normandie : durée, budget, techniques et résultats concrets pour 5 ans d'exploitation.",
-    "date": "2026-06-21",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]
