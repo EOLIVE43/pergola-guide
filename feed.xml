@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:14:09 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:48:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 idées d'aménagement pergola piscine réussis</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Découvrez 8 idées et conseils pour aménager votre pergola piscine avec style. Guide complet de l'orientation au mobilier pour profiter au maximum.</description>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir pour votre terrasse ? Guide pratique</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola aluminium simplifié : découvrez les 2 méthodes essentielles pour préserver votre pergola alu pendant 20 ans. Comparatif, prix et conseils pratiques.</description>
       <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 critères essentiels pour choisir vos rideaux extérieurs pergola</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Rideaux extérieurs pergola : découvrez les 7 critères clés pour bien les choisir. Guide complet d'achat avec conseils, prix et comparatif 2025.</description>
-      <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

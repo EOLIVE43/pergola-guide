@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "8 idées d'aménagement pergola piscine réussis",
+    "categorie": "Jardin",
+    "description": "Découvrez 8 idées et conseils pour aménager votre pergola piscine avec style. Guide complet de l'orientation au mobilier pour profiter au maximum.",
+    "date": "2026-09-20",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Quelle taille de pergola choisir pour votre terrasse ? Guide pratique",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Fixer pergola mur parpaing : guide complet en 8 questions",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola adossée sur un mur en parpaing. Guide complet avec techniques, matériel, réglementation et erreurs à éviter pour une fixation durable et sécurisée.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
