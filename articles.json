@@ -1,5 +1,15 @@
 [
   {
+    "slug": "glycine-pergola-entretien",
+    "titre": "Glycine pergola entretien : plantation facile ou taille exigeante ?",
+    "categorie": "Jardin",
+    "description": "Glycine pergola entretien : découvrez comment cultiver et tailler votre glycine. Comparatif plantation vs maintenance pour choisir le bon rythme.",
+    "date": "2026-09-20",
+    "thumb": "/images/blog/glycine-pergola-entretien.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola printemps : 9 étapes pour préparer votre structure",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Fixer pergola mur parpaing : 8 étapes infaillibles",
-    "categorie": "Installation",
-    "description": "Fixer pergola mur parpaing demande précision. Découvrez 8 étapes pour une installation pergola sécurisée et durable sur votre mur.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
