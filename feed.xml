@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Sep 2026 13:47:20 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:38:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : durée de vie et avantages réels</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Découvrez les vrais avantages de la pergola bois autoclave, sa durée de vie, son entretien et comment bien la choisir. Guide complet pour votre terrasse.</description>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : 7 vérifications indispensables</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages clés de la pergola polycarbonate : transparence, résistance, prix et facilité de pose. Guide complet pour bien choisir.</description>
       <pubDate>Fri, 18 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 jardin : le guide complet pour l'espace parfait</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Pergola 4x4 jardin : découvrez pourquoi cette dimension est idéale pour les espaces spacieux. Guide complet, prix, installation et conseils d'experts.</description>
-      <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

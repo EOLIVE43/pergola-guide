@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-autoclave",
+    "titre": "Pergola bois autoclave : durée de vie et avantages réels",
+    "categorie": "Matériaux",
+    "description": "Découvrez les vrais avantages de la pergola bois autoclave, sa durée de vie, son entretien et comment bien la choisir. Guide complet pour votre terrasse.",
+    "date": "2026-09-20",
+    "thumb": "/images/blog/pergola-bois-autoclave.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 7 vérifications indispensables",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2025",
-    "categorie": "Réglementation",
-    "description": "Découvrez si vous devez déclarer votre pergola à votre assurance habitation. Guide complet sur l'assurance pergola déclaration, les obligations légales et les risques.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
