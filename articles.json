@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : 7 vérifications indispensables",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : découvrez les vérifications légales, réglementaires et techniques à effectuer avant installation. Guide complet des démarches.",
+    "date": "2026-09-20",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Comment bien choisir sa bâche pergola : 8 critères essentiels",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2026",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire panneaux photovoltaïques : analyse complète de la rentabilité, coûts, économies d'énergie et ROI en France. Guide expert 2026.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
