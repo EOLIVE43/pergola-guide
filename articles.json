@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir pour votre terrasse ? Guide pratique",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment choisir la taille pergola idéale selon votre terrasse. Dimensions, conseils pratiques et erreurs à éviter pour un projet réussi.",
+    "date": "2026-09-20",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : 7 questions pour bien comparer les prix",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : guide prix, avantages et installation 2026",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour bien choisir votre store automatisé en France.",
-    "date": "2026-06-22",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]

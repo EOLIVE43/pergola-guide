@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:28:58 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:14:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir pour votre terrasse ? Guide pratique</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir la taille pergola idéale selon votre terrasse. Dimensions, conseils pratiques et erreurs à éviter pour un projet réussi.</description>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 7 questions pour bien comparer les prix</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Rideaux extérieurs pergola : découvrez les 7 critères clés pour bien les choisir. Guide complet d'achat avec conseils, prix et comparatif 2025.</description>
       <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola polycarbonate : avantages et prix face au bois</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Découvrez les avantages de la pergola polycarbonate, comparée au bois. Prix, durabilité, pose : le guide complet pour bien choisir en 2025.</description>
-      <pubDate>Thu, 17 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
