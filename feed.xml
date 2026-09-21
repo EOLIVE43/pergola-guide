@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:04:07 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:55:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages de la pergola bois autoclave pour votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Pergola bois autoclave : découvrez ses 7 avantages majeurs, sa durabilité exceptionnelle et comment bien la choisir pour votre extérieur. Guide complet.</description>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment la remplir en 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Installer pergola en un week-end, c'est possible ! Découvrez nos 8 étapes essentielles pour réussir votre installation de pergola sans stress et sans appel à un pro.</description>
       <pubDate>Sat, 19 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 essences de bois pour pergola : comment choisir la plus durable</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Découvrez les 7 meilleures essences de bois pour pergola durable : guide complet pour choisir le bois résistant adapté à votre terrasse et climat.</description>
-      <pubDate>Sat, 19 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
