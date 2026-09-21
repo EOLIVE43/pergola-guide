@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Cuisine extérieure pergola : pergola bois ou alu pour aménager ?",
+    "categorie": "Jardin",
+    "description": "Aménager une cuisine extérieure sous pergola : comparez pergola bois vs alu. Guide complet avec tableau, prix, entretien et verdict selon votre profil.",
+    "date": "2026-09-21",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 5 idées pour transformer votre espace",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer une pergola sur dalle béton : le guide complet étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer pergola dalle béton comme un pro. Techniques, matériel, prix et erreurs à éviter pour une installation durable et sécurisée.",
-    "date": "2026-06-23",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
