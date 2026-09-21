@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 21 Sep 2026 13:55:10 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:46:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine aménagement : 5 idées pour transformer votre espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Découvrez comment aménager une pergola bord de piscine : styles, matériaux, prix et conseils pour créer un espace détente élégant et fonctionnel en 2026.</description>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 plantes grimpantes pour pergola en France : guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries avant l'automne. Guide complet avec 3 actions prioritaires à faire maintenant en septembre 2026.</description>
       <pubDate>Fri, 18 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment choisir un voile ombrage pour pergola : cas d'une terrasse à Toulouse</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir un voile ombrage pergola : étude de cas réelle avec budget, matériaux et résultats chiffrés pour votre terrasse.</description>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
