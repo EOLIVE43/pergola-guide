@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : 8 secrets pour une esthétique rouillée durable",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten : découvrez comment cette structure allie design industriel et patine naturelle. Guide complet avec conseils d'installation et d'entretien pour 8 ans de durabilité.",
+    "date": "2026-09-21",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "7 avantages de la pergola bois autoclave pour votre terrasse",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : quel prix prévoir ?",
-    "categorie": "Prix",
-    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les tarifs, comparatifs et économies possibles selon le type de structure. Guide complet.",
-    "date": "2026-06-24",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
