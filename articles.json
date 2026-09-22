@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : confort et économies toute l'année",
+    "categorie": "Jardin",
+    "description": "Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées en terrasse. Guide complet : fonctionnement, prix, économies d'énergie et installation.",
+    "date": "2026-09-22",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola Rustique Campagne : Matériaux et Inspiration pour Votre Jardin",
     "categorie": "Style",
@@ -4986,16 +4996,6 @@
     "description": "Découvrez le vrai prix installation pergola en France : tarifs main-d'œuvre, devis, facteurs de variation. Guide complet avec chiffres 2024.",
     "date": "2026-06-25",
     "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
-    "categorie": "Prix",
-    "description": "Quel budget pour une pergola en France en 2026 ? Découvrez les prix réels, les facteurs qui influencent le coût et comment économiser sur votre pergola pas cher ou bioclimatique.",
-    "date": "2026-06-24",
-    "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
   }
