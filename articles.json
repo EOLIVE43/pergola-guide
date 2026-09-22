@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : 8 astuces pour l'optimiser toute l'année",
+    "categorie": "Aménagement",
+    "description": "Découvrez 8 astuces essentielles pour transformer votre pergola 4 saisons aménagement en véritable espace de vie. Conseils, produits et solutions bioclimatiques.",
+    "date": "2026-09-22",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : confort et économies toute l'année",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : combien coûte vraiment la pose ?",
-    "categorie": "Prix",
-    "description": "Découvrez le vrai prix installation pergola en France : tarifs main-d'œuvre, devis, facteurs de variation. Guide complet avec chiffres 2024.",
-    "date": "2026-06-25",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
