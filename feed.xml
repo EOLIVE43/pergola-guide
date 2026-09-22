@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:33:51 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:00:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola Rustique Campagne : Matériaux et Inspiration pour Votre Jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles, inspirations et conseils pratiques pour transformer votre terrasse en havre champêtre.</description>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : le choix qui a changé le jardin de…</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique ou classique ? Découvrez 8 critères majeurs pour choisir la pergola idéale selon votre budget et vos besoins de confort.</description>
       <pubDate>Sat, 19 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : prolongez votre automne en terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Profitez de votre pergola en automne 2026 grâce au chauffage infrarouge : confort, économies et installation avant les froids. Le guide complet.</description>
-      <pubDate>Sat, 19 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
