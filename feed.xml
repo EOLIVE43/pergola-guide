@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:14:45 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:28:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 : 5 idées d'aménagement pour transformer votre petit espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Pergola 3x3 aménagement : découvrez comment optimiser votre petit jardin avec des solutions créatives, fonctionnelles et élégantes pour tous les styles.</description>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 8 astuces pour l'optimiser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Obtenez un bon devis pergola auprès d'un artisan. Découvrez comment bien évaluer les prix, comparer les offres et économiser sur votre pergola en bois ou bioclimatique.</description>
       <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Glycine pergola entretien : plantation facile ou taille exigeante ?</title>
-      <link>https://pergola-guide.fr/blog/glycine-pergola-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/glycine-pergola-entretien.html</guid>
-      <description>Glycine pergola entretien : découvrez comment cultiver et tailler votre glycine. Comparatif plantation vs maintenance pour choisir le bon rythme.</description>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

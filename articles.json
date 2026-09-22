@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 : 5 idées d'aménagement pour transformer votre petit espace",
+    "categorie": "Dimensions",
+    "description": "Pergola 3x3 aménagement : découvrez comment optimiser votre petit jardin avec des solutions créatives, fonctionnelles et élégantes pour tous les styles.",
+    "date": "2026-09-22",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : 8 astuces pour l'optimiser toute l'année",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-bache-toile"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons : 5 astuces pour transformer votre terrasse",
-    "categorie": "Aménagement",
-    "description": "Découvrez comment aménager votre pergola 4 saisons avec nos astuces pratiques et produits. Guide complet pour profiter de votre terrasse toute l'année en France.",
-    "date": "2026-06-25",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
