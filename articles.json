@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : Comment bien comparer les prix en 2025 ?",
+    "categorie": "Prix",
+    "description": "Obtenir un bon devis pergola artisan : critères de comparaison, tarifs réalistes et conseils pour négocier. Guide complet pour éviter les mauvaises surprises.",
+    "date": "2026-09-23",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-sur-mesure-avantages",
     "titre": "7 avantages incontournables de la pergola sur mesure",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Quelle taille de pergola choisir pour votre terrasse ?",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment choisir la taille pergola idéale selon votre terrasse. Comparatif petit, moyen ou grand format avec tableau décisionnel complet.",
-    "date": "2026-06-25",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]

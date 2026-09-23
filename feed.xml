@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:39:39 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:13:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Devis pergola artisan : Comment bien comparer les prix en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
+      <description>Obtenir un bon devis pergola artisan : critères de comparaison, tarifs réalistes et conseils pour négocier. Guide complet pour éviter les mauvaises surprises.</description>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 avantages incontournables de la pergola sur mesure</title>
       <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 idées et conseils pour aménager votre pergola piscine avec style. Guide complet de l'orientation au mobilier pour profiter au maximum.</description>
       <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir pour votre terrasse ? Guide pratique</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir la taille pergola idéale selon votre terrasse. Dimensions, conseils pratiques et erreurs à éviter pour un projet réussi.</description>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
