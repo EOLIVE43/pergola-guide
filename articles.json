@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola matériau : quel revêtement choisir en 2025 ?",
+    "categorie": "Toiture",
+    "description": "Découvrez quel matériau choisir pour la toiture de votre pergola : bois, polycarbonate, toile, verre. Comparatif complet, prix et conseils d'experts pour bien décider.",
+    "date": "2026-09-23",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola copropriété règles : 8 questions essentielles avant l'installation",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : 8 teintes et finitions à connaître",
-    "categorie": "Aluminium",
-    "description": "Découvrez les 8 meilleures couleurs et finitions pour votre pergola aluminium. Conseils, tendances 2026 et comparatif des teintes durables.",
-    "date": "2026-06-26",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]

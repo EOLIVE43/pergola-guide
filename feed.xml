@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:43:27 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:14:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola matériau : quel revêtement choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Découvrez quel matériau choisir pour la toiture de votre pergola : bois, polycarbonate, toile, verre. Comparatif complet, prix et conseils d'experts pour bien décider.</description>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola copropriété règles : 8 questions essentielles avant l'installation</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages de la pergola bois autoclave, sa durée de vie, son entretien et comment bien la choisir. Guide complet pour votre terrasse.</description>
       <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 7 vérifications indispensables</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : découvrez les vérifications légales, réglementaires et techniques à effectuer avant installation. Guide complet des démarches.</description>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
