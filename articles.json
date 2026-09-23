@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : pourquoi agir avant les pluies d'automne",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi une pergola 4x3 terrasse est idéale pour votre espace en automne 2026. Installation, budget et planning avant les intempéries : tout ce qu'il faut savoir maintenant.",
+    "date": "2026-09-23",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : comment bien le négocier en 2026 ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : comment Éric a protégé sa terrasse 30 m² à Toulouse",
-    "categorie": "Stores",
-    "description": "Étude de cas réelle : rideaux extérieurs pergola. Budget 4 200 €, installation 3 semaines. Chiffres concrets et conseils pour votre projet 2026.",
-    "date": "2026-06-27",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
