@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola copropriété règles : 8 questions essentielles avant l'installation",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : guide complet sur les autorisations, démarches et réglementations. Tout ce qu'il faut savoir avant d'installer une pergola en copropriété.",
+    "date": "2026-09-23",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-marques",
     "titre": "Marque pergola bioclimatique : le choix gagnant d'une famille à Toulouse en 2026",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : le guide complet pour bien choisir",
-    "categorie": "Stores",
-    "description": "Rideaux extérieurs pergola : découvrez nos conseils pour choisir, installer et entretenir vos rideaux. Comparatif matières, prix et marques 2026.",
-    "date": "2026-06-26",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
