@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:14:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:57:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : comment choisir le bon modèle ?</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Découvrez notre guide complet des rideaux extérieurs pour pergola : matériaux, installation, entretien et 5 erreurs à éviter pour transformer votre terrasse.</description>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Toiture pergola matériau : quel revêtement choisir en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium : durabilité, prix, entretien et performance thermique comparés aux alternatives 2026.</description>
       <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : durée de vie et avantages réels</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Découvrez les vrais avantages de la pergola bois autoclave, sa durée de vie, son entretien et comment bien la choisir. Guide complet pour votre terrasse.</description>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

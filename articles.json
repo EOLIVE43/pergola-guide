@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pergola : comment choisir le bon modèle ?",
+    "categorie": "Stores",
+    "description": "Découvrez notre guide complet des rideaux extérieurs pour pergola : matériaux, installation, entretien et 5 erreurs à éviter pour transformer votre terrasse.",
+    "date": "2026-09-23",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola matériau : quel revêtement choisir en 2025 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment faire sans risque ?",
-    "categorie": "Installation",
-    "description": "Découvrez comment effectuer une déclaration préalable pergola étape par étape. Conseils pratiques pour régulariser votre installation légalement et sans amende.",
-    "date": "2026-06-26",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
