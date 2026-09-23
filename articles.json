@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-marques",
+    "titre": "Marque pergola bioclimatique : le choix gagnant d'une famille à Toulouse en 2026",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment une famille a sélectionné la meilleure marque pergola bioclimatique pour son jardin. Cas concret avec budget détaillé, comparaison et résultats chiffrés.",
+    "date": "2026-09-23",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : Comment bien comparer les prix en 2025 ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons : 8 astuces pour un aménagement réussi",
-    "categorie": "Aménagement",
-    "description": "Découvrez comment transformer votre pergola 4 saisons en espace habitable toute l'année. 8 astuces, produits et solutions pour un aménagement optimal et confortable.",
-    "date": "2026-06-25",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]

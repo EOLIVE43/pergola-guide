@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:13:53 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:39:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marque pergola bioclimatique : le choix gagnant d'une famille à Toulouse en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Découvrez comment une famille a sélectionné la meilleure marque pergola bioclimatique pour son jardin. Cas concret avec budget détaillé, comparaison et résultats chiffrés.</description>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : Comment bien comparer les prix en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir sa bâche pergola en 8 étapes clés : imperméabilité, résistance UV, matière. Guide complet pour protéger votre terrasse.</description>
       <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 idées d'aménagement pergola piscine réussis</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez 8 idées et conseils pour aménager votre pergola piscine avec style. Guide complet de l'orientation au mobilier pour profiter au maximum.</description>
-      <pubDate>Sun, 20 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
