@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 : la solution idéale pour votre jardin spacieux",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x4 jardin : guide complet sur les dimensions, réglementation, prix et installation. Toutes les réponses pour bien choisir votre pergola.",
+    "date": "2026-09-24",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : quelles structures supportent le poids ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : le projet réussi de Nathalie en Provence",
-    "categorie": "Jardin",
-    "description": "Pergola piscine aménagement : découvrez comment Nathalie a transformé son bord de piscine avec une pergola bioclimatique. Budget, délai, conseils pratiques.",
-    "date": "2026-06-27",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
