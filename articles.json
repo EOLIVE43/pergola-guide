@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-installation-soi-meme",
+    "titre": "Installer une pergola bioclimatique soi-même : guide complet et conseils",
+    "categorie": "Bioclimatique",
+    "description": "Peut-on installer une pergola bioclimatique soi-même ? Découvrez les étapes, le matériel nécessaire, les coûts et les pièges à éviter pour une installation réussie.",
+    "date": "2026-09-24",
+    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : 8 avantages qui changent tout (vs ouverte)",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique en hiver : 5 astuces pour l'utiliser toute l'année",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique hiver : guide complet pour optimiser votre espace extérieur en toute saison. Lames, isolation, chauffage : tous nos conseils.",
-    "date": "2026-06-27",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
