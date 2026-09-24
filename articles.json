@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte : 8 avantages qui changent tout (vs ouverte)",
+    "categorie": "Toiture",
+    "description": "Découvrez les 8 avantages majeurs de la pergola couverte pour votre jardin. Comparaison complète avec la pergola ouverte : protection, confort et investissement.",
+    "date": "2026-09-24",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : pourquoi agir avant les pluies d'automne",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : comment prolonger votre terrasse ?",
-    "categorie": "Jardin",
-    "description": "Découvrez comment le chauffage infrarouge pour pergola offre confort et économies d'énergie. Réponses claires à vos 8 questions essentielles sur l'installation et les tarifs.",
-    "date": "2026-06-27",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
