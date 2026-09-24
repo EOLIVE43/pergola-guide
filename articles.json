@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium ou bois ? Découvrez notre comparatif complet 2026 : durabilité, prix, entretien, esthétique. Guide pour bien choisir votre pergola.",
+    "date": "2026-09-24",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "glycine-pergola-entretien",
     "titre": "Glycine Pergola Entretien : Guide Complet de Culture et Taille",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-fer-forge-avantages",
-    "titre": "Pergola fer forgé : avantages, style intemporel et entretien facile",
-    "categorie": "Matériaux",
-    "description": "Pergola fer forgé avantages : découvrez pourquoi le fer forgé offre style, durabilité et faible entretien. Guide complet avec prix et conseils pratiques.",
-    "date": "2026-06-28",
-    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-sur-mesure"
   }
 ]
