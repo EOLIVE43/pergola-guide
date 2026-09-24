@@ -1,5 +1,15 @@
 [
   {
+    "slug": "glycine-pergola-entretien",
+    "titre": "Glycine Pergola Entretien : Guide Complet de Culture et Taille",
+    "categorie": "Jardin",
+    "description": "Découvrez comment planter, cultiver et entretenir votre glycine sur pergola. Conseils de taille, périodes idéales et erreurs à éviter pour une floraison spectaculaire.",
+    "date": "2026-09-24",
+    "thumb": "/images/blog/glycine-pergola-entretien.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : guide complet étape par étape",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne contemporaine 2026 : les tendances à adopter cet été",
-    "categorie": "Style",
-    "description": "Découvrez les tendances 2026 pour votre pergola moderne et contemporaine. Design aluminium, dimensions optimales et budget : le guide complet de l'été 2026 pour agir maintenant.",
-    "date": "2026-06-28",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
