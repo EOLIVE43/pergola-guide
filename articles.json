@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Fixer pergola dalle béton : guide complet étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer une pergola sur dalle béton. Techniques de fixation, matériaux requis, erreurs à éviter. Guide pratique pour réussir votre installation pergola.",
+    "date": "2026-09-24",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 : la solution idéale pour votre jardin spacieux",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : guide complet prix et installation 2025",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez prix, avantages et installation. Guide complet pour bien choisir votre solution d'ombrage motorisée en France.",
-    "date": "2026-06-28",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
