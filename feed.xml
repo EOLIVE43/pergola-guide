@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:51:31 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:59:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : faut-il la déclarer à son assureur ?</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et comment bien protéger votre installation pergola.</description>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées en terrasse. Guide complet : fonctionnement, prix, économies d'énergie et installation.</description>
       <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Rustique Campagne : Matériaux et Inspiration pour Votre Jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles, inspirations et conseils pratiques pour transformer votre terrasse en havre champêtre.</description>
-      <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
