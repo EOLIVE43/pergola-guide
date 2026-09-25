@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 14:50:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:47:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : pourquoi l'automne est le moment idéal pour installer</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Découvrez pourquoi la pergola acier corten s'impose en automne 2026. Installation, patine rouillée, durabilité : le guide complet pour agir avant octobre.</description>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 meilleures plantes grimpantes pour pergola : le guide France 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment une famille a sélectionné la meilleure marque pergola bioclimatique pour son jardin. Cas concret avec budget détaillé, comparaison et résultats chiffrés.</description>
       <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Devis pergola artisan : Comment bien comparer les prix en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/devis-pergola-artisan.html</guid>
-      <description>Obtenir un bon devis pergola artisan : critères de comparaison, tarifs réalistes et conseils pour négocier. Guide complet pour éviter les mauvaises surprises.</description>
-      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

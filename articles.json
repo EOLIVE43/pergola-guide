@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : pourquoi l'automne est le moment idéal pour installer",
+    "categorie": "Matériaux",
+    "description": "Découvrez pourquoi la pergola acier corten s'impose en automne 2026. Installation, patine rouillée, durabilité : le guide complet pour agir avant octobre.",
+    "date": "2026-09-25",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "8 meilleures plantes grimpantes pour pergola : le guide France 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
     "pilier_id": "stores",
     "secondaire_slug": "brise-vue-pergola"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola copropriété : autorisation ou déclaration préalable ?",
-    "categorie": "Réglementation",
-    "description": "Pergola copropriété règles : découvrez les différences entre demander une autorisation syndic et faire une déclaration préalable. Comparatif complet avec démarches.",
-    "date": "2026-06-29",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
