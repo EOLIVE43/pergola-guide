@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:44:38 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:11:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : créer un havre de paix avec les bons matériaux</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Pergola rustique campagne : guide complet des matériaux, inspirations et styles. Découvrez comment construire une pergola bois authentique pour votre jardin.</description>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante vent : le test 45 km/h d'un propriétaire breton</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 3x3 aménagement : découvrez comment optimiser votre petit jardin avec des solutions créatives, fonctionnelles et élégantes pour tous les styles.</description>
       <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 8 astuces pour l'optimiser toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez 8 astuces essentielles pour transformer votre pergola 4 saisons aménagement en véritable espace de vie. Conseils, produits et solutions bioclimatiques.</description>
-      <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
