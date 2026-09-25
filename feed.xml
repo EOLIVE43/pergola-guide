@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:59:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:44:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : le test 45 km/h d'un propriétaire breton</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez comment Michel a choisi une pergola résistante vent face aux tempêtes bretonnes. Retour concret sur matériaux, budget et performance réelle en 2026.</description>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola : faut-il la déclarer à son assureur ?</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 astuces essentielles pour transformer votre pergola 4 saisons aménagement en véritable espace de vie. Conseils, produits et solutions bioclimatiques.</description>
       <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : confort et économies toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment le chauffage infrarouge pour pergola prolonge vos soirées en terrasse. Guide complet : fonctionnement, prix, économies d'énergie et installation.</description>
-      <pubDate>Tue, 22 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
