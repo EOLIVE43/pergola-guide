@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 26 Sep 2026 12:37:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:29:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola : quel matériau choisir entre alu et polycarbonate ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Comparez les matériaux de toiture pergola : aluminium, polycarbonate, bois, verre. Guide complet avec tableau comparatif pour bien choisir selon votre budget et vos besoins.</description>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 secrets pour fixer une pergola terrasse bois composite</title>
       <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
@@ -176,15 +185,6 @@
       <description>Fixer pergola mur parpaing : techniques, chevilles, étapes détaillées. Méthodes d'installation sécurisées pour votre terrasse. Tuto complet avec prix.</description>
       <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rideaux extérieurs pergola : comment choisir le bon modèle ?</title>
-      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
-      <description>Découvrez notre guide complet des rideaux extérieurs pour pergola : matériaux, installation, entretien et 5 erreurs à éviter pour transformer votre terrasse.</description>
-      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
