@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-terrasse-bois-composite",
+    "titre": "7 secrets pour fixer une pergola terrasse bois composite",
+    "categorie": "Installation",
+    "description": "Découvrez les 7 secrets pour réussir la fixation de votre pergola terrasse bois composite. Installation, pose et conseils experts pour une pergola durable et sécurisée.",
+    "date": "2026-09-26",
+    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-terrasse-bois"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "7 critères pour choisir une pergola résistante au vent",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-fer-forge-avantages",
-    "titre": "Pergola fer forgé : avantages, style intemporel et entretien facile",
-    "categorie": "Matériaux",
-    "description": "Découvrez les avantages de la pergola fer forgé : durabilité, esthétique élégante et maintenance simple. Guide complet avec prix et conseils d'entretien.",
-    "date": "2026-06-30",
-    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-sur-mesure"
   }
 ]
