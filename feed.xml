@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:29:26 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:57:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : 8 avantages sécurité et design à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : découvrez 8 atouts essentiels pour sécuriser votre terrasse tout en gagnant en esthétique. Guide complet des bénéfices.</description>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Toiture pergola : quel matériau choisir entre alu et polycarbonate ?</title>
       <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
@@ -176,15 +185,6 @@
       <description>Obtenir un devis pergola artisan fiable ? Découvrez nos 8 questions essentielles pour comparer les offres, comprendre les prix et choisir le meilleur professionnel pour votre pergola.</description>
       <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment fixer une pergola sur mur en parpaing ? Guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Fixer pergola mur parpaing : techniques, chevilles, étapes détaillées. Méthodes d'installation sécurisées pour votre terrasse. Tuto complet avec prix.</description>
-      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
