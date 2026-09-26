@@ -1,5 +1,15 @@
 [
   {
+    "slug": "prix-installation-pergola",
+    "titre": "Prix installation pergola : combien coûte la pose en 2026 ?",
+    "categorie": "Prix",
+    "description": "Prix installation pergola : guide complet des tarifs main-d'œuvre, pose et matériaux. Découvrez les vrais coûts 2026 pour votre projet pergola France.",
+    "date": "2026-09-26",
+    "thumb": "/images/blog/prix-installation-pergola.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-toit-verre-securit",
     "titre": "Pergola toit verre feuilleté : 8 avantages sécurité et design à connaître",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan ou DIY : comment bien choisir en 2024 ?",
-    "categorie": "Prix",
-    "description": "Comparez devis pergola artisan vs auto-construction. Tarifs, délais, qualité : notre guide pour obtenir le meilleur rapport qualité-prix sur votre pergola en bois ou bioclimatique.",
-    "date": "2026-06-30",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
