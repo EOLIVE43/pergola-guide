@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "7 critères pour choisir une pergola résistante au vent",
+    "categorie": "Conseils",
+    "description": "Quelle pergola résiste mieux au vent ? Découvrez 7 critères essentiels : matériaux, ancrage, ventilation. Guide complet pour bien choisir votre structure.",
+    "date": "2026-09-26",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola Solaire Panneaux Photovoltaïques : Rentabilité Réelle en 2026",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire panneaux photovoltaïques : vraiment rentable ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire avec panneaux photovoltaïques : comparaison rentabilité vs pergola bioclimatique. Investissement, économies d'énergie, délais. Guide complet 2026.",
-    "date": "2026-06-29",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]

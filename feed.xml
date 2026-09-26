@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:55:58 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:12:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 critères pour choisir une pergola résistante au vent</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Quelle pergola résiste mieux au vent ? Découvrez 7 critères essentiels : matériaux, ancrage, ventilation. Guide complet pour bien choisir votre structure.</description>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola Solaire Panneaux Photovoltaïques : Rentabilité Réelle en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez quel matériau choisir pour la toiture de votre pergola : bois, polycarbonate, toile, verre. Comparatif complet, prix et conseils d'experts pour bien décider.</description>
       <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola copropriété règles : 8 questions essentielles avant l'installation</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : guide complet sur les autorisations, démarches et réglementations. Tout ce qu'il faut savoir avant d'installer une pergola en copropriété.</description>
-      <pubDate>Wed, 23 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
