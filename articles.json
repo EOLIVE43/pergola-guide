@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir ? 8 règles pour votre terrasse",
+    "categorie": "Dimensions",
+    "description": "Découvrez les 8 règles essentielles pour bien choisir la taille de votre pergola selon votre terrasse. Conseils pratiques et erreurs à éviter pour un aménagement réussi.",
+    "date": "2026-09-27",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-hiver",
     "titre": "Pergola bioclimatique en hiver : 3 préparations essentielles à faire dès automne",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-bache-toile"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "7 plantes grimpantes pour pergola : guide France 2025",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures plantes grimpantes pergola France : clématite, lierre, vigne vierge. Conseils d'installation, entretien et prix 2025.",
-    "date": "2026-07-01",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
