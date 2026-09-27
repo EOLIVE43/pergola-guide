@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : comment Stéphane a transformé sa terrasse à Bordeaux",
+    "categorie": "Jardin",
+    "description": "Découvrez le retour d'expérience de Stéphane sur l'éclairage LED pergola : budget 4 800 €, installation en 3 semaines, et 120 m² de terrasse enfin utilisables en soirée.",
+    "date": "2026-09-27",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola matériau : quel revêtement choisir en 2025 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte vs ouverte : quel choix pour votre jardin ?",
-    "categorie": "Toiture",
-    "description": "Pergola couverte avantages : découvrez les différences avec une pergola ouverte et trouvez la structure idéale pour votre espace extérieur en 2026.",
-    "date": "2026-07-02",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
