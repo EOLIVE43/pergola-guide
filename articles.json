@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher : guide automne 2026 avant les pluies",
+    "categorie": "Entretien",
+    "description": "Nettoyage pergola Kärcher en automne 2026 : conseils, précautions et timing. Protégez votre pergola bois avant l'hiver. Découvrez le bon moment pour agir.",
+    "date": "2026-09-27",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pour pergola : le guide complet pour bien choisir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-bioclimatique-entretien",
-    "titre": "Entretien pergola bioclimatique été : les 3 vérifications essentielles 2026",
-    "categorie": "Bioclimatique",
-    "description": "Entretien pergola bioclimatique en été 2026 : guide complet avec actions prioritaires, planning saisonnier et budget. Protégez votre installation face à la chaleur.",
-    "date": "2026-07-01",
-    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]

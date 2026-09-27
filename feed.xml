@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 27 Sep 2026 10:22:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:14:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : guide automne 2026 avant les pluies</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Nettoyage pergola Kärcher en automne 2026 : conseils, précautions et timing. Protégez votre pergola bois avant l'hiver. Découvrez le bon moment pour agir.</description>
+      <pubDate>Sun, 27 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rideaux extérieurs pour pergola : le guide complet pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez quelles structures (aluminium, bois, acier) supportent le poids de la neige en France et comment les protéger.</description>
       <pubDate>Thu, 24 Sep 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola bioclimatique soi-même : guide complet et conseils</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Peut-on installer une pergola bioclimatique soi-même ? Découvrez les étapes, le matériel nécessaire, les coûts et les pièges à éviter pour une installation réussie.</description>
-      <pubDate>Thu, 24 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
