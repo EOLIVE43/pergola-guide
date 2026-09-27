@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rideau-pergola-exterieur-choisir",
+    "titre": "Rideaux extérieurs pour pergola : le guide complet pour bien choisir",
+    "categorie": "Stores",
+    "description": "Découvrez comment choisir les meilleurs rideaux extérieurs pour pergola : matériaux, prix, installation et entretien. Guide d'achat complet avec réponses aux questions essentielles.",
+    "date": "2026-09-27",
+    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "rideau-pergola-exterieur"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 jardin : l'option idéale pour grands espaces ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : quel choix pour votre terrasse ?",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment choisir la couleur et la finition de votre pergola aluminium. Conseils d'expert, tendances 2025 et solutions adaptées à tous les styles d'extérieur.",
-    "date": "2026-07-01",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
