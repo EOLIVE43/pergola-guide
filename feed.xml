@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:09:32 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:51:57 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : 8 structures qui supportent le poids</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez 8 structures robustes capables de supporter le poids de la neige. Comparatif complet et conseils d'experts.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : 8 règles essentielles à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 secrets pour réussir la fixation de votre pergola terrasse bois composite. Installation, pose et conseils experts pour une pergola durable et sécurisée.</description>
       <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 critères pour choisir une pergola résistante au vent</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Quelle pergola résiste mieux au vent ? Découvrez 7 critères essentiels : matériaux, ancrage, ventilation. Guide complet pour bien choisir votre structure.</description>
-      <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
