@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : le projet réussi d'une famille en Provence",
+    "categorie": "Jardin",
+    "description": "Découvrez comment Sandrine et Marc ont transformé leur piscine avec une pergola bioclimatique. Retour d'expérience, budget concret et conseils d'aménagement pour votre projet.",
+    "date": "2026-09-28",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen : créer un jardin de sérénité en 7 étapes",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : combien coûte vraiment la pose ?",
-    "categorie": "Prix",
-    "description": "Découvrez le prix installation pergola en France : main-d'œuvre, devis, tarifs bioclimatique et bois. Guide complet 2024 avec chiffres réels et astuces pour économiser.",
-    "date": "2026-07-03",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]

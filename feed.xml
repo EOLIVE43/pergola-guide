@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:17:23 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:22:33 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine aménagement : le projet réussi d'une famille en Provence</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Découvrez comment Sandrine et Marc ont transformé leur piscine avec une pergola bioclimatique. Retour d'expérience, budget concret et conseils d'aménagement pour votre projet.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : créer un jardin de sérénité en 7 étapes</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola solaire panneaux photovoltaïques : guide complet de rentabilité. Calcul ROI, économies d'énergie, installation. Tout pour amortir votre investissement.</description>
       <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola acier corten : pourquoi l'automne est le moment idéal pour installer</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Découvrez pourquoi la pergola acier corten s'impose en automne 2026. Installation, patine rouillée, durabilité : le guide complet pour agir avant octobre.</description>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
