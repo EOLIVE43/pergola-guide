@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:45:47 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:27:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola Neige Résistance : Quelle Structure Supporte le Poids ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez les structures qui supportent le poids, les charges maximales et les meilleures matières pour l'hiver en France.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment déclarer en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif entre traitement chimique et bois naturel : coûts, durabilité et entretien détaillés.</description>
       <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola rustique campagne : créer un havre de paix avec les bons matériaux</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Pergola rustique campagne : guide complet des matériaux, inspirations et styles. Découvrez comment construire une pergola bois authentique pour votre jardin.</description>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
