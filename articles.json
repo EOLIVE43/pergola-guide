@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola : quel matériau choisir en 2026 ?",
+    "categorie": "Toiture",
+    "description": "Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, bois, alu, toile. Comparatif complet, prix et conseils pratiques pour bien choisir.",
+    "date": "2026-09-28",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola copropriété : règles et démarches pour bien installer",
-    "categorie": "Réglementation",
-    "description": "Pergola copropriété règles : découvrez les autorisations obligatoires, les restrictions du syndic, et les démarches administratives pour installer légalement votre pergola en immeuble.",
-    "date": "2026-07-04",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
