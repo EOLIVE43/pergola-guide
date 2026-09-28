@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:27:50 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:41:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois exotique : 7 essentiels pour choisir entre ipé, teck et cumaru</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-exotique-avantages.html</guid>
+      <description>Pergola bois exotique : comparez ipé, teck et cumaru. Guide complet des 7 critères pour choisir le bois idéal pour votre terrasse. Conseils + prix 2024.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola Neige Résistance : Quelle Structure Supporte le Poids ?</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 meilleures plantes grimpantes pour pergola adaptées au climat France. Conseils pour créer un ombrage naturel durable et esthétique.</description>
       <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : traitement ou essence durable ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif entre traitement chimique et bois naturel : coûts, durabilité et entretien détaillés.</description>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
