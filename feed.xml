@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:43:26 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:45:47 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment déclarer en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Déclaration préalable pergola comment : guide complet des étapes, délais et conseils pour installer légalement votre pergola sans permis.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer une pergola bioclimatique soi-même en automne : le guide 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola rustique campagne : guide complet des matériaux, inspirations et styles. Découvrez comment construire une pergola bois authentique pour votre jardin.</description>
       <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola résistante vent : le test 45 km/h d'un propriétaire breton</title>
-      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
-      <description>Découvrez comment Michel a choisi une pergola résistante vent face aux tempêtes bretonnes. Retour concret sur matériaux, budget et performance réelle en 2026.</description>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
