@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:51:57 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:33:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les vrais tarifs, options et astuces pour installer votre pergola sans mauvaise surprise.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola neige résistance : 8 structures qui supportent le poids</title>
       <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Comparez les matériaux de toiture pergola : aluminium, polycarbonate, bois, verre. Guide complet avec tableau comparatif pour bien choisir selon votre budget et vos besoins.</description>
       <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 secrets pour fixer une pergola terrasse bois composite</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Découvrez les 7 secrets pour réussir la fixation de votre pergola terrasse bois composite. Installation, pose et conseils experts pour une pergola durable et sécurisée.</description>
-      <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

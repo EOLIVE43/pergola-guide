@@ -1,5 +1,15 @@
 [
   {
+    "slug": "budget-pergola-france",
+    "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
+    "categorie": "Prix",
+    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les vrais tarifs, options et astuces pour installer votre pergola sans mauvaise surprise.",
+    "date": "2026-09-28",
+    "thumb": "/images/blog/budget-pergola-france.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : 8 structures qui supportent le poids",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan : 7 questions pour obtenir le meilleur prix",
-    "categorie": "Prix",
-    "description": "Découvrez comment obtenir un devis pergola artisan sans vous faire arnaquer. Guide complet avec astuces de négociation et estimation des prix 2025.",
-    "date": "2026-07-03",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
