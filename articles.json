@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : créer un jardin de sérénité en 7 étapes",
+    "categorie": "Style",
+    "description": "Pergola japonaise zen : guide complet pour créer un jardin harmonieux. Matériaux, styles, aménagement et conseils pratiques pour votre espace de détente.",
+    "date": "2026-09-28",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : 7 essentiels pour choisir entre ipé, teck et cumaru",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "nettoyage-pergola-karcher",
-    "titre": "Nettoyage pergola Kärcher : le guide été 2026 pour protéger votre bois",
-    "categorie": "Entretien",
-    "description": "Nettoyage pergola Kärcher : conseils, précautions et timing idéal en juillet 2026. Protégez votre pergola bois de l'usure estivale. Guide pratique.",
-    "date": "2026-07-03",
-    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
