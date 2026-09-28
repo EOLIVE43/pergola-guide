@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:22:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:09:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola et permis de construire 2026 : 8 règles essentielles à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
+      <description>Pergola permis construire 2026 : découvrez les 8 règles obligatoires pour votre installation. Démarches, normes et pièges à éviter en France.</description>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : le projet réussi d'une famille en Provence</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Quelle pergola résiste mieux au vent ? Découvrez 7 critères essentiels : matériaux, ancrage, ventilation. Guide complet pour bien choisir votre structure.</description>
       <pubDate>Sat, 26 Sep 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Solaire Panneaux Photovoltaïques : Rentabilité Réelle en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Pergola solaire panneaux photovoltaïques : guide complet de rentabilité. Calcul ROI, économies d'énergie, installation. Tout pour amortir votre investissement.</description>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
