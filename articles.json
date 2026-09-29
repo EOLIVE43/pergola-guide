@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : 8 vérifications essentielles",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : droits, autorisations et vérifications légales indispensables avant installation. Guide complet des règles à connaître.",
+    "date": "2026-09-29",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
+    "slug": "pergola-adossee-mur-mitoyen",
     "titre": "8 vérifications essentielles : pergola adossée mur mitoyen",
     "categorie": "Réglementation",
     "description": "Pergola adossée mur mitoyen ? Découvrez les 8 vérifications légales et techniques indispensables avant votre installation pergola pour éviter les conflits de voisinage.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons : comment l'aménager toute l'année ?",
-    "categorie": "Aménagement",
-    "description": "Découvrez les meilleures astuces pour transformer votre pergola en espace 4 saisons aménagement. Produits, systèmes bioclimatiques et conseils pratiques pour profiter de votre pergola toute l'année.",
-    "date": "2026-07-05",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
