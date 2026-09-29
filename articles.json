@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "8 vérifications essentielles : pergola adossée mur mitoyen",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen ? Découvrez les 8 vérifications légales et techniques indispensables avant votre installation pergola pour éviter les conflits de voisinage.",
+    "date": "2026-09-29",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : permis ou DIY ? Tous les pièges à connaître",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "8 Pergolas résistantes au vent : comment bien choisir",
-    "categorie": "Conseils",
-    "description": "Découvrez les 8 critères essentiels pour choisir une pergola résistante vent durable. Matériaux, dimensions, ancrage : le guide complet pour investir sans risque.",
-    "date": "2026-07-05",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
