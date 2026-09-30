@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante intempéries : comment bien la protéger ?",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, matériaux, entretien : nos réponses aux questions essentielles pour une pergola durable.",
+    "date": "2026-09-30",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : comparatif ipé, teck, cumaru",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola rustique campagne : les secrets du bois pour votre jardin",
-    "categorie": "Style",
-    "description": "Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles, inspirations et conseils pratiques pour transformer votre extérieur en havre champêtre.",
-    "date": "2026-07-06",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
