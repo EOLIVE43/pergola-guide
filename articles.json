@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : comparatif ipé, teck, cumaru",
+    "categorie": "Matériaux",
+    "description": "Pergola bois exotique : découvrez le comparatif complet entre ipé, teck et cumaru. Durabilité, prix, entretien. Quel bois choisir pour votre terrasse ?",
+    "date": "2026-09-30",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : quelle structure supporte le poids ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire panneaux photovoltaïques : 8 clés pour maximiser la rentabilité",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment optimiser la rentabilité de votre pergola solaire avec panneaux photovoltaïques. 8 stratégies essentielles pour rentabiliser votre installation dès la première année.",
-    "date": "2026-07-06",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
