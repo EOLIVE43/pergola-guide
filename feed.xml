@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:09:20 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:46:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : le projet de Marie en Dordogne, budget et matériaux</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment Marie a transformé sa terrasse avec une pergola rustique campagne en bois. Budget réel, matériaux choisis, étapes de réalisation et résultats concrets en 2026.</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola résistante vent : 8 critères qui changent tout</title>
       <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola permis construire 2026 : découvrez les 8 règles obligatoires pour votre installation. Démarches, normes et pièges à éviter en France.</description>
       <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : le projet réussi d'une famille en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez comment Sandrine et Marc ont transformé leur piscine avec une pergola bioclimatique. Retour d'expérience, budget concret et conseils d'aménagement pour votre projet.</description>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

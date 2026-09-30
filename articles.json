@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : le projet de Marie en Dordogne, budget et matériaux",
+    "categorie": "Style",
+    "description": "Découvrez comment Marie a transformé sa terrasse avec une pergola rustique campagne en bois. Budget réel, matériaux choisis, étapes de réalisation et résultats concrets en 2026.",
+    "date": "2026-09-30",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante vent : 8 critères qui changent tout",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-eclairage-led",
-    "titre": "Éclairage LED pergola : 8 solutions éprouvées pour 2026",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026 : conseils d'experts, comparatif des technologies et astuces pour bien choisir votre système.",
-    "date": "2026-07-07",
-    "thumb": "/images/blog/pergola-eclairage-led.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-eclairage"
   }
 ]
