@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:55:28 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:23:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : quelle structure supporte le poids ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : découvrez quelles structures supportent le poids en hiver. Guide complet des matériaux, normes de charge et solutions pour votre région.</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Plantes grimpantes pergola France : lierre ou clématite, que choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le retour d'expérience de Stéphane sur l'éclairage LED pergola : budget 4 800 €, installation en 3 semaines, et 120 m² de terrasse enfin utilisables en soirée.</description>
       <pubDate>Sun, 27 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola matériau : quel revêtement choisir en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : verre, polycarbonate, bois, tissu. Comparaison, prix et conseils pour bien choisir.</description>
-      <pubDate>Sun, 27 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
