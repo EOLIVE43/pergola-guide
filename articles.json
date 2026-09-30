@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Comment fixer une pergola sur dalle béton ? Guide complet 2024",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer pergola dalle béton en 7 étapes : techniques, matériaux, normes et coûts. Guide pratique pour une installation sécurisée et conforme.",
+    "date": "2026-09-30",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : 8 avantages à connaître avant d'acheter",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : quel prix prévoir ?",
-    "categorie": "Prix",
-    "description": "Découvrez le vrai budget pergola France 2026 : tarifs bois, bioclimatique, devis. Tous les prix détaillés pour bien planifier votre projet.",
-    "date": "2026-07-06",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
