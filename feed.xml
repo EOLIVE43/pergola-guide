@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:28:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:09:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante vent : 8 critères qui changent tout</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Pergola résistante vent : découvrez les 8 critères essentiels pour choisir une pergola robuste face aux rafales. Matériaux, dimensions, ancrage.</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment fixer une pergola sur dalle béton ? Guide complet 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Sandrine et Marc ont transformé leur piscine avec une pergola bioclimatique. Retour d'expérience, budget concret et conseils d'aménagement pour votre projet.</description>
       <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : créer un jardin de sérénité en 7 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Pergola japonaise zen : guide complet pour créer un jardin harmonieux. Matériaux, styles, aménagement et conseils pratiques pour votre espace de détente.</description>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
