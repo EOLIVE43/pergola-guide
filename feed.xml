@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:34:53 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:31:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : 8 avantages à connaître avant d'acheter</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les 8 avantages décisifs de la pergola couverte pour votre terrasse. Comparaison avec pergola ouverte et conseils pour bien choisir.</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois exotique : comparez ipé, teck et cumaru. Guide complet des 7 critères pour choisir le bois idéal pour votre terrasse. Conseils + prix 2024.</description>
       <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Neige Résistance : Quelle Structure Supporte le Poids ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez les structures qui supportent le poids, les charges maximales et les meilleures matières pour l'hiver en France.</description>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
