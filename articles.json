@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver et profiter de votre terrasse 12 mois sur 12. Conseils, accessoires et solutions pratiques pour une véritable pièce de vie extérieure.",
+    "date": "2026-09-30",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : le projet de Marie en Dordogne, budget et matériaux",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-acier-corten",
-    "titre": "Pergola acier corten : quand la rouille devient design (retour d'expérience)",
-    "categorie": "Matériaux",
-    "description": "Pergola acier corten : découvrez le cas concret de Marc à Bordeaux. Budget, installation, durabilité et esthétique rouillée expliquée en chiffres.",
-    "date": "2026-07-07",
-    "thumb": "/images/blog/pergola-acier-corten.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

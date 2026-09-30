@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:46:23 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:50:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Découvrez comment utiliser votre pergola bioclimatique en hiver et profiter de votre terrasse 12 mois sur 12. Conseils, accessoires et solutions pratiques pour une véritable pièce de vie extérieure.</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola rustique campagne : le projet de Marie en Dordogne, budget et matériaux</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez 8 structures robustes capables de supporter le poids de la neige. Comparatif complet et conseils d'experts.</description>
       <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis de construire 2026 : 8 règles essentielles à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : découvrez les 8 règles obligatoires pour votre installation. Démarches, normes et pièges à éviter en France.</description>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
