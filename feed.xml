@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:23:39 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:16:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 pour votre jardin : tout ce qu'il faut savoir</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Pergola 4x4 jardin : guide complet sur les dimensions, réglementation, prix et installation. Réponses aux 8 questions essentielles des propriétaires.</description>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola moderne ou contemporaine : le vrai match 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
@@ -176,15 +185,6 @@
       <description>Nettoyage pergola Kärcher en automne : conseils pratiques, précautions essentielles et planning avant l'hiver 2026. Agissez maintenant !</description>
       <pubDate>Tue, 29 Sep 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola : quel matériau choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, bois, alu, toile. Comparatif complet, prix et conseils pratiques pour bien choisir.</description>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
