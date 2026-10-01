@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : esthétique rouillée et durabilité garantie",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten : découvrez l'esthétique de la rouille patinée, sa durabilité exceptionnelle et ses avantages pour votre terrasse. Comparaison et conseils complets.",
+    "date": "2026-10-01",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : quel prix prévoir ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique été 2026 : comparatif ipé, teck, cumaru",
-    "categorie": "Matériaux",
-    "description": "Pergola bois exotique : découvrez le comparatif complet ipé vs teck vs cumaru. Guide 2026 pour choisir et installer avant fin d'été.",
-    "date": "2026-07-08",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
