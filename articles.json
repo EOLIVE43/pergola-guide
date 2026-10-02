@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte : 8 avantages qui changent tout",
+    "categorie": "Toiture",
+    "description": "Découvrez les 8 avantages majeurs de la pergola couverte face à la pergola ouverte. Protection, confort, durabilité : le guide complet pour bien choisir votre structure.",
+    "date": "2026-10-02",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola Aluminium Couleur : Guide Complet des Finitions en 2025",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : le retour d'expérience de Thomas à Toulouse",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique vs classique : découvrez le cas concret de Thomas à Toulouse. Budget réel, dimensions 6x4m, résultats chiffrés et conseils actionnables pour votre projet 2026.",
-    "date": "2026-07-09",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
