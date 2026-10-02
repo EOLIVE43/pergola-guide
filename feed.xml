@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:35:13 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:42:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pour pergola : confort et économies en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Chauffage infrarouge pergola : guide complet sur les coûts, économies d'énergie et installation. Réponses aux questions essentielles pour votre terrasse.</description>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment fixer une pergola au mur en parpaing avant l'hiver 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer pergola dalle béton en 7 étapes : techniques, matériaux, normes et coûts. Guide pratique pour une installation sécurisée et conforme.</description>
       <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte : 8 avantages à connaître avant d'acheter</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Découvrez les 8 avantages décisifs de la pergola couverte pour votre terrasse. Comparaison avec pergola ouverte et conseils pour bien choisir.</description>
-      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
