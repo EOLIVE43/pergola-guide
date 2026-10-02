@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "7 avantages de la pergola acier corten pour votre terrasse",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten : découvrez ses 7 avantages esthétiques et de durabilité. Rouille naturelle protectrice et design contemporain pour votre jardin.",
+    "date": "2026-10-02",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Comment bien choisir son voile ombrage pergola : 8 critères essentiels",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Aménager une cuisine extérieure sous pergola : 8 questions essentielles",
-    "categorie": "Jardin",
-    "description": "Guide complet pour aménager une cuisine extérieure pergola : réglementation, budget, installation, électricité, matériaux. Tout ce qu'il faut savoir pour réussir.",
-    "date": "2026-07-09",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]

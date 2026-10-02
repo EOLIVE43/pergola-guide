@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 01 Oct 2026 18:16:40 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:46:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages de la pergola acier corten pour votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten : découvrez ses 7 avantages esthétiques et de durabilité. Rouille naturelle protectrice et design contemporain pour votre jardin.</description>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment bien choisir son voile ombrage pergola : 8 critères essentiels</title>
       <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures plantes grimpantes pour pergola en France. Comparatif lierre vs clématite : prix, entretien, résistance au climat. Guide pour bien choisir.</description>
       <pubDate>Tue, 29 Sep 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 8 vérifications essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : droits, autorisations et vérifications légales indispensables avant installation. Guide complet des règles à connaître.</description>
-      <pubDate>Tue, 29 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
