@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-pas-cher-bonne-qualite",
+    "titre": "Pergola pas cher bonne qualité : comment bien choisir sans compromis ?",
+    "categorie": "Prix",
+    "description": "Découvrez comment trouver une pergola pas cher bonne qualité sans vous ruiner. Guide complet avec prix, matériaux et conseils pour une pergola durable et esthétique.",
+    "date": "2026-10-02",
+    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "pergola-pas-cher"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "7 avantages de la pergola acier corten pour votre terrasse",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola en copropriété : quelles règles et autorisations ?",
-    "categorie": "Réglementation",
-    "description": "Pergola copropriété règles : guide complet des autorisations, démarches administratives et conditions d'installation en immeuble collectif.",
-    "date": "2026-07-09",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
