@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante aux intempéries : le guide complet pour protéger…",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Traitements, matériaux, entretien : tout pour une pergola durable en France.",
+    "date": "2026-10-02",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : 8 avantages qui changent tout",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "7 plantes grimpantes pour pergola en France : le guide complet",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures plantes grimpantes pour pergola en France : variétés, entretien et conseils de plantation pour une pergola verdoyante toute l'année.",
-    "date": "2026-07-10",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
