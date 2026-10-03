@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-entretien",
+    "titre": "Entretien pergola aluminium : nettoyage simple ou entretien régulier ?",
+    "categorie": "Aluminium",
+    "description": "Découvrez comment bien entretenir votre pergola en aluminium. Comparatif nettoyage simple vs entretien régulier pour une durée de vie optimale de votre pergola alu.",
+    "date": "2026-10-03",
+    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-sur-mesure"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "7 avantages de la pergola fer forgé pour votre terrasse",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "7 secrets pour une pergola bois résistante aux intempéries",
-    "categorie": "Matériaux",
-    "description": "Découvrez 7 solutions éprouvées pour protéger votre pergola bois résistante aux intempéries. Traitements, entretien et matériaux : le guide complet.",
-    "date": "2026-07-11",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
