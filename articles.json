@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola en week-end : 7 questions pour réussir",
+    "categorie": "Installation",
+    "description": "Installer pergola week-end en toute sérénité ? Découvrez les 7 questions essentielles pour réussir votre installation pergola en 48h, de la fixation au choix du matériel.",
+    "date": "2026-10-03",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte vs ouverte : les avantages à connaître",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : ce qu'il faut vérifier avant l'installation",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : guide complet sur la réglementation, les droits de voisinage, les autorisations et les règles de fixation. Tout ce qu'il faut vérifier.",
-    "date": "2026-07-10",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]

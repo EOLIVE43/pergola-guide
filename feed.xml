@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:26:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:58:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola en week-end : 7 questions pour réussir</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Installer pergola week-end en toute sérénité ? Découvrez les 7 questions essentielles pour réussir votre installation pergola en 48h, de la fixation au choix du matériel.</description>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola couverte vs ouverte : les avantages à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez la checklist complète de l'entretien pergola printemps. Nettoyage intensif vs traitement léger : quelle stratégie selon votre pergola bois ? Guide 2025.</description>
       <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez comment utiliser votre pergola bioclimatique en hiver et profiter de votre terrasse 12 mois sur 12. Conseils, accessoires et solutions pratiques pour une véritable pièce de vie extérieure.</description>
-      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
