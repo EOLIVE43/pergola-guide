@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:42:01 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:47:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola aluminium : le guide complet pour 10 ans de durabilité</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
+      <description>Entretien pergola aluminium : nettoyage, maintenance saisonnière et conseils experts pour préserver votre structure. Guide pratique 2026.</description>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pour pergola : confort et économies en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola résistante vent : découvrez les 8 critères essentiels pour choisir une pergola robuste face aux rafales. Matériaux, dimensions, ancrage.</description>
       <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment fixer une pergola sur dalle béton ? Guide complet 2024</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Découvrez comment fixer pergola dalle béton en 7 étapes : techniques, matériaux, normes et coûts. Guide pratique pour une installation sécurisée et conforme.</description>
-      <pubDate>Wed, 30 Sep 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
