@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "7 avantages de la pergola fer forgé pour votre terrasse",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 7 avantages majeurs de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Comparaison avec pergola bois.",
+    "date": "2026-10-03",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-bioclimatique-marques",
     "titre": "Meilleure marque pergola bioclimatique 2026 : guide complet",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante au vent : comment bien choisir en été 2026",
-    "categorie": "Conseils",
-    "description": "Quelle pergola résiste le mieux au vent ? Guide complet 2026 pour choisir une pergola résistante vent et sécuriser votre terrasse avant les tempêtes d'été.",
-    "date": "2026-07-11",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]

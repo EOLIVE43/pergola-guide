@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 03 Oct 2026 14:04:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:28:19 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 avantages de la pergola fer forgé pour votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les 7 avantages majeurs de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Comparaison avec pergola bois.</description>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Meilleure marque pergola bioclimatique 2026 : guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x4 jardin : guide complet sur les dimensions, réglementation, prix et installation. Réponses aux 8 questions essentielles des propriétaires.</description>
       <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola moderne ou contemporaine : le vrai match 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Pergola moderne contemporaine 2026 : découvrez les différences, caractéristiques et tendances. Comparatif complet pour bien choisir votre structure.</description>
-      <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
