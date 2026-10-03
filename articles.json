@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : 5 stratégies pour l'utiliser toute l'année",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment utiliser votre pergola bioclimatique en hiver. Guide complet avec solutions chauffage, isolation et prix 2026 pour profiter toute l'année.",
+    "date": "2026-10-03",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-aluminium-entretien",
     "titre": "Entretien pergola aluminium : nettoyage simple ou entretien régulier ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Quel matériau pour la toiture de sa pergola ? Guide complet 2026",
-    "categorie": "Toiture",
-    "description": "Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, verre, bois, aluminium. Comparaison prix, durabilité et conseils d'installation.",
-    "date": "2026-07-11",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
