@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 04 Oct 2026 11:42:39 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:08:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : faut-il déclarer son installation ?</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Guide complet sur l'assurance pergola déclaration, les obligations légales et les risques de non-déclaration en 2024.</description>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : le choix de teinte qui a transformé la terrasse…</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Comment obtenir un bon devis pergola artisan ? Découvrez les 8 questions essentielles pour comparer les prix, évaluer la qualité et éviter les pièges. Guide complet avec tarifs 2024.</description>
       <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola acier corten : esthétique rouillée et durabilité garantie</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Pergola acier corten : découvrez l'esthétique de la rouille patinée, sa durabilité exceptionnelle et ses avantages pour votre terrasse. Comparaison et conseils complets.</description>
-      <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
