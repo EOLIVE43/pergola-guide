@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:00:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 10:54:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola bioclimatique : 8 étapes essentielles par saison</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
+      <description>Découvrez comment entretenir votre pergola bioclimatique toute l'année. 8 étapes clés pour prolonger sa durée de vie et optimiser ses performances.</description>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 5 stratégies pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget pour une pergola en France en 2026 ? Découvrez les prix réels, les options bioclimatiques et tous les facteurs qui influencent votre investissement.</description>
       <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marque pergola bioclimatique : Biossun ou Alumitec, qui choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Comparatif des meilleures marques de pergola bioclimatique 2026. Découvrez les forces de Biossun vs Alumitec pour bien choisir votre pergola bioclimatique.</description>
-      <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
