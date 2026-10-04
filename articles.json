@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte : avantages et inconvénients vs pergola ouverte",
+    "categorie": "Toiture",
+    "description": "Pergola couverte avantages : découvrez comment choisir entre couverte et ouverte. Comparaison complète, prix et conseils d'expert pour votre terrasse.",
+    "date": "2026-10-04",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment bien faire en 2025 ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité et design réunis",
-    "categorie": "Toiture",
-    "description": "Découvrez pourquoi la pergola toit verre feuilleté combine protection optimale et esthétique. Caractéristiques, prix, installation et avantages en 2026.",
-    "date": "2026-07-13",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]

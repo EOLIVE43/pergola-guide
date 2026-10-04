@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:37:48 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 14:31:06 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : avantages et inconvénients vs pergola ouverte</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Pergola couverte avantages : découvrez comment choisir entre couverte et ouverte. Comparaison complète, prix et conseils d'expert pour votre terrasse.</description>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : comment bien faire en 2025 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola acier corten : découvrez ses 7 avantages esthétiques et de durabilité. Rouille naturelle protectrice et design contemporain pour votre jardin.</description>
       <pubDate>Fri, 02 Oct 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment bien choisir son voile ombrage pergola : 8 critères essentiels</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Découvrez les 8 critères fondamentaux pour bien choisir votre voile ombrage pergola. Guide complet avec conseils d'expert et erreurs à éviter absolument.</description>
-      <pubDate>Thu, 01 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
