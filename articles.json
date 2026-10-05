@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : 8 variétés idéales pour votre jardin",
+    "categorie": "Jardin",
+    "description": "Rose grimpante pergola : découvrez 8 variétés incontournables pour habiller votre structure. Guide complet avec conseils de plantation et d'entretien.",
+    "date": "2026-10-05",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-mur-parpaing-fixer",
     "titre": "Comment fixer une pergola au mur en parpaing avant l'hiver 2026",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Comment aménager une cuisine extérieure sous pergola ? Guide pratique",
-    "categorie": "Jardin",
-    "description": "Découvrez comment aménager une cuisine extérieure pergola : étapes, budget, réglementation, équipements indispensables et conseils d'experts pour votre jardin.",
-    "date": "2026-07-14",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
