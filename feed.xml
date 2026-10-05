@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:03:50 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:23:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment fixer une pergola au mur en parpaing avant l'hiver 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Découvrez comment fixer pergola mur parpaing en automne 2026. Guide complet installation, fixation au mur, et planning avant les mauvaises conditions.</description>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer sa pergola bois : le choix qui a changé la terrasse de…</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Chauffage infrarouge pergola : guide complet sur les coûts, économies d'énergie et installation. Réponses aux questions essentielles pour votre terrasse.</description>
       <pubDate>Fri, 02 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment fixer une pergola au mur en parpaing avant l'hiver 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer pergola mur parpaing en automne 2026. Guide complet d'installation avec planning urgent avant les pluies hivernales et températures négatives.</description>
-      <pubDate>Fri, 02 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

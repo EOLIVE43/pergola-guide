@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Comment fixer une pergola au mur en parpaing avant l'hiver 2026",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer pergola mur parpaing en automne 2026. Guide complet installation, fixation au mur, et planning avant les mauvaises conditions.",
+    "date": "2026-10-05",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola bois : le choix qui a changé la terrasse de…",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola aluminium vs bois : 8 critères décisifs pour bien choisir en 2026",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium vs bois : découvrez les 8 différences clés (durabilité, prix, entretien). Comparatif complet pour choisir votre pergola idéale en France.",
-    "date": "2026-07-14",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
