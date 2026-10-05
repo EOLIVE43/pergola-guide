@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-peindre-lasurer",
+    "titre": "Peindre ou lasurer sa pergola bois : le choix qui a changé la terrasse de…",
+    "categorie": "Matériaux",
+    "description": "Peindre ou lasurer pergola bois ? Retour d'expérience d'un propriétaire du Var : budget réel, résultats à 18 mois et conseils concrets pour choisir.",
+    "date": "2026-10-05",
+    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "Brise-vue pergola jardin : 7 solutions pour créer votre intimité",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : prolongez vos soirées et économisez",
-    "categorie": "Jardin",
-    "description": "Découvrez le chauffage infrarouge pergola : fonctionnement, économies d'énergie, installation et prix. Guide complet pour un confort optimal en extérieur toute l'année.",
-    "date": "2026-07-14",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
