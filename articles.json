@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : 7 solutions pour créer votre intimité",
+    "categorie": "Stores",
+    "description": "Découvrez comment installer un brise-vue pergola jardin pour protéger votre espace. Guide complet avec solutions, tarifs et conseils d'experts.",
+    "date": "2026-10-05",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-pas-cher-bonne-qualite",
     "titre": "Pergola pas cher bonne qualité : 8 astuces pour ne pas vous tromper",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "Essence bois pergola : le guide complet pour une durabilité maximale",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment choisir l'essence de bois idéale pour votre pergola. Guide complet des bois durables, prix, avantages et comparaison essence bois pergola.",
-    "date": "2026-07-14",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
