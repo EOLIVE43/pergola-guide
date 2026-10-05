@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:43:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:33:58 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola printemps : checklist automne 2026 pour l'anticiper</title>
+      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
+      <description>Entretien pergola printemps : découvrez la checklist complète pour préparer votre pergola dès l'automne 2026. Conseils, budget et planning détaillé.</description>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : le projet de Véronique en Provence (budget 2026)</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola couverte avantages : découvrez les différences clés entre pergola ouverte et couverte pour faire le bon choix selon vos besoins.</description>
       <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : 7 stratégies pour bien acheter</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Découvrez comment trouver une pergola pas cher bonne qualité sans compromis. Guide complet avec astuces pour économiser et conseils d'experts pergola France.</description>
-      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

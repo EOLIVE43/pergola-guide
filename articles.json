@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : checklist automne 2026 pour l'anticiper",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : découvrez la checklist complète pour préparer votre pergola dès l'automne 2026. Conseils, budget et planning détaillé.",
+    "date": "2026-10-05",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : le projet de Véronique en Provence (budget 2026)",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : 8 solutions pour intimité et design",
-    "categorie": "Stores",
-    "description": "Découvrez comment choisir votre brise-vue pergola jardin. Solutions esthétiques, réglementations et conseils pour créer une intimité durable au jardin.",
-    "date": "2026-07-15",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
