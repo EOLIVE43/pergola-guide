@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "Quelle essence de bois pergola choisir pour 20 ans de durabilité ?",
+    "categorie": "Matériaux",
+    "description": "Quel bois résiste aux intempéries pour une pergola durable ? Découvrez les meilleures essences, prix et comparaisons pour bien choisir votre pergola en bois.",
+    "date": "2026-10-05",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola printemps : checklist automne 2026 pour l'anticiper",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Voile ombrage pergola : comment bien choisir en 2025 ?",
-    "categorie": "Toiture",
-    "description": "Découvrez comment bien choisir votre voile ombrage pergola : matériaux, dimensions, installation, prix et réglementation. Guide complet avec réponses pratiques.",
-    "date": "2026-07-15",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]

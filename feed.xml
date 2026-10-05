@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 17:33:58 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:55:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle essence de bois pergola choisir pour 20 ans de durabilité ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Quel bois résiste aux intempéries pour une pergola durable ? Découvrez les meilleures essences, prix et comparaisons pour bien choisir votre pergola en bois.</description>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : checklist automne 2026 pour l'anticiper</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Installer pergola week-end en toute sérénité ? Découvrez les 7 questions essentielles pour réussir votre installation pergola en 48h, de la fixation au choix du matériel.</description>
       <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte vs ouverte : les avantages à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Pergola couverte avantages : découvrez les différences clés entre pergola ouverte et couverte pour faire le bon choix selon vos besoins.</description>
-      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
