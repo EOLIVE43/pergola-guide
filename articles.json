@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "8 roses grimpantes parfaites pour votre pergola : guide complet",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures variétés de roses grimpantes pour pergola : caractéristiques, entretien et sélection selon votre région. Conseil expert.",
+    "date": "2026-10-06",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-permis-construire-quand",
     "titre": "Pergola permis construire 2026 : déclaration ou autorisation ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : 8 points clés pour bien choisir",
-    "categorie": "Stores",
-    "description": "Découvrez les 8 essentiels du store pergola motorisé : prix, avantages, installation. Guide complet pour faire le bon choix et éviter les pièges.",
-    "date": "2026-07-16",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]

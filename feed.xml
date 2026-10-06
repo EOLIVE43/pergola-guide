@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:06:46 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:09:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 roses grimpantes parfaites pour votre pergola : guide complet</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les 8 meilleures variétés de roses grimpantes pour pergola : caractéristiques, entretien et sélection selon votre région. Conseil expert.</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola permis construire 2026 : déclaration ou autorisation ?</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola couverte avantages : découvrez comment choisir entre couverte et ouverte. Comparaison complète, prix et conseils d'expert pour votre terrasse.</description>
       <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment bien faire en 2025 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Déclaration préalable pergola : découvrez comment déclarer, les étapes obligatoires, délais et conditions. Guide complet pour éviter les pénalités.</description>
-      <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
