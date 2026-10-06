@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-peindre-lasurer",
+    "titre": "Peindre ou lasurer sa pergola en bois : quel traitement choisir ?",
+    "categorie": "Matériaux",
+    "description": "Peindre ou lasurer votre pergola en bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et sublimer votre structure durablement.",
+    "date": "2026-10-06",
+    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : prix, installation et 5 avantages à connaître",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-4x3-terrasse-standard",
-    "titre": "Pergola 4x3 pour terrasse : le guide complet des dimensions idéales",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace. Avantages, prix, installation et erreurs à éviter en 2026.",
-    "date": "2026-07-15",
-    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x3"
   }
 ]

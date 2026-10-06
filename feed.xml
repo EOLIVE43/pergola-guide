@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Oct 2026 11:49:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:37:52 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola en bois : quel traitement choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer votre pergola en bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et sublimer votre structure durablement.</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : prix, installation et 5 avantages à connaître</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien entretenir votre pergola en aluminium. Comparatif nettoyage simple vs entretien régulier pour une durée de vie optimale de votre pergola alu.</description>
       <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 avantages de la pergola fer forgé pour votre terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
-      <description>Découvrez les 7 avantages majeurs de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Comparaison avec pergola bois.</description>
-      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
