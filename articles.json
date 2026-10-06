@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir ? Cas concret d'une terrasse à Toulouse",
+    "categorie": "Dimensions",
+    "description": "Comment bien choisir la taille de sa pergola ? Découvrez le cas réel de Mathieu : terrasse 18m², budget 8 500€, résultats probants. Guide pratique 2026.",
+    "date": "2026-10-06",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola en bois : quel traitement choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : 8 conseils pour réussir",
-    "categorie": "Jardin",
-    "description": "Pergola piscine aménagement : découvrez 8 conseils et idées pour créer un espace ombragé et fonctionnel au bord de votre piscine. Guide complet 2026.",
-    "date": "2026-07-15",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
