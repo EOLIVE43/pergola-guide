@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : bois brut ou bois traité, quel matériau choisir ?",
+    "categorie": "Style",
+    "description": "Pergola rustique campagne : comparez bois brut vs bois traité. Matériaux, prix, entretien. Guide complet avec tableau comparatif pour bien choisir votre pergola.",
+    "date": "2026-10-06",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-aluminium-avantages-inconvenients",
     "titre": "Pergola aluminium : avantages et inconvénients à connaître en 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "9 avantages pergola polycarbonate : le guide complet",
-    "categorie": "Toiture",
-    "description": "Découvrez les 9 avantages majeurs de la pergola polycarbonate : durabilité, prix, luminosité et pose. Guide complet pour bien choisir votre pergola.",
-    "date": "2026-07-16",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
