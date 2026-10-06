@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : prix, installation et 5 avantages à connaître",
+    "categorie": "Stores",
+    "description": "Store pergola motorisé : guide complet des prix (2026), avantages, installation et maintenance. Découvrez comment choisir et installer votre store motorisé.",
+    "date": "2026-10-06",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-terrasse-bois-composite",
     "titre": "Pergola terrasse bois composite : guide de fixation et installation",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : prix, avantages et installation",
-    "categorie": "Stores",
-    "description": "Découvrez le store pergola motorisé : prix réels, avantages et étapes d'installation. Guide complet avec chiffres et conseils pratiques pour bien choisir.",
-    "date": "2026-07-15",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
