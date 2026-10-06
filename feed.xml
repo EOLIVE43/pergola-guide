@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:55:27 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:10:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola terrasse bois composite : guide de fixation et installation</title>
+      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
+      <description>Pergola terrasse bois composite : conseils de fixation, installation sur plots, erreurs à éviter. Guide complet avec prix et étapes pratiques pour réussir votre projet.</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle essence de bois pergola choisir pour 20 ans de durabilité ?</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparaison, prix, modèles 4x3, 6x4, avis experts. Choisissez votre pergola bioclimatique idéale.</description>
       <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola en week-end : 7 questions pour réussir</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Installer pergola week-end en toute sérénité ? Découvrez les 7 questions essentielles pour réussir votre installation pergola en 48h, de la fixation au choix du matériel.</description>
-      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
