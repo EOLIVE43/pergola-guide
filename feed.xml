@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:09:05 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:40:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium : avantages et inconvénients à connaître en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
+      <description>Découvrez les véritables avantages et inconvénients de la pergola aluminium en 2026. Comparatif complet, prix, durabilité et entretien pour bien choisir.</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir ? Cas concret d'une terrasse à Toulouse</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -175,15 +184,6 @@
       <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
       <description>Découvrez comment entretenir votre pergola bioclimatique toute l'année. 8 étapes clés pour prolonger sa durée de vie et optimiser ses performances.</description>
       <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : 5 stratégies pour l'utiliser toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez comment utiliser votre pergola bioclimatique en hiver. Guide complet avec solutions chauffage, isolation et prix 2026 pour profiter toute l'année.</description>
-      <pubDate>Sat, 03 Oct 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
