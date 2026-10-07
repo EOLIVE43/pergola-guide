@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "Pergola sur mesure avantages : le retour d'expérience d'une famille bordelaise",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi une pergola sur mesure a transformé la terrasse d'une maison à Bordeaux. Budget réel, dimensions, délai : étude de cas 2026 avec chiffres concrets.",
+    "date": "2026-10-07",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
     "slug": "pergola-aluminium-entretien",
     "titre": "Entretien pergola aluminium : nettoyage ou traitement régulier ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité et esthétique en 8 questions",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : découvrez les réponses à vos questions sur la sécurité, l'esthétique, la réglementation et les prix. Guide complet et pratique.",
-    "date": "2026-07-17",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]

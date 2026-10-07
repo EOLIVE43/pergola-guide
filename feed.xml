@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:24:59 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:00:29 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola sur mesure avantages : le retour d'expérience d'une famille bordelaise</title>
+      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
+      <description>Découvrez pourquoi une pergola sur mesure a transformé la terrasse d'une maison à Bordeaux. Budget réel, dimensions, délai : étude de cas 2026 avec chiffres concrets.</description>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola aluminium : nettoyage ou traitement régulier ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer un brise-vue pergola jardin pour protéger votre espace. Guide complet avec solutions, tarifs et conseils d'experts.</description>
       <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : 8 astuces pour ne pas vous tromper</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Trouvez une pergola pas cher sans sacrifier la qualité. Découvrez 8 conseils essentiels pour bien choisir votre pergola au meilleur prix 2026.</description>
-      <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
