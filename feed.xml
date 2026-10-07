@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:44:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:42:42 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola dalle béton : 8 étapes indispensables pour réussir</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment fixer pergola dalle béton en 8 étapes clés. Guide complet d'installation pergola pour terrasse béton, avec conseils experts et erreurs à éviter.</description>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Essence bois pergola : le guide pour choisir avant l'hiver 2026</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Véronique a transformé sa terrasse avec un store pergola motorisé. Budget réel, installation, avantages : retour d'expérience complet 2026.</description>
       <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : 8 variétés idéales pour votre jardin</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Rose grimpante pergola : découvrez 8 variétés incontournables pour habiller votre structure. Guide complet avec conseils de plantation et d'entretien.</description>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
