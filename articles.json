@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola déclaration : faut-il la déclarer vraiment ?",
+    "categorie": "Réglementation",
+    "description": "Faut-il déclarer sa pergola à son assurance habitation ? Découvrez les risques, obligations légales et économies possibles dans ce comparatif 2026.",
+    "date": "2026-10-07",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "8 roses grimpantes parfaites pour votre pergola : guide complet",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment déclarer en 8 étapes",
-    "categorie": "Installation",
-    "description": "Déclaration préalable pergola : découvrez comment la déclarer légalement en 8 étapes simples. Guide complet pour éviter les amendes et régulariser votre installation.",
-    "date": "2026-07-16",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]

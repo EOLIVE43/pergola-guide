@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 06 Oct 2026 18:09:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:32:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola déclaration : faut-il la déclarer vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance habitation ? Découvrez les risques, obligations légales et économies possibles dans ce comparatif 2026.</description>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 roses grimpantes parfaites pour votre pergola : guide complet</title>
       <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif, prix, avis et sélection des meilleurs modèles 4x3, 6x4, 3x3 pour votre terrasse.</description>
       <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte : avantages et inconvénients vs pergola ouverte</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Pergola couverte avantages : découvrez comment choisir entre couverte et ouverte. Comparaison complète, prix et conseils d'expert pour votre terrasse.</description>
-      <pubDate>Sun, 04 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
