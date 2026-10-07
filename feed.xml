@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Oct 2026 15:54:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:04:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : combien de temps dure vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie réelle et comment l'entretenir. Réponses claires aux questions essentielles des propriétaires français.</description>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : 8 différences essentielles avant d'acheter</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer pergola mur parpaing en automne 2026. Guide complet installation, fixation au mur, et planning avant les mauvaises conditions.</description>
       <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Peindre ou lasurer sa pergola bois : le choix qui a changé la terrasse de…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
-      <description>Peindre ou lasurer pergola bois ? Retour d'expérience d'un propriétaire du Var : budget réel, résultats à 18 mois et conseils concrets pour choisir.</description>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

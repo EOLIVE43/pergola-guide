@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-autoclave",
+    "titre": "Pergola bois autoclave : combien de temps dure vraiment ?",
+    "categorie": "Matériaux",
+    "description": "Pergola bois autoclave : découvrez ses avantages, sa durée de vie réelle et comment l'entretenir. Réponses claires aux questions essentielles des propriétaires français.",
+    "date": "2026-10-07",
+    "thumb": "/images/blog/pergola-bois-autoclave.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : 8 différences essentielles avant d'acheter",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "nettoyage-pergola-karcher",
-    "titre": "Nettoyage pergola Kärcher : 8 conseils pour ne pas l'abîmer",
-    "categorie": "Entretien",
-    "description": "Le nettoyage pergola Kärcher est tentant mais risqué. Découvrez 8 conseils essentiels et les bonnes pratiques pour nettoyer sans endommager votre pergola en bois ou aluminium.",
-    "date": "2026-07-17",
-    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
