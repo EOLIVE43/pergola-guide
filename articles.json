@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "Essence bois pergola : le guide pour choisir avant l'hiver 2026",
+    "categorie": "Matériaux",
+    "description": "Quelle essence choisir pour une pergola durable ? Découvrez nos recommandations automne 2026 : bois traité, douglas, mélèze. Guide complet + budget.",
+    "date": "2026-10-07",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : combien de temps dure vraiment ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : comment Nathalie a transformé son jardin à Toulouse",
-    "categorie": "Jardin",
-    "description": "Rose grimpante pergola : découvrez comment une propriétaire a choisi ses variétés et réalisé son projet en 6 mois. Budget, conseils et résultats concrets.",
-    "date": "2026-07-17",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

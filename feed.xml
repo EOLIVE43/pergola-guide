@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:04:22 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:44:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Essence bois pergola : le guide pour choisir avant l'hiver 2026</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Quelle essence choisir pour une pergola durable ? Découvrez nos recommandations automne 2026 : bois traité, douglas, mélèze. Guide complet + budget.</description>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : combien de temps dure vraiment ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Rose grimpante pergola : découvrez 8 variétés incontournables pour habiller votre structure. Guide complet avec conseils de plantation et d'entretien.</description>
       <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Comment fixer une pergola au mur en parpaing avant l'hiver 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer pergola mur parpaing en automne 2026. Guide complet installation, fixation au mur, et planning avant les mauvaises conditions.</description>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
