@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-entretien",
+    "titre": "Entretien pergola aluminium : nettoyage ou traitement régulier ?",
+    "categorie": "Aluminium",
+    "description": "Découvrez comment entretenir votre pergola aluminium efficacement. Comparaison entre nettoyage basique et traitement régulier pour prolonger sa durée de vie.",
+    "date": "2026-10-07",
+    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-sur-mesure"
+  },
+  {
     "slug": "pergola-bioclimatique-installation-soi-meme",
     "titre": "Installer une pergola bioclimatique soi-même : guide pratique 2025",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : votre guide d'achat été 2026",
-    "categorie": "Stores",
-    "description": "Rideaux extérieurs pergola : tout ce qu'il faut savoir pour choisir et installer avant les fortes chaleurs. Guide complet été 2026 avec prix et délais.",
-    "date": "2026-07-17",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
