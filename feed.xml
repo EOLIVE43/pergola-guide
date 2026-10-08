@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:41:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:33:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Éclairage LED pergola : vos meilleures solutions avant l'hiver 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
+      <description>Découvrez les meilleures solutions d'éclairage LED pour pergola cet automne 2026. Guide complet avec budgets, installation et erreurs à éviter avant l'hiver.</description>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer une pergola sur mur en parpaing : guide complet en 5 étapes</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : guide complet des prix (2026), avantages, installation et maintenance. Découvrez comment choisir et installer votre store motorisé.</description>
       <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola terrasse bois composite : guide de fixation et installation</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Pergola terrasse bois composite : conseils de fixation, installation sur plots, erreurs à éviter. Guide complet avec prix et étapes pratiques pour réussir votre projet.</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

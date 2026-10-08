@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : vos meilleures solutions avant l'hiver 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures solutions d'éclairage LED pour pergola cet automne 2026. Guide complet avec budgets, installation et erreurs à éviter avant l'hiver.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "pergola-mur-parpaing-fixer",
     "titre": "Fixer une pergola sur mur en parpaing : guide complet en 5 étapes",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "8 couleurs pergola aluminium à privilégier en 2025",
-    "categorie": "Aluminium",
-    "description": "Découvrez les meilleures couleurs et finitions pour votre pergola aluminium. 8 choix de teintes qui valorisent votre terrasse et augmentent votre confort d'été.",
-    "date": "2026-07-19",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
