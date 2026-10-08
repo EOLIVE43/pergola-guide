@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : l'automne 2026, votre dernière chance avant…",
+    "categorie": "Toiture",
+    "description": "Découvrez pourquoi installer une pergola avec toit verre feuilleté en automne 2026 est crucial. Sécurité, esthétique et protection hivernale : le guide complet avec planning d'action.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-eclairage-led",
     "titre": "Éclairage LED pergola : vos meilleures solutions avant l'hiver 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : pose par pro ou DIY en 2025 ?",
-    "categorie": "Prix",
-    "description": "Comparez les coûts d'installation d'une pergola : main d'œuvre professionnelle vs pose DIY. Tarifs, économies et conseils pour bien choisir.",
-    "date": "2026-07-19",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
