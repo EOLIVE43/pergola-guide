@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : la dimension idéale pour 95% des maisons",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : guide complet pour choisir cette dimension. Avantages, installation, prix et erreurs à éviter en 2024.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : 8 étapes indispensables pour réussir",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : le guide complet pour des fleurs spectaculaires",
-    "categorie": "Jardin",
-    "description": "Glycine pergola entretien : découvrez comment planter, tailler et soigner votre glycine. Conseils pratiques pour des fleurs abondantes et durables.",
-    "date": "2026-07-18",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
