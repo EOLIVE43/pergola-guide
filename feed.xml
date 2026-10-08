@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:48:41 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:41:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : 5 avantages qui changent tout vs pergola ouverte</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les véritables avantages d'une pergola couverte : protection, confort, durabilité. Comparaison complète avec pergola ouverte et conseils de choix 2024.</description>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : 8 raisons de craquer pour ce design rouillé</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : découvrez si l'aluminium ou le polycarbonate supporte mieux le poids. Comparatif complet pour choisir votre structure idéale en montagne.</description>
       <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola rustique campagne : bois brut ou bois traité, quel matériau choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Pergola rustique campagne : comparez bois brut vs bois traité. Matériaux, prix, entretien. Guide complet avec tableau comparatif pour bien choisir votre pergola.</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
