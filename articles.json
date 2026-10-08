@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate avantages : guide complet 2024",
+    "categorie": "Toiture",
+    "description": "Pergola polycarbonate avantages : découvrez les bénéfices, les tarifs et les étapes de pose. Guide complet pour bien choisir votre toiture.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-permis-construire-quand",
     "titre": "Permis de construire pergola 2026 : 8 règles essentielles avant installation",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer pergola week-end : DIY rapide ou faire appel à un pro ?",
-    "categorie": "Installation",
-    "description": "Installer pergola en week-end : comparez l'auto-installation et la pose professionnelle. Guide complet, étapes, coûts et conseils pour réussir votre projet.",
-    "date": "2026-07-19",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
