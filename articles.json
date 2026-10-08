@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate : avantages, prix et pose en 8 questions",
+    "categorie": "Toiture",
+    "description": "Pergola polycarbonate avantages : découvrez les bénéfices, tarifs réels et étapes de pose. Réponses claires aux questions essentielles des propriétaires français.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : la dimension idéale pour 95% des maisons",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Quelle taille de pergola choisir ? Guide pratique par terrasse",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment bien choisir la taille de pergola adaptée à votre terrasse. Critères, calculs et exemples concrets pour un investissement réussi.",
-    "date": "2026-07-18",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:15:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:47:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate : avantages, prix et pose en 8 questions</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Pergola polycarbonate avantages : découvrez les bénéfices, tarifs réels et étapes de pose. Réponses claires aux questions essentielles des propriétaires français.</description>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : la dimension idéale pour 95% des maisons</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Quel bois résiste aux intempéries pour une pergola durable ? Découvrez les meilleures essences, prix et comparaisons pour bien choisir votre pergola en bois.</description>
       <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola printemps : checklist automne 2026 pour l'anticiper</title>
-      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
-      <description>Entretien pergola printemps : découvrez la checklist complète pour préparer votre pergola dès l'automne 2026. Conseils, budget et planning détaillé.</description>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
