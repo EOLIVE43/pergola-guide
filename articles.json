@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Fixer une pergola sur mur en parpaing : guide complet en 5 étapes",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer pergola mur parpaing sans risque. Guide complet avec matériaux, techniques et erreurs à éviter pour une installation durable.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate : avantages, prix et pose en 8 questions",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "8 idées pour réussir votre pergola piscine aménagement",
-    "categorie": "Jardin",
-    "description": "Pergola piscine aménagement : 8 idées et conseils pour créer un espace ombragé et convivial au bord de votre bassin. Guide complet 2025.",
-    "date": "2026-07-18",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
