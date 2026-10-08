@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : 8 raisons de craquer pour ce design rouillé",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten : découvrez les 8 atouts majeurs de cette structure tendance. Esthétique rouillée, durabilité exceptionnelle et robustesse inégalée pour votre terrasse.",
+    "date": "2026-10-08",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate avantages : guide complet 2024",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : guide complet prix et installation 2026",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez les prix, avantages et étapes d'installation. Guide complet pour bien choisir votre équipement d'ombrage automatisé.",
-    "date": "2026-07-19",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]

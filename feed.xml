@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:02:47 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:48:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : 8 raisons de craquer pour ce design rouillé</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten : découvrez les 8 atouts majeurs de cette structure tendance. Esthétique rouillée, durabilité exceptionnelle et robustesse inégalée pour votre terrasse.</description>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola polycarbonate avantages : guide complet 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola rustique campagne : comparez bois brut vs bois traité. Matériaux, prix, entretien. Guide complet avec tableau comparatif pour bien choisir votre pergola.</description>
       <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium : avantages et inconvénients à connaître en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Découvrez les véritables avantages et inconvénients de la pergola aluminium en 2026. Comparatif complet, prix, durabilité et entretien pour bien choisir.</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
