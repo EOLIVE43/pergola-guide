@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : dimensions parfaites pour votre jardin",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale pour une terrasse standard. Guide complet avec règlementation, prix et conseils d'installation.",
+    "date": "2026-10-09",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola : quel matériau choisir avant l'hiver 2026 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Aménager une cuisine extérieure pergola : 8 solutions clés",
-    "categorie": "Jardin",
-    "description": "Comment aménager une cuisine extérieure pergola ? Découvrez les solutions d'installation, réglementation, prix et matériaux pour votre jardin. Guide complet et pratique.",
-    "date": "2026-07-20",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
