@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 14:53:24 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:40:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voile ombrage pergola : 8 critères pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
+      <description>Voile ombrage pergola : découvrez les 8 critères essentiels pour choisir le bon voile. Matière, taille, orientation, budget… le guide complet.</description>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : dimensions parfaites pour votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi une pergola sur mesure a transformé la terrasse d'une maison à Bordeaux. Budget réel, dimensions, délai : étude de cas 2026 avec chiffres concrets.</description>
       <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola aluminium : nettoyage ou traitement régulier ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
-      <description>Découvrez comment entretenir votre pergola aluminium efficacement. Comparaison entre nettoyage basique et traitement régulier pour prolonger sa durée de vie.</description>
-      <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

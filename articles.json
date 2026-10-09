@@ -1,5 +1,15 @@
 [
   {
+    "slug": "voile-ombrage-pergola-choisir",
+    "titre": "Voile ombrage pergola : 8 critères pour bien choisir",
+    "categorie": "Toiture",
+    "description": "Voile ombrage pergola : découvrez les 8 critères essentiels pour choisir le bon voile. Matière, taille, orientation, budget… le guide complet.",
+    "date": "2026-10-09",
+    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-voile-ombrage"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : dimensions parfaites pour votre jardin",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-acier-corten",
-    "titre": "7 avantages de la pergola acier corten pour votre jardin",
-    "categorie": "Matériaux",
-    "description": "Découvrez pourquoi la pergola acier corten séduit les propriétaires français : esthétique rouillée, durabilité exceptionnelle et 7 bénéfices clés pour transformer votre terrasse.",
-    "date": "2026-07-20",
-    "thumb": "/images/blog/pergola-acier-corten.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
