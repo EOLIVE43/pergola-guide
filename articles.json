@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "7 avantages de la pergola sur mesure qui changent tout",
+    "categorie": "Dimensions",
+    "description": "Découvrez les 7 avantages majeurs de la pergola sur mesure : adaptation parfaite, économies et durabilité. Pourquoi c'est le meilleur choix pour votre jardin.",
+    "date": "2026-10-09",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
     "slug": "entretien-pergola-printemps",
     "titre": "Entretien pergola printemps : la checklist complète avant mai 2027",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "nettoyage-pergola-karcher",
-    "titre": "Nettoyage pergola Kärcher : guide complet et précautions essentielles",
-    "categorie": "Entretien",
-    "description": "Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils pratiques, les risques à éviter et les bonnes techniques pour entretenir votre pergola sans l'endommager. Guide complet 2025.",
-    "date": "2026-07-20",
-    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
