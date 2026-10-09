@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:40:49 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:28:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : 8 avantages qui changent tout en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Pergola couverte avantages : découvrez les 8 bénéfices majeurs pour votre terrasse. Protection, esthétique, investissement durable. Guide complet.</description>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 avantages de la pergola sur mesure qui changent tout</title>
       <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance habitation ? Découvrez les risques, obligations légales et économies possibles dans ce comparatif 2026.</description>
       <pubDate>Wed, 07 Oct 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 roses grimpantes parfaites pour votre pergola : guide complet</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les 8 meilleures variétés de roses grimpantes pour pergola : caractéristiques, entretien et sélection selon votre région. Conseil expert.</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
