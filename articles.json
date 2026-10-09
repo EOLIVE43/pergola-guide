@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : la checklist complète avant mai 2027",
+    "categorie": "Entretien",
+    "description": "Découvrez la checklist complète d'entretien pergola printemps. Guide pratique 2026-2027 : nettoyage, traitement bois, réparations avant la belle saison.",
+    "date": "2026-10-09",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : 5 avantages qui changent tout vs pergola ouverte",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : le guide complet de l'été 2026",
-    "categorie": "Jardin",
-    "description": "Découvrez comment entretenir votre glycine en pergola durant l'été 2026. Taille, arrosage, traitement des parasites : toutes les actions essentielles à faire maintenant.",
-    "date": "2026-07-19",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
