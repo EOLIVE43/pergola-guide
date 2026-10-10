@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher en automne : le guide complet pour octobre 2026",
+    "categorie": "Entretien",
+    "description": "Nettoyage pergola Kärcher : conseils de pro pour l'automne 2026. Techniques sûres, précautions essentielles, planning d'action avant l'hiver.",
+    "date": "2026-10-10",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "Pergola moderne ou contemporaine 2026 : laquelle choisir ?",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "Store zip pergola : 8 avantages qui changent tout face au vent",
-    "categorie": "Stores",
-    "description": "Découvrez les 8 avantages du store zip pergola contre le vent. Protection optimale, étanchéité, facilité d'usage : tout ce qu'il faut savoir pour bien choisir.",
-    "date": "2026-07-22",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
