@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : 8 solutions incontournables pour 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures solutions d'éclairage LED pour pergola en 2026. Guides complets, prix, conseils d'installation pour transformer votre terrasse.",
+    "date": "2026-10-10",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : comment la faire en 5 étapes ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-permis-construire-quand",
-    "titre": "Pergola et permis de construire 2026 : 8 règles essentielles",
-    "categorie": "Installation",
-    "description": "Pergola permis construire 2026 : découvrez les 8 règles légales incontournables pour votre installation sans risque de démolition en France.",
-    "date": "2026-07-22",
-    "thumb": "/images/blog/pergola-permis-construire-quand.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
