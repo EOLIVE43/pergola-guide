@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-couleurs-disponibles",
+    "titre": "Pergola aluminium couleur : comment Sandrine a choisi la bonne teinte pour…",
+    "categorie": "Aluminium",
+    "description": "Découvrez comment une propriétaire française a sélectionné la pergola aluminium couleur idéale. Cas concret, budget réel 2026 et conseils d'expert pour votre terrasse.",
+    "date": "2026-10-11",
+    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "7 raisons pour lesquelles une pergola 4x4 transforme votre jardin",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : 5 idées pour transformer votre espace",
-    "categorie": "Jardin",
-    "description": "Découvrez comment aménager une pergola au bord de votre piscine : styles, matériaux, budget et conseils d'installation pour créer un espace détente optimal.",
-    "date": "2026-07-23",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
