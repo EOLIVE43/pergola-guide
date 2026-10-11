@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 11:13:06 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:59:35 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment fixer une pergola sur dalle béton ? Guide 2024</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Découvrez comment fixer pergola dalle béton en 7 étapes. Techniques, matériel, réglementation et prix pose pergola : tout ce qu'il faut savoir.</description>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola terrasse bois composite : le guide complet pour bien fixer et installer</title>
       <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les véritables avantages d'une pergola couverte : protection, confort, durabilité. Comparaison complète avec pergola ouverte et conseils de choix 2024.</description>
       <pubDate>Thu, 08 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola acier corten : 8 raisons de craquer pour ce design rouillé</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Pergola acier corten : découvrez les 8 atouts majeurs de cette structure tendance. Esthétique rouillée, durabilité exceptionnelle et robustesse inégalée pour votre terrasse.</description>
-      <pubDate>Thu, 08 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
