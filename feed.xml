@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:37:28 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:34:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : comment bien investir en automne</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Quel budget prévoir pour une pergola en France en 2026 ? Guide complet des prix et des économies à réaliser avant l'hiver. Devis gratuits automne 2026.</description>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Voile ombrage pergola : découvrez les 8 critères essentiels pour choisir le bon voile. Matière, taille, orientation, budget… le guide complet.</description>
       <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : dimensions parfaites pour votre jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale pour une terrasse standard. Guide complet avec règlementation, prix et conseils d'installation.</description>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
