@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:01:06 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:37:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Pergola bioclimatique hiver : découvrez 8 astuces pour profiter de votre pergola toute l'année. Conseils d'expert pour optimiser son usage en saison froide.</description>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : chevilles ou scellement ?</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale pour une terrasse standard. Guide complet avec règlementation, prix et conseils d'installation.</description>
       <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola : quel matériau choisir avant l'hiver 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez quel matériau pour la toiture de votre pergola en automne 2026. Polycarbonate, verre, toile : comparatif complet et urgence saisonnière pour agir maintenant.</description>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
