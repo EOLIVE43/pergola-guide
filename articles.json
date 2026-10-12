@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate : 8 avantages à connaître avant d'acheter",
+    "categorie": "Toiture",
+    "description": "Découvrez les 8 avantages majeurs de la pergola polycarbonate : durabilité, transparence, prix. Guide complet pour bien choisir votre structure de jardin.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-sur-mesure-avantages",
     "titre": "Pergola sur mesure : 8 avantages qui justifient vraiment le choix",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "7 matériaux pour une pergola rustique campagne authentique",
-    "categorie": "Style",
-    "description": "Découvrez les 7 meilleurs matériaux pour créer une pergola rustique campagne. Bois, pierre, métal : inspirations et conseils pour votre terrasse de charme.",
-    "date": "2026-07-26",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
