@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : 8 secrets pour transformer votre jardin",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une véritable pergola japonaise zen dans votre jardin. 8 conseils essentiels pour un espace zen authentique et harmonieux.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons : comment l'aménager pour toute l'année ?",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : le guide complet des prix et avantages",
-    "categorie": "Stores",
-    "description": "Store pergola motorisé : découvrez les prix, les avantages de l'automatisation, et comment bien l'installer. Guide complet pour votre terrasse en 2026.",
-    "date": "2026-07-25",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]

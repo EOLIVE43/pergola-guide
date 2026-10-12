@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 12 Oct 2026 11:49:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:45:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : 8 secrets pour transformer votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Découvrez comment créer une véritable pergola japonaise zen dans votre jardin. 8 conseils essentiels pour un espace zen authentique et harmonieux.</description>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons : comment l'aménager pour toute l'année ?</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Comment fixer pergola dalle béton ? Découvrez notre guide complet : matériel, techniques, erreurs à éviter et tarifs 2026. Installation facile en 5 étapes.</description>
       <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 jardin automne 2026 : vérifiez avant les pluies</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Pergola 4x4 jardin : guide saisonnier automne. Vérifications essentielles, planning d'installation et budget avant les pluies d'octobre-novembre 2026.</description>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
