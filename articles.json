@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : l'automne 2026, la saison parfaite pour agir",
+    "categorie": "Stores",
+    "description": "Découvrez comment installer un brise-vue pergola jardin avant l'hiver. Guide automne 2026 : solutions d'intimité, prix, planning d'installation et erreurs à éviter.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-installation-soi-meme",
     "titre": "Installer une pergola bioclimatique soi-même : est-ce possible ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-4x3-terrasse-standard",
-    "titre": "Pergola 4x3 : la dimension idéale pour une terrasse standard",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x3 : la dimension idéale pour une terrasse standard",
-    "date": "2026-07-25",
-    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x3"
   }
 ]
