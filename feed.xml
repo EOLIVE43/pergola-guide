@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 17:34:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:49:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons : comment l'aménager pour toute l'année ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment transformer votre pergola en espace 4 saisons habitable. Astuces d'aménagement, produits et solutions pour profiter de votre pergola été comme hiver.</description>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : comment bien investir en automne</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x4 jardin : guide saisonnier automne. Vérifications essentielles, planning d'installation et budget avant les pluies d'octobre-novembre 2026.</description>
       <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Voile ombrage pergola : 8 critères pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/voile-ombrage-pergola-choisir.html</guid>
-      <description>Voile ombrage pergola : découvrez les 8 critères essentiels pour choisir le bon voile. Matière, taille, orientation, budget… le guide complet.</description>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

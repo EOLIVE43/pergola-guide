@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons : comment l'aménager pour toute l'année ?",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment transformer votre pergola en espace 4 saisons habitable. Astuces d'aménagement, produits et solutions pour profiter de votre pergola été comme hiver.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : comment bien investir en automne",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne contemporaine 2026 : 7 tendances qui révolutionnent votre jardin",
-    "categorie": "Style",
-    "description": "Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux et technologies qui transforment les terrasses. Guide complet avec prix et exemples concrets.",
-    "date": "2026-07-24",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
