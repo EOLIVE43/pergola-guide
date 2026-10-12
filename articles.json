@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "Pergola sur mesure : 8 avantages qui justifient vraiment le choix",
+    "categorie": "Dimensions",
+    "description": "Découvrez les 8 avantages majeurs de la pergola sur mesure. Adaptation parfaite, durabilité et esthétique : pourquoi c'est souvent le meilleur choix pour votre terrasse.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "Brise-vue pergola jardin : l'automne 2026, la saison parfaite pour agir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : 8 conseils pour créer l'espace parfait",
-    "categorie": "Jardin",
-    "description": "Pergola piscine aménagement : 8 conseils d'experts pour transformer votre espace. Orientation, matériaux, budget, entretien. Guide complet 2026.",
-    "date": "2026-07-26",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
