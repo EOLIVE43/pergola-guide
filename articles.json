@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-plantes-grimpantes-meilleures",
+    "titre": "7 meilleures plantes grimpantes pour pergola en France",
+    "categorie": "Jardin",
+    "description": "Découvrez les 7 meilleures plantes grimpantes pergola France pour créer une oasis ombragée. Conseils de culture, prix et entretien inclus.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-bache-toile"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "Essence bois pergola : comment choisir le bon bois pour 30 ans de durabilité ?",
-    "categorie": "Matériaux",
-    "description": "Quelle essence de bois choisir pour votre pergola ? Découvrez les meilleures essences bois pergola : durabilité, prix, entretien. Guide complet 2026.",
-    "date": "2026-07-25",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
