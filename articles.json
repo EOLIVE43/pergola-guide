@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-installation-soi-meme",
+    "titre": "Installer une pergola bioclimatique soi-même : est-ce possible ?",
+    "categorie": "Bioclimatique",
+    "description": "Peut-on installer une pergola bioclimatique soi-même ? Découvrez les réponses à vos questions : compétences requises, permis, coûts, risques et alternatives. Guide complet 2024.",
+    "date": "2026-10-12",
+    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "7 meilleures plantes grimpantes pour pergola en France",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "bache-pergola-comment-choisir",
-    "titre": "Comment choisir sa bâche pergola : imperméabilité et résistance",
-    "categorie": "Toiture",
-    "description": "Découvrez comment bien choisir votre bâche pergola. Cas réel, conseils d'expert, critères d'imperméabilité et résistance. Budget et installation détaillés.",
-    "date": "2026-07-25",
-    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-bache-toile"
   }
 ]
