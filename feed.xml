@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:28:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:23:30 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 étapes pour aménager une cuisine extérieure sous pergola</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola en 8 étapes simples. Guide complet pour transformer votre terrasse en espace culinaire convivial.</description>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola aluminium en automne : guide pratique avant l'hiver</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola terrasse bois composite : découvrez comment bien fixer votre pergola, les techniques d'installation, prix et conseils pour une pose durable et sécurisée.</description>
       <pubDate>Sun, 11 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 7 vérifications essentielles</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : découvrez les règles légales, droits du voisin, autorisations et vérifications techniques avant pose. Guide complet 2024.</description>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

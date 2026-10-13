@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "8 étapes pour aménager une cuisine extérieure sous pergola",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une cuisine extérieure pergola en 8 étapes simples. Guide complet pour transformer votre terrasse en espace culinaire convivial.",
+    "date": "2026-10-13",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-aluminium-entretien",
     "titre": "Entretien pergola aluminium en automne : guide pratique avant l'hiver",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 aménagement : comment optimiser un petit espace ?",
-    "categorie": "Dimensions",
-    "description": "Pergola 3x3 aménagement : découvrez comment aménager intelligemment votre petite terrasse. Comparatif complet des solutions et conseils d'installation pour maximiser votre espace extérieur.",
-    "date": "2026-07-27",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
