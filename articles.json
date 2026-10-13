@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : comment choisir une structure fiable ?",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids, les normes, et comment bien choisir votre pergola pour l'hiver en France.",
+    "date": "2026-10-13",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "8 étapes pour aménager une cuisine extérieure sous pergola",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Quel matériau pour la toiture pergola ? 7 réponses essentielles",
-    "categorie": "Toiture",
-    "description": "Toiture pergola matériau : découvrez les 7 questions clés pour choisir entre verre, polycarbonate, bois et aluminium. Comparatif prix et durabilité.",
-    "date": "2026-07-27",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
