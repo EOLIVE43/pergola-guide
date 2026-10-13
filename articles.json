@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-entretien",
+    "titre": "Entretien pergola aluminium : nettoyage simple ou traitement annuel ?",
+    "categorie": "Aluminium",
+    "description": "Entretien pergola aluminium : découvrez si un simple nettoyage suffit ou si un traitement annuel est nécessaire. Comparatif complet et conseils pratiques.",
+    "date": "2026-10-13",
+    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-sur-mesure"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 5 idées pour transformer votre espace",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : 8 vérifications légales à faire",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : droits des voisins, déclaration, assurance, fixation. Découvrez ce qu'il faut absolument vérifier avant l'installation.",
-    "date": "2026-07-27",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
