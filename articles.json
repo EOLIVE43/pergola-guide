@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-terrasse-bois-composite",
+    "titre": "Pergola terrasse bois composite : comment bien la fixer ?",
+    "categorie": "Installation",
+    "description": "Pergola terrasse bois composite : guide complet de fixation, installation sur plots ou mur, prix et conseils pratiques pour une pose durable.",
+    "date": "2026-10-14",
+    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-terrasse-bois"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : le guide complet pour bien choisir",
-    "categorie": "Stores",
-    "description": "Rideaux extérieurs pergola : découvrez comment choisir le bon modèle, les matériaux résistants et les prix 2026. Guide d'achat complet avec conseils experts.",
-    "date": "2026-07-28",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
