@@ -1,6 +1,16 @@
 [
   {
     "slug": "quelle-essence-bois-pergola",
+    "titre": "Quelle essence de bois choisir pour votre pergola ? Le guide complet 2026",
+    "categorie": "Matériaux",
+    "description": "Découvrez les meilleures essences de bois pour une pergola durable. Comparatif complet : Douglas, mélèze, acacia. Conseils d'experts pergolas France.",
+    "date": "2026-10-14",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
+    "slug": "quelle-essence-bois-pergola",
     "titre": "8 essences de bois pour pergola : guide complet 2026",
     "categorie": "Matériaux",
     "description": "Découvrez les 8 meilleures essences de bois pergola durables et résistantes. Comparaison, prix et conseils pour choisir sa pergola bois selon vos besoins.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : 8 conseils pour optimiser confort et économies",
-    "categorie": "Jardin",
-    "description": "Découvrez comment installer un chauffage infrarouge pergola efficace. 8 conseils pour maximiser votre confort tout en réduisant vos factures énergétiques cet hiver.",
-    "date": "2026-07-29",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
