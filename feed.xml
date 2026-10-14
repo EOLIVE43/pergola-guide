@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:09:49 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:45:53 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé ou bois : lequel choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Pergola fer forgé avantages vs bois : comparatif complet sur style, durabilité et entretien. Découvrez la meilleure option pour votre terrasse.</description>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : le retour d'expérience d'une famille en Île-de-France</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Peut-on installer une pergola bioclimatique soi-même ? Découvrez les réponses à vos questions : compétences requises, permis, coûts, risques et alternatives. Guide complet 2024.</description>
       <pubDate>Mon, 12 Oct 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 meilleures plantes grimpantes pour pergola en France</title>
-      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
-      <description>Découvrez les 7 meilleures plantes grimpantes pergola France pour créer une oasis ombragée. Conseils de culture, prix et entretien inclus.</description>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

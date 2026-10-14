@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé ou bois : lequel choisir en 2025 ?",
+    "categorie": "Matériaux",
+    "description": "Pergola fer forgé avantages vs bois : comparatif complet sur style, durabilité et entretien. Découvrez la meilleure option pour votre terrasse.",
+    "date": "2026-10-14",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : le retour d'expérience d'une famille en Île-de-France",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne contemporaine 2026 : le guide complet des tendances qui…",
-    "categorie": "Style",
-    "description": "Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux innovants et solutions sur mesure pour votre extérieur. Guide complet 2026.",
-    "date": "2026-07-29",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
