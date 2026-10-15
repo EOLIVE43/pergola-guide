@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:32:13 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:33:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 : 5 idées d'aménagement pour optimiser votre petit espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez comment aménager une pergola 3x3 dans un petit jardin. Idées décoration, mobilier et végétation pour maximiser votre espace extérieur.</description>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : 8 clés pour confort et économies</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola en 8 étapes simples. Guide complet pour transformer votre terrasse en espace culinaire convivial.</description>
       <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola aluminium en automne : guide pratique avant l'hiver</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
-      <description>Découvrez comment entretenir votre pergola aluminium avant l'hiver 2026. Guide saisonnier avec 3 actions prioritaires, budget et planning automnal pour protéger votre pergola alu.</description>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

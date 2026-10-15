@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 : 5 idées d'aménagement pour optimiser votre petit espace",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment aménager une pergola 3x3 dans un petit jardin. Idées décoration, mobilier et végétation pour maximiser votre espace extérieur.",
+    "date": "2026-10-15",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : 8 clés pour confort et économies",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : 8 étapes pour maîtriser la main-d'œuvre",
-    "categorie": "Prix",
-    "description": "Découvrez le prix installation pergola en détail : coûts de main-d'œuvre, devis gratuit et 8 étapes clés pour économiser. Guide complet 2026.",
-    "date": "2026-07-30",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
