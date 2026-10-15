@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : 8 clés pour confort et économies",
+    "categorie": "Jardin",
+    "description": "Découvrez comment un chauffage infrarouge pergola optimise votre confort extérieur tout en réduisant les coûts énergétiques. 8 conseils essentiels pour bien choisir.",
+    "date": "2026-10-15",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "8 étapes pour fixer pergola dalle béton sans erreur",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante aux intempéries : le pari réussi de Marc en Bretagne",
-    "categorie": "Matériaux",
-    "description": "Marc a transformé sa pergola en bois en structure résistante aux intempéries. Budget, étapes et résultats concrets d'un projet réaliste en 2026.",
-    "date": "2026-07-30",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
