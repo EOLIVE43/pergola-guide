@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "8 étapes pour fixer pergola dalle béton sans erreur",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer pergola dalle béton efficacement. 8 étapes essentielles pour une installation pergola durable et sécurisée sur terrasse.",
+    "date": "2026-10-15",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : 8 gammes de prix décryptées",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : créer une intimité sans sacrifier l'esthétique",
-    "categorie": "Stores",
-    "description": "Découvrez comment choisir un brise-vue pergola jardin pour allier intimité et style. Solutions, matériaux, prix et conseils d'installation en 2026.",
-    "date": "2026-07-30",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
