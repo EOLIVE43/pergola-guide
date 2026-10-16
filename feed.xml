@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:19:56 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:22:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 secrets pour créer une pergola japonaise zen dans son jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Découvrez 7 secrets pour réussir votre pergola japonaise zen jardin. Conseils d'aménagement, matériaux, styles et erreurs à éviter pour un espace de détente authentique.</description>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : les 7 vérifications essentielles</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget pergola France 2026 ? Découvrez les tarifs réels des pergolas bois, bioclimatiques et pas chères. Guide complet avec prix et conseils pour bien investir.</description>
       <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola aluminium : nettoyage simple ou traitement annuel ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
-      <description>Entretien pergola aluminium : découvrez si un simple nettoyage suffit ou si un traitement annuel est nécessaire. Comparatif complet et conseils pratiques.</description>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

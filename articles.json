@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "7 secrets pour créer une pergola japonaise zen dans son jardin",
+    "categorie": "Style",
+    "description": "Découvrez 7 secrets pour réussir votre pergola japonaise zen jardin. Conseils d'aménagement, matériaux, styles et erreurs à éviter pour un espace de détente authentique.",
+    "date": "2026-10-16",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : les 7 vérifications essentielles",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola rustique campagne : 8 inspirations matériaux authentiques",
-    "categorie": "Style",
-    "description": "Pergola rustique campagne : découvrez 8 styles de matériaux, du bois brut au métal forgé. Inspirations, conseils et prix pour votre terrasse.",
-    "date": "2026-08-01",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
