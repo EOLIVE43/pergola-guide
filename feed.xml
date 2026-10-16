@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:23:32 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:19:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola adossée mur mitoyen : les 7 vérifications essentielles</title>
+      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
+      <description>Pergola adossée mur mitoyen : droits du voisin, déclaration, fixation. Découvrez les 7 points clés à vérifier avant l'installation de votre pergola.</description>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 9 astuces pour en profiter toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola aluminium : découvrez si un simple nettoyage suffit ou si un traitement annuel est nécessaire. Comparatif complet et conseils pratiques.</description>
       <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : 5 idées pour transformer votre espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : guide complet des styles, matériaux, prix et conseils pour créer votre espace de détente au bord de l'eau. Découvrez 5 solutions.</description>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
