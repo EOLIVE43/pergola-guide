@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:17:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:57:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : le vrai comparatif pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique vs classique : découvrez les différences réelles, les prix, et comment choisir la structure idéale pour votre terrasse et votre climat.</description>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola permis construire 2026 : déclaration ou autorisation ?</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer une pergola adossée sur un mur en parpaing en 8 étapes. Guide complet d'installation pergola avec conseils d'expert pour une fixation durable et sécurisée.</description>
       <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté automne : sécurité maximale avant l'hiver</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Découvrez pourquoi le verre feuilleté est essentiel pour votre pergola en automne 2026. Sécurité, durabilité et esthétique : le guide complet avant les intempéries hivernales.</description>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
