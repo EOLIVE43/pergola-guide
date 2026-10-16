@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : 9 astuces pour en profiter toute l'année",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment transformer votre pergola 4 saisons aménagement en véritable espace de vie. 9 astuces et produits essentiels pour profiter de votre terrasse 365 jours par an.",
+    "date": "2026-10-16",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-terrasse-bois-composite",
     "titre": "Pergola terrasse bois composite : 8 clés pour une fixation réussie",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-fer-forge-avantages",
-    "titre": "7 avantages de la pergola fer forgé : style, durabilité et entretien",
-    "categorie": "Matériaux",
-    "description": "Découvrez les 7 avantages majeurs de la pergola fer forgé : résistance, esthétique intemporelle et entretien simplifié. Comparaison avec les alternatives bois.",
-    "date": "2026-07-31",
-    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-sur-mesure"
   }
 ]
