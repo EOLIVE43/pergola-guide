@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-terrasse-bois-composite",
+    "titre": "Pergola terrasse bois composite : 8 clés pour une fixation réussie",
+    "categorie": "Installation",
+    "description": "Pergola terrasse bois composite : découvrez les 8 règles essentielles de fixation et d'installation pour sécuriser votre structure dès le départ.",
+    "date": "2026-10-16",
+    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-terrasse-bois"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : le vrai comparatif pour bien choisir",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique : quel bois choisir entre ipé, teck et cumaru ?",
-    "categorie": "Matériaux",
-    "description": "Comparatif pergola bois exotique : ipé, teck, cumaru. Découvrez les différences, durabilité, prix et entretien pour choisir le meilleur bois exotique pour votre terrasse.",
-    "date": "2026-07-31",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
