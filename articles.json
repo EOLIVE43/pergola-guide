@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 aménagement automne : créez votre oasis avant l'hiver",
+    "categorie": "Dimensions",
+    "description": "Pergola 3x3 aménagement en automne 2026 : guide complet pour optimiser votre petit espace avant l'hiver. Idées, budget et planning d'action.",
+    "date": "2026-10-17",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "7 secrets pour créer une pergola japonaise zen dans son jardin",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte avantages : le guide complet pour bien choisir",
-    "categorie": "Toiture",
-    "description": "Pergola couverte avantages : découvrez les bénéfices, prix et différences avec une pergola ouverte. Guide complet pour faire le bon choix en 2026.",
-    "date": "2026-08-01",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
