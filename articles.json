@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : le bon choix avant l'hiver 2026",
+    "categorie": "Bioclimatique",
+    "description": "Comparez pergola bioclimatique et classique en automne 2026. Découvrez laquelle choisir avant les froids : avantages, prix, installation rapide.",
+    "date": "2026-10-17",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-terrasse-bois-composite",
     "titre": "Pergola terrasse bois composite : guide complet de fixation",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola neige résistance : aluminium ou acier galvanisé ?",
-    "categorie": "Conseils",
-    "description": "Pergola neige résistance : découvrez quel matériau supporte le poids efficacement. Comparatif aluminium vs acier galvanisé pour votre région hivernale.",
-    "date": "2026-08-01",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]

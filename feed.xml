@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 12:34:22 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:20:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : le bon choix avant l'hiver 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Comparez pergola bioclimatique et classique en automne 2026. Découvrez laquelle choisir avant les froids : avantages, prix, installation rapide.</description>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola terrasse bois composite : guide complet de fixation</title>
       <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
@@ -176,15 +185,6 @@
       <description>Store pergola motorisé : découvrez le projet concret d'une famille francilienne. Budget, installation, prix 2026 et avantages réels d'une pergola motorisée.</description>
       <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : nos 8 conseils pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Vous cherchez une pergola pas cher sans sacrifier la qualité ? Découvrez nos conseils pour trouver le bon rapport qualité-prix et éviter les pièges d'achat.</description>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
