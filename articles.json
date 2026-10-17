@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : comment Laurent utilise la sienne 12…",
+    "categorie": "Bioclimatique",
+    "description": "Cas concret : Laurent a installé une pergola bioclimatique hiver à Toulouse. Découvrez son retour d'expérience, budget réel, et comment l'utiliser toute l'année même en saison froide.",
+    "date": "2026-10-17",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : 8 points clés pour bien choisir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-fer-forge-avantages",
-    "titre": "Pergola fer forgé : 5 avantages qui changent votre terrasse",
-    "categorie": "Matériaux",
-    "description": "Découvrez les avantages de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien simplifié. Guide complet avec prix et conseils.",
-    "date": "2026-08-02",
-    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-sur-mesure"
   }
 ]
