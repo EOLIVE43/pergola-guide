@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:33:39 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:56:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher : guide complet et précautions essentielles</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils, les risques, les précautions et les meilleures pratiques pour un nettoyage sécurisé en 2026.</description>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 aménagement automne : créez votre oasis avant l'hiver</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Comment trouver une pergola pas cher bonne qualité ? Découvrez 7 réponses claires pour acheter votre pergola au meilleur prix sans compromettre la durabilité et l'esthétique.</description>
       <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola terrasse bois composite : comment bien la fixer ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Pergola terrasse bois composite : guide complet de fixation, installation sur plots ou mur, prix et conseils pratiques pour une pose durable.</description>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
