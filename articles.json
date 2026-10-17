@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-motorise",
+    "titre": "Store pergola motorisé : 8 points clés pour bien choisir",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 éléments essentiels du store pergola motorisé : prix, avantages, installation et erreurs à éviter pour optimiser votre terrasse.",
+    "date": "2026-10-17",
+    "thumb": "/images/blog/store-pergola-motorise.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : le bon choix avant l'hiver 2026",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : quel modèle vous convient vraiment ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique ou classique ? Découvrez les différences essentielles, prix, performances thermiques et conseils pour choisir le modèle adapté à votre maison.",
-    "date": "2026-08-01",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
