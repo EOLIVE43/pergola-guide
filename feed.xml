@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 08:46:03 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:21:33 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium vs bois : le choix de Laurent à Toulouse en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
+      <description>Laurent a comparé pergola aluminium et bois pour sa maison. Découvrez son budget réel (8 500€), les différences de maintenance et son verdict après 6 mois.</description>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 : 7 idées d'aménagement pour créer votre oasis compacte</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures variétés de rose grimpante pour votre pergola. Guide complet automne 2026 : plantation, sélection, soins et timing optimal avant l'hiver.</description>
       <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle essence de bois choisir pour votre pergola ? Le guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Découvrez les meilleures essences de bois pour une pergola durable. Comparatif complet : Douglas, mélèze, acacia. Conseils d'experts pergolas France.</description>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
