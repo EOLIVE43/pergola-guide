@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : comment procéder en 8 étapes",
+    "categorie": "Installation",
+    "description": "Découvrez comment faire une déclaration préalable pergola en 8 étapes simples. Guide complet avec conseils pour l'installation pergola et fixation selon vos besoins.",
+    "date": "2026-10-18",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : 8 astuces pour profiter toute l'année",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate : 8 avantages qui changent tout",
-    "categorie": "Toiture",
-    "description": "Découvrez les 8 avantages majeurs d'une pergola polycarbonate : transparence, durabilité, prix attractif et installation facile. Guide complet 2026.",
-    "date": "2026-08-03",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]

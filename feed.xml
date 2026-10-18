@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:15:03 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:02:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : comment procéder en 8 étapes</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment faire une déclaration préalable pergola en 8 étapes simples. Guide complet avec conseils pour l'installation pergola et fixation selon vos besoins.</description>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 8 astuces pour profiter toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer pergola dalle béton efficacement. 8 étapes essentielles pour une installation pergola durable et sécurisée sur terrasse.</description>
       <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : 8 gammes de prix décryptées</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les 8 gammes de prix, des pergolas pas chères aux modèles bioclimatiques premium.</description>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
