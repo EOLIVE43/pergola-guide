@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:23:26 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:52:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : faut-il la déclarer à l'assureur ?</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Découvrez si vous devez déclarer votre pergola à votre assurance habitation. Guide complet avec obligations légales, délais et risques de non-déclaration. Réponses claires en 2026.</description>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola sur mesure ou standard ? Les vrais avantages décryptés</title>
       <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola 3x3 dans un petit jardin. Idées décoration, mobilier et végétation pour maximiser votre espace extérieur.</description>
       <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : 8 clés pour confort et économies</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment un chauffage infrarouge pergola optimise votre confort extérieur tout en réduisant les coûts énergétiques. 8 conseils essentiels pour bien choisir.</description>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
