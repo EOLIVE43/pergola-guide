@@ -1,6 +1,16 @@
 [
   {
     "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola déclaration : ce que vous devez savoir en 2024",
+    "categorie": "Réglementation",
+    "description": "Faut-il déclarer sa pergola à son assurance ? Guide complet sur les obligations, risques et démarches pour assurer votre structure de jardin.",
+    "date": "2026-10-18",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
+    "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il la déclarer à l'assureur ?",
     "categorie": "Réglementation",
     "description": "Découvrez si vous devez déclarer votre pergola à votre assurance habitation. Guide complet avec obligations légales, délais et risques de non-déclaration. Réponses claires en 2026.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte ou ouverte ? Les vrais avantages comparés",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages réels de la pergola couverte vs pergola ouverte. Comparatif complet avec tableau, prix et conseil selon votre profil.",
-    "date": "2026-08-03",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
