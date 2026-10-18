@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:21:33 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:15:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : 8 astuces pour profiter toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Transformer sa pergola en espace 4 saisons : découvrez 8 astuces d'aménagement, produits et solutions pour profiter de votre pergola toute l'année en France.</description>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : le choix de Laurent à Toulouse en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les 8 gammes de prix, des pergolas pas chères aux modèles bioclimatiques premium.</description>
       <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : quelles variétés planter en automne 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les meilleures variétés de rose grimpante pour votre pergola. Guide complet automne 2026 : plantation, sélection, soins et timing optimal avant l'hiver.</description>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

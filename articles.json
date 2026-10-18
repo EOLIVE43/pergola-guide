@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : 8 astuces pour profiter toute l'année",
+    "categorie": "Aménagement",
+    "description": "Transformer sa pergola en espace 4 saisons : découvrez 8 astuces d'aménagement, produits et solutions pour profiter de votre pergola toute l'année en France.",
+    "date": "2026-10-18",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : le choix de Laurent à Toulouse en 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-eclairage-led",
-    "titre": "Éclairage LED pergola : le guide complet 2026",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026. Guide complet avec prix, installation et conseils pour illuminer votre terrasse.",
-    "date": "2026-08-02",
-    "thumb": "/images/blog/pergola-eclairage-led.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-eclairage"
   }
 ]
