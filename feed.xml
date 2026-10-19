@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:38:54 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:53:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : sécurité, régles et prix 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Pergola toit verre feuilleté : guide complet sur la sécurité, les normes, les permis, l'assurance et les tarifs. Réponses claires aux questions essentielles des propriétaires français.</description>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher : le guide automne pour protéger votre bois avant…</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola terrasse bois composite : découvrez les 8 règles essentielles de fixation et d'installation pour sécuriser votre structure dès le départ.</description>
       <pubDate>Fri, 16 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique vs classique : le vrai comparatif pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
-      <description>Pergola bioclimatique vs classique : découvrez les différences réelles, les prix, et comment choisir la structure idéale pour votre terrasse et votre climat.</description>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
