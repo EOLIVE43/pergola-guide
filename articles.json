@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique hiver : le retour d'expérience d'une famille française",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment une pergola bioclimatique transforme l'espace extérieur en hiver. Cas concret, budget réel, conseils actionnables pour prolonger votre terrasse toute l'année.",
+    "date": "2026-10-19",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate : les avantages à découvrir avant l'hiver 2026",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "Rose grimpante pergola : Pierre Noire ou Blanche en 2025 ?",
-    "categorie": "Jardin",
-    "description": "Quel type de rose grimpante choisir pour votre pergola ? Découvrez notre comparatif détaillé entre variétés classiques et modernes pour créer votre jardin de rêve.",
-    "date": "2026-08-05",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
