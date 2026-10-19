@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 5 avantages pour protéger votre terrasse du vent",
+    "categorie": "Stores",
+    "description": "Découvrez les avantages du store zip pergola : protection vent optimale, étanchéité totale et confort. Guide complet avec prix 2026.",
+    "date": "2026-10-19",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-permis-construire-quand",
     "titre": "Pergola permis construire 2026 : le cas réel de Mathieu en Île-de-France",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "8 solutions de brise-vue pour pergola : intimité et style au jardin",
-    "categorie": "Stores",
-    "description": "Découvrez 8 solutions de brise-vue pour pergola qui allient intimité et esthétique. Stores, panneaux, plantes : tous les conseils pour transformer votre jardin en oasis privé.",
-    "date": "2026-08-04",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
