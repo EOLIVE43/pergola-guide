@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : 8 questions essentielles en 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026 : types de luminaires, installation, prix, consommation et réglementation. Guide complet Q/R.",
+    "date": "2026-10-19",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "store-pergola-zip-avantages",
     "titre": "Store zip pergola : 5 avantages pour protéger votre terrasse du vent",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-sur-mesure-avantages",
-    "titre": "Pergola sur mesure : 5 avantages qui justifient l'investissement",
-    "categorie": "Dimensions",
-    "description": "Pergola sur mesure avantages : découvrez pourquoi une pergola personnalisée surpasse les modèles standards. Comparatif complet, prix et verdict.",
-    "date": "2026-08-04",
-    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-sur-mesure"
   }
 ]

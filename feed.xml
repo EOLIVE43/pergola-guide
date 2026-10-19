@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:00:13 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:41:34 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Éclairage LED pergola : 8 questions essentielles en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
+      <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026 : types de luminaires, installation, prix, consommation et réglementation. Guide complet Q/R.</description>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store zip pergola : 5 avantages pour protéger votre terrasse du vent</title>
       <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 3x3 aménagement en automne 2026 : guide complet pour optimiser votre petit espace avant l'hiver. Idées, budget et planning d'action.</description>
       <pubDate>Sat, 17 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 secrets pour créer une pergola japonaise zen dans son jardin</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Découvrez 7 secrets pour réussir votre pergola japonaise zen jardin. Conseils d'aménagement, matériaux, styles et erreurs à éviter pour un espace de détente authentique.</description>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
