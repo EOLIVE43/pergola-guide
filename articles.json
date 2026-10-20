@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-marques",
+    "titre": "Meilleures marques de pergola bioclimatique 2026 : notre classement",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif complet, prix, avis. Pergolas 3x3, 4x3, 6x4 : trouvez votre modèle idéal.",
+    "date": "2026-10-20",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : économies ou confort, que choisir ?",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons aménagement : 8 astuces pour en profiter toute l'année",
-    "categorie": "Aménagement",
-    "description": "Transformez votre pergola en espace 4 saisons : découvrez nos astuces, produits et solutions pour l'aménager été comme hiver. Guide complet et pratique.",
-    "date": "2026-08-06",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
