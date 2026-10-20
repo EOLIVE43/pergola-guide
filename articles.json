@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-moderne-contemporaine",
+    "titre": "Pergola moderne contemporaine 2026 : 5 tendances qui transforment votre terrasse",
+    "categorie": "Style",
+    "description": "Pergola moderne contemporaine 2026 : découvrez les tendances design, matériaux et technologies. Guide complet avec prix, modèles et conseils d'achat.",
+    "date": "2026-10-20",
+    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola bois : que choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-entretien",
-    "titre": "Entretien pergola bioclimatique : 8 gestes essentiels par saison",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez notre guide complet d'entretien pergola bioclimatique : 8 gestes clés par saison pour prolonger la durée de vie de votre structure et optimiser ses performances.",
-    "date": "2026-08-05",
-    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
