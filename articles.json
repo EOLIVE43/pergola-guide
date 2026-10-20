@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : 7 astuces pour transformer votre espace",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment aménager votre pergola 4 saisons avec nos astuces concrètes. Solutions bioclimatiques, chauffage, stores : guide complet et prix 2026.",
+    "date": "2026-10-20",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "Pergola moderne contemporaine 2026 : 5 tendances qui transforment votre terrasse",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment la remplir en 5 étapes",
-    "categorie": "Installation",
-    "description": "Apprenez comment faire une déclaration préalable pour une pergola. Guide complet avec étapes, documents obligatoires et délais d'instruction en France 2026.",
-    "date": "2026-08-05",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
