@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:58:15 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:34:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola week-end : 8 étapes pour réussir</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Découvrez comment installer pergola week-end en 8 étapes simples. Guide complet de pose pergola pour débutants, sans prise de tête.</description>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 7 astuces pour transformer votre espace</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une pergola 3x3 dans un petit espace. 7 solutions décoratives, mobilier adapté et astuces pratiques pour maximiser votre terrasse.</description>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : comment Laurent utilise la sienne 12…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Cas concret : Laurent a installé une pergola bioclimatique hiver à Toulouse. Découvrez son retour d'expérience, budget réel, et comment l'utiliser toute l'année même en saison froide.</description>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

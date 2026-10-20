@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola week-end : 8 étapes pour réussir",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer pergola week-end en 8 étapes simples. Guide complet de pose pergola pour débutants, sans prise de tête.",
+    "date": "2026-10-20",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : 7 astuces pour transformer votre espace",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : le projet réussi de Claire en Provence",
-    "categorie": "Jardin",
-    "description": "Comment aménager une pergola au bord de sa piscine ? Découvrez le cas concret de Claire : budget, matériaux, étapes et résultats mesurables.",
-    "date": "2026-08-06",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
