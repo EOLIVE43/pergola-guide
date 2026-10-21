@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:37:50 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:50:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : durée de vie et avantages expliqués</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie (15-25 ans), l'entretien nécessaire et comment bien la choisir. Guide complet 2026.</description>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Meilleures marques de pergola bioclimatique 2026 : notre classement</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment faire une déclaration préalable pergola en 8 étapes simples. Guide complet avec conseils pour l'installation pergola et fixation selon vos besoins.</description>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 8 astuces pour profiter toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Transformer sa pergola en espace 4 saisons : découvrez 8 astuces d'aménagement, produits et solutions pour profiter de votre pergola toute l'année en France.</description>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
