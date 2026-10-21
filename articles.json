@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola Fer Forgé : Avantages, Styles et Guide Entretien Complet",
+    "categorie": "Matériaux",
+    "description": "Découvrez les avantages uniques de la pergola fer forgé : durabilité, esthétique intemporelle et conseils entretien. Styles et prix 2026 en France.",
+    "date": "2026-10-21",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : calculer sa rentabilité en 2026",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons aménagement : 8 astuces pour transformer votre espace",
-    "categorie": "Aménagement",
-    "description": "Découvrez comment aménager votre pergola 4 saisons avec nos 8 astuces pratiques. Conseils, produits et solutions pour profiter toute l'année.",
-    "date": "2026-08-08",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
