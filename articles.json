@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola week-end : le guide complet en 48h",
+    "categorie": "Installation",
+    "description": "Installer pergola week-end : guide étape par étape pour poser votre pergola en 48h. Fixation, outillage, erreurs à éviter. Tuto complet et pratique.",
+    "date": "2026-10-21",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen : créer l'oasis de détente ultime dans votre jardin",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-bache-toile"
-  },
-  {
-    "slug": "pergola-bois-exotique-avantages",
-    "titre": "Pergola bois exotique : ipé vs teck vs cumaru, lequel choisir ?",
-    "categorie": "Matériaux",
-    "description": "Comparatif complet des pergolas en bois exotique (ipé, teck, cumaru). Durabilité, prix, entretien : tout pour bien choisir votre pergola bois exotique.",
-    "date": "2026-08-07",
-    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

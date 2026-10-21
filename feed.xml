@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:02:31 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:52:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola week-end : le guide complet en 48h</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Installer pergola week-end : guide étape par étape pour poser votre pergola en 48h. Fixation, outillage, erreurs à éviter. Tuto complet et pratique.</description>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola japonaise zen : créer l'oasis de détente ultime dans votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez si vous devez déclarer votre pergola à votre assurance habitation. Guide complet avec obligations légales, délais et risques de non-déclaration. Réponses claires en 2026.</description>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola sur mesure ou standard ? Les vrais avantages décryptés</title>
-      <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</guid>
-      <description>Découvrez pourquoi une pergola sur mesure avantages justifient souvent l'investissement. Comparatif complet, tableau récapitulatif et verdict selon votre profil.</description>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
