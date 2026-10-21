@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:50:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:02:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen : créer l'oasis de détente ultime dans votre jardin</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Découvrez comment créer une pergola japonaise zen dans votre jardin. Guide complet : styles, matériaux, budget et inspirations pour un espace de méditation.</description>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : durée de vie et avantages expliqués</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi une pergola sur mesure avantages justifient souvent l'investissement. Comparatif complet, tableau récapitulatif et verdict selon votre profil.</description>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : comment procéder en 8 étapes</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Découvrez comment faire une déclaration préalable pergola en 8 étapes simples. Guide complet avec conseils pour l'installation pergola et fixation selon vos besoins.</description>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

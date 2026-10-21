@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : créer l'oasis de détente ultime dans votre jardin",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola japonaise zen dans votre jardin. Guide complet : styles, matériaux, budget et inspirations pour un espace de méditation.",
+    "date": "2026-10-21",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : durée de vie et avantages expliqués",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "store-pergola-zip-avantages",
-    "titre": "Store zip pergola avantages : la protection ultime contre le vent",
-    "categorie": "Stores",
-    "description": "Découvrez les avantages du store zip pour pergola : protection vent optimale, fermeture hermétique et durabilité. Guide complet 2026.",
-    "date": "2026-08-07",
-    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
