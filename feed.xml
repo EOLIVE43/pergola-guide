@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:22:36 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:14:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : confort été comme hiver, économies garanties</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pour pergola prolonge votre saison en terrasse. Installation, économies et comparaison des meilleures solutions 2026.</description>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Prix installation pergola : combien coûte la pose en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Automne 2026 : découvrez les meilleurs matériaux pour la toiture de votre pergola. Guide complet avec budget et délais avant l'hiver. Agissez maintenant !</description>
       <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola déclaration : ce que vous devez savoir en 2024</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Faut-il déclarer sa pergola à son assurance ? Guide complet sur les obligations, risques et démarches pour assurer votre structure de jardin.</description>
-      <pubDate>Sun, 18 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
