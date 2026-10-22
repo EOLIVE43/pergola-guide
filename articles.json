@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "8 secrets pour réussir sa pergola rustique campagne",
+    "categorie": "Style",
+    "description": "Découvrez les 8 essentiels pour créer une pergola rustique campagne authentique : matériaux, styles et inspirations pour votre terrasse.",
+    "date": "2026-10-22",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-eclairage-led",
     "titre": "Éclairage LED pergola : guide des meilleures solutions 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-3x3"
-  },
-  {
-    "slug": "bache-pergola-comment-choisir",
-    "titre": "Bâche pergola : imperméabilité ou résistance, que choisir ?",
-    "categorie": "Toiture",
-    "description": "Découvrez comment choisir sa bâche pergola entre imperméabilité maximale et résistance mécanique. Comparatif complet, tableau et verdict selon votre usage.",
-    "date": "2026-08-09",
-    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-bache-toile"
   }
 ]

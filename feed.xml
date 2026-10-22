@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:22:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:13:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 secrets pour réussir sa pergola rustique campagne</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez les 8 essentiels pour créer une pergola rustique campagne authentique : matériaux, styles et inspirations pour votre terrasse.</description>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Éclairage LED pergola : guide des meilleures solutions 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages du store zip pergola : protection vent optimale, étanchéité totale et confort. Guide complet avec prix 2026.</description>
       <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola permis construire 2026 : le cas réel de Mathieu en Île-de-France</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : retour d'expérience complet d'un propriétaire francilien. Budget, démarches administratives, pièges à éviter et résultats concrets.</description>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
