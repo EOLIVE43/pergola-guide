@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:45:06 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:51:02 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : 8 astuces pour chauffer sans vous ruiner</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment installer un chauffage infrarouge pergola efficace et économique. 8 conseils pour optimiser votre confort extérieur et réduire vos factures énergétiques.</description>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire avec panneaux photovoltaïques : rentabilité réelle en 2025</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages de la pergola polycarbonate en automne 2026. Prix, pose et bénéfices pour prolonger votre terrasse avant les froids. Guide complet.</description>
       <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : 8 questions essentielles en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026 : types de luminaires, installation, prix, consommation et réglementation. Guide complet Q/R.</description>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : 8 astuces pour chauffer sans vous ruiner",
+    "categorie": "Jardin",
+    "description": "Découvrez comment installer un chauffage infrarouge pergola efficace et économique. 8 conseils pour optimiser votre confort extérieur et réduire vos factures énergétiques.",
+    "date": "2026-10-22",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire avec panneaux photovoltaïques : rentabilité réelle en 2025",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte ou ouverte : que choisir selon vos besoins ?",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages et inconvénients de la pergola couverte vs ouverte. Comparatif complet pour faire le bon choix en fonction de votre usage et budget.",
-    "date": "2026-08-09",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]
