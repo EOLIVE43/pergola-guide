@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire avec panneaux photovoltaïques : rentabilité réelle en 2025",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez la rentabilité d'une pergola solaire avec panneaux photovoltaïques : coûts, amortissement, économies d'énergie et aides financières. Guide complet 2025.",
+    "date": "2026-10-22",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "8 secrets pour réussir sa pergola rustique campagne",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 aménagement : 7 idées pour sublimer votre petit espace",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment aménager une pergola 3x3 pour créer un coin détente optimal. Solutions pratiques, budget et inspirations pour petits jardins.",
-    "date": "2026-08-09",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]

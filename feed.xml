@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:13:27 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:45:06 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire avec panneaux photovoltaïques : rentabilité réelle en 2025</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Découvrez la rentabilité d'une pergola solaire avec panneaux photovoltaïques : coûts, amortissement, économies d'énergie et aides financières. Guide complet 2025.</description>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 secrets pour réussir sa pergola rustique campagne</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures solutions d'éclairage LED pour pergola en 2026 : types de luminaires, installation, prix, consommation et réglementation. Guide complet Q/R.</description>
       <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : 5 avantages pour protéger votre terrasse du vent</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez les avantages du store zip pergola : protection vent optimale, étanchéité totale et confort. Guide complet avec prix 2026.</description>
-      <pubDate>Mon, 19 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
