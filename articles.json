@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : règles officielles et autorisations 2024",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : découvrez les autorisations légales, déclarations obligatoires et conditions d'installation en immeuble collectif. Guide complet.",
+    "date": "2026-10-23",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Quelle essence de bois choisir pour une pergola ? Le guide complet 2026",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : quel choix pour votre terrasse ?",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium couleur : découvrez les finitions disponibles, tendances 2024 et conseils pour choisir la teinte idéale de votre pergola alu.",
-    "date": "2026-08-10",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
