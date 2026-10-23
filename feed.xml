@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:01:20 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:56:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : lames orientables ou panneaux fermants ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment transformer votre pergola en espace 4 saisons. Comparatif complet entre lames orientables et panneaux pour un aménagement optimal toute l'année.</description>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola Moderne Contemporaine 2026 : Les Tendances Qui Révolutionnent Votre…</title>
       <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer pergola week-end en 8 étapes simples. Guide complet de pose pergola pour débutants, sans prise de tête.</description>
       <pubDate>Tue, 20 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 7 astuces pour transformer votre espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment aménager votre pergola 4 saisons avec nos astuces concrètes. Solutions bioclimatiques, chauffage, stores : guide complet et prix 2026.</description>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
