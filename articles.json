@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Cuisine extérieure pergola : aménager votre espace en 5 étapes clés",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et esthétique. Guide complet avec plans, matériaux et budget pour transformer votre jardin.",
+    "date": "2026-10-23",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-bioclimatique-installation-soi-meme",
     "titre": "Installer une pergola bioclimatique soi-même : 8 étapes incontournables",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Voile ombrage pergola : 7 questions pour bien choisir en 2026",
-    "categorie": "Toiture",
-    "description": "Comment choisir un voile ombrage pergola adapté ? Découvrez les critères essentiels : matière, protection UV, durabilité, prix et installation. Guide complet.",
-    "date": "2026-08-11",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]
