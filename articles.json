@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir ? Guide complet par terrasse",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment choisir la taille idéale de votre pergola selon votre terrasse. Guide pratique avec formules, exemples et erreurs à éviter.",
+    "date": "2026-10-24",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola bois : le guide complet pour bien choisir",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Comment choisir la taille de sa pergola selon sa terrasse",
-    "categorie": "Dimensions",
-    "description": "Guide complet pour choisir la taille pergola adaptée à votre terrasse. Calculs, erreurs à éviter et conseils d'expert pour un investissement réussi.",
-    "date": "2026-08-13",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]
