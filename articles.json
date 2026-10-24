@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons : 7 astuces pour l'aménager toute l'année",
+    "categorie": "Aménagement",
+    "description": "Transformez votre pergola 4 saisons aménagement en espace vivable année après année. Découvrez les solutions bioclimatiques, produits et astuces pratiques pour profiter de votre terrasse en toute saison.",
+    "date": "2026-10-24",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique en automne 2026 : ipé, teck ou cumaru ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : 8 avantages qui justifient l'investissement",
-    "categorie": "Matériaux",
-    "description": "Découvrez les 8 avantages majeurs de la pergola bois autoclave : durabilité, esthétique et économies. Tout ce qu'il faut savoir avant d'acheter.",
-    "date": "2026-08-12",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
