@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:25:35 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:00:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Budget pergola France 2026 : 9 gammes de prix à connaître</title>
+      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
+      <description>Découvrez le budget pergola France 2026 : tarifs complets des pergolas pas cher en bois, bioclimatiques et aluminium. Devis et conseils.</description>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons : 7 astuces pour l'aménager toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Quel est le prix installation pergola ? Découvrez les tarifs de main-d'œuvre, frais de pose et devis. Pergola pas cher ou bioclimatique : guide complet des coûts.</description>
       <pubDate>Wed, 21 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola week-end : le guide complet en 48h</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Installer pergola week-end : guide étape par étape pour poser votre pergola en 48h. Fixation, outillage, erreurs à éviter. Tuto complet et pratique.</description>
-      <pubDate>Wed, 21 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "budget-pergola-france",
+    "titre": "Budget pergola France 2026 : 9 gammes de prix à connaître",
+    "categorie": "Prix",
+    "description": "Découvrez le budget pergola France 2026 : tarifs complets des pergolas pas cher en bois, bioclimatiques et aluminium. Devis et conseils.",
+    "date": "2026-10-24",
+    "thumb": "/images/blog/budget-pergola-france.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons : 7 astuces pour l'aménager toute l'année",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-acier-corten",
-    "titre": "Pergola acier corten ou bois : esthétique et durabilité face à face",
-    "categorie": "Matériaux",
-    "description": "Pergola acier corten vs bois : comparatif complet sur prix, entretien et durabilité. Découvrez quelle structure choisir pour votre terrasse en 2026.",
-    "date": "2026-08-12",
-    "thumb": "/images/blog/pergola-acier-corten.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
