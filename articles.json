@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : faut-il la déclarer vraiment ?",
+    "categorie": "Réglementation",
+    "description": "Découvrez si déclarer votre pergola à l'assurance est obligatoire. Réponses claires sur l'assurance pergola déclaration, les risques et les démarches essentielles.",
+    "date": "2026-10-25",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : confort jusqu'en hiver sans facture salée",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : comment bien choisir ?",
-    "categorie": "Prix",
-    "description": "Découvrez comment trouver une pergola pas cher bonne qualité sans compromis. Prix, matériaux, conseils d'experts et astuces pour économiser intelligemment.",
-    "date": "2026-08-14",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]
