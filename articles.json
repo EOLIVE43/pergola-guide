@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-marques",
+    "titre": "Meilleures marques de pergola bioclimatique 2026 : comparatif complet",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif, prix, avis et conseils pour choisir votre pergola idéale. Guide complet France.",
+    "date": "2026-10-25",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il la déclarer vraiment ?",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "8 étapes pour une pergola bois résistante aux intempéries",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries avec 8 solutions éprouvées. Traitements, entretien et matériaux : le guide complet.",
-    "date": "2026-08-14",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
