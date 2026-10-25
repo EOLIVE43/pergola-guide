@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : sécurité maximale et élégance garantie",
+    "categorie": "Toiture",
+    "description": "Pergola toit verre feuilleté : découvrez comment combiner sécurité, esthétique et durabilité. Guide complet avec prix, installation et conseils d'experts pergola France.",
+    "date": "2026-10-25",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "voile-ombrage-pergola-choisir",
     "titre": "Comment choisir un voile ombrage pergola : le retour d'expérience de…",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola aluminium vs bois : comparatif complet été 2026",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium vs bois : quel matériau choisir en été 2026 ? Comparatif complet, budget, avantages et délais d'installation avant septembre.",
-    "date": "2026-08-15",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
