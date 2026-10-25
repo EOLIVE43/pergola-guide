@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:04:17 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:34:28 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : confort jusqu'en hiver sans facture salée</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pour pergola prolonge votre saison estivale. Guide complet : fonctionnement, économies réelles, installation et prix 2026.</description>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Aménager une cuisine extérieure pergola en automne 2026 : le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir votre éclairage LED pergola. Solutions, prix, installation : le guide complet pour éclairer votre terrasse efficacement.</description>
       <pubDate>Thu, 22 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher automne 2026 : guide complet et précautions</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on nettoyer sa pergola au Kärcher ? Guide complet automne 2026 avec conseils, précautions essentielles et techniques de nettoyage adaptées à la saison.</description>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
