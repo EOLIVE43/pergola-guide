@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:08:11 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:45:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : prix, installation et avantages en 2025</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Découvrez tout sur le store pergola motorisé : tarifs, installation, avantages et démarches. Guide complet pour bien choisir votre équipement d'ombrage motorisé.</description>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : 8 secrets d'une rouille chic et indestructible</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer une pergola bioclimatique soi-même en 8 étapes clés. Guide complet pour réussir votre projet sans entrepreneur en 2026.</description>
       <pubDate>Fri, 23 Oct 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : lames orientables ou panneaux fermants ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment transformer votre pergola en espace 4 saisons. Comparatif complet entre lames orientables et panneaux pour un aménagement optimal toute l'année.</description>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
