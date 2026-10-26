@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 7 idées pour sublimer votre espace",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : découvrez comment créer un espace ombragé élégant au bord de l'eau. Conseils, matériaux et inspirations pour votre projet 2026.",
+    "date": "2026-10-26",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : 8 clés pour maximiser votre…",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : quel modèle choisir en 2024 ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique ou classique ? Découvrez les différences, avantages, prix et conseils pour faire le bon choix selon votre jardin et budget.",
-    "date": "2026-08-17",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
