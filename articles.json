@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire panneaux photovoltaïques : 8 clés pour maximiser votre…",
+    "categorie": "Bioclimatique",
+    "description": "Pergola solaire avec panneaux photovoltaïques : découvrez 8 stratégies essentielles pour optimiser votre retour sur investissement et réduire vos factures énergétiques de 40 à 60 %.",
+    "date": "2026-10-26",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "Plantes grimpantes pergola France : 7 espèces qui transforment votre jardin",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : confort été/hiver à -40% d'énergie",
-    "categorie": "Jardin",
-    "description": "Découvrez comment le chauffage infrarouge pergola prolonge votre terrasse 8 mois/an avec 40% d'économies. Guide complet installation, tarifs, avantages 2025.",
-    "date": "2026-08-17",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
