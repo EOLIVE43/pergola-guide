@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : 8 secrets d'une rouille chic et indestructible",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten : découvrez pourquoi cette rouille esthétique séduit les Français. 8 caractéristiques qui expliquent sa durabilité et son design unique en 2026.",
+    "date": "2026-10-26",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Quel budget prévoir pour une pergola en France en 2026 ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Voile d'ombrage pergola : voile ou toile, que choisir ?",
-    "categorie": "Toiture",
-    "description": "Découvrez comment bien choisir votre voile ombrage pergola. Comparatif complet entre voile ajouré et toile tendue : prix, durabilité, installation et entretien.",
-    "date": "2026-08-15",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]

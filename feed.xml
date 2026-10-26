@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:07:22 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:08:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten : 8 secrets d'une rouille chic et indestructible</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten : découvrez pourquoi cette rouille esthétique séduit les Français. 8 caractéristiques qui expliquent sa durabilité et son design unique en 2026.</description>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quel budget prévoir pour une pergola en France en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment transformer votre pergola en espace 4 saisons. Comparatif complet entre lames orientables et panneaux pour un aménagement optimal toute l'année.</description>
       <pubDate>Fri, 23 Oct 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Moderne Contemporaine 2026 : Les Tendances Qui Révolutionnent Votre…</title>
-      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
-      <description>Pergola moderne contemporaine 2026 : découvrez les styles tendance, matériaux innovants et designs d'exception pour transformer votre espace extérieur. Guide complet avec prix.</description>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
