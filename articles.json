@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : 8 structures qui supportent le poids",
+    "categorie": "Conseils",
+    "description": "Découvrez quelles pergolas résistent à la neige : 8 structures testées pour supporter le poids sans risque. Aluminium, acier, bois : comparatif complet.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "7 avantages de la pergola polycarbonate : prix, durabilité et pose",
     "categorie": "Toiture",
@@ -4985,16 +4995,6 @@
     "categorie": "Toiture",
     "description": "Pergola toit verre feuilleté : découvrez les normes de sécurité, l'esthétique, les prix et démarches administratives. Réponses claires et complètes pour bien choisir.",
     "date": "2026-08-19",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : le retour d'expérience d'une famille en Provence",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : découvrez le cas concret d'Isabelle et Marc en Provence. Budget réel, installation, résultats et conseils d'experts.",
-    "date": "2026-08-18",
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
