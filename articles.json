@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment optimiser votre pergola bioclimatique en hiver. 8 conseils essentiels pour profiter de votre extérieur 365 jours par an et maximiser vos investissements.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola bord de piscine : idées et conseils d'aménagement",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-terrasse-bois-composite",
-    "titre": "Pergola terrasse bois composite : fixation et installation 2026",
-    "categorie": "Installation",
-    "description": "Pergola terrasse bois composite : guide complet de fixation, installation et conseils pratiques. Découvrez les meilleures méthodes pour poser votre pergola en toute sécurité.",
-    "date": "2026-08-19",
-    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-terrasse-bois"
   }
 ]
