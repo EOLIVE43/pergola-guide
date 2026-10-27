@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola copropriété : quelles règles et autorisations ?",
+    "categorie": "Réglementation",
+    "description": "Pergola en copropriété : découvrez les règles obligatoires, les autorisations nécessaires, les démarches administratives et le coût de l'installation avant de vous lancer.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "7 essences de bois pour pergola : laquelle choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
-    "categorie": "Prix",
-    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les tarifs réels, les variables de coût et nos conseils pour bien négocier votre projet pergola.",
-    "date": "2026-08-17",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]

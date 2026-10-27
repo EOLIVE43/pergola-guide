@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:13:05 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:28:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola copropriété : quelles règles et autorisations ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola en copropriété : découvrez les règles obligatoires, les autorisations nécessaires, les démarches administratives et le coût de l'installation avant de vous lancer.</description>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 essences de bois pour pergola : laquelle choisir ?</title>
       <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures solutions d'éclairage LED pour pergola : guides d'installation, prix 2026, et conseils pour transformer votre espace extérieur.</description>
       <pubDate>Sat, 24 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : 9 gammes de prix à connaître</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Découvrez le budget pergola France 2026 : tarifs complets des pergolas pas cher en bois, bioclimatiques et aluminium. Devis et conseils.</description>
-      <pubDate>Sat, 24 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
