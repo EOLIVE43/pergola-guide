@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola bord de piscine : idées et conseils d'aménagement",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : conseils, styles et solutions pratiques pour transformer votre espace piscine en oasis ombragée. Réponses claires à vos questions essentielles.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : 8 structures qui supportent le poids",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-terrasse-bois"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité et esthétique en 8 questions",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : découvrez les normes de sécurité, l'esthétique, les prix et démarches administratives. Réponses claires et complètes pour bien choisir.",
-    "date": "2026-08-19",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
