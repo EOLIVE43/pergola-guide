@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "7 avantages de la pergola polycarbonate : prix, durabilité et pose",
+    "categorie": "Toiture",
+    "description": "Pergola polycarbonate avantages : découvrez pourquoi ce matériau révolutionne les terrasses. Tarifs, installation et 7 raisons de choisir cette solution.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola copropriété : quelles règles et autorisations ?",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toit-verre-securit.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : le guide complet pour une floraison spectaculaire",
-    "categorie": "Jardin",
-    "description": "Découvrez comment cultiver et entretenir une glycine sur pergola : plantation, taille, arrosage et astuces pour une floraison abondante et durable.",
-    "date": "2026-08-18",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
