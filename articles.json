@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "7 essences de bois pour pergola : laquelle choisir ?",
+    "categorie": "Matériaux",
+    "description": "Découvrez les meilleures essences de bois pour pergola durable. Guide complet des bois résistants, durée de vie et prix pour bien choisir votre pergola bois.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 7 idées pour sublimer votre espace",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : comment bien planter et tailler ?",
-    "categorie": "Jardin",
-    "description": "Découvrez comment réussir la plantation, la taille et l'entretien de votre glycine sur pergola. Guide complet avec conseils pratiques pour une belle floraison.",
-    "date": "2026-08-17",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
