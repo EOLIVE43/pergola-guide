@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:36:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:18:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois résistante intempéries : 7 conseils pour la protéger</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries : traitement, matériaux, entretien. 7 questions essentielles pour protéger votre structure durablement.</description>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 8 astuces pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez si déclarer votre pergola à l'assurance est obligatoire. Réponses claires sur l'assurance pergola déclaration, les risques et les démarches essentielles.</description>
       <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : confort jusqu'en hiver sans facture salée</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment le chauffage infrarouge pour pergola prolonge votre saison estivale. Guide complet : fonctionnement, économies réelles, installation et prix 2026.</description>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
