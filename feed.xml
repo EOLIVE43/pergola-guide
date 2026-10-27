@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:18:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:47:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola piscine aménagement : 7 idées pour créer votre oasis</title>
+      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
+      <description>Pergola piscine aménagement : découvrez nos 7 idées pour transformer votre espace piscine en oasis. Conseils, matériaux et budget 2026.</description>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois résistante intempéries : 7 conseils pour la protéger</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif, prix, avis et conseils pour choisir votre pergola idéale. Guide complet France.</description>
       <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Assurance pergola : faut-il la déclarer vraiment ?</title>
-      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
-      <description>Découvrez si déclarer votre pergola à l'assurance est obligatoire. Réponses claires sur l'assurance pergola déclaration, les risques et les démarches essentielles.</description>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

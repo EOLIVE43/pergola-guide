@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 7 idées pour créer votre oasis",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : découvrez nos 7 idées pour transformer votre espace piscine en oasis. Conseils, matériaux et budget 2026.",
+    "date": "2026-10-27",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "Pergola bois résistante intempéries : 7 conseils pour la protéger",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer pergola dalle béton : chevilles ou scellement chimique ?",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola sur dalle béton : comparatif chevilles vs scellement chimique avec pros, cons et tableau décisionnel complet.",
-    "date": "2026-08-19",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
