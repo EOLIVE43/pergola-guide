@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:20:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:04:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : chevilles ou ancres métalliques ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Fixer une pergola sur mur parpaing : guide comparatif des 2 méthodes d'installation. Chevilles vs ancres métalliques, prix, durabilité et conseils d'experts.</description>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : 8 finitions qui transforment votre terrasse</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le vrai budget pergola France 2026 : prix, devis, matériaux, installation. Guide complet avec chiffres actualisés et économies possibles.</description>
       <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité maximale et élégance garantie</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : découvrez comment combiner sécurité, esthétique et durabilité. Guide complet avec prix, installation et conseils d'experts pergola France.</description>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
