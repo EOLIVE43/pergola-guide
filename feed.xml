@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:47:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:36:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comment choisir sa bâche pergola : 8 critères pour l'imperméabilité</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment bien choisir votre bâche pergola en 8 critères essentiels : imperméabilité, résistance UV et durabilité. Guide complet pour une pergola protégée.</description>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : 8 étapes qui changent tout</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Caroline a choisi son voile ombrage pergola après 6 mois d'hésitation. Découvrez son budget réel, les matériaux testés et les 5 erreurs à éviter pour votre terrasse.</description>
       <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Marques pergola bioclimatique : Biossun ou Aluminium Concept en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Comparatif des meilleures marques pergola bioclimatique 2026. Découvrez les différences entre Biossun et Aluminium Concept pour choisir votre pergola bioclimatique.</description>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

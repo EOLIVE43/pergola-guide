@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Comment choisir sa bâche pergola : 8 critères pour l'imperméabilité",
+    "categorie": "Toiture",
+    "description": "Découvrez comment bien choisir votre bâche pergola en 8 critères essentiels : imperméabilité, résistance UV et durabilité. Guide complet pour une pergola protégée.",
+    "date": "2026-10-28",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : 8 étapes qui changent tout",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : créez votre refuge dès août 2026",
-    "categorie": "Stores",
-    "description": "Brise-vue pergola jardin : intimité et esthétique garanties cet été. Découvrez les solutions, installation rapide et budget 2026 pour transformer votre espace.",
-    "date": "2026-08-20",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
