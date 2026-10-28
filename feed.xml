@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:47:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:57:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé ou bois : quel choix pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Pergola fer forgé avantages vs bois : comparatif complet sur style, durabilité et entretien. Guide pour choisir la meilleure pergola pour votre jardin.</description>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 7 idées pour créer votre oasis</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages d'une pergola sur mesure en automne 2026. Pourquoi c'est le moment idéal pour investir avant l'hiver en France. Guide complet et planning d'action.</description>
       <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Meilleures marques de pergola bioclimatique 2026 : comparatif complet</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
-      <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif, prix, avis et conseils pour choisir votre pergola idéale. Guide complet France.</description>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

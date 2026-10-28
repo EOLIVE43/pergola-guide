@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé ou bois : quel choix pour votre terrasse ?",
+    "categorie": "Matériaux",
+    "description": "Pergola fer forgé avantages vs bois : comparatif complet sur style, durabilité et entretien. Guide pour choisir la meilleure pergola pour votre jardin.",
+    "date": "2026-10-28",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 7 idées pour créer votre oasis",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "8 essences de bois pour pergola : guide complet du choix durable",
-    "categorie": "Matériaux",
-    "description": "Découvrez les 8 meilleures essences de bois pour pergola durable. Comparaison, prix et conseils pour bien choisir votre bois pergola.",
-    "date": "2026-08-20",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
