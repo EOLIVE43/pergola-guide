@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-couleurs-disponibles",
+    "titre": "Pergola aluminium couleur : 8 finitions qui transforment votre terrasse",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium couleur : découvrez 8 finitions et teintes pour sublimer votre terrasse. Guide complet des options esthétiques et durables en 2026.",
+    "date": "2026-10-28",
+    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Comment choisir sa bâche pergola : 8 critères pour l'imperméabilité",
     "categorie": "Toiture",
@@ -4986,16 +4996,6 @@
     "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif complet entre traitements naturels et artificiels pour une durabilité maximale.",
     "date": "2026-08-20",
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : 8 ans sans entretien, le retour d'expérience de Thomas",
-    "categorie": "Matériaux",
-    "description": "Pergola bois autoclave : découvrez comment Thomas a transformé sa terrasse pour 3 800 € avec une durée de vie garantie 15 ans. Cas concret, chiffres réels, conseils d'expert.",
-    "date": "2026-08-20",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
   }
