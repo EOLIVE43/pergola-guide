@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate ou alu : quel matériau choisir ?",
+    "categorie": "Toiture",
+    "description": "Comparez pergola polycarbonate avantages, prix et pose. Guide complet pour choisir entre polycarbonate et alu selon votre budget et vos besoins.",
+    "date": "2026-10-29",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : 7 clés pour garantir votre…",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
     "pilier_id": "stores",
     "secondaire_slug": "brise-vue-pergola"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Comment obtenir un devis pergola artisan fiable et adapté ?",
-    "categorie": "Prix",
-    "description": "Devis pergola artisan : guide complet pour bien chiffrer votre projet. Comparaison de prix, critères de sélection et démarches pour économiser jusqu'à 40%.",
-    "date": "2026-08-21",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
