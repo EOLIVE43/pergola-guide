@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:22:41 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:16:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium : avantages et inconvénients en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
+      <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium pour choisir la bonne structure. Comparatif complet, prix, durabilité et entretien en 2026.</description>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : 7 astuces pour en profiter toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola polycarbonate avantages : découvrez pourquoi ce matériau révolutionne les terrasses. Tarifs, installation et 7 raisons de choisir cette solution.</description>
       <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola copropriété : quelles règles et autorisations ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola en copropriété : découvrez les règles obligatoires, les autorisations nécessaires, les démarches administratives et le coût de l'installation avant de vous lancer.</description>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

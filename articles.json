@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-avantages-inconvenients",
+    "titre": "Pergola aluminium : avantages et inconvénients en 2026",
+    "categorie": "Aluminium",
+    "description": "Découvrez les vrais avantages et inconvénients de la pergola aluminium pour choisir la bonne structure. Comparatif complet, prix, durabilité et entretien en 2026.",
+    "date": "2026-10-29",
+    "thumb": "/images/blog/pergola-aluminium-avantages-inconvenients.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : 7 astuces pour en profiter toute l'année",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "7 essences de bois à connaître pour votre pergola durable",
-    "categorie": "Matériaux",
-    "description": "Découvrez les meilleures essences de bois pour pergola durable : douglas, cèdre, teck. Guide complet avec 7 critères de sélection essentiels.",
-    "date": "2026-08-23",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
