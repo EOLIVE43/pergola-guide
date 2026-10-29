@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:53:59 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:43:34 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rideaux extérieurs pergola : le guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</guid>
+      <description>Rideaux extérieurs pergola : découvrez comment les choisir, les installer et les entretenir. Guide d'achat complet avec prix et conseils d'experts 2026.</description>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : ce qu'il faut vraiment savoir</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : découvrez comment créer un espace ombragé élégant au bord de l'eau. Conseils, matériaux et inspirations pour votre projet 2026.</description>
       <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola solaire panneaux photovoltaïques : 8 clés pour maximiser votre…</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Pergola solaire avec panneaux photovoltaïques : découvrez 8 stratégies essentielles pour optimiser votre retour sur investissement et réduire vos factures énergétiques de 40 à 60 %.</description>
-      <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
