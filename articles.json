@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : comment Nathalie l'utilise 12 mois/an à…",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez le retour d'expérience de Nathalie : pergola bioclimatique hiver, budget réel, gain de confort et utilisation toute l'année en région occitane.",
+    "date": "2026-10-29",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pergola : le guide complet pour bien choisir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola rustique campagne : guide complet des matériaux authentiques",
-    "categorie": "Style",
-    "description": "Pergola rustique campagne : découvrez les meilleurs matériaux, styles et inspirations pour créer une pergola bois authentique. Guide complet avec prix 2026.",
-    "date": "2026-08-22",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
