@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : que choisir en 2026 ?",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium ou bois ? Découvrez notre comparatif complet 2026 : prix, entretien, durabilité et verdict selon vos besoins réels.",
+    "date": "2026-10-30",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-bois-resistante-intemperies",
     "titre": "Pergola bois résistante intempéries : traité ou exotique ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-eclairage-led.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-eclairage"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité et protection maximales en été 2026",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : découvrez comment sécuriser votre terrasse cet été. Guide complet avec budget 2026 et actions prioritaires avant septembre.",
-    "date": "2026-08-25",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
