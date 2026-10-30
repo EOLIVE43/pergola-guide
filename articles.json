@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pour pergola : confort ou dépense ?",
+    "categorie": "Jardin",
+    "description": "Chauffage infrarouge pergola : comparatif complet entre systèmes électriques et gaz. Économies réelles, confort et rentabilité analysés pour bien choisir.",
+    "date": "2026-10-30",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante au vent : aluminium ou acier autoportant ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-permis-construire-quand",
-    "titre": "Pergola et permis construire 2026 : 8 questions essentielles",
-    "categorie": "Installation",
-    "description": "Pergola permis construire 2026 : obligations légales, démarches administratives et installations autorisées. Guide complet avec réponses claires pour 2026.",
-    "date": "2026-08-23",
-    "thumb": "/images/blog/pergola-permis-construire-quand.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
