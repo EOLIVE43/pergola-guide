@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "Pergola résistante au vent : aluminium ou acier autoportant ?",
+    "categorie": "Conseils",
+    "description": "Découvrez quelle pergola résiste le mieux au vent. Comparatif aluminium vs acier autoportant : prix, installation, durabilité et performances en tempête.",
+    "date": "2026-10-30",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : combien de temps dure vraiment ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-permis-construire-quand.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : guide complet des finitions 2026",
-    "categorie": "Aluminium",
-    "description": "Découvrez comment choisir la couleur de votre pergola aluminium couleur. Finitions, durabilité, entretien : tout pour bien décider selon votre style et budget.",
-    "date": "2026-08-23",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]

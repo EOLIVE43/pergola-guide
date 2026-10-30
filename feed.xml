@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:47:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:00:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola résistante au vent : aluminium ou acier autoportant ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-vent-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-vent-resistance.html</guid>
+      <description>Découvrez quelle pergola résiste le mieux au vent. Comparatif aluminium vs acier autoportant : prix, installation, durabilité et performances en tempête.</description>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : combien de temps dure vraiment ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola piscine aménagement : conseils, styles et solutions pratiques pour transformer votre espace piscine en oasis ombragée. Réponses claires à vos questions essentielles.</description>
       <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : 8 structures qui supportent le poids</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Découvrez quelles pergolas résistent à la neige : 8 structures testées pour supporter le poids sans risque. Aluminium, acier, bois : comparatif complet.</description>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
