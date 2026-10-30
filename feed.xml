@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 Oct 2026 18:16:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:47:42 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : combien de temps dure vraiment ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie réelle et comment l'entretenir pour maximiser votre investissement. Réponses complètes aux questions essentielles.</description>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium : avantages et inconvénients en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez quelles pergolas résistent à la neige : 8 structures testées pour supporter le poids sans risque. Aluminium, acier, bois : comparatif complet.</description>
       <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 avantages de la pergola polycarbonate : prix, durabilité et pose</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Pergola polycarbonate avantages : découvrez pourquoi ce matériau révolutionne les terrasses. Tarifs, installation et 7 raisons de choisir cette solution.</description>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
