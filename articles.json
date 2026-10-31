@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 5 avantages pour protéger votre terrasse du vent",
+    "categorie": "Stores",
+    "description": "Store zip pergola avantages : protection vent optimale, étanchéité, facilité d'utilisation. Découvrez pourquoi ce système révolutionne les pergolas bioclimatiques.",
+    "date": "2026-10-31",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : 8 différences clés pour bien choisir",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "8 secrets pour réussir votre pergola rustique campagne",
-    "categorie": "Style",
-    "description": "Découvrez les 8 secrets pour créer la pergola rustique campagne parfaite : matériaux, styles et inspirations pour un jardin authentique et chaleureux.",
-    "date": "2026-08-26",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
