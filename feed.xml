@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 10:17:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:45:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle essence de bois choisir pour une pergola durable cet automne ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Essence de bois pergola : guide complet automne 2026. Choisissez le bon bois pour votre pergola durable. Douglas, composite, teck... Comparatif + budget.</description>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : comment bien choisir sans compromis ?</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Fixer une pergola sur mur parpaing : guide comparatif des 2 méthodes d'installation. Chevilles vs ancres métalliques, prix, durabilité et conseils d'experts.</description>
       <pubDate>Wed, 28 Oct 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium couleur : 8 finitions qui transforment votre terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Pergola aluminium couleur : découvrez 8 finitions et teintes pour sublimer votre terrasse. Guide complet des options esthétiques et durables en 2026.</description>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
