@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 8 avantages clés contre le vent et les intempéries",
+    "categorie": "Stores",
+    "description": "Découvrez les 8 avantages du store zip pergola pour protéger votre terrasse. Protection optimale, durabilité et confort : tous les bénéfices expliqués.",
+    "date": "2026-10-31",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "bache-pergola-comment-choisir",
-    "titre": "Comment bien choisir sa bâche pergola : 8 critères essentiels",
-    "categorie": "Toiture",
-    "description": "Découvrez les 8 critères pour bien choisir sa bâche pergola. Imperméabilité, résistance et durabilité : notre guide complet pour ne pas vous tromper.",
-    "date": "2026-08-26",
-    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-bache-toile"
   }
 ]
