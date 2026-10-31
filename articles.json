@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : dimension idéale ou trop petite ?",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : comparatif complet entre cette dimension standard et les alternatives. Pros, cons, prix, installation. Trouvez votre dimension idéale.",
+    "date": "2026-10-31",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Quelle essence de bois choisir pour une pergola durable cet automne ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "Quelle essence de bois choisir pour une pergola durable ?",
-    "categorie": "Matériaux",
-    "description": "Quelle essence de bois choisir pour une pergola durable ?",
-    "date": "2026-08-25",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
