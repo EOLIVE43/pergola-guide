@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante intempéries : le guide automne 2026 pour la protéger…",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries avant l'hiver 2026. 3 actions prioritaires, budget et planning automne.",
+    "date": "2026-10-31",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : dimension idéale ou trop petite ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "prix-installation-pergola",
-    "titre": "Prix installation pergola : combien budgéter pour la pose ?",
-    "categorie": "Prix",
-    "description": "Découvrez le prix installation pergola en France : coûts de main-d'œuvre, tarifs de pose et facteurs qui influencent votre budget. Guide complet et transparent.",
-    "date": "2026-08-25",
-    "thumb": "/images/blog/prix-installation-pergola.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
