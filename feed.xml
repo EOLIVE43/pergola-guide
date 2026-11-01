@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:32:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:14:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : nos 5 secrets pour l'utiliser 365 jours</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Découvrez comment utiliser votre pergola bioclimatique hiver comme été. Guide complet avec solutions, configurations et entretien pour profiter toute l'année.</description>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Plantes grimpantes pergola France : Lierre ou Clématite ?</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment transformer votre pergola en espace 4 saisons avec nos meilleures solutions : pergola bioclimatique, lames orientables, chauffage. Guide complet 2026.</description>
       <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : comment Nathalie l'utilise 12 mois/an à…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez le retour d'expérience de Nathalie : pergola bioclimatique hiver, budget réel, gain de confort et utilisation toute l'année en région occitane.</description>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

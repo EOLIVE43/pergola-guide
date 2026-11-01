@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : nos 5 secrets pour l'utiliser 365 jours",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment utiliser votre pergola bioclimatique hiver comme été. Guide complet avec solutions, configurations et entretien pour profiter toute l'année.",
+    "date": "2026-11-01",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "Plantes grimpantes pergola France : Lierre ou Clématite ?",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer une pergola en un week-end : 8 étapes clés pour réussir",
-    "categorie": "Installation",
-    "description": "Découvrez comment installer pergola week-end facilement. Guide complet en 8 étapes : préparation, fixation, pose et finitions pour un résultat pro.",
-    "date": "2026-08-27",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
