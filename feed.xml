@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 14:14:23 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:41:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer une pergola dalle béton : le retour d'expérience d'une famille bordelaise</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Comment fixer pergola dalle béton ? Découvrez le cas réel de Marc et Isabelle : installation pergola 18 m² en 3 semaines, budget 8 500 €, tous les pièges à éviter.</description>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : nos 5 secrets pour l'utiliser 365 jours</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium pour choisir la bonne structure. Comparatif complet, prix, durabilité et entretien en 2026.</description>
       <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : 7 astuces pour en profiter toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment transformer votre pergola en espace 4 saisons avec nos meilleures solutions : pergola bioclimatique, lames orientables, chauffage. Guide complet 2026.</description>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
