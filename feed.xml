@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 14:41:26 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:34:06 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola neige résistance : aluminium ou polycarbonate pour l'hiver ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Pergola neige résistance : comparatif complet entre structures aluminium et polycarbonate. Découvrez laquelle supporte le mieux le poids de la neige en France.</description>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer une pergola dalle béton : le retour d'expérience d'une famille bordelaise</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois autoclave : découvrez ses avantages, sa durée de vie réelle et comment l'entretenir pour maximiser votre investissement. Réponses complètes aux questions essentielles.</description>
       <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium : avantages et inconvénients en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium pour choisir la bonne structure. Comparatif complet, prix, durabilité et entretien en 2026.</description>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
