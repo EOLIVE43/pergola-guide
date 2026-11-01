@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : sécurité ou esthétique ?",
+    "categorie": "Toiture",
+    "description": "Pergola toit verre feuilleté : comparez sécurité, transparence et design. Guide complet pour choisir entre verre feuilleté et alternatives en 2025.",
+    "date": "2026-11-01",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Bâche pergola : imperméabilité ou résistance, que choisir ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : le guide pratique complet",
-    "categorie": "Aluminium",
-    "description": "Entretien pergola aluminium : nettoyage, protection, réparation. Guide complet avec astuces pour préserver votre pergola alu des années.",
-    "date": "2026-08-27",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]
