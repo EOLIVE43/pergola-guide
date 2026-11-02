@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:42:25 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:34:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cuisine extérieure pergola : 8 questions pour bien l'aménager</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Comment aménager une cuisine extérieure pergola ? Retrouvez les réponses essentielles : normes, budget, permis, électricité, matériaux. Guide complet 2025.</description>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola printemps : nettoyage léger ou révision complète ?</title>
       <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif pergola aluminium vs bois : découvrez les 8 critères essentiels (durabilité, prix, entretien) pour choisir votre pergola en 2026.</description>
       <pubDate>Sat, 31 Oct 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : le guide automne 2026 pour la protéger…</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez comment rendre votre pergola bois résistante aux intempéries avant l'hiver 2026. 3 actions prioritaires, budget et planning automne.</description>
-      <pubDate>Sat, 31 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
