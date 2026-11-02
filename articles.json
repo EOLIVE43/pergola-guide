@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola déclaration : 8 questions essentielles avant l'installation",
+    "categorie": "Réglementation",
+    "description": "Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches pour protéger votre installation pergola en France.",
+    "date": "2026-11-02",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium couleur : le choix qui a transformé le jardin des Mercier",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : toile ou stores, que choisir ?",
-    "categorie": "Stores",
-    "description": "Découvrez comment bien choisir vos rideaux extérieurs pergola : comparatif complet entre toile et stores avec tableau décisionnel et conseils d'experts.",
-    "date": "2026-08-28",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
