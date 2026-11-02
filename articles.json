@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : le retour d'expérience d'une famille de Haute-Savoie",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez comment Thomas et sa famille ont choisi une pergola aluminium capable de supporter 45 cm de neige. Étude de cas 2026 avec budget et conseils.",
+    "date": "2026-11-02",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola déclaration : 8 questions essentielles avant l'installation",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
-    "categorie": "Prix",
-    "description": "Quel budget pergola France 2026 faut-il prévoir ? Réponses précises sur les tarifs, options et économies possibles pour votre terrasse.",
-    "date": "2026-08-28",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
