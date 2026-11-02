@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : nettoyage léger ou révision complète ?",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : découvrez la checklist complète pour choisir entre un simple nettoyage et une révision approfondie de votre structure.",
+    "date": "2026-11-02",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola neige résistance : le retour d'expérience d'une famille de Haute-Savoie",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer sa pergola en un week-end : le guide complet étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment installer pergola week-end sans stress. Guide complet avec étapes, fixations, outils et conseils d'experts pour réussir votre pose en 48h.",
-    "date": "2026-08-28",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
