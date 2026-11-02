@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Aménager une cuisine extérieure pergola : le guide automne 2026",
+    "categorie": "Jardin",
+    "description": "Aménager une cuisine extérieure pergola en automne : solutions, étapes, budget et erreurs à éviter. Guide complet pour profiter dès maintenant.",
+    "date": "2026-11-02",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : 5 idées pour transformer votre bord de piscine",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : bois massif ou structure légère ?",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen pour créer un jardin paisible. Découvrez le comparatif bois massif vs structure légère : caractéristiques, prix, entretien et verdict.",
-    "date": "2026-08-28",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
