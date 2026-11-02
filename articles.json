@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : guide matériaux et inspiration 2026",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles d'inspiration et conseils pratiques pour transformer votre terrasse en havre champêtre.",
+    "date": "2026-11-02",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-pas-cher-bonne-qualite",
     "titre": "Pergola pas cher bonne qualité : 7 stratégies pour bien choisir",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : 15 ans de durée de vie garantie ?",
-    "categorie": "Matériaux",
-    "description": "Découvrez les vrais avantages d'une pergola bois autoclave, sa durée de vie réelle et comment bien la choisir. Guide complet avec prix et conseils d'experts.",
-    "date": "2026-08-27",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]

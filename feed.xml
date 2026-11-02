@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:48:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:11:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : guide matériaux et inspiration 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles d'inspiration et conseils pratiques pour transformer votre terrasse en havre champêtre.</description>
+      <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola pas cher bonne qualité : 7 stratégies pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleures essences de bois pour une pergola durable. Comparatif complet : durabilité, prix, entretien. Conseils experts pour bien choisir votre essence bois pergola en 2026.</description>
       <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : quelles structures la supportent ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez quelles structures supportent le poids, les normes, matériaux et solutions pour régions enneigées. Réponses experts.</description>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
