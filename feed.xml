@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:00:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:43:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 astuces pour une pergola bois résistante aux intempéries</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Découvrez 7 méthodes pour rendre votre pergola bois résistante aux intempéries. Traitements, matériaux, entretien : le guide complet pour protéger votre pergola.</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Brise-vue pergola jardin : créer une intimité chic et protégée</title>
       <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment utiliser votre pergola bioclimatique hiver comme été. Guide complet avec solutions, configurations et entretien pour profiter toute l'année.</description>
       <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Plantes grimpantes pergola France : Lierre ou Clématite ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</guid>
-      <description>Découvrez le comparatif complet des meilleures plantes grimpantes pour votre pergola en France. Lierre vs Clématite : caractéristiques, avantages et verdict selon vos besoins.</description>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
