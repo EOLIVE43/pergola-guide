@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:26:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:20:16 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 variétés de rose grimpante pour pergola : le guide complet</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les 8 meilleures variétés de rose grimpante pergola pour embellir votre jardin. Conseils de plantation, entretien et sélection adaptée à votre climat.</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment choisir sa bâche pergola selon vos besoins : imperméabilité maximale vs résistance aux UV et déchirures. Comparatif complet avec verdict.</description>
       <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : aluminium ou polycarbonate pour l'hiver ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : comparatif complet entre structures aluminium et polycarbonate. Découvrez laquelle supporte le mieux le poids de la neige en France.</description>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "8 variétés de rose grimpante pour pergola : le guide complet",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures variétés de rose grimpante pergola pour embellir votre jardin. Conseils de plantation, entretien et sélection adaptée à votre climat.",
+    "date": "2026-11-03",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Quelle taille de pergola choisir pour votre terrasse ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire avec panneaux photovoltaïques : rentabilité réelle ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire panneaux photovoltaïques : découvrez la rentabilité réelle, les économies d'énergie, les aides et délais d'amortissement. Réponses complètes aux 8 questions essentielles.",
-    "date": "2026-08-29",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
