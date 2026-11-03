@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:44:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:26:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Guide complet pour bien choisir la taille pergola selon votre terrasse. Découvrez nos réponses aux questions essentielles pour un projet réussi.</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 pour terrasse : le guide complet de l'installation idéale</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola neige résistance : comparatif complet entre structures aluminium et polycarbonate. Découvrez laquelle supporte le mieux le poids de la neige en France.</description>
       <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer une pergola dalle béton : le retour d'expérience d'une famille bordelaise</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Comment fixer pergola dalle béton ? Découvrez le cas réel de Marc et Isabelle : installation pergola 18 m² en 3 semaines, budget 8 500 €, tous les pièges à éviter.</description>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

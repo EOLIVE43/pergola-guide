@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "Quelle taille de pergola choisir pour votre terrasse ?",
+    "categorie": "Dimensions",
+    "description": "Guide complet pour bien choisir la taille pergola selon votre terrasse. Découvrez nos réponses aux questions essentielles pour un projet réussi.",
+    "date": "2026-11-03",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 pour terrasse : le guide complet de l'installation idéale",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : comment Isabelle a créé son oasis privée",
-    "categorie": "Stores",
-    "description": "Découvrez le cas concret d'Isabelle : brise-vue pour pergola de 25 m², budget réel 4 200 €, transformation complète de son jardin. Guide 2026 avec chiffres précis.",
-    "date": "2026-08-29",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
