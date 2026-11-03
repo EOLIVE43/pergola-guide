@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "Pergola résistante au vent : quel matériau choisir en 2024 ?",
+    "categorie": "Conseils",
+    "description": "Découvrez quelle pergola résiste le mieux au vent. Comparatif aluminium, bois et acier avec normes, vitesse limite et conseils d'installation pratiques.",
+    "date": "2026-11-03",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer pergola week-end : le guide complet pour réussir",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment bien déclarer ses travaux",
-    "categorie": "Installation",
-    "description": "Découvrez comment faire une déclaration préalable pergola en 8 étapes. Guide complet avec les formalités administratives et conseils pour réussir votre projet.",
-    "date": "2026-08-29",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
