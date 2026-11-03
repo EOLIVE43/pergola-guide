@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:43:09 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:44:12 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 pour terrasse : le guide complet de l'installation idéale</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Découvrez pourquoi la pergola 4x3 terrasse est parfaite pour votre extérieur. Dimensions, installation, prix et conseils d'expert pour bien choisir.</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>7 astuces pour une pergola bois résistante aux intempéries</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
@@ -176,15 +185,6 @@
       <description>Comment fixer pergola dalle béton ? Découvrez le cas réel de Marc et Isabelle : installation pergola 18 m² en 3 semaines, budget 8 500 €, tous les pièges à éviter.</description>
       <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique en hiver : nos 5 secrets pour l'utiliser 365 jours</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
-      <description>Découvrez comment utiliser votre pergola bioclimatique hiver comme été. Guide complet avec solutions, configurations et entretien pour profiter toute l'année.</description>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
