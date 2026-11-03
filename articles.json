@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : préparez votre structure avant l'hiver 2026",
+    "categorie": "Conseils",
+    "description": "Pergola neige résistance : découvrez quelles structures supportent le poids de neige en automne 2026. Guide complet avec calendrier d'actions avant l'hiver.",
+    "date": "2026-11-03",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-vent-resistance",
     "titre": "Pergola résistante au vent : quel matériau choisir en 2024 ?",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : la checklist avant l'été 2026",
-    "categorie": "Entretien",
-    "description": "Découvrez la checklist complète d'entretien pergola printemps. Guide pratique avec planning, budget et 3 actions prioritaires avant l'été pour protéger votre structure.",
-    "date": "2026-08-29",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
