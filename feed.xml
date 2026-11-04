@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:21:27 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:59:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 étapes pour aménager une cuisine extérieure pergola réussie</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Aménagez votre cuisine extérieure pergola en 8 étapes clés : emplacement, électricité, mobilier et finitions. Guide complet pour un espace convivial et fonctionnel.</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : les règles et autorisations indispensables</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Vous cherchez une pergola pas cher sans sacrifier la qualité ? Découvrez comment sélectionner le meilleur modèle, les matériaux durables et les pièges à éviter pour votre budget.</description>
       <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola toit verre feuilleté : sécurité ou esthétique ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
-      <description>Pergola toit verre feuilleté : comparez sécurité, transparence et design. Guide complet pour choisir entre verre feuilleté et alternatives en 2025.</description>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

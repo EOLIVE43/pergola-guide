@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "8 étapes pour aménager une cuisine extérieure pergola réussie",
+    "categorie": "Jardin",
+    "description": "Aménagez votre cuisine extérieure pergola en 8 étapes clés : emplacement, électricité, mobilier et finitions. Guide complet pour un espace convivial et fonctionnel.",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola en copropriété : les règles et autorisations indispensables",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : comment Frédéric a prolongé l'été 5 mois",
-    "categorie": "Jardin",
-    "description": "Découvrez le cas concret de Frédéric en Île-de-France : comment il a installé un chauffage infrarouge pergola pour 8 400 € et réalisé 1 200 € d'économies d'énergie annuelles. Retour d'expérience détaillé.",
-    "date": "2026-08-30",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
