@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:48:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:41:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé ou bois : lequel choisir en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les avantages du fer forgé vs bois pour votre pergola. Comparatif complet : prix, durabilité, entretien et style. Quel matériau vous convient ?</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola dalle béton : le chantier réussi de Marc à Toulouse</title>
       <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager votre pergola piscine : styles, matériaux, prix et conseils pratiques pour créer l'espace détente parfait près de votre bassin.</description>
       <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola rustique campagne : guide matériaux et inspiration 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles d'inspiration et conseils pratiques pour transformer votre terrasse en havre champêtre.</description>
-      <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

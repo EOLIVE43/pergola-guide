@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé ou bois : lequel choisir en 2025 ?",
+    "categorie": "Matériaux",
+    "description": "Découvrez les avantages du fer forgé vs bois pour votre pergola. Comparatif complet : prix, durabilité, entretien et style. Quel matériau vous convient ?",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "Fixer pergola dalle béton : le chantier réussi de Marc à Toulouse",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/budget-pergola-france.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola copropriété : quelles règles et autorisations ?",
-    "categorie": "Réglementation",
-    "description": "Pergola copropriété règles : découvrez les autorisations nécessaires, les formalités administratives et les obligations légales pour installer une pergola en copropriété.",
-    "date": "2026-08-30",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
