@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Bien choisir sa bâche pergola : imperméabilité et résistance",
+    "categorie": "Toiture",
+    "description": "Guide complet pour choisir sa bâche pergola : imperméabilité, matériaux, résistance aux UV et durabilité. Réponses directes aux questions essentielles des propriétaires français.",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "glycine-pergola-entretien",
     "titre": "Glycine pergola entretien : tout ce qu'il faut savoir",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-pas-cher-bonne-qualite",
-    "titre": "Pergola pas cher bonne qualité : 3 stratégies gagnantes pour l'été 2026",
-    "categorie": "Prix",
-    "description": "Découvrez comment trouver une pergola pas cher sans sacrifier la qualité. Guide 2026 avec budget, matériaux et pièges à éviter pour l'été en France.",
-    "date": "2026-08-30",
-    "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "pergola-pas-cher"
   }
 ]
