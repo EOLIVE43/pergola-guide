@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:32:10 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:35:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing : le guide complet avant l'hiver 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Découvrez comment fixer une pergola adossée sur mur en parpaing. Guide complet d'installation automne 2026 : techniques, délais et budget avant les intempéries.</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Bien choisir sa bâche pergola : imperméabilité et résistance</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola printemps : découvrez la checklist complète pour choisir entre un simple nettoyage et une révision approfondie de votre structure.</description>
       <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola neige résistance : le retour d'expérience d'une famille de Haute-Savoie</title>
-      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
-      <description>Pergola neige résistance : découvrez comment Thomas et sa famille ont choisi une pergola aluminium capable de supporter 45 cm de neige. Étude de cas 2026 avec budget et conseils.</description>
-      <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Conseils</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

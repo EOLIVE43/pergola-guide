@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Fixer pergola mur parpaing : le guide complet avant l'hiver 2026",
+    "categorie": "Installation",
+    "description": "Découvrez comment fixer une pergola adossée sur mur en parpaing. Guide complet d'installation automne 2026 : techniques, délais et budget avant les intempéries.",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Bien choisir sa bâche pergola : imperméabilité et résistance",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : quel modèle choisir ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique vs classique : guide complet pour bien choisir selon votre budget, climat et usage. Réponses claires aux questions essentielles des propriétaires français.",
-    "date": "2026-08-31",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
