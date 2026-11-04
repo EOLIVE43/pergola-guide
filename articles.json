@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-dalle-beton-fixer",
+    "titre": "Fixer pergola dalle béton : le chantier réussi de Marc à Toulouse",
+    "categorie": "Installation",
+    "description": "Marc, 48 ans à Toulouse, raconte comment il a fixé sa pergola bioclimatique sur sa dalle béton. Budget, étapes, résultats concrets : tous les secrets d'une installation pergola réussie en 2026.",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-dalle-beton"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "8 étapes pour aménager une cuisine extérieure pergola réussie",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "8 rose grimpante pergola à choisir pour un jardin fleuri toute l'été",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures variétés de rose grimpante pergola pour fleurir votre jardin. Guide complet avec conseils de plantation et d'entretien.",
-    "date": "2026-08-30",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

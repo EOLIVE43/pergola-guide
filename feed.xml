@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:59:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:48:07 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola dalle béton : le chantier réussi de Marc à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
+      <description>Marc, 48 ans à Toulouse, raconte comment il a fixé sa pergola bioclimatique sur sa dalle béton. Budget, étapes, résultats concrets : tous les secrets d'une installation pergola réussie en 2026.</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 étapes pour aménager une cuisine extérieure pergola réussie</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles d'inspiration et conseils pratiques pour transformer votre terrasse en havre champêtre.</description>
       <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola pas cher bonne qualité : 7 stratégies pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-pas-cher-bonne-qualite.html</guid>
-      <description>Vous cherchez une pergola pas cher sans sacrifier la qualité ? Découvrez comment sélectionner le meilleur modèle, les matériaux durables et les pièges à éviter pour votre budget.</description>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
