@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "8 avantages du chauffage infrarouge pour pergola : confort garanti",
+    "categorie": "Jardin",
+    "description": "Découvrez 8 raisons d'adopter un chauffage infrarouge pergola : économies, confort immédiat et installation facile. Guide complet 2026.",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "Pergola fer forgé ou bois : lequel choisir en 2025 ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
     "pilier_id": "stores",
     "secondaire_slug": "brise-vue-pergola"
-  },
-  {
-    "slug": "budget-pergola-france",
-    "titre": "Budget pergola France 2026 : quel prix prévoir vraiment ?",
-    "categorie": "Prix",
-    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les prix réels, les coûts cachés et les économies possibles dans notre guide complet Q/R.",
-    "date": "2026-08-30",
-    "thumb": "/images/blog/budget-pergola-france.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
