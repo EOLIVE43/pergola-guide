@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : 8 différences clés entre ipé, teck et cumaru",
+    "categorie": "Matériaux",
+    "description": "Pergola bois exotique : comparatif complet de l'ipé, teck et cumaru. Durabilité, prix, entretien. Choisissez le meilleur bois pour votre terrasse.",
+    "date": "2026-11-04",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "8 avantages du chauffage infrarouge pour pergola : confort garanti",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-terrasse-bois"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : voile ou panneaux, que choisir ?",
-    "categorie": "Stores",
-    "description": "Découvrez comment bien choisir votre brise-vue pergola jardin entre voile occultant et panneaux fixes. Comparatif complet, prix, installation et verdict selon votre style.",
-    "date": "2026-08-30",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
