@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:56:48 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:44:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : Comment profiter de votre terrasse toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pergola transforme votre espace extérieur. Solutions efficaces, consommation réduite et installation simple : le guide complet.</description>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bois autoclave : 8 avantages qui justifient votre investissement</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi la pergola 4x3 terrasse est parfaite pour votre extérieur. Dimensions, installation, prix et conseils d'expert pour bien choisir.</description>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 astuces pour une pergola bois résistante aux intempéries</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Découvrez 7 méthodes pour rendre votre pergola bois résistante aux intempéries. Traitements, matériaux, entretien : le guide complet pour protéger votre pergola.</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
