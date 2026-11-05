@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-avantages-inconvenients",
+    "titre": "Pergola aluminium avantages et inconvénients : le vrai bilan 2026",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium avantages et inconvénients en détail. Durabilité, prix, entretien, styles disponibles : découvrez si la pergola alu est faite pour vous.",
+    "date": "2026-11-05",
+    "thumb": "/images/blog/pergola-aluminium-avantages-inconvenients.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate : avantages, prix et installation en 2025",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer une pergola sur dalle béton : le guide complet et pratique",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer pergola dalle béton en 7 étapes. Techniques, matériaux, prix et erreurs à éviter pour une installation durable et sécurisée.",
-    "date": "2026-09-01",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
