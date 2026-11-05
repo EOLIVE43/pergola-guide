@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : créer un jardin harmonieux en 7 étapes",
+    "categorie": "Style",
+    "description": "Pergola japonaise zen jardin : découvrez comment créer un espace de détente authentique. Matériaux, design, budget et conseils pratiques en questions/réponses.",
+    "date": "2026-11-05",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4×3 terrasse : est-ce la bonne dimension pour vous ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : préparez l'été 2026 maintenant",
-    "categorie": "Entretien",
-    "description": "Entretien pergola printemps : découvrez la checklist complète pour préparer votre structure avant l'été. Actions prioritaires, planning et budget 2026.",
-    "date": "2026-08-31",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
