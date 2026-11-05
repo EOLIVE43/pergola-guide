@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate : avantages, prix et installation en 2025",
+    "categorie": "Toiture",
+    "description": "Découvrez les avantages réels d'une pergola polycarbonate, les tarifs actuels et les étapes de pose. Guide complet pour bien choisir votre pergola.",
+    "date": "2026-11-05",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : Comment profiter de votre terrasse toute l'année",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : aluminium ou structure autoportante ?",
-    "categorie": "Conseils",
-    "description": "Quelle pergola résiste le mieux au vent ? Comparatif complet entre pergola aluminium et autoportante. Caractéristiques, prix, durabilité. Guide d'achat 2025.",
-    "date": "2026-08-31",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
