@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : 8 raisons de craquer pour ce matériau",
+    "categorie": "Matériaux",
+    "description": "Découvrez la pergola acier corten : esthétique rouillée, durabilité exceptionnelle et 8 bonnes raisons d'adopter ce style. Comparaison avec le bois.",
+    "date": "2026-11-05",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : 8 étapes pour bien faire",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : 7 secrets pour une floraison spectaculaire",
-    "categorie": "Jardin",
-    "description": "Glycine pergola entretien : guide complet de plantation, taille et soins. Découvrez comment cultiver une glycine luxuriante qui fleurit chaque printemps.",
-    "date": "2026-08-31",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
