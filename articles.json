@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-autoclave",
+    "titre": "Pergola bois autoclave : 8 avantages qui justifient votre investissement",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 8 avantages majeurs de la pergola bois autoclave : durabilité, esthétique et prix. Guide complet sur la résistance du bois traité.",
+    "date": "2026-11-05",
+    "thumb": "/images/blog/pergola-bois-autoclave.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "Pergola acier corten : 8 raisons de craquer pour ce matériau",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer sa pergola en un week-end : le guide complet étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment installer pergola week-end sans stress. Guide complet avec techniques de fixation, conseils d'experts et erreurs à éviter pour réussir votre pose.",
-    "date": "2026-08-31",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:00:11 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:56:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois autoclave : 8 avantages qui justifient votre investissement</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
+      <description>Découvrez les 8 avantages majeurs de la pergola bois autoclave : durabilité, esthétique et prix. Guide complet sur la résistance du bois traité.</description>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : 8 raisons de craquer pour ce matériau</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 7 méthodes pour rendre votre pergola bois résistante aux intempéries. Traitements, matériaux, entretien : le guide complet pour protéger votre pergola.</description>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : créer une intimité chic et protégée</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez comment installer un brise-vue pergola jardin pour allier intimité et esthétique. Solutions, prix, installation : le guide complet des français.</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
