@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:35:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:03:36 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4×3 terrasse : est-ce la bonne dimension pour vous ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Pergola 4×3 terrasse : comparatif complet des avantages et limites. Découvrez si cette dimension convient à votre espace et vos besoins réels en 2025.</description>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola mur parpaing : le guide complet avant l'hiver 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Comment aménager une cuisine extérieure pergola ? Retrouvez les réponses essentielles : normes, budget, permis, électricité, matériaux. Guide complet 2025.</description>
       <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola printemps : nettoyage léger ou révision complète ?</title>
-      <link>https://pergola-guide.fr/blog/entretien-pergola-printemps.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/entretien-pergola-printemps.html</guid>
-      <description>Entretien pergola printemps : découvrez la checklist complète pour choisir entre un simple nettoyage et une révision approfondie de votre structure.</description>
-      <pubDate>Mon, 02 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
