@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : 8 étapes pour bien faire",
+    "categorie": "Installation",
+    "description": "Découvrez comment déclarer une pergola à la mairie en 8 étapes essentielles. Formulaires, délais et erreurs à éviter pour votre déclaration préalable pergola.",
+    "date": "2026-11-05",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "Pergola moderne contemporaine 2026 : le projet réussi de Célia à Marseille",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Comment aménager une cuisine extérieure pergola : le guide complet",
-    "categorie": "Jardin",
-    "description": "Aménagez votre cuisine extérieure sous pergola : guide pratique complet avec solutions, budget, étapes et erreurs à éviter pour transformer votre jardin.",
-    "date": "2026-08-31",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
