@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten ou bois : quel matériau choisir ?",
+    "categorie": "Matériaux",
+    "description": "Comparez pergola acier corten vs pergola bois : esthétique, durabilité, prix et entretien. Guide décision complet pour choisir le bon matériau en 2025.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola bois en automne 2026 : le bon choix au bon moment",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Voile d'ombrage pergola : comment bien choisir en 2025 ?",
-    "categorie": "Toiture",
-    "description": "Découvrez comment bien choisir votre voile d'ombrage pergola : comparatif détaillé des tissus, prix, durabilité et entretien pour trouver la solution idéale.",
-    "date": "2026-09-01",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]
