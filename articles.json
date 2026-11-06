@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : l'installation idéale avant les froids",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi la pergola 4x3 terrasse est parfaite pour votre espace. Guide complet automne 2026 : dimensions, installation, budget et planning avant l'hiver.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-aluminium-avantages-inconvenients",
     "titre": "Pergola aluminium avantages et inconvénients : le vrai bilan 2026",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate avantages : le guide complet pour choisir",
-    "categorie": "Toiture",
-    "description": "Découvrez tous les avantages de la pergola polycarbonate : transparence, durabilité, prix. Guide complet pour bien choisir votre structure de jardin.",
-    "date": "2026-09-01",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
