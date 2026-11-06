@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment optimiser votre pergola bioclimatique en hiver et l'utiliser toute l'année. Guide complet automne 2026 avec conseils pratiques et budget.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "Pergola acier corten ou bois : quel matériau choisir ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : comment choisir la meilleure ?",
-    "categorie": "Conseils",
-    "description": "Découvrez quelle pergola résiste le mieux au vent. Guide complet sur les matériaux, normes et modèles pergola aluminium adaptés aux zones venteuses.",
-    "date": "2026-09-01",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
