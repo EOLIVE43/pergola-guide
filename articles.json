@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher automne : guide sécurité et précautions 2026",
+    "categorie": "Entretien",
+    "description": "Nettoyage pergola Kärcher : conseils automne 2026. Découvrez si le Kärcher convient, les précautions essentielles et les risques pour votre pergola bois.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : l'installation idéale avant les froids",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola : faut-il déclarer son installation ?",
-    "categorie": "Réglementation",
-    "description": "Assurance pergola déclaration : tout ce que vous devez savoir. Guide complet sur l'obligation déclarative, les risques et les démarches pour protéger votre terrasse.",
-    "date": "2026-09-01",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]

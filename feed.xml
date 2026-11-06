@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:44:07 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:38:50 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher automne : guide sécurité et précautions 2026</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Nettoyage pergola Kärcher : conseils automne 2026. Découvrez si le Kärcher convient, les précautions essentielles et les risques pour votre pergola bois.</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : l'installation idéale avant les froids</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Aménagez votre cuisine extérieure pergola en 8 étapes clés : emplacement, électricité, mobilier et finitions. Guide complet pour un espace convivial et fonctionnel.</description>
       <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola en copropriété : les règles et autorisations indispensables</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : guide complet des autorisations, démarches légales et restrictions avant d'installer votre pergola en immeuble collectif.</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
