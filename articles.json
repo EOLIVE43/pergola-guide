@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen jardin : 8 secrets pour créer votre havre de paix",
+    "categorie": "Style",
+    "description": "Pergola japonaise zen jardin : découvrez 8 secrets pour transformer votre espace extérieur en oasis zen. Inspiration, styles et conseils pratiques à suivre.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-bioclimatique-hiver",
     "titre": "Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-bache-toile"
-  },
-  {
-    "slug": "pergola-copropriete-regles",
-    "titre": "Pergola en copropriété : 8 règles essentielles avant de vous lancer",
-    "categorie": "Réglementation",
-    "description": "Pergola copropriété règles : découvrez les autorisations, démarches et conditions légales pour installer une pergola sur votre terrasse en immeuble. Guide complet 2024.",
-    "date": "2026-09-01",
-    "thumb": "/images/blog/pergola-copropriete-regles.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]

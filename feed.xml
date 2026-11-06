@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:29:30 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:00:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola japonaise zen jardin : 8 secrets pour créer votre havre de paix</title>
+      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
+      <description>Pergola japonaise zen jardin : découvrez 8 secrets pour transformer votre espace extérieur en oasis zen. Inspiration, styles et conseils pratiques à suivre.</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : comment l'utiliser toute l'année ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bois exotique : comparatif complet de l'ipé, teck et cumaru. Durabilité, prix, entretien. Choisissez le meilleur bois pour votre terrasse.</description>
       <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 avantages du chauffage infrarouge pour pergola : confort garanti</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez 8 raisons d'adopter un chauffage infrarouge pergola : économies, confort immédiat et installation facile. Guide complet 2026.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
