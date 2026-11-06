@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-moderne-contemporaine",
+    "titre": "8 tendances pergola moderne contemporaine 2026 à découvrir",
+    "categorie": "Style",
+    "description": "Pergola moderne contemporaine 2026 : 8 tendances design qui transforment les jardins. Aluminium, bioclimatique, connectée. Guide complet.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen jardin : 8 secrets pour créer votre havre de paix",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/entretien-pergola-printemps.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "bache-pergola-comment-choisir",
-    "titre": "Bien choisir sa bâche pergola avant l'automne : imperméabilité et résistance",
-    "categorie": "Toiture",
-    "description": "Découvrez comment choisir la bâche pergola idéale en automne 2026. Imperméabilité, résistance aux intempéries : le guide complet pour protéger votre pergola avant les pluies.",
-    "date": "2026-09-02",
-    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-bache-toile"
   }
 ]
