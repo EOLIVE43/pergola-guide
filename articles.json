@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : 7 variétés incontournables pour une floraison…",
+    "categorie": "Jardin",
+    "description": "Rose grimpante pergola : découvrez les meilleures variétés, leurs caractéristiques, prix et conseils de plantation pour sublimer votre jardin dès cette saison.",
+    "date": "2026-11-06",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "8 tendances pergola moderne contemporaine 2026 à découvrir",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : checklist avant les beaux jours 2026",
-    "categorie": "Entretien",
-    "description": "Entretien pergola printemps : guide complet pour préparer votre structure dès l'automne 2026. Actions, budget et planning pratique à découvrir.",
-    "date": "2026-09-02",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
