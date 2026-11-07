@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:18:56 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:53:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola déclaration : 7 réponses essentielles avant l'installation</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches pour protéger votre terrasse correctement en 2024.</description>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer une pergola bioclimatique soi-même : DIY ou professionnel ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4×3 terrasse : comparatif complet des avantages et limites. Découvrez si cette dimension convient à votre espace et vos besoins réels en 2025.</description>
       <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Fixer pergola mur parpaing : le guide complet avant l'hiver 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
-      <description>Découvrez comment fixer une pergola adossée sur mur en parpaing. Guide complet d'installation automne 2026 : techniques, délais et budget avant les intempéries.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
