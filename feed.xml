@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:53:08 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:36:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons à Toulouse : comment transformer 24m² en espace vivable…</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez le cas concret de Nathalie et Marc : pergola 4 saisons aménagement sur terrasse. Budget réel, dimensions (6x4), résultats mesurables et gains de confort chiffré en 2026.</description>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola déclaration : 7 réponses essentielles avant l'installation</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola japonaise zen jardin : découvrez comment créer un espace de détente authentique. Matériaux, design, budget et conseils pratiques en questions/réponses.</description>
       <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4×3 terrasse : est-ce la bonne dimension pour vous ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Pergola 4×3 terrasse : comparatif complet des avantages et limites. Découvrez si cette dimension convient à votre espace et vos besoins réels en 2025.</description>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
