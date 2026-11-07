@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-japonaise-zen",
+    "titre": "Pergola japonaise zen : créer votre jardin de sérénité",
+    "categorie": "Style",
+    "description": "Créez une pergola japonaise zen dans votre jardin. Guide complet : matériaux, style, aménagement et conseils d'expert pour un espace de détente authentique.",
+    "date": "2026-11-07",
+    "thumb": "/images/blog/pergola-japonaise-zen.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : combien coûte vraiment la pose en 2024 ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer pergola en week-end : 8 étapes pour réussir",
-    "categorie": "Installation",
-    "description": "Découvrez comment installer sa pergola en un week-end avec notre guide complet. 8 étapes essentielles pour une installation pergola réussie sans professionnel.",
-    "date": "2026-09-03",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
