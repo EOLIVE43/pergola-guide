@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:31:32 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:18:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer une pergola bioclimatique soi-même : DIY ou professionnel ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
+      <description>Faut-il installer sa pergola bioclimatique soi-même ? Découvrez le comparatif complet : coûts, difficultés, risques et alternatives professionnelles pour bien choisir.</description>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : 8 raisons pour laquelle c'est la dimension idéale</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment fixer une pergola adossée sur mur en parpaing. Guide complet d'installation automne 2026 : techniques, délais et budget avant les intempéries.</description>
       <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Bien choisir sa bâche pergola : imperméabilité et résistance</title>
-      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
-      <description>Guide complet pour choisir sa bâche pergola : imperméabilité, matériaux, résistance aux UV et durabilité. Réponses directes aux questions essentielles des propriétaires français.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

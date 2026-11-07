@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-installation-soi-meme",
+    "titre": "Installer une pergola bioclimatique soi-même : DIY ou professionnel ?",
+    "categorie": "Bioclimatique",
+    "description": "Faut-il installer sa pergola bioclimatique soi-même ? Découvrez le comparatif complet : coûts, difficultés, risques et alternatives professionnelles pour bien choisir.",
+    "date": "2026-11-07",
+    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : 8 raisons pour laquelle c'est la dimension idéale",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : toile ou panneaux fixes ?",
-    "categorie": "Stores",
-    "description": "Rideaux extérieurs pergola : comparez toile et panneaux fixes. Guide complet avec tableau comparatif, prix et verdict selon votre usage.",
-    "date": "2026-09-02",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
