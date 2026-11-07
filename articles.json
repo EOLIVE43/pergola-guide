@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola en un week-end : le guide complet étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer sa pergola en un week-end. Guide complet avec étapes, fixations, matériel nécessaire et conseils d'experts pour réussir votre pose pergola.",
+    "date": "2026-11-07",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-japonaise-zen",
     "titre": "Pergola japonaise zen : créer votre jardin de sérénité",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "pergola-bioclimatique-installation-soi-meme",
-    "titre": "Installer une pergola bioclimatique soi-même : guide complet et réaliste",
-    "categorie": "Bioclimatique",
-    "description": "Peut-on installer une pergola bioclimatique soi-même ? Découvrez notre guide complet : niveau de difficulté, outils nécessaires, étapes clés et quand faire appel à un pro.",
-    "date": "2026-09-03",
-    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
