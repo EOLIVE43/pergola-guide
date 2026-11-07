@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : 8 raisons pour laquelle c'est la dimension idéale",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est parfaite pour votre espace extérieur. 8 avantages clés à connaître absolument.",
+    "date": "2026-11-07",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "Rose grimpante pergola : 7 variétés incontournables pour une floraison…",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment l'obtenir en 4 semaines",
-    "categorie": "Installation",
-    "description": "Comment faire une déclaration préalable pergola ? Retour d'expérience d'un propriétaire français avec budget, étapes et délais concrets 2026.",
-    "date": "2026-09-02",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
