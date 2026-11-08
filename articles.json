@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : 8 raisons de choisir cette dimension",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse standard. 8 bonnes raisons et conseils d'installation pour réussir.",
+    "date": "2026-11-08",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-bioclimatique-hiver",
     "titre": "Pergola bioclimatique en hiver : 7 clés pour l'utiliser toute l'année",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "Meilleures marques pergola bioclimatique : guide automne 2026",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez les meilleures marques de pergola bioclimatique en automne 2026. Comparatif complet, prix actualisés et conseils avant les froids pour bien choisir votre marque.",
-    "date": "2026-09-03",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]

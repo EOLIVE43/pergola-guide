@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:42:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:40:58 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 terrasse : 8 raisons de choisir cette dimension</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse standard. 8 bonnes raisons et conseils d'installation pour réussir.</description>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : 7 clés pour l'utiliser toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez pourquoi la pergola 4x3 terrasse est parfaite pour votre espace. Guide complet automne 2026 : dimensions, installation, budget et planning avant l'hiver.</description>
       <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium avantages et inconvénients : le vrai bilan 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Pergola aluminium avantages et inconvénients en détail. Durabilité, prix, entretien, styles disponibles : découvrez si la pergola alu est faite pour vous.</description>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
