@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : économies et confort toute l'année",
+    "categorie": "Jardin",
+    "description": "Découvrez comment le chauffage infrarouge pour pergola transforme votre espace extérieur. Gains énergétiques, installation, prix et avis d'experts.",
+    "date": "2026-11-08",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : 8 paliers de prix à connaître",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "7 étapes pour fixer pergola mur parpaing sans risque",
-    "categorie": "Installation",
-    "description": "Fixer pergola mur parpaing : découvrez les 7 étapes essentielles d'installation pergola sécurisée. Conseils experts pour fixation pergola au mur réussie.",
-    "date": "2026-09-03",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]

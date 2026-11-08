@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:39:06 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:14:27 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : économies et confort toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pour pergola transforme votre espace extérieur. Gains énergétiques, installation, prix et avis d'experts.</description>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Budget pergola France 2026 : 8 paliers de prix à connaître</title>
       <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages réels d'une pergola polycarbonate, les tarifs actuels et les étapes de pose. Guide complet pour bien choisir votre pergola.</description>
       <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : Comment profiter de votre terrasse toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment le chauffage infrarouge pergola transforme votre espace extérieur. Solutions efficaces, consommation réduite et installation simple : le guide complet.</description>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
