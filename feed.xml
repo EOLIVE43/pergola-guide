@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:14:27 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:42:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : 7 clés pour l'utiliser toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Pergola bioclimatique hiver : découvrez comment l'utiliser 12 mois par an. Conseils pratiques, entretien et solutions pour profiter toute l'année de votre pergola bioclimatique.</description>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : économies et confort toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium avantages et inconvénients en détail. Durabilité, prix, entretien, styles disponibles : découvrez si la pergola alu est faite pour vous.</description>
       <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola polycarbonate : avantages, prix et installation en 2025</title>
-      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
-      <description>Découvrez les avantages réels d'une pergola polycarbonate, les tarifs actuels et les étapes de pose. Guide complet pour bien choisir votre pergola.</description>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

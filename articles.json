@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : 7 clés pour l'utiliser toute l'année",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique hiver : découvrez comment l'utiliser 12 mois par an. Conseils pratiques, entretien et solutions pour profiter toute l'année de votre pergola bioclimatique.",
+    "date": "2026-11-08",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : économies et confort toute l'année",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : 7 questions essentielles avant d'acheter",
-    "categorie": "Stores",
-    "description": "Rideaux extérieurs pergola : guide complet des matériaux, prix, installation et entretien. Réponses aux 7 questions que se posent tous les propriétaires en 2024.",
-    "date": "2026-09-03",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
