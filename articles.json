@@ -1,5 +1,15 @@
 [
   {
+    "slug": "budget-pergola-france",
+    "titre": "Budget pergola France 2026 : 8 paliers de prix à connaître",
+    "categorie": "Prix",
+    "description": "Quel budget prévoir pour une pergola en France en 2026 ? Découvrez les 8 paliers de prix, des pergolas pas cher aux modèles bioclimatiques premium.",
+    "date": "2026-11-08",
+    "thumb": "/images/blog/budget-pergola-france.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "8 étapes clés pour aménager une cuisine extérieure sous pergola",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "Rideaux extérieurs pergola : guide d'achat et conseils essentiels",
-    "categorie": "Stores",
-    "description": "Découvrez notre guide complet sur les rideaux extérieurs pergola : matériaux, prix, installation et entretien. Réponses aux 8 questions clés pour bien choisir.",
-    "date": "2026-09-03",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
