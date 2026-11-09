@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : quel bois choisir entre ipé, teck et cumaru ?",
+    "categorie": "Matériaux",
+    "description": "Pergola bois exotique : comparatif complet ipé, teck, cumaru. Durabilité, prix, entretien. Quel bois exotique choisir pour votre terrasse en 2026 ?",
+    "date": "2026-11-09",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
+    "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : ipé, teck, cumaru – quel bois choisir ?",
     "categorie": "Matériaux",
     "description": "Pergola bois exotique : comparatif complet ipé, teck, cumaru. Prix, durabilité, entretien. Guide pour choisir le meilleur bois tropical pour votre terrasse.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola Aluminium Couleur : Guide Complet des Finitions 2025",
-    "categorie": "Aluminium",
-    "description": "Choisir la couleur et la finition de votre pergola aluminium : nos conseils d'expert, tendances 2025, comparatif des matériaux et solutions pour tous budgets. Découvrez comment bien choisir.",
-    "date": "2026-09-04",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
