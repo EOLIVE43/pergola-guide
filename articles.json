@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé : avantages, style et entretien durable",
+    "categorie": "Matériaux",
+    "description": "Pergola fer forgé : découvrez les avantages de cette structure élégante, sa durabilité exceptionnelle et les secrets d'un entretien facile pour terrasse et jardin.",
+    "date": "2026-11-09",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-bioclimatique-vs-classique",
     "titre": "Pergola bioclimatique vs classique : quel modèle choisir en 2024 ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-fer-forge-avantages",
-    "titre": "7 avantages de la pergola fer forgé pour votre terrasse",
-    "categorie": "Matériaux",
-    "description": "Pergola fer forgé avantages : découvrez les 7 raisons d'adopter ce style intemporel pour votre jardin et terrasse. Durabilité, entretien et beauté garantis.",
-    "date": "2026-09-05",
-    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-sur-mesure"
   }
 ]
