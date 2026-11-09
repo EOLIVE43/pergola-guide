@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:19:04 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:15:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en copropriété : quelles règles et autorisations ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : découvrez les autorisations nécessaires, démarches administratives et restrictions légales pour installer une pergola en immeuble collectif.</description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : 8 points clés à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches pour protéger votre terrasse correctement en 2024.</description>
       <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola bioclimatique soi-même : DIY ou professionnel ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Faut-il installer sa pergola bioclimatique soi-même ? Découvrez le comparatif complet : coûts, difficultés, risques et alternatives professionnelles pour bien choisir.</description>
-      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
