@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : quel modèle choisir en 2024 ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique vs classique : découvrez les différences clés, les prix, les avantages et comment choisir la meilleure solution pour votre terrasse en France.",
+    "date": "2026-11-09",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-bois-exotique-avantages",
     "titre": "Pergola bois exotique : quel bois choisir entre ipé, teck et cumaru ?",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "7 secrets pour choisir une pergola résistante au vent",
-    "categorie": "Conseils",
-    "description": "Découvrez les 7 critères essentiels pour sélectionner une pergola résistante au vent. Aluminium, structure, ancrage : le guide complet pour ne pas vous tromper.",
-    "date": "2026-09-04",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
