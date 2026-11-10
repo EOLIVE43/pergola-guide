@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:32:25 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:30:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store zip pergola : 5 avantages pour dominer le vent</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
+      <description>Store zip pergola : découvrez les 5 avantages majeurs pour protéger votre terrasse du vent. Guide complet avec prix et installation 2026.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer pergola bioclimatique soi-même : est-ce vraiment possible ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola bioclimatique : découvrez le guide complet avec calendrier annuel, produits recommandés et astuces pour prolonger la durée de vie de votre structure.</description>
       <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher en automne : le guide essentiel 2026</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Nettoyage pergola Kärcher automne 2026 : conseils, précautions et planning. Protégez votre pergola bois avant l'hiver avec nos techniques éprouvées.</description>
-      <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

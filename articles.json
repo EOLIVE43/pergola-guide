@@ -1,5 +1,15 @@
 [
   {
+    "slug": "store-pergola-zip-avantages",
+    "titre": "Store zip pergola : 5 avantages pour dominer le vent",
+    "categorie": "Stores",
+    "description": "Store zip pergola : découvrez les 5 avantages majeurs pour protéger votre terrasse du vent. Guide complet avec prix et installation 2026.",
+    "date": "2026-11-10",
+    "thumb": "/images/blog/store-pergola-zip-avantages.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "store-pergola-zip"
+  },
+  {
     "slug": "pergola-bioclimatique-installation-soi-meme",
     "titre": "Installer pergola bioclimatique soi-même : est-ce vraiment possible ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "7 plantes grimpantes pour pergola : le guide complet France 2026",
-    "categorie": "Jardin",
-    "description": "Découvrez les meilleures plantes grimpantes pergola France pour créer une oasis ombragée. Variétés rustiques, conseils de plantation et entretien.",
-    "date": "2026-09-06",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
