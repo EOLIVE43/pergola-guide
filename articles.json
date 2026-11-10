@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola : quel matériau choisir en 2025 ?",
+    "categorie": "Toiture",
+    "description": "Comparatif complet des matériaux pour toiture pergola : verre, polycarbonate, bois, aluminium. Avantages, prix, entretien. Guide pour bien choisir selon vos besoins.",
+    "date": "2026-11-10",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "7 couleurs pergola aluminium qui subliment votre terrasse",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-pas-cher-bonne-qualite.webp",
     "pilier_id": "prix",
     "secondaire_slug": "pergola-pas-cher"
-  },
-  {
-    "slug": "pergola-bioclimatique-hiver",
-    "titre": "Pergola bioclimatique hiver : utiliser dehors 12 mois/an ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique en hiver : guide complet pour l'utiliser toute l'année. Comparaison lames orientables vs pergola solaire. Conseils et verdicts.",
-    "date": "2026-09-06",
-    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
