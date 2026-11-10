@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : règles et autorisations à connaître",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : guide complet des autorisations, formalités administratives et conditions d'installation en immeuble collectif.",
+    "date": "2026-11-10",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 ou agrandissement terrasse : le bon choix ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : anthracite ou blanc ? Le guide complet 2025",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium couleur : découvrez les meilleures finitions (blanc, anthracite, gris). Comparatif complet, entretien et conseil de choix selon votre style.",
-    "date": "2026-09-06",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]

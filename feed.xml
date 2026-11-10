@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:01:06 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:40:55 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en copropriété : règles et autorisations à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : guide complet des autorisations, formalités administratives et conditions d'installation en immeuble collectif.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 ou agrandissement terrasse : le bon choix ?</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique hiver : découvrez comment l'utiliser 12 mois par an. Conseils pratiques, entretien et solutions pour profiter toute l'année de votre pergola bioclimatique.</description>
       <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : économies et confort toute l'année</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez comment le chauffage infrarouge pour pergola transforme votre espace extérieur. Gains énergétiques, installation, prix et avis d'experts.</description>
-      <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
