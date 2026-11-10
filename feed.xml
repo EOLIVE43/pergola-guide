@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:21:52 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:32:25 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola bioclimatique soi-même : est-ce vraiment possible ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
+      <description>Peut-on installer une pergola bioclimatique soi-même ? Découvrez les défis, les étapes clés et les pièges à éviter pour réussir votre installation en toute confiance.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : confort et économies expliqués</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Nettoyage pergola Kärcher automne 2026 : conseils, précautions et planning. Protégez votre pergola bois avant l'hiver avec nos techniques éprouvées.</description>
       <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : 8 raisons de choisir cette dimension</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse standard. 8 bonnes raisons et conseils d'installation pour réussir.</description>
-      <pubDate>Sun, 08 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

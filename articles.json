@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-installation-soi-meme",
+    "titre": "Installer pergola bioclimatique soi-même : est-ce vraiment possible ?",
+    "categorie": "Bioclimatique",
+    "description": "Peut-on installer une pergola bioclimatique soi-même ? Découvrez les défis, les étapes clés et les pièges à éviter pour réussir votre installation en toute confiance.",
+    "date": "2026-11-10",
+    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "Chauffage infrarouge pergola : confort et économies expliqués",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "store-pergola-motorise",
-    "titre": "Store pergola motorisé : guide complet des prix, avantages et pose en 2026",
-    "categorie": "Stores",
-    "description": "Découvrez tout sur le store pergola motorisé : prix, avantages, installation DIY ou pro. Comparatif, conseils et erreurs à éviter pour bien choisir.",
-    "date": "2026-09-06",
-    "thumb": "/images/blog/store-pergola-motorise.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "store-pergola-zip"
   }
 ]
