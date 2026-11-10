@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:23:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:16:40 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 couleurs pergola aluminium qui subliment votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Découvrez les 7 meilleures couleurs de pergola aluminium pour transformer votre extérieur. Finitions, styles, tendances : le guide complet pour bien choisir.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Marques pergola bioclimatique 2026 : comparatif des meilleures</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer sa pergola en un week-end. Guide complet avec étapes, fixations, matériel nécessaire et conseils d'experts pour réussir votre pose pergola.</description>
       <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola japonaise zen : créer votre jardin de sérénité</title>
-      <link>https://pergola-guide.fr/blog/pergola-japonaise-zen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-japonaise-zen.html</guid>
-      <description>Créez une pergola japonaise zen dans votre jardin. Guide complet : matériaux, style, aménagement et conseils d'expert pour un espace de détente authentique.</description>
-      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
