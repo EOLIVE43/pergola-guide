@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : confort et économies expliqués",
+    "categorie": "Jardin",
+    "description": "Tout savoir sur le chauffage infrarouge pour pergola : fonctionnement, consommation, prix, installation et gains thermiques réels. Guide complet avec réponses aux questions essentielles.",
+    "date": "2026-11-10",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola en copropriété : règles et autorisations à connaître",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-motorise.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2026",
-    "categorie": "Réglementation",
-    "description": "Assurance pergola déclaration obligatoire ? Découvrez les règles, les risques et comment bien déclarer votre pergola à votre assureur pour éviter les pièges.",
-    "date": "2026-09-06",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
