@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-peindre-lasurer",
+    "titre": "Peindre ou lasurer sa pergola bois : comment choisir ?",
+    "categorie": "Matériaux",
+    "description": "Peindre ou lasurer sa pergola bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et embellir votre structure. Guide complet avec conseils pratiques.",
+    "date": "2026-11-11",
+    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-piscine-amenagement",
     "titre": "Pergola piscine aménagement : le projet de 24 m² de Nathalie en Provence",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Fixer pergola mur parpaing : 8 étapes essentielles avant de percer",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer une pergola adossée sur un mur en parpaing en 8 étapes. Installation pergola sécurisée et durable garantie.",
-    "date": "2026-09-07",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
