@@ -1,5 +1,15 @@
 [
   {
+    "slug": "bache-pergola-comment-choisir",
+    "titre": "Bâche pergola : imperméabilité ou résistance ? Comment choisir",
+    "categorie": "Toiture",
+    "description": "Découvrez comment choisir votre bâche pergola en comparant imperméabilité et résistance. Guide complet avec tableau comparatif et recommandations par profil.",
+    "date": "2026-11-11",
+    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-bache-toile"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola : quel matériau choisir en 2025 ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "Essence bois pergola : bois exotique ou résineux durable ?",
-    "categorie": "Matériaux",
-    "description": "Quel bois choisir pour votre pergola durable ? Découvrez la comparaison complète : bois exotique vs résineux. Prix, entretien, durée de vie. Guide décision 2026.",
-    "date": "2026-09-07",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
