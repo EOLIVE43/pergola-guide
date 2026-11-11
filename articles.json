@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-entretien",
+    "titre": "Entretien pergola aluminium : le guide complet d'un propriétaire français",
+    "categorie": "Aluminium",
+    "description": "Entretien pergola aluminium : découvrez comment Nicolas maintient sa pergola 4x3 en Provence. Conseils pratiques, budget, fréquence d'entretien et résultats concrets.",
+    "date": "2026-11-11",
+    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-sur-mesure"
+  },
+  {
     "slug": "store-pergola-zip-avantages",
     "titre": "Store zip pergola : 5 avantages pour dominer le vent",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-bioclimatique-entretien",
-    "titre": "Entretien pergola bioclimatique : le guide annuel complet",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment entretenir votre pergola bioclimatique toute l'année. Guide pratique avec calendrier d'entretien, nettoyage des lames et solutions durables pour 2026.",
-    "date": "2026-09-06",
-    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
