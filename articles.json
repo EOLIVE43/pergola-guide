@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : le projet de 24 m² de Nathalie en Provence",
+    "categorie": "Jardin",
+    "description": "Découvrez comment Nathalie a transformé sa piscine avec une pergola bioclimatique. Budget, étapes, résultats : le cas concret d'un aménagement réussi en Provence.",
+    "date": "2026-11-11",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola en copropriété : 8 règles essentielles avant l'installation",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan : 7 questions essentielles pour bien choisir",
-    "categorie": "Prix",
-    "description": "Obtenez un devis pergola artisan adapté à votre budget. Guide complet : prix, matériaux, démarches et conseils pour négocier le meilleur tarif pergola.",
-    "date": "2026-09-07",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
