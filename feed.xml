@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:31:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 19:27:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bois résistante intempéries : le projet réussi de Véronique en Bretagne</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
+      <description>Étude de cas : Véronique a construit une pergola bois résistante aux intempéries en Bretagne. Budget, matériaux, étapes et résultats concrets après 18 mois.</description>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>9 étapes d'entretien pergola bioclimatique toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola copropriété règles : découvrez les autorisations nécessaires, démarches administratives et restrictions légales pour installer une pergola en immeuble collectif.</description>
       <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis de construire 2026 : 8 points clés à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : découvrez les 8 règles essentielles pour installer légalement votre pergola sans risque d'amende ni démolition.</description>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

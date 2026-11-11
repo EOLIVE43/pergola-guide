@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-resistante-intemperies",
+    "titre": "Pergola bois résistante intempéries : le projet réussi de Véronique en Bretagne",
+    "categorie": "Matériaux",
+    "description": "Étude de cas : Véronique a construit une pergola bois résistante aux intempéries en Bretagne. Budget, matériaux, étapes et résultats concrets après 18 mois.",
+    "date": "2026-11-11",
+    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-traite"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "9 étapes d'entretien pergola bioclimatique toute l'année",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : prolongez votre terrasse 9 mois par an",
-    "categorie": "Jardin",
-    "description": "Chauffage infrarouge pergola : découvrez comment chauffer votre espace extérieur efficacement, réaliser 40% d'économies et profiter toute l'année. Guide complet 2026.",
-    "date": "2026-09-07",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
