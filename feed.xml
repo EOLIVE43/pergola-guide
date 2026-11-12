@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:46:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:44:04 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola et permis de construire 2026 : 8 règles essentielles à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
+      <description>Pergola permis construire 2026 : découvrez les 8 obligations légales et règles à respecter avant d'installer votre pergola. Guide complet et à jour.</description>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 meilleures plantes grimpantes pergola France : le guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Tout savoir sur le chauffage infrarouge pour pergola : fonctionnement, consommation, prix, installation et gains thermiques réels. Guide complet avec réponses aux questions essentielles.</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola en copropriété : règles et autorisations à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : guide complet des autorisations, formalités administratives et conditions d'installation en immeuble collectif.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
