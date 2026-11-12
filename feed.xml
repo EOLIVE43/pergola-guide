@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:26:30 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:32:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 secrets du chauffage infrarouge pergola pour gagner en confort</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez 8 secrets du chauffage infrarouge pergola pour transformer votre terrasse. Conseils pratiques, économies d'énergie et installation efficace.</description>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : le succès de Thomas en Provence</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer une pergola bioclimatique soi-même avant l'hiver. Étapes clés, timing automne, budget 2026 et erreurs à éviter pour réussir votre projet.</description>
       <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : guide complet des meilleures solutions 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Éclairage LED pergola : découvrez les meilleures solutions 2026. Comparatif, installation, prix. Guide complet pour éclairer votre espace outdoor.</description>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
