@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : bois brut ou bois traité ?",
+    "categorie": "Style",
+    "description": "Pergola rustique campagne en bois brut vs traité : matériaux, prix, durabilité. Comparatif complet pour choisir votre style rustique.",
+    "date": "2026-11-12",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : le succès de Valérie en Île-de-France",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer sa pergola en un week-end : le guide complet étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment installer pergola week-end sans stress. Guide complet avec les 7 étapes, conseils de fixation et erreurs à éviter. Posez votre pergola seul en 48h.",
-    "date": "2026-09-08",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
