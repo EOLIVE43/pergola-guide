@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : la dimension idéale expliquée",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x3 terrasse : dimensions, réglementation, prix et installation. Découvrez si cette taille convient à votre projet et les démarches administratives nécessaires.",
+    "date": "2026-11-12",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : bois brut ou bois traité ?",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-dalle-beton"
-  },
-  {
-    "slug": "pergola-cuisine-exterieure-amenager",
-    "titre": "Cuisine extérieure pergola : aménager avant l'hiver 2026",
-    "categorie": "Jardin",
-    "description": "Aménager une cuisine extérieure sous pergola en automne 2026 : guide complet avec planning, budget et erreurs à éviter avant les premiers froids.",
-    "date": "2026-09-08",
-    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-cuisine-exterieure"
   }
 ]
