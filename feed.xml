@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:32:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:31:32 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola bioclimatique : le guide annuel pour 10 ans de durabilité</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
+      <description>Entretien pergola bioclimatique : calendrier saisonnier, nettoyage lames, protection aluminium et erreurs à éviter pour prolonger la vie de votre structure.</description>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 secrets du chauffage infrarouge pergola pour gagner en confort</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -175,15 +184,6 @@
       <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
       <description>Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif complet, prix, caractéristiques et conseils pour bien choisir votre pergola.</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer une pergola bioclimatique soi-même en automne 2026 : le vrai guide</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</guid>
-      <description>Découvrez comment installer une pergola bioclimatique soi-même avant l'hiver. Étapes clés, timing automne, budget 2026 et erreurs à éviter pour réussir votre projet.</description>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>

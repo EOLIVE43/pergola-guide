@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : le guide annuel pour 10 ans de durabilité",
+    "categorie": "Bioclimatique",
+    "description": "Entretien pergola bioclimatique : calendrier saisonnier, nettoyage lames, protection aluminium et erreurs à éviter pour prolonger la vie de votre structure.",
+    "date": "2026-11-12",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-chauffage-infrarouge",
     "titre": "8 secrets du chauffage infrarouge pergola pour gagner en confort",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-bioclimatique-vs-classique",
-    "titre": "Pergola bioclimatique vs classique : 8 différences décisives",
-    "categorie": "Bioclimatique",
-    "description": "Pergola bioclimatique vs classique : découvrez les 8 critères essentiels pour choisir la structure idéale selon vos besoins et votre budget.",
-    "date": "2026-09-08",
-    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-aluminium"
   }
 ]
