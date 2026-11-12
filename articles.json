@@ -1,5 +1,15 @@
 [
   {
+    "slug": "brise-vue-pergola-jardins",
+    "titre": "Brise-vue pergola jardin : comment Martine a créé son oasis privée à Toulouse",
+    "categorie": "Stores",
+    "description": "Découvrez le retour d'expérience de Martine : comment un brise-vue pergola jardin a transformé son espace extérieur pour 3 800 € en 6 semaines. Budget, matériaux et conseils pratiques.",
+    "date": "2026-11-12",
+    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
+    "pilier_id": "stores",
+    "secondaire_slug": "brise-vue-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "Entretien pergola bioclimatique : le guide annuel pour 10 ans de durabilité",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-couverte-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "toile-pergola"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "Quelle essence de bois choisir pour une pergola durable ?",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment sélectionner la meilleure essence bois pergola pour garantir durabilité et résistance. Comparatif complet, prix et conseils pratiques pour votre pergola bois.",
-    "date": "2026-09-08",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
