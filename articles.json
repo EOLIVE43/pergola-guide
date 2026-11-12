@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : le succès de Valérie en Île-de-France",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment Valérie a transformé sa pergola bioclimatique en espace 4 saisons habitable. Budget réel, étapes concrètes et économies mesurées : le guide complet du projet 2026.",
+    "date": "2026-11-12",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "Brise-vue pergola jardin : comment Martine a créé son oasis privée à Toulouse",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "pergola-couverte-avantages",
-    "titre": "Pergola couverte : avantages et inconvénients face à la pergola ouverte",
-    "categorie": "Toiture",
-    "description": "Pergola couverte vs ouverte : découvrez les avantages, inconvénients et quel modèle choisir pour votre terrasse. Guide 2026 complet.",
-    "date": "2026-09-08",
-    "thumb": "/images/blog/pergola-couverte-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "toile-pergola"
   }
 ]

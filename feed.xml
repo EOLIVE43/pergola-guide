@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:56:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:31:19 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : le succès de Valérie en Île-de-France</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment Valérie a transformé sa pergola bioclimatique en espace 4 saisons habitable. Budget réel, étapes concrètes et économies mesurées : le guide complet du projet 2026.</description>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Brise-vue pergola jardin : comment Martine a créé son oasis privée à Toulouse</title>
       <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet des matériaux pour toiture pergola : verre, polycarbonate, bois, aluminium. Avantages, prix, entretien. Guide pour bien choisir selon vos besoins.</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 couleurs pergola aluminium qui subliment votre terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
-      <description>Découvrez les 7 meilleures couleurs de pergola aluminium pour transformer votre extérieur. Finitions, styles, tendances : le guide complet pour bien choisir.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
