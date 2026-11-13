@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola matériau : le choix de Laurent en Provence, 8 mois après",
+    "categorie": "Toiture",
+    "description": "Laurent a installé sa pergola en Provence avec toiture polycarbonate. Retour d'expérience : budget réel 4 800 €, performances thermiques mesurées et leçons concrètes pour votre projet 2026.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-dalle-beton-fixer",
     "titre": "7 étapes pour fixer pergola dalle béton sans erreur",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment l'obtenir en 5 étapes",
-    "categorie": "Installation",
-    "description": "Déclaration préalable pergola comment : guide complet des démarches administratives, délais et conditions pour régulariser votre projet avant installation.",
-    "date": "2026-09-09",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
