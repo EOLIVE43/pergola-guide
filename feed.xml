@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:26:06 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:27:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher en automne : conseils et précautions essentielles</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Peut-on vraiment nettoyer sa pergola au Kärcher ? Découvrez les consignes de sécurité, les précautions pour bois et métal, et le meilleur moment en automne 2026 pour agir sans l'endommager.</description>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer sa pergola bois ? Découvrez les différences, avantages et inconvénients de chaque technique pour protéger et embellir votre structure. Guide complet avec conseils pratiques.</description>
       <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : le projet de 24 m² de Nathalie en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Découvrez comment Nathalie a transformé sa piscine avec une pergola bioclimatique. Budget, étapes, résultats : le cas concret d'un aménagement réussi en Provence.</description>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

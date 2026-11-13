@@ -1,5 +1,15 @@
 [
   {
+    "slug": "nettoyage-pergola-karcher",
+    "titre": "Nettoyage pergola Kärcher en automne : conseils et précautions essentielles",
+    "categorie": "Entretien",
+    "description": "Peut-on vraiment nettoyer sa pergola au Kärcher ? Découvrez les consignes de sécurité, les précautions pour bois et métal, et le meilleur moment en automne 2026 pour agir sans l'endommager.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2026",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Fixer une pergola sur mur parpaing : guide pratique étape par étape",
-    "categorie": "Installation",
-    "description": "Découvrez comment fixer pergola mur parpaing avec sécurité. Technique, matériel, erreurs à éviter : tout pour une pose durable et stable.",
-    "date": "2026-09-10",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
