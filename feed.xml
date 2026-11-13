@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:44:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:01:00 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x4 jardin : 8 points clés pour bien la choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
+      <description>Pergola 4x4 jardin : découvrez les 8 critères essentiels pour sélectionner la pergola parfaite adaptée à vos espaces spacieux et votre budget.</description>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis de construire 2026 : 8 règles essentielles à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Peut-on installer une pergola bioclimatique soi-même ? Découvrez les défis, les étapes clés et les pièges à éviter pour réussir votre installation en toute confiance.</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Chauffage infrarouge pergola : confort et économies expliqués</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Tout savoir sur le chauffage infrarouge pour pergola : fonctionnement, consommation, prix, installation et gains thermiques réels. Guide complet avec réponses aux questions essentielles.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
