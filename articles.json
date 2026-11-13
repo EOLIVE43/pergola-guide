@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire panneaux photovoltaïques : votre rentabilité dès automne 2026",
+    "categorie": "Bioclimatique",
+    "description": "Pergola solaire avec panneaux photovoltaïques : calculez votre rentabilité avant l'hiver. Guide complet automne 2026 avec planning d'installation et budgets actualisés.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "quelle-essence-bois-pergola",
     "titre": "Essence bois pergola : le guide complet pour choisir le bon matériau",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 jardin : pourquoi agir maintenant en automne 2026",
-    "categorie": "Dimensions",
-    "description": "Découvrez pourquoi l'automne 2026 est le moment idéal pour installer une pergola 4x4 dans votre jardin. Guide complet avec 3 actions prioritaires et planning d'installation.",
-    "date": "2026-09-09",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]
