@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten : la rouille qui sublime votre jardin",
+    "categorie": "Matériaux",
+    "description": "Découvrez la pergola acier corten : esthétique rouillée intemporelle, durabilité exceptionnelle et design moderne. Guide complet avec prix et conseils d'installation.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 jardin : 8 points clés pour bien la choisir",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
     "pilier_id": "stores",
     "secondaire_slug": "brise-vue-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-couleurs-disponibles",
-    "titre": "Pergola aluminium couleur : le guide pour choisir la finition idéale",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium couleur : découvrez comment choisir la teinte et finition parfaite selon votre maison. Conseils d'experts et tendances 2026.",
-    "date": "2026-09-09",
-    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
