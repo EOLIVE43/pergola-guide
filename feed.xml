@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:54:16 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:48:34 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Essence bois pergola : le guide complet pour choisir le bon matériau</title>
+      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
+      <description>Découvrez comment choisir l'essence de bois idéale pour votre pergola durable. Comparatif, prix et conseils d'experts pour une pergola bois réussie en 2026.</description>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola acier corten : la rouille qui sublime votre jardin</title>
       <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola aluminium : découvrez comment Nicolas maintient sa pergola 4x3 en Provence. Conseils pratiques, budget, fréquence d'entretien et résultats concrets.</description>
       <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : 5 avantages pour dominer le vent</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Store zip pergola : découvrez les 5 avantages majeurs pour protéger votre terrasse du vent. Guide complet avec prix et installation 2026.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-essence-bois-pergola",
+    "titre": "Essence bois pergola : le guide complet pour choisir le bon matériau",
+    "categorie": "Matériaux",
+    "description": "Découvrez comment choisir l'essence de bois idéale pour votre pergola durable. Comparatif, prix et conseils d'experts pour une pergola bois réussie en 2026.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-acier-corten",
     "titre": "Pergola acier corten : la rouille qui sublime votre jardin",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "brise-vue-pergola-jardins",
-    "titre": "Brise-vue pergola jardin : intimité et esthétique en 8 questions",
-    "categorie": "Stores",
-    "description": "Découvrez comment choisir un brise-vue pergola jardin pour créer une zone intime et harmonieuse. Guide complet : matériaux, installation, prix et réglementations.",
-    "date": "2026-09-09",
-    "thumb": "/images/blog/brise-vue-pergola-jardins.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "brise-vue-pergola"
   }
 ]
