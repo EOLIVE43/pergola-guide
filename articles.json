@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2026",
+    "categorie": "Bioclimatique",
+    "description": "Pergola solaire avec panneaux photovoltaïques : rentabilité, coûts, économies d'énergie et ROI. Guide complet pour les propriétaires français 2026.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "toiture-pergola-quel-materiau",
     "titre": "Toiture pergola matériau : le choix de Laurent en Provence, 8 mois après",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire panneaux photovoltaïques : rentabilité réelle en 2025",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire avec panneaux photovoltaïques : guide complet sur la rentabilité, amortissement et économies réelles pour votre maison France 2025.",
-    "date": "2026-09-09",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
