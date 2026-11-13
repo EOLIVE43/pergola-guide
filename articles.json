@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bois-exotique-avantages",
+    "titre": "Pergola bois exotique : ipé ou teck ? Le guide pour choisir",
+    "categorie": "Matériaux",
+    "description": "Comparatif pergola bois exotique : ipé, teck, cumaru. Découvrez les différences de prix, durabilité, entretien pour bien choisir votre pergola en bois.",
+    "date": "2026-11-13",
+    "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "nettoyage-pergola-karcher",
     "titre": "Nettoyage pergola Kärcher en automne : conseils et précautions essentielles",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "Plantes grimpantes pergola France : lierre ou clématite ?",
-    "categorie": "Jardin",
-    "description": "Quel est le meilleur choix entre lierre et clématite pour vos plantes grimpantes pergola France ? Comparatif complet, prix, entretien et conseils d'experts.",
-    "date": "2026-09-10",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
