@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:55:13 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:50:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé : 8 avantages qui séduisent les Français</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les 8 avantages majeurs de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien facile. Comparaison avec pergola bois.</description>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer sa pergola en bois : quel traitement choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola rustique campagne en bois brut vs traité : matériaux, prix, durabilité. Comparatif complet pour choisir votre style rustique.</description>
       <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons aménagement : le succès de Valérie en Île-de-France</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment Valérie a transformé sa pergola bioclimatique en espace 4 saisons habitable. Budget réel, étapes concrètes et économies mesurées : le guide complet du projet 2026.</description>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

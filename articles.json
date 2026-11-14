@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé : 8 avantages qui séduisent les Français",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 8 avantages majeurs de la pergola fer forgé : style intemporel, durabilité exceptionnelle et entretien facile. Comparaison avec pergola bois.",
+    "date": "2026-11-14",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer sa pergola en bois : quel traitement choisir ?",
     "categorie": "Matériaux",
@@ -4984,16 +4994,6 @@
     "titre": "Pergola 3x3 aménagement : 5 idées pour maximiser un petit espace",
     "categorie": "Dimensions",
     "description": "Découvrez comment aménager une pergola 3x3 pour petit jardin. Solutions pratiques, mobilier malin et conseils pour créer votre havre de paix extérieur. Guide complet.",
-    "date": "2026-09-11",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3×3 : aménagement minimaliste ou maximaliste ?",
-    "categorie": "Dimensions",
-    "description": "Découvrez comment aménager une pergola 3×3 pour petits espaces. Comparatif des styles minimalistes vs maximalistes avec tableau décisionnel et conseils experts.",
     "date": "2026-09-11",
     "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
     "pilier_id": "dimensions",
