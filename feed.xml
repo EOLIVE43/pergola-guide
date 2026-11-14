@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:12:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:55:13 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Peindre ou lasurer sa pergola en bois : quel traitement choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
+      <description>Peindre ou lasurer votre pergola bois ? Découvrez les avantages, inconvénients et le meilleur traitement pour protéger et embellir votre structure durable.</description>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique vs classique : 8 différences majeures à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Valérie a transformé sa pergola bioclimatique en espace 4 saisons habitable. Budget réel, étapes concrètes et économies mesurées : le guide complet du projet 2026.</description>
       <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Brise-vue pergola jardin : comment Martine a créé son oasis privée à Toulouse</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez le retour d'expérience de Martine : comment un brise-vue pergola jardin a transformé son espace extérieur pour 3 800 € en 6 semaines. Budget, matériaux et conseils pratiques.</description>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
