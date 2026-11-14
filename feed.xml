@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:52:30 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:04:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola moderne ou contemporaine en 2026 : quel style choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</guid>
+      <description>Pergola moderne vs contemporaine 2026 : découvrez le comparatif complet des styles, matériaux et tendances pour bien choisir votre pergola aluminium.</description>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola et permis construire 2026 : 8 règles à connaître</title>
       <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le retour d'expérience détaillé de Thomas qui a installé une pergola 4x4 dans son jardin provençal. Budget, délais, résultats concrets : l'étude de cas complète.</description>
       <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois résistante intempéries : le projet réussi de Véronique en Bretagne</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-resistante-intemperies.html</guid>
-      <description>Étude de cas : Véronique a construit une pergola bois résistante aux intempéries en Bretagne. Budget, matériaux, étapes et résultats concrets après 18 mois.</description>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
