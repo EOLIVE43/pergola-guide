@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:04:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:42:29 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : prolongez l'automne jusqu'en hiver</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment le chauffage infrarouge pergola transforme votre terrasse en novembre-décembre. Confort garanti, économies réelles. Guide automne 2026.</description>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola moderne ou contemporaine en 2026 : quel style choisir ?</title>
       <link>https://pergola-guide.fr/blog/pergola-moderne-contemporaine.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 secrets du chauffage infrarouge pergola pour transformer votre terrasse. Conseils pratiques, économies d'énergie et installation efficace.</description>
       <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 jardin : le succès de Thomas en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Découvrez le retour d'expérience détaillé de Thomas qui a installé une pergola 4x4 dans son jardin provençal. Budget, délais, résultats concrets : l'étude de cas complète.</description>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

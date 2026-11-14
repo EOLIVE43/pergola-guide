@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-chauffage-infrarouge",
+    "titre": "Chauffage infrarouge pergola : prolongez l'automne jusqu'en hiver",
+    "categorie": "Jardin",
+    "description": "Découvrez comment le chauffage infrarouge pergola transforme votre terrasse en novembre-décembre. Confort garanti, économies réelles. Guide automne 2026.",
+    "date": "2026-11-14",
+    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-chauffage"
+  },
+  {
     "slug": "pergola-moderne-contemporaine",
     "titre": "Pergola moderne ou contemporaine en 2026 : quel style choisir ?",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : 7 points clés à vérifier avant l'installation",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : découvrez les vérifications obligatoires, règles légales et techniques pour une installation sans risques ni conflits de voisinage.",
-    "date": "2026-09-10",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
