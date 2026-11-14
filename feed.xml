@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:42:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:25:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir ? 7 règles pour bien dimensionner</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment bien choisir la taille de votre pergola selon votre terrasse. 7 règles essentielles pour éviter les erreurs et optimiser votre espace extérieur.</description>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Chauffage infrarouge pergola : prolongez l'automne jusqu'en hiver</title>
       <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
@@ -176,15 +185,6 @@
       <description>Entretien pergola bioclimatique : calendrier saisonnier, nettoyage lames, protection aluminium et erreurs à éviter pour prolonger la vie de votre structure.</description>
       <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 secrets du chauffage infrarouge pergola pour gagner en confort</title>
-      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
-      <description>Découvrez 8 secrets du chauffage infrarouge pergola pour transformer votre terrasse. Conseils pratiques, économies d'énergie et installation efficace.</description>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
