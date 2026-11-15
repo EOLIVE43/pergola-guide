@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-piscine-amenagement",
+    "titre": "Pergola piscine aménagement : 5 idées pour transformer votre bassin",
+    "categorie": "Jardin",
+    "description": "Pergola piscine aménagement : guide complet avec 5 idées décoratives, conseils pratiques, prix et erreurs à éviter pour sublimer votre espace aquatique.",
+    "date": "2026-11-15",
+    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-piscine"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : 8 étapes clés pour réussir",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/store-pergola-zip-avantages.webp",
     "pilier_id": "stores",
     "secondaire_slug": "store-pergola-zip"
-  },
-  {
-    "slug": "pergola-bois-peindre-lasurer",
-    "titre": "Peindre ou lasurer pergola bois : 8 critères pour bien choisir",
-    "categorie": "Matériaux",
-    "description": "Peindre ou lasurer votre pergola bois ? Découvrez 8 critères décisifs pour faire le bon choix entre ces 2 traitements et protéger durablement votre structure.",
-    "date": "2026-09-11",
-    "thumb": "/images/blog/pergola-bois-peindre-lasurer.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
