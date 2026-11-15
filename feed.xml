@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:19:53 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:41:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium : avantages et inconvénients, un retour d'expérience en…</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
+      <description>Pergola aluminium avantages inconvénients : découvrez le cas concret de Laurent en Île-de-France. Budget, installation, durabilité et pièges à éviter en 2026.</description>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola piscine aménagement : 5 idées pour transformer votre bassin</title>
       <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x4 jardin : découvrez les 8 critères essentiels pour sélectionner la pergola parfaite adaptée à vos espaces spacieux et votre budget.</description>
       <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis de construire 2026 : 8 règles essentielles à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : découvrez les 8 obligations légales et règles à respecter avant d'installer votre pergola. Guide complet et à jour.</description>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
