@@ -1,5 +1,15 @@
 [
   {
+    "slug": "toiture-pergola-quel-materiau",
+    "titre": "Toiture pergola : quel matériau choisir en 2026 ?",
+    "categorie": "Toiture",
+    "description": "Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, alu, bois, verre. Comparatif complet, prix et conseils d'experts.",
+    "date": "2026-11-15",
+    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-eclairage-led",
     "titre": "Éclairage LED pergola : le projet réussi d'une famille bordelaise en 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "pergola-terrasse-bois-composite",
-    "titre": "Pergola terrasse bois composite : fixation automne 2026, le guide complet",
-    "categorie": "Installation",
-    "description": "Pergola terrasse bois composite : conseils de fixation et installation avant l'automne. Découvrez les meilleures pratiques et tarifs 2026 pour sécuriser votre terrasse.",
-    "date": "2026-09-12",
-    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-terrasse-bois"
   }
 ]

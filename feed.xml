@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:39:22 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:40:39 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Toiture pergola : quel matériau choisir en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
+      <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, alu, bois, verre. Comparatif complet, prix et conseils d'experts.</description>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Éclairage LED pergola : le projet réussi d'une famille bordelaise en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
@@ -176,15 +185,6 @@
       <description>Laurent a installé sa pergola en Provence avec toiture polycarbonate. Retour d'expérience : budget réel 4 800 €, performances thermiques mesurées et leçons concrètes pour votre projet 2026.</description>
       <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>7 étapes pour fixer pergola dalle béton sans erreur</title>
-      <link>https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-dalle-beton-fixer.html</guid>
-      <description>Fixer pergola dalle béton : guide complet en 7 étapes. Découvrez fixation pergola, pose pergola et conseils installation pour terrasse béton.</description>
-      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
