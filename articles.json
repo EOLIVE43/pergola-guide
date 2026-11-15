@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-eclairage-led",
+    "titre": "Éclairage LED pergola : le projet réussi d'une famille bordelaise en 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez comment une famille de Bordeaux a transformé sa pergola avec un éclairage LED performant. Budget, solutions, et résultats concrets d'une installation 2026.",
+    "date": "2026-11-15",
+    "thumb": "/images/blog/pergola-eclairage-led.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-eclairage"
+  },
+  {
     "slug": "pergola-3x3-idees-amenagement",
     "titre": "Pergola 3x3 : 8 idées d'aménagement pour optimiser votre petit espace",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-terrasse-bois"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : quels matériaux et structures choisir ?",
-    "categorie": "Conseils",
-    "description": "Découvrez quelle pergola résiste le mieux au vent. Comparaison aluminium, bois, acier + conseils pour une pergola résistante aux tempêtes et rafales.",
-    "date": "2026-09-12",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
