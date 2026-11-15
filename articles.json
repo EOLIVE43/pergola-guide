@@ -1,5 +1,15 @@
 [
   {
+    "slug": "entretien-pergola-printemps",
+    "titre": "Entretien pergola printemps : la checklist avant les beaux jours 2026",
+    "categorie": "Entretien",
+    "description": "Entretien pergola printemps : découvrez la checklist complète pour préparer votre pergola bois dès l'automne. Guide pratique avec calendrier et budget 2026.",
+    "date": "2026-11-15",
+    "thumb": "/images/blog/entretien-pergola-printemps.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "entretien-pergola-bois"
+  },
+  {
     "slug": "pergola-aluminium-avantages-inconvenients",
     "titre": "Pergola aluminium : avantages et inconvénients, un retour d'expérience en…",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment faire en automne 2026",
-    "categorie": "Installation",
-    "description": "Déclaration préalable pergola : comment constituer votre dossier avant l'hiver. Étapes, délais et conseils pour une installation conforme en automne 2026.",
-    "date": "2026-09-11",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
