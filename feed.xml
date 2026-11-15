@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:59:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:42:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 : 8 idées d'aménagement pour optimiser votre petit espace</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez 8 idées d'aménagement pour pergola 3x3. Conseils pratiques pour transformer un petit espace en terrasse confortable et fonctionnelle. Guide complet 2024.</description>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : le choix de Sophie à Bordeaux, 4 ans après</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola solaire avec panneaux photovoltaïques : calculez votre rentabilité avant l'hiver. Guide complet automne 2026 avec planning d'installation et budgets actualisés.</description>
       <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Essence bois pergola : le guide complet pour choisir le bon matériau</title>
-      <link>https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-essence-bois-pergola.html</guid>
-      <description>Découvrez comment choisir l'essence de bois idéale pour votre pergola durable. Comparatif, prix et conseils d'experts pour une pergola bois réussie en 2026.</description>
-      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

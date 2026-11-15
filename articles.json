@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 : 8 idées d'aménagement pour optimiser votre petit espace",
+    "categorie": "Dimensions",
+    "description": "Découvrez 8 idées d'aménagement pour pergola 3x3. Conseils pratiques pour transformer un petit espace en terrasse confortable et fonctionnelle. Guide complet 2024.",
+    "date": "2026-11-15",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : le choix de Sophie à Bordeaux, 4 ans après",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-4x3-terrasse-standard",
-    "titre": "Pergola 4x3 pour votre terrasse : le guide complet du format idéal",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x3 terrasse : découvrez pourquoi cette dimension est idéale, comment l'installer et combien elle coûte. Guide complet avec conseils pratiques.",
-    "date": "2026-09-12",
-    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x3"
   }
 ]
