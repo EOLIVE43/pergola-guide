@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer sa pergola en un week-end : 8 étapes pour réussir",
+    "categorie": "Installation",
+    "description": "Installer pergola week-end ? Découvrez nos 8 étapes pour réussir l'installation de votre pergola en 48h chrono. Guide complet avec fixation et pose.",
+    "date": "2026-11-16",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola Rustique Campagne : 5 Matériaux et Inspirations Authentiques",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "assurance-pergola-declaration",
-    "titre": "Assurance pergola : 8 points clés pour bien déclarer sa pergola",
-    "categorie": "Réglementation",
-    "description": "Assurance pergola déclaration : découvrez les 8 points essentiels pour déclarer correctement votre pergola à votre assureur et éviter les mauvaises surprises.",
-    "date": "2026-09-13",
-    "thumb": "/images/blog/assurance-pergola-declaration.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "permis-construire-pergola"
   }
 ]
