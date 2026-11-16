@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:55:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:53:35 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons : comment l'aménager pour toute l'année ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment transformer votre pergola en espace 4 saisons. Aménagement, pergola bioclimatique, produits et astuces pour profiter toute l'année.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer sa pergola en un week-end : 8 étapes pour réussir</title>
       <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique vs classique : découvrez les 8 différences clés pour choisir la bonne structure. Lames orientables, prix, entretien.</description>
       <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir ? 7 règles pour bien dimensionner</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir la taille de votre pergola selon votre terrasse. 7 règles essentielles pour éviter les erreurs et optimiser votre espace extérieur.</description>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

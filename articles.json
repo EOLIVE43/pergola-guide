@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons : comment l'aménager pour toute l'année ?",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment transformer votre pergola en espace 4 saisons. Aménagement, pergola bioclimatique, produits et astuces pour profiter toute l'année.",
+    "date": "2026-11-16",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer sa pergola en un week-end : 8 étapes pour réussir",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
     "pilier_id": "installation",
     "secondaire_slug": "pergola-terrasse-bois"
-  },
-  {
-    "slug": "pergola-sur-mesure-avantages",
-    "titre": "Pergola sur mesure ou standard : quel choix en 2025 ?",
-    "categorie": "Dimensions",
-    "description": "Pergola sur mesure avantages vs modèles standards : comparatif complet pour choisir la solution idéale selon votre jardin et budget.",
-    "date": "2026-09-13",
-    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-sur-mesure"
   }
 ]
