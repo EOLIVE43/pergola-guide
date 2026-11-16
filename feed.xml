@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:22:05 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:33:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chauffage infrarouge pergola : économies et confort prolongé</title>
+      <link>https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-chauffage-infrarouge.html</guid>
+      <description>Découvrez comment un chauffage infrarouge pergola améliore votre confort thermique et réduit vos factures énergétiques. Réponses aux 8 questions essentielles des propriétaires français.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Aménager une cuisine extérieure pergola : le guide complet 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif pergola bois exotique : ipé, teck, cumaru. Découvrez les différences de prix, durabilité, entretien pour bien choisir votre pergola en bois.</description>
       <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher en automne : conseils et précautions essentielles</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Peut-on vraiment nettoyer sa pergola au Kärcher ? Découvrez les consignes de sécurité, les précautions pour bois et métal, et le meilleur moment en automne 2026 pour agir sans l'endommager.</description>
-      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
