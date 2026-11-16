@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:53:35 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:00:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola Terrasse Bois Composite : Fixation et Conseils d'Experts</title>
+      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
+      <description>Découvrez comment installer et fixer une pergola sur terrasse en bois composite. Guide complet avec techniques de fixation, prix et erreurs à éviter.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons : comment l'aménager pour toute l'année ?</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer votre pergola bois ? Découvrez les avantages, inconvénients et le meilleur traitement pour protéger et embellir votre structure durable.</description>
       <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bioclimatique vs classique : 8 différences majeures à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
-      <description>Pergola bioclimatique vs classique : découvrez les 8 différences clés pour choisir la bonne structure. Lames orientables, prix, entretien.</description>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

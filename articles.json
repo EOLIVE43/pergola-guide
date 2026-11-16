@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-terrasse-bois-composite",
+    "titre": "Pergola Terrasse Bois Composite : Fixation et Conseils d'Experts",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer et fixer une pergola sur terrasse en bois composite. Guide complet avec techniques de fixation, prix et erreurs à éviter.",
+    "date": "2026-11-16",
+    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "pergola-terrasse-bois"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons : comment l'aménager pour toute l'année ?",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-sur-mesure"
-  },
-  {
-    "slug": "pergola-terrasse-bois-composite",
-    "titre": "Pergola terrasse bois composite : fixation murale ou sur plots ?",
-    "categorie": "Installation",
-    "description": "Pergola terrasse bois composite : guide complet de fixation. Découvrez les différentes méthodes d'installation, leurs avantages et le meilleur choix selon votre terrasse.",
-    "date": "2026-09-13",
-    "thumb": "/images/blog/pergola-terrasse-bois-composite.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-terrasse-bois"
   }
 ]
