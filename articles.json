@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-acier-corten",
+    "titre": "Pergola acier corten ou pergola bois : que choisir ?",
+    "categorie": "Matériaux",
+    "description": "Pergola acier corten vs pergola bois : comparez esthétique, durabilité, prix et entretien. Découvrez la solution idéale pour votre terrasse en 2025.",
+    "date": "2026-11-16",
+    "thumb": "/images/blog/pergola-acier-corten.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-exotique"
+  },
+  {
     "slug": "pergola-declaration-prealable-comment",
     "titre": "Déclaration préalable pergola : 8 étapes pour bien la faire",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "7 plantes grimpantes pergola France : guide complet du jardinage",
-    "categorie": "Jardin",
-    "description": "Découvrez les 7 meilleures plantes grimpantes pergola France pour transformer votre jardin. Conseils de plantation, entretien et variétés adaptées au climat français.",
-    "date": "2026-09-13",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

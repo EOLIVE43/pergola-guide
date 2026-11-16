@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:57:13 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:47:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola acier corten ou pergola bois : que choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
+      <description>Pergola acier corten vs pergola bois : comparez esthétique, durabilité, prix et entretien. Découvrez la solution idéale pour votre terrasse en 2025.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : 8 étapes pour bien la faire</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola moderne vs contemporaine 2026 : découvrez le comparatif complet des styles, matériaux et tendances pour bien choisir votre pergola aluminium.</description>
       <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola et permis construire 2026 : 8 règles à connaître</title>
-      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
-      <description>Pergola permis construire 2026 : découvrez les 8 règles essentielles pour légaliser votre installation sans risque de démolition.</description>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
