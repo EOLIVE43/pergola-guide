@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Aménager une cuisine extérieure pergola : le guide complet 2024",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et esthétique. Plans, équipements, budget et conseils pratiques pour votre jardin.",
+    "date": "2026-11-16",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "brise-vue-pergola-jardins",
     "titre": "8 solutions de brise-vue pergola jardin pour plus d'intimité",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pour une pergola : étapes et conseils",
-    "categorie": "Installation",
-    "description": "Déclaration préalable pour une pergola : étapes et conseils",
-    "date": "2026-09-12",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
