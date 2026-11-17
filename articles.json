@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Fixer une pergola sur mur en parpaing : guide complet",
+    "categorie": "Installation",
+    "description": "Comment fixer une pergola adossée sur un mur en parpaing ? Découvrez les techniques, matériaux et précautions essentielles pour une installation sécurisée et durable.",
+    "date": "2026-11-17",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "nettoyage-pergola-karcher",
     "titre": "Nettoyage pergola Kärcher en automne 2026 : mode d'emploi sûr",
     "categorie": "Entretien",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-eclairage-led.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-eclairage"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate ou aluminium : quel matériau choisir ?",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages de la pergola polycarbonate face à l'aluminium : prix, durabilité, entretien et installation. Comparatif complet pour bien choisir.",
-    "date": "2026-09-14",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
