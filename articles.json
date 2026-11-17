@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : 8 étapes essentielles par an",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment entretenir votre pergola bioclimatique toute l'année. 8 étapes simples pour prolonger la durée de vie de votre installation et optimiser ses performances.",
+    "date": "2026-11-17",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-mur-parpaing-fixer",
     "titre": "Fixer une pergola sur mur en parpaing : guide complet",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-eclairage-led",
-    "titre": "8 solutions d'éclairage LED pergola pour transformer votre terrasse",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures solutions d'éclairage LED pergola en 2026 : spots encastrés, rubans flexibles, suspensions design. Conseils d'installation et prix.",
-    "date": "2026-09-14",
-    "thumb": "/images/blog/pergola-eclairage-led.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-eclairage"
   }
 ]
