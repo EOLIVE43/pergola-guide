@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:50:20 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:18:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nettoyage pergola Kärcher en automne 2026 : mode d'emploi sûr</title>
+      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
+      <description>Nettoyer sa pergola au Kärcher en automne ? Guide complet avec précautions essentielles pour pergola bois. Conseils experts novembre 2026.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Entretien</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Nettoyage pergola Kärcher en automne : le guide complet 2026</title>
       <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium avantages inconvénients : découvrez le cas concret de Laurent en Île-de-France. Budget, installation, durabilité et pièges à éviter en 2026.</description>
       <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola piscine aménagement : 5 idées pour transformer votre bassin</title>
-      <link>https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-piscine-amenagement.html</guid>
-      <description>Pergola piscine aménagement : guide complet avec 5 idées décoratives, conseils pratiques, prix et erreurs à éviter pour sublimer votre espace aquatique.</description>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
