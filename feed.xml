@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:43:20 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:41:23 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store pergola motorisé : 8 points clés pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
+      <description>Découvrez les 8 critères essentiels pour choisir votre store pergola motorisé : prix, avantages, installation et entretien. Guide complet 2026.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Stores</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola mur parpaing en automne : le guide complet avant l'hiver 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment une famille de Bordeaux a transformé sa pergola avec un éclairage LED performant. Budget, solutions, et résultats concrets d'une installation 2026.</description>
       <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 3x3 : 8 idées d'aménagement pour optimiser votre petit espace</title>
-      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
-      <description>Découvrez 8 idées d'aménagement pour pergola 3x3. Conseils pratiques pour transformer un petit espace en terrasse confortable et fonctionnelle. Guide complet 2024.</description>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
