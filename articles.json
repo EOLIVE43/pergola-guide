@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-mur-parpaing-fixer",
+    "titre": "Fixer pergola mur parpaing en automne : le guide complet avant l'hiver 2026",
+    "categorie": "Installation",
+    "description": "Fixer pergola mur parpaing : découvrez comment bien installer votre pergola adossée avant l'hiver. Guide complet et étapes essentielles automne 2026.",
+    "date": "2026-11-17",
+    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "Entretien pergola bioclimatique : 8 étapes essentielles par an",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate avantages : tout savoir sur la pose et le prix",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages concrets d'une pergola polycarbonate, les prix actuels et les étapes de pose. Guide complet pour bien choisir votre structure de jardin.",
-    "date": "2026-09-14",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]

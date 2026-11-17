@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:50:25 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:43:20 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fixer pergola mur parpaing en automne : le guide complet avant l'hiver 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</guid>
+      <description>Fixer pergola mur parpaing : découvrez comment bien installer votre pergola adossée avant l'hiver. Guide complet et étapes essentielles automne 2026.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : 8 étapes essentielles par an</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 idées d'aménagement pour pergola 3x3. Conseils pratiques pour transformer un petit espace en terrasse confortable et fonctionnelle. Guide complet 2024.</description>
       <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium vs bois : le choix de Sophie à Bordeaux, 4 ans après</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
-      <description>Étude de cas réelle : pergola aluminium vs bois. Sophie a choisi l'alu pour sa maison bordelaise. Bilan concret, budget 2026, entretien comparé et vraies économies réalisées.</description>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
