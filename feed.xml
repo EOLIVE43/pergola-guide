@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:41:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:59:09 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique vs classique : comment bien choisir ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-vs-classique.html</guid>
+      <description>Pergola bioclimatique vs classique : découvrez les différences, avantages, prix et comment choisir selon vos besoins et budget en 2026.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola aluminium : le vrai guide d'une propriétaire en Provence</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et esthétique. Plans, équipements, budget et conseils pratiques pour votre jardin.</description>
       <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
       <category>Jardin</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 solutions de brise-vue pergola jardin pour plus d'intimité</title>
-      <link>https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/brise-vue-pergola-jardins.html</guid>
-      <description>Découvrez 8 solutions de brise-vue pergola jardin pour créer une véritable intimité. Comparaison des meilleures options : panneaux, plantes, stores et plus.</description>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

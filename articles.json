@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-vs-classique",
+    "titre": "Pergola bioclimatique vs classique : comment bien choisir ?",
+    "categorie": "Bioclimatique",
+    "description": "Pergola bioclimatique vs classique : découvrez les différences, avantages, prix et comment choisir selon vos besoins et budget en 2026.",
+    "date": "2026-11-18",
+    "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-aluminium-entretien",
     "titre": "Entretien pergola aluminium : le vrai guide d'une propriétaire en Provence",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "pergola-toute-saison-amenager",
-    "titre": "Pergola 4 saisons : comment créer un espace habitable toute l'année ?",
-    "categorie": "Aménagement",
-    "description": "Aménager une pergola 4 saisons : guide complet des solutions bioclimatiques, lames orientables et produits pour transformer votre terrasse en espace cosy hiver comme été.",
-    "date": "2026-09-14",
-    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "lames-orientables-pergola"
   }
 ]
