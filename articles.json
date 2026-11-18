@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : règles et autorisations en 2024",
+    "categorie": "Réglementation",
+    "description": "Découvrez les règles pour installer une pergola en copropriété : autorisations, syndic, permis de construire et démarches administratives obligatoires.",
+    "date": "2026-11-18",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire panneaux photovoltaïques : 8 clés pour une rentabilité maximale",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-moderne-contemporaine",
-    "titre": "Pergola moderne contemporaine 2026 : 8 questions essentielles",
-    "categorie": "Style",
-    "description": "Pergola moderne contemporaine 2026 : tendances design, matériaux, prix et installation. Réponses claires à vos 8 questions principales sur les pergolas actuelles.",
-    "date": "2026-09-15",
-    "thumb": "/images/blog/pergola-moderne-contemporaine.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
   }
 ]
