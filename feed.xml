@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:53:14 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:41:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>8 critères pour bien choisir sa bâche pergola : imperméabilité et durabilité</title>
+      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
+      <description>Découvrez comment choisir sa bâche pergola selon l'imperméabilité, la résistance et la matière. 8 critères essentiels pour une pergola protégée longtemps.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : règles et autorisations en 2024</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola acier corten vs pergola bois : comparez esthétique, durabilité, prix et entretien. Découvrez la solution idéale pour votre terrasse en 2025.</description>
       <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : 8 étapes pour bien la faire</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Découvrez comment déclarer une pergola en mairie : 8 étapes essentielles, conseils pour éviter les erreurs et délais avant installation.</description>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
