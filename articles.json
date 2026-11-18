@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-entretien",
+    "titre": "Entretien pergola aluminium : le vrai guide d'une propriétaire en Provence",
+    "categorie": "Aluminium",
+    "description": "Découvrez comment Sandrine entretient sa pergola aluminium 4x3 en Provence. Conseils concrets, budget, fréquence de nettoyage et pièges à éviter pour préserver votre investissement.",
+    "date": "2026-11-18",
+    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-sur-mesure"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola copropriété : 8 règles essentielles avant d'installer",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "lames-orientables-pergola"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola japonaise zen : créer un jardin d'harmonie en 7 questions",
-    "categorie": "Style",
-    "description": "Pergola japonaise zen jardin : guide complet pour transformer votre espace extérieur. Découvrez comment créer une ambiance zen authentique avec conseils, matériaux et entretien.",
-    "date": "2026-09-14",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

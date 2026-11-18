@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:52:22 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:41:44 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Entretien pergola aluminium : le vrai guide d'une propriétaire en Provence</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
+      <description>Découvrez comment Sandrine entretient sa pergola aluminium 4x3 en Provence. Conseils concrets, budget, fréquence de nettoyage et pièges à éviter pour préserver votre investissement.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola copropriété : 8 règles essentielles avant d'installer</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez 8 solutions de brise-vue pergola jardin pour créer une véritable intimité. Comparaison des meilleures options : panneaux, plantes, stores et plus.</description>
       <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Toiture pergola : quel matériau choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/toiture-pergola-quel-materiau.html</guid>
-      <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, alu, bois, verre. Comparatif complet, prix et conseils d'experts.</description>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
