@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:41:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:29:51 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium : 8 avantages et inconvénients à connaître en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
+      <description>Pergola aluminium : découvrez les 8 vrais avantages et inconvénients en 2026. Comparatif complet, prix et modèles (6x4, 4x3, 3x3) pour bien choisir.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>8 critères pour bien choisir sa bâche pergola : imperméabilité et durabilité</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment créer une pergola rustique campagne avec matériaux naturels et inspirations design. Guide complet des styles, bois et aménagements pour votre terrasse.</description>
       <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola acier corten ou pergola bois : que choisir ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-acier-corten.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-acier-corten.html</guid>
-      <description>Pergola acier corten vs pergola bois : comparez esthétique, durabilité, prix et entretien. Découvrez la solution idéale pour votre terrasse en 2025.</description>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
