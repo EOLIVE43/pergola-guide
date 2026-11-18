@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:41:23 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:52:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola copropriété : 8 règles essentielles avant d'installer</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Pergola copropriété règles : guide complet des autorisations, démarches et conditions légales pour installer une pergola en copropriété sans problème.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Store pergola motorisé : 8 points clés pour bien choisir</title>
       <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les meilleurs matériaux pour la toiture de votre pergola : polycarbonate, alu, bois, verre. Comparatif complet, prix et conseils d'experts.</description>
       <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Éclairage LED pergola : le projet réussi d'une famille bordelaise en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-eclairage-led.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-eclairage-led.html</guid>
-      <description>Découvrez comment une famille de Bordeaux a transformé sa pergola avec un éclairage LED performant. Budget, solutions, et résultats concrets d'une installation 2026.</description>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

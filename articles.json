@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola copropriété : 8 règles essentielles avant d'installer",
+    "categorie": "Réglementation",
+    "description": "Pergola copropriété règles : guide complet des autorisations, démarches et conditions légales pour installer une pergola en copropriété sans problème.",
+    "date": "2026-11-18",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "store-pergola-motorise",
     "titre": "Store pergola motorisé : 8 points clés pour bien choisir",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola solaire avec panneaux photovoltaïques : est-elle rentable ?",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire panneaux photovoltaïques : découvrez la rentabilité réelle, les économies d'énergie, l'amortissement et les aides disponibles. Guide complet 2025.",
-    "date": "2026-09-14",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
