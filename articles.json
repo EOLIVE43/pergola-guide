@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
+    "categorie": "Aluminium",
+    "description": "Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien. Découvrez les avantages et inconvénients de chaque matériau pour votre terrasse.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-solaire-panneaux",
     "titre": "Pergola solaire avec panneaux photovoltaïques : rentable ou non en 2025 ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-haut-de-gamme"
-  },
-  {
-    "slug": "pergola-japonaise-zen",
-    "titre": "Pergola Japonaise Zen : Créer un Jardin de Méditation Chez Soi",
-    "categorie": "Style",
-    "description": "Découvrez comment créer une pergola japonaise zen dans votre jardin. Guide complet : styles, matériaux bois, aménagement et prix pour un espace de détente authentique.",
-    "date": "2026-09-16",
-    "thumb": "/images/blog/pergola-japonaise-zen.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]
