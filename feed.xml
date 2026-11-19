@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:26:44 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:17:29 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola fer forgé : 7 avantages qui changent votre terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les 7 avantages majeurs de la pergola fer forgé : durabilité, style intemporel et entretien facile. Comparaison avec bois et installation.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Entretien pergola bioclimatique : 8 étapes essentielles annuelles</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
@@ -176,15 +185,6 @@
       <description>Fixer pergola mur parpaing : découvrez comment bien installer votre pergola adossée avant l'hiver. Guide complet et étapes essentielles automne 2026.</description>
       <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola bioclimatique : 8 étapes essentielles par an</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
-      <description>Découvrez comment entretenir votre pergola bioclimatique toute l'année. 8 étapes simples pour prolonger la durée de vie de votre installation et optimiser ses performances.</description>
-      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

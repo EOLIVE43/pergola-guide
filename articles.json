@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola fer forgé : 7 avantages qui changent votre terrasse",
+    "categorie": "Matériaux",
+    "description": "Découvrez les 7 avantages majeurs de la pergola fer forgé : durabilité, style intemporel et entretien facile. Comparaison avec bois et installation.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "Entretien pergola bioclimatique : 8 étapes essentielles annuelles",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
     "pilier_id": "bois",
     "secondaire_slug": "entretien-pergola-bois"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : protéger votre terrasse avant l'hiver 2026",
-    "categorie": "Matériaux",
-    "description": "Pergola bois autoclave : découvrez les avantages et la durée de vie. Guide complet automne 2026 pour préserver votre structure avant l'hiver. Conseils d'experts.",
-    "date": "2026-09-17",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
