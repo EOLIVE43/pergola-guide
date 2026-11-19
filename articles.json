@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : 8 étapes essentielles annuelles",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment entretenir votre pergola bioclimatique toute l'année. 8 étapes indispensables pour prolonger sa durée de vie et garantir son fonctionnement optimal. Guide complet 2026.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium couleur : comment Martine a transformé sa terrasse",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "7 essences de bois pour pergola : le guide pour choisir",
-    "categorie": "Matériaux",
-    "description": "Découvrez les meilleures essences de bois pour pergola durable. Comparatif complet : prix, résistance et entretien. Guide 2026.",
-    "date": "2026-09-16",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
