@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:43:21 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:07:36 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclarer sa pergola à l'assurance : ce qu'il faut savoir</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches pour bien assurer votre pergola en France.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola Fer Forgé : Avantages, Style et Durabilité Garantie</title>
       <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance habitation ? Découvrez les obligations légales, les risques et notre verdict pour protéger votre pergola efficacement.</description>
       <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola Terrasse Bois Composite : Fixation et Conseils d'Experts</title>
-      <link>https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-terrasse-bois-composite.html</guid>
-      <description>Découvrez comment installer et fixer une pergola sur terrasse en bois composite. Guide complet avec techniques de fixation, prix et erreurs à éviter.</description>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

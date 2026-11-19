@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Déclarer sa pergola à l'assurance : ce qu'il faut savoir",
+    "categorie": "Réglementation",
+    "description": "Faut-il déclarer sa pergola à son assurance ? Découvrez les obligations légales, les risques et les démarches pour bien assurer votre pergola en France.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "Pergola Fer Forgé : Avantages, Style et Durabilité Garantie",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-voile-ombrage"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : quel matériau choisir en 2025 ?",
-    "categorie": "Conseils",
-    "description": "Découvrez quelle pergola résiste le mieux au vent. Comparaison matériaux, conseils installation et normes résistance pour votre terrasse. Guide complet 2025.",
-    "date": "2026-09-16",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
