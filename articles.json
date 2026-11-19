@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-fer-forge-avantages",
+    "titre": "Pergola Fer Forgé : Avantages, Style et Durabilité Garantie",
+    "categorie": "Matériaux",
+    "description": "Découvrez les avantages de la pergola fer forgé : élégance intemporelle, robustesse et entretien facile. Comparaison avec le bois et guide d'entretien complet.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/pergola-fer-forge-avantages.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-sur-mesure"
+  },
+  {
     "slug": "rideau-pergola-exterieur-choisir",
     "titre": "Rideaux extérieurs pergola : guide d'achat et installation 2026",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : sécurité ou esthétique ?",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : comparez sécurité, durabilité et design. Guide complet pour choisir entre verre feuilleté et polycarbonate en 2024.",
-    "date": "2026-09-16",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]

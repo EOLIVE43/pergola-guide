@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:13:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:43:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola Fer Forgé : Avantages, Style et Durabilité Garantie</title>
+      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
+      <description>Découvrez les avantages de la pergola fer forgé : élégance intemporelle, robustesse et entretien facile. Comparaison avec le bois et guide d'entretien complet.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Matériaux</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Rideaux extérieurs pergola : guide d'achat et installation 2026</title>
       <link>https://pergola-guide.fr/blog/rideau-pergola-exterieur-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer et fixer une pergola sur terrasse en bois composite. Guide complet avec techniques de fixation, prix et erreurs à éviter.</description>
       <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4 saisons : comment l'aménager pour toute l'année ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
-      <description>Découvrez comment transformer votre pergola en espace 4 saisons. Aménagement, pergola bioclimatique, produits et astuces pour profiter toute l'année.</description>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aménagement</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
