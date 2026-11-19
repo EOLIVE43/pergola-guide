@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 17:49:57 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:45:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : comment Martine a transformé sa terrasse</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Étude de cas : Martine choisit sa pergola alu en gris anthracite. Budget réel, délais et finitions testées. Guide complet pour vos choix de couleur.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Comment fixer une pergola adossée sur un mur en parpaing ? Découvrez les techniques, matériaux et précautions essentielles pour une installation sécurisée et durable.</description>
       <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Nettoyage pergola Kärcher en automne 2026 : mode d'emploi sûr</title>
-      <link>https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/nettoyage-pergola-karcher.html</guid>
-      <description>Nettoyer sa pergola au Kärcher en automne ? Guide complet avec précautions essentielles pour pergola bois. Conseils experts novembre 2026.</description>
-      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Entretien</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
