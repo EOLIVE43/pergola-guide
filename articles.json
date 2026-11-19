@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : vérifications indispensables avant pose",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : découvrez les vérifications légales, techniques et administratives essentielles avant installation. Réglementation, autorisations, droits du voisin.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-bioclimatique-entretien",
     "titre": "Entretien pergola bioclimatique : le guide complet d'une famille du Var",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "prix-pergola-bioclimatique"
-  },
-  {
-    "slug": "pergola-chauffage-infrarouge",
-    "titre": "Chauffage infrarouge pergola : 8 clés pour 40 % d'économies",
-    "categorie": "Jardin",
-    "description": "Découvrez comment optimiser votre chauffage infrarouge pergola pour réduire vos factures de 40% et profiter de votre terrasse toute l'année. Conseils experts 2024.",
-    "date": "2026-09-16",
-    "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-chauffage"
   }
 ]
