@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:30:28 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:59:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola solaire avec panneaux photovoltaïques : rentable ou non en 2025 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
+      <description>Découvrez si une pergola solaire avec panneaux photovoltaïques est vraiment rentable. Comparatif complet : coûts, économies, amortissement et durée de vie.</description>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola adossée mur mitoyen : vérifications indispensables avant pose</title>
       <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment nettoyer votre pergola au Kärcher sans l'endommager. Conseils experts, précautions essentielles et planning automne 2026 pour préserver votre structure bois ou alu.</description>
       <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
       <category>Entretien</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola bois autoclave : durée de vie et avantages en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-autoclave.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-autoclave.html</guid>
-      <description>Découvrez les vrais avantages d'une pergola bois autoclave, sa durée de vie réelle, l'entretien nécessaire et comment bien la choisir. Réponses claires à vos questions.</description>
-      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

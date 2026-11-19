@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-solaire-panneaux",
+    "titre": "Pergola solaire avec panneaux photovoltaïques : rentable ou non en 2025 ?",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez si une pergola solaire avec panneaux photovoltaïques est vraiment rentable. Comparatif complet : coûts, économies, amortissement et durée de vie.",
+    "date": "2026-11-19",
+    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-solaire"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : vérifications indispensables avant pose",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-japonaise-zen.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "Meilleures marques de pergola bioclimatique en 2026 : guide complet",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparaison, prix, modèles 4x3, 6x4 et 3x3. Avis complet pour bien choisir.",
-    "date": "2026-09-16",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]
