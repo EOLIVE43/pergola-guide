@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : 8 secrets pour maximiser votre espace",
+    "categorie": "Dimensions",
+    "description": "Découvrez les 8 secrets d'une pergola 4x4 jardin réussie : dimensions, matériaux, orientation, budget. Guide complet pour transformer votre extérieur.",
+    "date": "2026-11-20",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "pergola-neige-poids-resistance",
     "titre": "Pergola et neige : 8 structures testées face au poids",
     "categorie": "Conseils",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "7 avantages de la pergola polycarbonate à connaître",
-    "categorie": "Toiture",
-    "description": "Découvrez les 7 avantages clés de la pergola polycarbonate : transparence, résistance, prix et facilité de pose. Guide complet pour bien choisir.",
-    "date": "2026-09-18",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
