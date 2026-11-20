@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
+    "categorie": "Aluminium",
+    "description": "Pergola aluminium vs bois : comparatif complet des avantages, coûts et durabilité. Guide expert pour bien choisir votre pergola en 2026.",
+    "date": "2026-11-20",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "installer-pergola-weekend",
     "titre": "Installer pergola en un week-end : le guide complet étape par étape",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x4"
-  },
-  {
-    "slug": "rideau-pergola-exterieur-choisir",
-    "titre": "7 critères essentiels pour choisir vos rideaux extérieurs pergola",
-    "categorie": "Stores",
-    "description": "Découvrez comment bien choisir vos rideaux extérieurs pergola : 7 critères clés pour un achat réussi, durable et adapté à votre terrasse.",
-    "date": "2026-09-17",
-    "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
-    "pilier_id": "stores",
-    "secondaire_slug": "rideau-pergola-exterieur"
   }
 ]
