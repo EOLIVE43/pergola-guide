@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:47:56 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:01:59 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Installer pergola en un week-end : le guide complet étape par étape</title>
+      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
+      <description>Découvrez comment installer pergola week-end sans stress. Guide pratique avec étapes, outils nécessaires, fixation et conseils pour réussir votre pose.</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : la bonne taille pour votre espace ?</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola bioclimatique vs classique : découvrez les différences, avantages, prix et comment choisir selon vos besoins et budget en 2026.</description>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
       <category>Bioclimatique</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola aluminium : le vrai guide d'une propriétaire en Provence</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-entretien.html</guid>
-      <description>Découvrez comment Sandrine entretient sa pergola aluminium 4x3 en Provence. Conseils concrets, budget, fréquence de nettoyage et pièges à éviter pour préserver votre investissement.</description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

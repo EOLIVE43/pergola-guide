@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola en un week-end : le guide complet étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer pergola week-end sans stress. Guide pratique avec étapes, outils nécessaires, fixation et conseils pour réussir votre pose.",
+    "date": "2026-11-20",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-4x3-terrasse-standard",
     "titre": "Pergola 4x3 terrasse : la bonne taille pour votre espace ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-aluminium-entretien",
-    "titre": "Entretien pergola aluminium : nettoyage ou traitement ?",
-    "categorie": "Aluminium",
-    "description": "Entretien pergola aluminium simplifié : découvrez les 2 méthodes essentielles pour préserver votre pergola alu pendant 20 ans. Comparatif, prix et conseils pratiques.",
-    "date": "2026-09-17",
-    "thumb": "/images/blog/pergola-aluminium-entretien.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-sur-mesure"
   }
 ]
