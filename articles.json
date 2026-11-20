@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : alu ou bois, le bon choix ?",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x4 jardin : comparez alu vs bois. Découvrez prix, durabilité, entretien et trouvez votre solution idéale pour jardins spacieux en 2025.",
+    "date": "2026-11-20",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
+    "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 jardin : guide réglementaire et pratique 2026",
     "categorie": "Dimensions",
     "description": "Pergola 4x4 jardin : découvrez les règles administratives, prix, démarches permis et normes d'installation. Réponses claires à vos 8 questions essentielles.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "pergola-polycarbonate-avantages",
-    "titre": "Pergola polycarbonate : avantages et prix face au bois",
-    "categorie": "Toiture",
-    "description": "Découvrez les avantages de la pergola polycarbonate, comparée au bois. Prix, durabilité, pose : le guide complet pour bien choisir en 2025.",
-    "date": "2026-09-17",
-    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-polycarbonate"
   }
 ]
