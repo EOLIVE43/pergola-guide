@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:50:25 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:47:56 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 terrasse : la bonne taille pour votre espace ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Découvrez si une pergola 4x3 m convient à votre terrasse. Comparatif complet : avantages, inconvénients et verdict selon votre profil d'utilisateur.</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : alu ou bois, le bon choix ?</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment Sandrine entretient sa pergola aluminium 4x3 en Provence. Conseils concrets, budget, fréquence de nettoyage et pièges à éviter pour préserver votre investissement.</description>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola copropriété : 8 règles essentielles avant d'installer</title>
-      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
-      <description>Pergola copropriété règles : guide complet des autorisations, démarches et conditions légales pour installer une pergola en copropriété sans problème.</description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
