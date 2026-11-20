@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:01:22 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:50:10 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : avantages et inconvénients face à la pergola ouverte</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les véritables avantages de la pergola couverte comparée à la pergola ouverte. Guide complet pour choisir la bonne structure selon vos besoins.</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Assurance pergola : faut-il la déclarer ? Guide 2024</title>
       <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment bien choisir un voile ombrage pergola : matériaux, dimensions, installation. Guide complet avec prix et conseils pratiques pour votre terrasse.</description>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium : 8 avantages et inconvénients à connaître en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
-      <description>Pergola aluminium : découvrez les 8 vrais avantages et inconvénients en 2026. Comparatif complet, prix et modèles (6x4, 4x3, 3x3) pour bien choisir.</description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
