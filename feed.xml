@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:05:14 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:01:22 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assurance pergola : faut-il la déclarer ? Guide 2024</title>
+      <link>https://pergola-guide.fr/blog/assurance-pergola-declaration.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/assurance-pergola-declaration.html</guid>
+      <description>Découvrez si vous devez déclarer votre pergola à votre assurance. Réponses claires aux questions essentielles sur l'assurance pergola déclaration et les obligations légales.</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : 8 secrets pour maximiser votre espace</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium : découvrez les 8 vrais avantages et inconvénients en 2026. Comparatif complet, prix et modèles (6x4, 4x3, 3x3) pour bien choisir.</description>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 critères pour bien choisir sa bâche pergola : imperméabilité et durabilité</title>
-      <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</guid>
-      <description>Découvrez comment choisir sa bâche pergola selon l'imperméabilité, la résistance et la matière. 8 critères essentiels pour une pergola protégée longtemps.</description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
