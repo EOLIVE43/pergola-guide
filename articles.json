@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : guide réglementaire et pratique 2026",
+    "categorie": "Dimensions",
+    "description": "Pergola 4x4 jardin : découvrez les règles administratives, prix, démarches permis et normes d'installation. Réponses claires à vos 8 questions essentielles.",
+    "date": "2026-11-20",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "pergola-fer-forge-avantages",
     "titre": "Pergola fer forgé : 7 avantages qui changent votre terrasse",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "nettoyage-pergola-karcher",
-    "titre": "Nettoyage pergola Kärcher : le guide complet avant l'automne 2026",
-    "categorie": "Entretien",
-    "description": "Peut-on nettoyer sa pergola au Kärcher ? Découvrez nos conseils et précautions essentielles pour l'automne 2026. Guide complet + planning d'action.",
-    "date": "2026-09-17",
-    "thumb": "/images/blog/nettoyage-pergola-karcher.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
