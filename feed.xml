@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:36:25 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:25:37 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola et neige : 8 structures testées face au poids</title>
+      <link>https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-neige-poids-resistance.html</guid>
+      <description>Découvrez les pergolas résistantes à la neige en France. 8 structures éprouvées, comparaison charge/poids, conseils d'installation pour supporter le poids de la neige.</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Conseils</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les règles pour installer une pergola en copropriété : autorisations, syndic, permis de construire et démarches administratives obligatoires.</description>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola solaire panneaux photovoltaïques : 8 clés pour une rentabilité maximale</title>
-      <link>https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-solaire-panneaux.html</guid>
-      <description>Pergola solaire avec panneaux photovoltaïques : découvrez 8 stratégies éprouvées pour optimiser votre rentabilité et rentabiliser votre investissement rapidement.</description>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

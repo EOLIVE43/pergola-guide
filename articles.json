@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola et neige : 8 structures testées face au poids",
+    "categorie": "Conseils",
+    "description": "Découvrez les pergolas résistantes à la neige en France. 8 structures éprouvées, comparaison charge/poids, conseils d'installation pour supporter le poids de la neige.",
+    "date": "2026-11-20",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-aluminium-bois-comparatif",
     "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-polycarbonate"
-  },
-  {
-    "slug": "pergola-4x4-jardin-spacieux",
-    "titre": "Pergola 4x4 jardin : le guide complet pour l'espace parfait",
-    "categorie": "Dimensions",
-    "description": "Pergola 4x4 jardin : découvrez pourquoi cette dimension est idéale pour les espaces spacieux. Guide complet, prix, installation et conseils d'experts.",
-    "date": "2026-09-17",
-    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-4x4"
   }
 ]
