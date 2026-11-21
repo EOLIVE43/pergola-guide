@@ -1,5 +1,15 @@
 [
   {
+    "slug": "prix-installation-pergola",
+    "titre": "Prix installation pergola : Devis complet main-d'œuvre 2025",
+    "categorie": "Prix",
+    "description": "Découvrez le prix installation pergola en France : tarifs de pose, coûts main-d'œuvre et devis détaillé. Pergola pas cher ou bioclimatique, tous les budgets expliqués.",
+    "date": "2026-11-21",
+    "thumb": "/images/blog/prix-installation-pergola.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte : avantages et inconvénients face à la pergola ouverte",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "voile-ombrage-pergola-choisir",
-    "titre": "Comment choisir un voile ombrage pour pergola : cas d'une terrasse à Toulouse",
-    "categorie": "Toiture",
-    "description": "Découvrez comment bien choisir un voile ombrage pergola : étude de cas réelle avec budget, matériaux et résultats chiffrés pour votre terrasse.",
-    "date": "2026-09-18",
-    "thumb": "/images/blog/voile-ombrage-pergola-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-voile-ombrage"
   }
 ]
