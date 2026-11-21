@@ -1,6 +1,16 @@
 [
   {
     "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : le cas de Stéphanie en Provence",
+    "categorie": "Jardin",
+    "description": "Découvrez comment Stéphanie a choisi ses roses grimpantes pour sa pergola en Provence. Variétés sélectionnées, budget réel (3 200 €) et résultats après 18 mois d'exploitation.",
+    "date": "2026-11-21",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
+    "slug": "rose-grimpante-pergola",
     "titre": "Rose grimpante pergola : variétés classiques ou modernes ?",
     "categorie": "Jardin",
     "description": "Découvrez les meilleures variétés de rose grimpante pergola : comparatif complet entre roses anciennes et modernes avec conseils d'installation et d'entretien pour votre jardin.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "rose-grimpante-pergola",
-    "titre": "8 variétés de rose grimpante pergola à cultiver absolument",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures variétés de rose grimpante pergola pour embellir votre jardin. Conseils de plantation, entretien et sélection adaptée à votre région.",
-    "date": "2026-09-18",
-    "thumb": "/images/blog/rose-grimpante-pergola.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
