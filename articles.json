@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : variétés classiques ou modernes ?",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures variétés de rose grimpante pergola : comparatif complet entre roses anciennes et modernes avec conseils d'installation et d'entretien pour votre jardin.",
+    "date": "2026-11-21",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : Devis complet main-d'œuvre 2025",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rose-grimpante-pergola.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : préparez-la dès septembre 2026",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries avant l'automne. Guide complet avec 3 actions prioritaires à faire maintenant en septembre 2026.",
-    "date": "2026-09-18",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
