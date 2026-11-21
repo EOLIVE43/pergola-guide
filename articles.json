@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-marques",
+    "titre": "7 meilleures marques de pergola bioclimatique en 2026",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez les 7 meilleures marques de pergola bioclimatique 2026 : leaders du design, innovation et durabilité. Comparaison complète pour votre terrasse.",
+    "date": "2026-11-21",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
     "slug": "rose-grimpante-pergola",
     "titre": "Rose grimpante pergola : le cas de Stéphanie en Provence",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/installer-pergola-weekend.webp",
     "pilier_id": "installation",
     "secondaire_slug": "installer-pergola-soi-meme"
-  },
-  {
-    "slug": "quelle-essence-bois-pergola",
-    "titre": "7 essences de bois pour pergola : comment choisir la plus durable",
-    "categorie": "Matériaux",
-    "description": "Découvrez les 7 meilleures essences de bois pour pergola durable : guide complet pour choisir le bois résistant adapté à votre terrasse et climat.",
-    "date": "2026-09-19",
-    "thumb": "/images/blog/quelle-essence-bois-pergola.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
