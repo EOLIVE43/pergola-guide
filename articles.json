@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-bioclimatique-marques",
+    "titre": "Top 8 marques pergola bioclimatique 2026 : le comparatif complet",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparatif prix, qualité et innovation pour choisir votre pergola bioclimatique idéale.",
+    "date": "2026-11-21",
+    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "prix-pergola-bioclimatique"
+  },
+  {
+    "slug": "pergola-bioclimatique-marques",
     "titre": "7 meilleures marques de pergola bioclimatique en 2026",
     "categorie": "Bioclimatique",
     "description": "Découvrez les 7 meilleures marques de pergola bioclimatique 2026 : leaders du design, innovation et durabilité. Comparaison complète pour votre terrasse.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "installer-pergola-weekend",
-    "titre": "Installer pergola week-end : 8 étapes pour réussir votre pose",
-    "categorie": "Installation",
-    "description": "Installer pergola en un week-end, c'est possible ! Découvrez nos 8 étapes essentielles pour réussir votre installation de pergola sans stress et sans appel à un pro.",
-    "date": "2026-09-19",
-    "thumb": "/images/blog/installer-pergola-weekend.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "installer-pergola-soi-meme"
   }
 ]
