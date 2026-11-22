@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "Pergola résistante vent : 8 critères pour bien choisir",
+    "categorie": "Conseils",
+    "description": "Découvrez les 8 critères essentiels pour choisir une pergola résistante au vent. Comparaison des matériaux, dimensions et fixations. Guide complet 2026.",
+    "date": "2026-11-22",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "pergola-toit-verre-securit",
     "titre": "Pergola toit verre feuilleté : 8 atouts pour sécurité et style",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-avantages-inconvenients.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "Pergola bois autoclave : durée de vie et avantages réels",
-    "categorie": "Matériaux",
-    "description": "Découvrez les vrais avantages de la pergola bois autoclave, sa durée de vie, son entretien et comment bien la choisir. Guide complet pour votre terrasse.",
-    "date": "2026-09-20",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
