@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-adossee-mur-mitoyen",
+    "titre": "Pergola adossée mur mitoyen : 7 points à vérifier absolument",
+    "categorie": "Réglementation",
+    "description": "Pergola adossée mur mitoyen : découvrez les vérifications légales, les droits des voisins, les autorisations et les solutions de fixation. Guide complet pour installer sans risque.",
+    "date": "2026-11-22",
+    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "fixation-pergola-mur"
+  },
+  {
     "slug": "pergola-aluminium-couleurs-disponibles",
     "titre": "Pergola aluminium couleur : blanc, anthracite ou bois ? Guide complet",
     "categorie": "Aluminium",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine pergola entretien : plantation facile ou taille exigeante ?",
-    "categorie": "Jardin",
-    "description": "Glycine pergola entretien : découvrez comment cultiver et tailler votre glycine. Comparatif plantation vs maintenance pour choisir le bon rythme.",
-    "date": "2026-09-20",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]

@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:25:15 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:04:54 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola adossée mur mitoyen : 7 points à vérifier absolument</title>
+      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
+      <description>Pergola adossée mur mitoyen : découvrez les vérifications légales, les droits des voisins, les autorisations et les solutions de fixation. Guide complet pour installer sans risque.</description>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium couleur : blanc, anthracite ou bois ? Guide complet</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola 4x4 jardin : découvrez les règles administratives, prix, démarches permis et normes d'installation. Réponses claires à vos 8 questions essentielles.</description>
       <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola fer forgé : 7 avantages qui changent votre terrasse</title>
-      <link>https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-fer-forge-avantages.html</guid>
-      <description>Découvrez les 7 avantages majeurs de la pergola fer forgé : durabilité, style intemporel et entretien facile. Comparaison avec bois et installation.</description>
-      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
