@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toit-verre-securit",
+    "titre": "Pergola toit verre feuilleté : 8 atouts pour sécurité et style",
+    "categorie": "Toiture",
+    "description": "Découvrez les 8 avantages majeurs d'une pergola toit verre feuilleté pour votre terrasse. Sécurité renforcée, design moderne et durabilité au rendez-vous.",
+    "date": "2026-11-22",
+    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-toit-verre"
+  },
+  {
     "slug": "pergola-3x3-idees-amenagement",
     "titre": "Pergola 3x3 aménagement automne : comment préparer votre petit espace dès…",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-autoclave.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-adossee-mur-mitoyen",
-    "titre": "Pergola adossée mur mitoyen : 7 vérifications indispensables",
-    "categorie": "Réglementation",
-    "description": "Pergola adossée mur mitoyen : découvrez les vérifications légales, réglementaires et techniques à effectuer avant installation. Guide complet des démarches.",
-    "date": "2026-09-20",
-    "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]

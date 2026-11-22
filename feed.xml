@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:47:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:29:01 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola toit verre feuilleté : 8 atouts pour sécurité et style</title>
+      <link>https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toit-verre-securit.html</guid>
+      <description>Découvrez les 8 avantages majeurs d'une pergola toit verre feuilleté pour votre terrasse. Sécurité renforcée, design moderne et durabilité au rendez-vous.</description>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 3x3 aménagement automne : comment préparer votre petit espace dès…</title>
       <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les pergolas résistantes à la neige en France. 8 structures éprouvées, comparaison charge/poids, conseils d'installation pour supporter le poids de la neige.</description>
       <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola aluminium vs bois : quel matériau choisir en 2026 ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-bois-comparatif.html</guid>
-      <description>Pergola aluminium vs bois : comparatif complet des avantages, coûts et durabilité. Guide expert pour bien choisir votre pergola en 2026.</description>
-      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Aluminium</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
