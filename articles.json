@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-3x3-idees-amenagement",
+    "titre": "Pergola 3x3 aménagement automne : comment préparer votre petit espace dès…",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment optimiser l'aménagement de votre pergola 3x3 en automne 2026. Idées, conseils saisonniers et actions prioritaires pour petits espaces avant l'hiver.",
+    "date": "2026-11-22",
+    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-3x3"
+  },
+  {
     "slug": "pergola-bois-peindre-lasurer",
     "titre": "Peindre ou lasurer pergola bois en automne : le choix décisif avant l'hiver",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-adossee-mur-mitoyen.webp",
     "pilier_id": "installation",
     "secondaire_slug": "fixation-pergola-mur"
-  },
-  {
-    "slug": "bache-pergola-comment-choisir",
-    "titre": "Comment bien choisir sa bâche pergola : 8 critères essentiels",
-    "categorie": "Toiture",
-    "description": "Découvrez comment choisir sa bâche pergola en 8 étapes clés : imperméabilité, résistance UV, matière. Guide complet pour protéger votre terrasse.",
-    "date": "2026-09-20",
-    "thumb": "/images/blog/bache-pergola-comment-choisir.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-bache-toile"
   }
 ]

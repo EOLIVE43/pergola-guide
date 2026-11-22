@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:51:21 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:47:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 3x3 aménagement automne : comment préparer votre petit espace dès…</title>
+      <link>https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-3x3-idees-amenagement.html</guid>
+      <description>Découvrez comment optimiser l'aménagement de votre pergola 3x3 en automne 2026. Idées, conseils saisonniers et actions prioritaires pour petits espaces avant l'hiver.</description>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Peindre ou lasurer pergola bois en automne : le choix décisif avant l'hiver</title>
       <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
@@ -176,15 +185,6 @@
       <description>Pergola aluminium vs bois : comparatif complet des avantages, coûts et durabilité. Guide expert pour bien choisir votre pergola en 2026.</description>
       <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola en un week-end : le guide complet étape par étape</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer pergola week-end sans stress. Guide pratique avec étapes, outils nécessaires, fixation et conseils pour réussir votre pose.</description>
-      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
