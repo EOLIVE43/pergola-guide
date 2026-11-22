@@ -1,5 +1,15 @@
 [
   {
+    "slug": "rose-grimpante-pergola",
+    "titre": "Rose grimpante pergola : 7 variétés à cultiver pour un jardin fleuri",
+    "categorie": "Jardin",
+    "description": "Découvrez les meilleures variétés de roses grimpantes pour pergola : Cl. Pierre de Ronsard, Sympathie, Madame Alfred Carrière. Guide complet avec conseils de culture 2026.",
+    "date": "2026-11-22",
+    "thumb": "/images/blog/rose-grimpante-pergola.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 7 points à vérifier absolument",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "grande-pergola"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan : 7 questions pour bien comparer les prix",
-    "categorie": "Prix",
-    "description": "Obtenez un bon devis pergola auprès d'un artisan. Découvrez comment bien évaluer les prix, comparer les offres et économiser sur votre pergola en bois ou bioclimatique.",
-    "date": "2026-09-20",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
