@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:56:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:25:15 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium couleur : blanc, anthracite ou bois ? Guide complet</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-couleurs-disponibles.html</guid>
+      <description>Découvrez comment choisir la couleur et la finition de votre pergola aluminium. Blanc, anthracite, gris... Comparatif complet avec avantages, entretien et prix.</description>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Comment bien choisir sa bâche pergola : imperméabilité et durabilité</title>
       <link>https://pergola-guide.fr/blog/bache-pergola-comment-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 7 avantages majeurs de la pergola fer forgé : durabilité, style intemporel et entretien facile. Comparaison avec bois et installation.</description>
       <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Entretien pergola bioclimatique : 8 étapes essentielles annuelles</title>
-      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-entretien.html</guid>
-      <description>Découvrez comment entretenir votre pergola bioclimatique toute l'année. 8 étapes indispensables pour prolonger sa durée de vie et garantir son fonctionnement optimal. Guide complet 2026.</description>
-      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Bioclimatique</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

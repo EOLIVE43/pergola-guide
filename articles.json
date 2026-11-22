@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-couleurs-disponibles",
+    "titre": "Pergola aluminium couleur : blanc, anthracite ou bois ? Guide complet",
+    "categorie": "Aluminium",
+    "description": "Découvrez comment choisir la couleur et la finition de votre pergola aluminium. Blanc, anthracite, gris... Comparatif complet avec avantages, entretien et prix.",
+    "date": "2026-11-22",
+    "thumb": "/images/blog/pergola-aluminium-couleurs-disponibles.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-haut-de-gamme"
+  },
+  {
     "slug": "bache-pergola-comment-choisir",
     "titre": "Comment bien choisir sa bâche pergola : imperméabilité et durabilité",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/glycine-pergola-entretien.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "entretien-pergola-printemps",
-    "titre": "Entretien pergola printemps : 9 étapes pour préparer votre structure",
-    "categorie": "Entretien",
-    "description": "Entretien pergola printemps : découvrez la checklist complète en 9 étapes pour nettoyer, traiter et préparer votre pergola bois à la belle saison.",
-    "date": "2026-09-19",
-    "thumb": "/images/blog/entretien-pergola-printemps.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "entretien-pergola-bois"
   }
 ]
