@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-neige-poids-resistance",
+    "titre": "Pergola neige résistance : comment choisir la bonne structure ?",
+    "categorie": "Conseils",
+    "description": "Découvrez quelle pergola résiste au poids de la neige. Guide complet des structures aluminium, charges admissibles et conseils d'installation pour l'hiver.",
+    "date": "2026-11-23",
+    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "pergola-terrasse-bois-composite",
     "titre": "Pergola terrasse bois composite : guide complet de fixation et installation",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-bois-autoclave",
-    "titre": "7 avantages de la pergola bois autoclave pour votre terrasse",
-    "categorie": "Matériaux",
-    "description": "Pergola bois autoclave : découvrez ses 7 avantages majeurs, sa durabilité exceptionnelle et comment bien la choisir pour votre extérieur. Guide complet.",
-    "date": "2026-09-21",
-    "thumb": "/images/blog/pergola-bois-autoclave.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
