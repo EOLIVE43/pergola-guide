@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte vs ouverte : quels avantages pour votre jardin ?",
+    "categorie": "Toiture",
+    "description": "Découvrez les véritables avantages de la pergola couverte face à la pergola ouverte. Comparatif complet, prix, entretien et verdict selon votre usage.",
+    "date": "2026-11-23",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "pergola-adossee-mur-mitoyen",
     "titre": "Pergola adossée mur mitoyen : 7 vérifications essentielles avant installation",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-piscine-amenagement.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-piscine"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "8 plantes grimpantes pour pergola en France : guide complet",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures plantes grimpantes pergola France pour ombrager votre jardin. Conseils, prix et sélection adaptés au climat français.",
-    "date": "2026-09-21",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
