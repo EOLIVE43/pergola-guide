@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-entretien",
+    "titre": "Entretien pergola bioclimatique : le guide annuel de Stéphane à Toulouse",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment entretenir sa pergola bioclimatique toute l'année. Cas pratique détaillé : budget, calendrier d'entretien et conseils d'un propriétaire français après 3 ans d'expérience.",
+    "date": "2026-11-23",
+    "thumb": "/images/blog/pergola-bioclimatique-entretien.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-aluminium"
+  },
+  {
     "slug": "pergola-bois-autoclave",
     "titre": "Pergola bois autoclave : 8 avantages qui changent tout",
     "categorie": "Matériaux",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-vs-classique.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-aluminium"
-  },
-  {
-    "slug": "pergola-dalle-beton-fixer",
-    "titre": "Fixer une pergola sur dalle béton : le cas réussi de Marc à Toulouse",
-    "categorie": "Installation",
-    "description": "Marc a installé sa pergola bioclimatique sur sa terrasse béton sans erreur. Découvrez son budget (8 500 €), ses étapes et 5 conseils pour réussir votre fixation pergola dalle béton.",
-    "date": "2026-09-22",
-    "thumb": "/images/blog/pergola-dalle-beton-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "pergola-dalle-beton"
   }
 ]
