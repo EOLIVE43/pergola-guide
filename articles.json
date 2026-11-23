@@ -1,5 +1,15 @@
 [
   {
+    "slug": "installer-pergola-weekend",
+    "titre": "Installer pergola week-end : le guide complet étape par étape",
+    "categorie": "Installation",
+    "description": "Découvrez comment installer sa pergola en un week-end. Guide complet avec étapes, fixation, outils et conseils pour réussir votre installation pergola sans stress.",
+    "date": "2026-11-23",
+    "thumb": "/images/blog/installer-pergola-weekend.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "installer-pergola-soi-meme"
+  },
+  {
     "slug": "pergola-couverte-avantages",
     "titre": "Pergola couverte vs ouverte : quels avantages pour votre jardin ?",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-cuisine-exterieure"
-  },
-  {
-    "slug": "pergola-piscine-amenagement",
-    "titre": "Pergola piscine aménagement : 5 idées pour transformer votre espace",
-    "categorie": "Jardin",
-    "description": "Découvrez comment aménager une pergola bord de piscine : styles, matériaux, prix et conseils pour créer un espace détente élégant et fonctionnel en 2026.",
-    "date": "2026-09-21",
-    "thumb": "/images/blog/pergola-piscine-amenagement.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-piscine"
   }
 ]
