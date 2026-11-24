@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-aluminium-bois-comparatif",
+    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
+    "categorie": "Aluminium",
+    "description": "Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien, design. Découvrez les avantages et inconvénients de chaque matériau pour votre terrasse.",
+    "date": "2026-11-24",
+    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-adossee"
+  },
+  {
     "slug": "budget-pergola-france",
     "titre": "Budget pergola France 2026 : combien vraiment prévoir ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-sur-mesure"
-  },
-  {
-    "slug": "pergola-3x3-idees-amenagement",
-    "titre": "Pergola 3x3 : 5 idées d'aménagement pour transformer votre petit espace",
-    "categorie": "Dimensions",
-    "description": "Pergola 3x3 aménagement : découvrez comment optimiser votre petit jardin avec des solutions créatives, fonctionnelles et élégantes pour tous les styles.",
-    "date": "2026-09-22",
-    "thumb": "/images/blog/pergola-3x3-idees-amenagement.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "pergola-3x3"
   }
 ]
