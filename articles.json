@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-couverte-avantages",
+    "titre": "Pergola couverte : 5 avantages qui changent tout en 2026",
+    "categorie": "Toiture",
+    "description": "Découvrez les vrais avantages d'une pergola couverte face à l'ouverte. Protection, confort, durabilité : le guide complet pour choisir.",
+    "date": "2026-11-24",
+    "thumb": "/images/blog/pergola-couverte-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "toile-pergola"
+  },
+  {
     "slug": "quelle-taille-pergola-choisir",
     "titre": "Quelle taille de pergola choisir pour votre terrasse ?",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-copropriete-regles.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "Marque pergola bioclimatique : le choix gagnant d'une famille à Toulouse en 2026",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez comment une famille a sélectionné la meilleure marque pergola bioclimatique pour son jardin. Cas concret avec budget détaillé, comparaison et résultats chiffrés.",
-    "date": "2026-09-23",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]

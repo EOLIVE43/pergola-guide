@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:25:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:03:11 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola couverte : 5 avantages qui changent tout en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
+      <description>Découvrez les vrais avantages d'une pergola couverte face à l'ouverte. Protection, confort, durabilité : le guide complet pour choisir.</description>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
       <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment optimiser l'aménagement de votre pergola 3x3 en automne 2026. Idées, conseils saisonniers et actions prioritaires pour petits espaces avant l'hiver.</description>
       <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
       <category>Dimensions</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Peindre ou lasurer pergola bois en automne : le choix décisif avant l'hiver</title>
-      <link>https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bois-peindre-lasurer.html</guid>
-      <description>Peindre ou lasurer pergola bois ? Découvrez le comparatif complet pour l'automne 2026, avec délais, budgets et erreurs à éviter avant l'hiver en France.</description>
-      <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Matériaux</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
