@@ -1,5 +1,15 @@
 [
   {
+    "slug": "quelle-taille-pergola-choisir",
+    "titre": "8 conseils pour choisir la taille de pergola idéale",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment bien choisir la taille de pergola selon votre terrasse. 8 conseils pratiques pour trouver les dimensions parfaites et éviter les erreurs.",
+    "date": "2026-11-24",
+    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "grande-pergola"
+  },
+  {
     "slug": "store-pergola-zip-avantages",
     "titre": "Store zip pergola avantages : 8 raisons de l'adopter contre le vent",
     "categorie": "Stores",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-chauffage-infrarouge.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-chauffage"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola Rustique Campagne : Matériaux et Inspiration pour Votre Jardin",
-    "categorie": "Style",
-    "description": "Découvrez comment créer une pergola rustique campagne authentique. Matériaux, styles, inspirations et conseils pratiques pour transformer votre terrasse en havre champêtre.",
-    "date": "2026-09-22",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]
