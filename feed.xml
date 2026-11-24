@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:48:34 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:25:43 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
+      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
+      <description>Découvrez comment choisir la bonne taille de pergola selon votre terrasse. Guide complet avec dimensions, règles et conseils pour un projet réussi.</description>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Installer une pergola bioclimatique soi-même en automne 2026 : mode d'emploi</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-installation-soi-meme.html</link>
@@ -176,15 +185,6 @@
       <description>Peindre ou lasurer pergola bois ? Découvrez le comparatif complet pour l'automne 2026, avec délais, budgets et erreurs à éviter avant l'hiver en France.</description>
       <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
       <category>Matériaux</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store pergola motorisé : 8 avantages qui changent tout</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-motorise.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-motorise.html</guid>
-      <description>Découvrez les 8 avantages majeurs du store pergola motorisé : prix, économies d'énergie, confort. Guide complet pour bien choisir votre installation.</description>
-      <pubDate>Sun, 22 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
