@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-vent-resistance",
+    "titre": "Pergola résistante au vent : 8 critères décisifs pour bien choisir",
+    "categorie": "Conseils",
+    "description": "Découvrez les 8 critères essentiels pour choisir une pergola résistante au vent. Comparatif aluminium, structure et ancrage pour votre terrasse.",
+    "date": "2026-11-25",
+    "thumb": "/images/blog/pergola-vent-resistance.webp",
+    "pilier_id": "aluminium",
+    "secondaire_slug": "pergola-aluminium-autoportante"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : comment Fabrice a transformé sa terrasse pour 4…",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/rideau-pergola-exterieur-choisir.webp",
     "pilier_id": "stores",
     "secondaire_slug": "rideau-pergola-exterieur"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Toiture pergola matériau : quel revêtement choisir en 2025 ?",
-    "categorie": "Toiture",
-    "description": "Découvrez quel matériau choisir pour la toiture de votre pergola : bois, polycarbonate, toile, verre. Comparatif complet, prix et conseils d'experts pour bien décider.",
-    "date": "2026-09-23",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
