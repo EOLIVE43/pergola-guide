@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x4-jardin-spacieux",
+    "titre": "Pergola 4x4 jardin : 8 raisons d'investir dans ce format",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi la pergola 4x4 jardin s'impose comme la solution idéale pour les espaces extérieurs spacieux. 8 avantages concrets pour votre terrasse.",
+    "date": "2026-11-25",
+    "thumb": "/images/blog/pergola-4x4-jardin-spacieux.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x4"
+  },
+  {
     "slug": "pergola-pas-cher-bonne-qualite",
     "titre": "Pergola pas cher bonne qualité : 7 astuces pour bien choisir",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/devis-pergola-artisan.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-mur-parpaing-fixer",
-    "titre": "Comment fixer une pergola sur mur en parpaing ? Guide complet 2026",
-    "categorie": "Installation",
-    "description": "Fixer pergola mur parpaing : techniques, chevilles, étapes détaillées. Méthodes d'installation sécurisées pour votre terrasse. Tuto complet avec prix.",
-    "date": "2026-09-23",
-    "thumb": "/images/blog/pergola-mur-parpaing-fixer.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "fixation-pergola-mur"
   }
 ]
