@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:56:03 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:21:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola aluminium : avantages et inconvénients en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</guid>
+      <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium. Comparatif détaillé, prix, entretien et notre verdict pour bien choisir.</description>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aluminium</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Déclaration préalable pergola : 8 étapes essentielles à suivre</title>
       <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment installer sa pergola en un week-end. Guide complet avec étapes, fixation, outils et conseils pour réussir votre installation pergola sans stress.</description>
       <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte vs ouverte : quels avantages pour votre jardin ?</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Découvrez les véritables avantages de la pergola couverte face à la pergola ouverte. Comparatif complet, prix, entretien et verdict selon votre usage.</description>
-      <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
