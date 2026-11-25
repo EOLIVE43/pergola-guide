@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:21:41 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:54:45 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4x3 terrasse : le guide complet pour bien choisir</title>
+      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
+      <description>Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse. Guide complet avec conseils d'installation, prix et erreurs à éviter.</description>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Dimensions</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola aluminium : avantages et inconvénients en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-aluminium-avantages-inconvenients.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le prix installation pergola : tarifs main-d'œuvre, devis détaillés et facteurs influençant la pose. Guide complet 2024 avec réponses claires.</description>
       <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Installer pergola week-end : le guide complet étape par étape</title>
-      <link>https://pergola-guide.fr/blog/installer-pergola-weekend.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/installer-pergola-weekend.html</guid>
-      <description>Découvrez comment installer sa pergola en un week-end. Guide complet avec étapes, fixation, outils et conseils pour réussir votre installation pergola sans stress.</description>
-      <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
