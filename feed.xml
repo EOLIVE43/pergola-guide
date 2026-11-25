@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:41:20 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:56:03 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Déclaration préalable pergola : 8 étapes essentielles à suivre</title>
+      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
+      <description>Découvrez comment réaliser une déclaration préalable pergola en 8 étapes simples. Guide complet, conseils d'expert et pièges à éviter pour votre installation.</description>
+      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x4 jardin : 8 raisons d'investir dans ce format</title>
       <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les véritables avantages de la pergola couverte face à la pergola ouverte. Comparatif complet, prix, entretien et verdict selon votre usage.</description>
       <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola adossée mur mitoyen : 7 vérifications essentielles avant installation</title>
-      <link>https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-adossee-mur-mitoyen.html</guid>
-      <description>Pergola adossée mur mitoyen : découvrez les vérifications légales, les droits du voisin, les normes de fixation et les autorisations requises pour votre installation.</description>
-      <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Réglementation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

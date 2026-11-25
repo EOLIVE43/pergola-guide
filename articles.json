@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-declaration-prealable-comment",
+    "titre": "Déclaration préalable pergola : 8 étapes essentielles à suivre",
+    "categorie": "Installation",
+    "description": "Découvrez comment réaliser une déclaration préalable pergola en 8 étapes simples. Guide complet, conseils d'expert et pièges à éviter pour votre installation.",
+    "date": "2026-11-25",
+    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-4x4-jardin-spacieux",
     "titre": "Pergola 4x4 jardin : 8 raisons d'investir dans ce format",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
     "pilier_id": "dimensions",
     "secondaire_slug": "pergola-4x3"
-  },
-  {
-    "slug": "devis-pergola-artisan",
-    "titre": "Devis pergola artisan : comment bien le négocier en 2026 ?",
-    "categorie": "Prix",
-    "description": "Obtenir un devis pergola artisan fiable ? Découvrez nos 8 questions essentielles pour comparer les offres, comprendre les prix et choisir le meilleur professionnel pour votre pergola.",
-    "date": "2026-09-23",
-    "thumb": "/images/blog/devis-pergola-artisan.webp",
-    "pilier_id": "prix",
-    "secondaire_slug": "devis-pergola"
   }
 ]
