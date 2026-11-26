@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-toute-saison-amenager",
+    "titre": "Pergola 4 saisons aménagement : 7 solutions pour l'utiliser toute l'année",
+    "categorie": "Aménagement",
+    "description": "Découvrez comment transformer votre pergola en espace 4 saisons : astuces pratiques, produits et aménagements pour profiter toute l'année. Guide complet 2025.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/pergola-toute-saison-amenager.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "lames-orientables-pergola"
+  },
+  {
     "slug": "pergola-cuisine-exterieure-amenager",
     "titre": "Aménager une cuisine extérieure pergola : le guide complet 2026",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-jardin-plantes-grimpantes"
-  },
-  {
-    "slug": "pergola-bois-resistante-intemperies",
-    "titre": "Pergola bois résistante intempéries : traitement ou essence durable ?",
-    "categorie": "Matériaux",
-    "description": "Découvrez comment rendre votre pergola bois résistante aux intempéries. Comparatif entre traitement chimique et bois naturel : coûts, durabilité et entretien détaillés.",
-    "date": "2026-09-25",
-    "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-traite"
   }
 ]
