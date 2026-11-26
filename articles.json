@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-sur-mesure-avantages",
+    "titre": "Pergola sur mesure avantages : étude de cas à Toulouse, 18 m² gagnés",
+    "categorie": "Dimensions",
+    "description": "Découvrez comment une famille à Toulouse a transformé sa terrasse avec une pergola sur mesure. Avantages réels, budget 2026, et leçons pratiques pour votre projet.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/pergola-sur-mesure-avantages.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-sur-mesure"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : 7 solutions pour l'utiliser toute l'année",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-acier-corten.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-plantes-grimpantes-meilleures",
-    "titre": "8 meilleures plantes grimpantes pour pergola : le guide France 2026",
-    "categorie": "Jardin",
-    "description": "Découvrez les 8 meilleures plantes grimpantes pour pergola adaptées au climat France. Conseils pour créer un ombrage naturel durable et esthétique.",
-    "date": "2026-09-25",
-    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
