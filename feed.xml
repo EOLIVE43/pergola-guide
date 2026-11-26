@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:15:18 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:41:38 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola 4 saisons aménagement : comment Sophie à Toulouse a transformé son…</title>
+      <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</guid>
+      <description>Découvrez comment transformer votre pergola en espace 4 saisons utilisable toute l'année. Cas pratique détaillé : budget réel, solutions bioclimatiques et résultats concrets d'une propriétaire de Toulouse.</description>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Aménagement</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4x3 terrasse : 8 raisons d'adopter cette dimension</title>
       <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les avantages du store zip pergola pour protéger votre terrasse du vent. Guide complet avec conseils d'installation et prix 2026.</description>
       <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
       <category>Stores</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>8 conseils pour choisir la taille de pergola idéale</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment bien choisir la taille de pergola selon votre terrasse. 8 conseils pratiques pour trouver les dimensions parfaites et éviter les erreurs.</description>
-      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
