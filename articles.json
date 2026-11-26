@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-4x3-terrasse-standard",
+    "titre": "Pergola 4x3 terrasse : 8 raisons d'adopter cette dimension",
+    "categorie": "Dimensions",
+    "description": "Découvrez pourquoi la pergola 4x3 est idéale pour votre terrasse. 8 avantages pratiques et esthétiques pour aménager votre extérieur en 2026.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/pergola-4x3-terrasse-standard.webp",
+    "pilier_id": "dimensions",
+    "secondaire_slug": "pergola-4x3"
+  },
+  {
     "slug": "devis-pergola-artisan",
     "titre": "Devis pergola artisan : 8 questions pour bien choisir en 2026",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/assurance-pergola-declaration.webp",
     "pilier_id": "installation",
     "secondaire_slug": "permis-construire-pergola"
-  },
-  {
-    "slug": "pergola-aluminium-bois-comparatif",
-    "titre": "Pergola aluminium vs bois : quel matériau choisir en 2026 ?",
-    "categorie": "Aluminium",
-    "description": "Pergola aluminium ou bois ? Découvrez notre comparatif complet 2026 : durabilité, prix, entretien, esthétique. Guide pour bien choisir votre pergola.",
-    "date": "2026-09-24",
-    "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
