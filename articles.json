@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : 8 questions pour bien choisir en 2026",
+    "categorie": "Prix",
+    "description": "Obtenir un bon devis pergola artisan ? Découvrez les 8 questions essentielles pour comparer, négocier et éviter les pièges. Guide complet avec tarifs et conseils.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "prix-installation-pergola",
     "titre": "Prix installation pergola : combien coûte la pose en 2026 ?",
     "categorie": "Prix",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-aluminium-bois-comparatif.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "glycine-pergola-entretien",
-    "titre": "Glycine Pergola Entretien : Guide Complet de Culture et Taille",
-    "categorie": "Jardin",
-    "description": "Découvrez comment planter, cultiver et entretenir votre glycine sur pergola. Conseils de taille, périodes idéales et erreurs à éviter pour une floraison spectaculaire.",
-    "date": "2026-09-24",
-    "thumb": "/images/blog/glycine-pergola-entretien.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
   }
 ]
