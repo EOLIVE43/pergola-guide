@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-cuisine-exterieure-amenager",
+    "titre": "Aménager une cuisine extérieure pergola : le guide complet 2026",
+    "categorie": "Jardin",
+    "description": "Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, budget, matériaux et conseils d'expert pour transformer votre jardin.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/pergola-cuisine-exterieure-amenager.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-cuisine-exterieure"
+  },
+  {
     "slug": "pergola-bioclimatique-hiver",
     "titre": "Pergola bioclimatique en hiver : exploitez-la toute l'année",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-resistante-intemperies.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-traite"
-  },
-  {
-    "slug": "pergola-rustique-campagne",
-    "titre": "Pergola rustique campagne : créer un havre de paix avec les bons matériaux",
-    "categorie": "Style",
-    "description": "Pergola rustique campagne : guide complet des matériaux, inspirations et styles. Découvrez comment construire une pergola bois authentique pour votre jardin.",
-    "date": "2026-09-25",
-    "thumb": "/images/blog/pergola-rustique-campagne.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-douglas"
   }
 ]

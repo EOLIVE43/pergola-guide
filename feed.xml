@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 18:02:31 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:43:41 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aménager une cuisine extérieure pergola : le guide complet 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
+      <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, budget, matériaux et conseils d'expert pour transformer votre jardin.</description>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola bioclimatique en hiver : exploitez-la toute l'année</title>
       <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
@@ -176,15 +185,6 @@
       <description>Comparatif complet pergola aluminium vs bois : prix, durabilité, entretien, design. Découvrez les avantages et inconvénients de chaque matériau pour votre terrasse.</description>
       <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Budget pergola France 2026 : combien vraiment prévoir ?</title>
-      <link>https://pergola-guide.fr/blog/budget-pergola-france.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/budget-pergola-france.html</guid>
-      <description>Découvrez le budget pergola France 2026 : prix réels, coûts installation et devis comparatifs pour pergolas bois, bioclimatiques et pas chères. Guide complet 2026.</description>
-      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Prix</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
