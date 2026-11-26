@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-polycarbonate-avantages",
+    "titre": "Pergola polycarbonate : 5 avantages qui changent tout en 2026",
+    "categorie": "Toiture",
+    "description": "Découvrez les véritables avantages de la pergola polycarbonate : prix, durabilité, luminosité. Guide complet avec pose et comparaison avec autres matériaux.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/pergola-polycarbonate-avantages.webp",
+    "pilier_id": "toiture",
+    "secondaire_slug": "pergola-polycarbonate"
+  },
+  {
     "slug": "pergola-sur-mesure-avantages",
     "titre": "Pergola sur mesure avantages : étude de cas à Toulouse, 18 m² gagnés",
     "categorie": "Dimensions",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-solaire-panneaux.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-solaire"
-  },
-  {
-    "slug": "pergola-acier-corten",
-    "titre": "Pergola acier corten : pourquoi l'automne est le moment idéal pour installer",
-    "categorie": "Matériaux",
-    "description": "Découvrez pourquoi la pergola acier corten s'impose en automne 2026. Installation, patine rouillée, durabilité : le guide complet pour agir avant octobre.",
-    "date": "2026-09-25",
-    "thumb": "/images/blog/pergola-acier-corten.webp",
-    "pilier_id": "bois",
-    "secondaire_slug": "pergola-bois-exotique"
   }
 ]

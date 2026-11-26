@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:03:19 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:12:24 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola polycarbonate : 5 avantages qui changent tout en 2026</title>
+      <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</guid>
+      <description>Découvrez les véritables avantages de la pergola polycarbonate : prix, durabilité, luminosité. Guide complet avec pose et comparaison avec autres matériaux.</description>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Toiture</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola sur mesure avantages : étude de cas à Toulouse, 18 m² gagnés</title>
       <link>https://pergola-guide.fr/blog/pergola-sur-mesure-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages d'une pergola couverte face à l'ouverte. Protection, confort, durabilité : le guide complet pour choisir.</description>
       <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
       <category>Toiture</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Quelle taille de pergola choisir pour votre terrasse ?</title>
-      <link>https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/quelle-taille-pergola-choisir.html</guid>
-      <description>Découvrez comment choisir la bonne taille de pergola selon votre terrasse. Guide complet avec dimensions, règles et conseils pour un projet réussi.</description>
-      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
