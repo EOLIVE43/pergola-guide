@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:41:38 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:02:31 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola bioclimatique en hiver : exploitez-la toute l'année</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-hiver.html</guid>
+      <description>Découvrez comment utiliser votre pergola bioclimatique hiver sans perdre en confort. Guide complet avec solutions, dimensions et tarifs 2026 en France.</description>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola 4 saisons aménagement : comment Sophie à Toulouse a transformé son…</title>
       <link>https://pergola-guide.fr/blog/pergola-toute-saison-amenager.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le budget pergola France 2026 : prix réels, coûts installation et devis comparatifs pour pergolas bois, bioclimatiques et pas chères. Guide complet 2026.</description>
       <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Store zip pergola : 5 avantages pour une protection maximale contre le vent</title>
-      <link>https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/store-pergola-zip-avantages.html</guid>
-      <description>Découvrez les avantages du store zip pergola pour protéger votre terrasse du vent. Guide complet avec conseils d'installation et prix 2026.</description>
-      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Stores</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

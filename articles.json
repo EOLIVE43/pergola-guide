@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-hiver",
+    "titre": "Pergola bioclimatique en hiver : exploitez-la toute l'année",
+    "categorie": "Bioclimatique",
+    "description": "Découvrez comment utiliser votre pergola bioclimatique hiver sans perdre en confort. Guide complet avec solutions, dimensions et tarifs 2026 en France.",
+    "date": "2026-11-26",
+    "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-toute-saison-amenager",
     "titre": "Pergola 4 saisons aménagement : comment Sophie à Toulouse a transformé son…",
     "categorie": "Aménagement",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-rustique-campagne.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-douglas"
-  },
-  {
-    "slug": "pergola-vent-resistance",
-    "titre": "Pergola résistante vent : le test 45 km/h d'un propriétaire breton",
-    "categorie": "Conseils",
-    "description": "Découvrez comment Michel a choisi une pergola résistante vent face aux tempêtes bretonnes. Retour concret sur matériaux, budget et performance réelle en 2026.",
-    "date": "2026-09-25",
-    "thumb": "/images/blog/pergola-vent-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-autoportante"
   }
 ]
