@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:25:12 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:47:46 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : matériaux et styles authentiques</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment créer une pergola rustique campagne avec bois massif, pierre et matériaux authentiques. Guide complet avec inspirations et tarifs France.</description>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Fixer pergola mur parpaing : scellement chimique ou chevilles mécaniques ?</title>
       <link>https://pergola-guide.fr/blog/pergola-mur-parpaing-fixer.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment réaliser une déclaration préalable pergola en 8 étapes simples. Guide complet, conseils d'expert et pièges à éviter pour votre installation.</description>
       <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
       <category>Installation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x4 jardin : 8 raisons d'investir dans ce format</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x4-jardin-spacieux.html</guid>
-      <description>Découvrez pourquoi la pergola 4x4 jardin s'impose comme la solution idéale pour les espaces extérieurs spacieux. 8 avantages concrets pour votre terrasse.</description>
-      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

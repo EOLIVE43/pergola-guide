@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : matériaux et styles authentiques",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola rustique campagne avec bois massif, pierre et matériaux authentiques. Guide complet avec inspirations et tarifs France.",
+    "date": "2026-11-27",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-mur-parpaing-fixer",
     "titre": "Fixer pergola mur parpaing : scellement chimique ou chevilles mécaniques ?",
     "categorie": "Installation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/prix-installation-pergola.webp",
     "pilier_id": "prix",
     "secondaire_slug": "devis-pergola"
-  },
-  {
-    "slug": "pergola-toit-verre-securit",
-    "titre": "Pergola toit verre feuilleté : 8 avantages sécurité et design à connaître",
-    "categorie": "Toiture",
-    "description": "Pergola toit verre feuilleté : découvrez 8 atouts essentiels pour sécuriser votre terrasse tout en gagnant en esthétique. Guide complet des bénéfices.",
-    "date": "2026-09-26",
-    "thumb": "/images/blog/pergola-toit-verre-securit.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
