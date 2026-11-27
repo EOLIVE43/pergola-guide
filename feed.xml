@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:47:46 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:35:05 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rose grimpante pergola : 7 variétés pour un jardin fleuri</title>
+      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
+      <description>Découvrez les meilleures variétés de roses grimpantes pour pergola : Midas, Dortmund, Pierre de Ronsard. Conseils de plantation et d'entretien pour un résultat spectaculaire.</description>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Jardin</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola rustique campagne : matériaux et styles authentiques</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les vrais avantages et inconvénients de la pergola aluminium. Comparatif détaillé, prix, entretien et notre verdict pour bien choisir.</description>
       <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aluminium</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Déclaration préalable pergola : 8 étapes essentielles à suivre</title>
-      <link>https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-declaration-prealable-comment.html</guid>
-      <description>Découvrez comment réaliser une déclaration préalable pergola en 8 étapes simples. Guide complet, conseils d'expert et pièges à éviter pour votre installation.</description>
-      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Installation</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
