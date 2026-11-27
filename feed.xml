@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:12:24 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:40:21 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola rustique campagne : matériaux et styles authentiques ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
+      <description>Découvrez comment créer une pergola rustique campagne authentique. Matériaux, inspirations et conseils pratiques pour transformer votre terrasse en havre de paix champêtre.</description>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Style</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola polycarbonate : 5 avantages qui changent tout en 2026</title>
       <link>https://pergola-guide.fr/blog/pergola-polycarbonate-avantages.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le retour d'expérience complet de Fabrice : pergola rustique campagne en bois, matériaux authentiques, budget réel et étapes clés. Inspirez-vous de son projet !</description>
       <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
       <category>Style</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola couverte : 5 avantages qui changent tout en 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-couverte-avantages.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-couverte-avantages.html</guid>
-      <description>Découvrez les vrais avantages d'une pergola couverte face à l'ouverte. Protection, confort, durabilité : le guide complet pour choisir.</description>
-      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Toiture</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

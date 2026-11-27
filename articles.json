@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-rustique-campagne",
+    "titre": "Pergola rustique campagne : matériaux et styles authentiques ?",
+    "categorie": "Style",
+    "description": "Découvrez comment créer une pergola rustique campagne authentique. Matériaux, inspirations et conseils pratiques pour transformer votre terrasse en havre de paix champêtre.",
+    "date": "2026-11-27",
+    "thumb": "/images/blog/pergola-rustique-campagne.webp",
+    "pilier_id": "bois",
+    "secondaire_slug": "pergola-bois-douglas"
+  },
+  {
     "slug": "pergola-polycarbonate-avantages",
     "titre": "Pergola polycarbonate : 5 avantages qui changent tout en 2026",
     "categorie": "Toiture",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-vent-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-autoportante"
-  },
-  {
-    "slug": "pergola-solaire-panneaux",
-    "titre": "Pergola Solaire Panneaux Photovoltaïques : Rentabilité Réelle en 2026",
-    "categorie": "Bioclimatique",
-    "description": "Pergola solaire panneaux photovoltaïques : guide complet de rentabilité. Calcul ROI, économies d'énergie, installation. Tout pour amortir votre investissement.",
-    "date": "2026-09-25",
-    "thumb": "/images/blog/pergola-solaire-panneaux.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-solaire"
   }
 ]
