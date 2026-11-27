@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:15:17 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:52:26 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola en copropriété : les règles et autorisations à connaître</title>
+      <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-copropriete-regles.html</guid>
+      <description>Découvrez les règles pour installer une pergola en copropriété, les autorisations nécessaires et les pièges à éviter. Guide complet 2026.</description>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Réglementation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Plantes grimpantes pergola France : vigne ou clématite ?</title>
       <link>https://pergola-guide.fr/blog/pergola-plantes-grimpantes-meilleures.html</link>
@@ -176,15 +185,6 @@
       <description>Faut-il déclarer sa pergola à son assurance ? Guide complet automne 2026 : obligations légales, délais critiques et protection optimale de votre terrasse.</description>
       <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
       <category>Réglementation</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola 4x3 terrasse : le guide complet pour bien choisir</title>
-      <link>https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-4x3-terrasse-standard.html</guid>
-      <description>Découvrez pourquoi la pergola 4x3 est la dimension idéale pour votre terrasse. Guide complet avec conseils d'installation, prix et erreurs à éviter.</description>
-      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Dimensions</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
