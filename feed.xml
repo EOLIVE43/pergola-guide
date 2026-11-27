@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:40:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:42:49 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pergola et permis construire 2026 : 8 questions essentielles</title>
+      <link>https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-permis-construire-quand.html</guid>
+      <description>Faut-il un permis pour votre pergola en 2026 ? Découvrez les règles, démarches et exceptions pour l'installation de votre pergola sans risque juridique.</description>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Installation</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola rustique campagne : matériaux et styles authentiques ?</title>
       <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez les 8 critères essentiels pour choisir une pergola résistante au vent. Comparatif aluminium, structure et ancrage pour votre terrasse.</description>
       <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
       <category>Conseils</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Pergola rustique campagne : comment Fabrice a transformé sa terrasse pour 4…</title>
-      <link>https://pergola-guide.fr/blog/pergola-rustique-campagne.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-rustique-campagne.html</guid>
-      <description>Découvrez le retour d'expérience complet de Fabrice : pergola rustique campagne en bois, matériaux authentiques, budget réel et étapes clés. Inspirez-vous de son projet !</description>
-      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Style</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
