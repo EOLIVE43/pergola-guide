@@ -1,5 +1,15 @@
 [
   {
+    "slug": "devis-pergola-artisan",
+    "titre": "Devis pergola artisan : 8 questions essentielles pour bien comparer",
+    "categorie": "Prix",
+    "description": "Devis pergola artisan : découvrez comment obtenir les meilleurs tarifs, comparer les offres et éviter les pièges. Guide complet avec 8 réponses claires.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/devis-pergola-artisan.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-rustique-campagne",
     "titre": "Pergola rustique campagne : matériaux, style et inspiration 2024",
     "categorie": "Style",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-hiver.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-bioclimatique-marques",
-    "titre": "Meilleures marques pergola bioclimatique : guide 2026",
-    "categorie": "Bioclimatique",
-    "description": "Découvrez les meilleures marques de pergola bioclimatique en 2026. Comparaison des leaders du marché, prix, garanties et conseils d'achat pour choisir votre marque pergola bioclimatique idéale.",
-    "date": "2026-09-27",
-    "thumb": "/images/blog/pergola-bioclimatique-marques.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "prix-pergola-bioclimatique"
   }
 ]
