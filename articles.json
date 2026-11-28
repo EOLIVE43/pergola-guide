@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : 7 règles essentielles avant d'installer",
+    "categorie": "Réglementation",
+    "description": "Découvrez les règles de pergola copropriété, autorisations obligatoires, syndic et droits de copropriétaires. Guide complet réglementation et démarches 2024.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-installation-soi-meme",
     "titre": "Installer une pergola bioclimatique soi-même : c'est possible ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
     "pilier_id": "installation",
     "secondaire_slug": "declaration-prealable-pergola"
-  },
-  {
-    "slug": "pergola-bioclimatique-installation-soi-meme",
-    "titre": "Installer une pergola bioclimatique soi-même en automne : le guide 2026",
-    "categorie": "Bioclimatique",
-    "description": "Installer pergola bioclimatique soi-même en automne 2026 ? Découvrez le guide complet, délais d'installation et les pièges à éviter avant les premières gelées.",
-    "date": "2026-09-27",
-    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
-    "pilier_id": "bioclimatique",
-    "secondaire_slug": "pergola-bioclimatique-4x3"
   }
 ]
