@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-plantes-grimpantes-meilleures",
+    "titre": "8 meilleures plantes grimpantes pour pergola en France",
+    "categorie": "Jardin",
+    "description": "Découvrez les 8 meilleures plantes grimpantes pergola France pour embellir votre jardin. Conseils d'experts, variétés résistantes et astuces d'entretien pour réussir.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/pergola-plantes-grimpantes-meilleures.webp",
+    "pilier_id": "terrasse",
+    "secondaire_slug": "pergola-jardin-plantes-grimpantes"
+  },
+  {
     "slug": "assurance-pergola-declaration",
     "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2024",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-eclairage-led.webp",
     "pilier_id": "terrasse",
     "secondaire_slug": "pergola-eclairage"
-  },
-  {
-    "slug": "toiture-pergola-quel-materiau",
-    "titre": "Toiture pergola matériau : quel revêtement choisir en 2025 ?",
-    "categorie": "Toiture",
-    "description": "Découvrez les meilleurs matériaux pour la toiture de votre pergola : verre, polycarbonate, bois, tissu. Comparaison, prix et conseils pour bien choisir.",
-    "date": "2026-09-27",
-    "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
-    "pilier_id": "toiture",
-    "secondaire_slug": "pergola-toit-verre"
   }
 ]
