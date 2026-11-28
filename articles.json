@@ -1,6 +1,16 @@
 [
   {
     "slug": "pergola-copropriete-regles",
+    "titre": "Pergola en copropriété : quelles règles et autorisations ?",
+    "categorie": "Réglementation",
+    "description": "Découvrez les règles de pergola en copropriété : autorisations, syndic, règlement, installations autorisées. Guide complet des démarches légales.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/pergola-copropriete-regles.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "declaration-prealable-pergola"
+  },
+  {
+    "slug": "pergola-copropriete-regles",
     "titre": "Pergola en copropriété : 7 règles essentielles avant d'installer",
     "categorie": "Réglementation",
     "description": "Découvrez les règles de pergola copropriété, autorisations obligatoires, syndic et droits de copropriétaires. Guide complet réglementation et démarches 2024.",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
     "pilier_id": "aluminium",
     "secondaire_slug": "pergola-aluminium-adossee"
-  },
-  {
-    "slug": "pergola-declaration-prealable-comment",
-    "titre": "Déclaration préalable pergola : comment déclarer en 2026 ?",
-    "categorie": "Installation",
-    "description": "Déclaration préalable pergola comment : guide complet des étapes, délais et conseils pour installer légalement votre pergola sans permis.",
-    "date": "2026-09-28",
-    "thumb": "/images/blog/pergola-declaration-prealable-comment.webp",
-    "pilier_id": "installation",
-    "secondaire_slug": "declaration-prealable-pergola"
   }
 ]
