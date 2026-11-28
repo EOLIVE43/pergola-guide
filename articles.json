@@ -1,5 +1,15 @@
 [
   {
+    "slug": "assurance-pergola-declaration",
+    "titre": "Assurance pergola : faut-il la déclarer ? Guide complet 2024",
+    "categorie": "Réglementation",
+    "description": "Découvrez si vous devez déclarer votre pergola à votre assurance habitation. Explications claires sur l'obligation de déclaration, les risques et les démarches à suivre.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/assurance-pergola-declaration.webp",
+    "pilier_id": "installation",
+    "secondaire_slug": "permis-construire-pergola"
+  },
+  {
     "slug": "pergola-bioclimatique-marques",
     "titre": "Marque pergola bioclimatique : Biossun ou Stobag en 2026 ?",
     "categorie": "Bioclimatique",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/toiture-pergola-quel-materiau.webp",
     "pilier_id": "toiture",
     "secondaire_slug": "pergola-toit-verre"
-  },
-  {
-    "slug": "quelle-taille-pergola-choisir",
-    "titre": "Quelle taille de pergola choisir ? 8 règles pour votre terrasse",
-    "categorie": "Dimensions",
-    "description": "Découvrez les 8 règles essentielles pour bien choisir la taille de votre pergola selon votre terrasse. Conseils pratiques et erreurs à éviter pour un aménagement réussi.",
-    "date": "2026-09-27",
-    "thumb": "/images/blog/quelle-taille-pergola-choisir.webp",
-    "pilier_id": "dimensions",
-    "secondaire_slug": "grande-pergola"
   }
 ]
