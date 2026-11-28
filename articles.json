@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pergola-bioclimatique-installation-soi-meme",
+    "titre": "Installer une pergola bioclimatique soi-même : c'est possible ?",
+    "categorie": "Bioclimatique",
+    "description": "Peut-on installer une pergola bioclimatique soi-même ? Guide complet : faisabilité, compétences requises, étapes, permis et risques. Découvrez la vérité.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
+    "pilier_id": "bioclimatique",
+    "secondaire_slug": "pergola-bioclimatique-4x3"
+  },
+  {
     "slug": "pergola-plantes-grimpantes-meilleures",
     "titre": "8 meilleures plantes grimpantes pour pergola en France",
     "categorie": "Jardin",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bioclimatique-installation-soi-meme.webp",
     "pilier_id": "bioclimatique",
     "secondaire_slug": "pergola-bioclimatique-4x3"
-  },
-  {
-    "slug": "pergola-eclairage-led",
-    "titre": "Éclairage LED pergola : comment Stéphane a transformé sa terrasse à Bordeaux",
-    "categorie": "Jardin",
-    "description": "Découvrez le retour d'expérience de Stéphane sur l'éclairage LED pergola : budget 4 800 €, installation en 3 semaines, et 120 m² de terrasse enfin utilisables en soirée.",
-    "date": "2026-09-27",
-    "thumb": "/images/blog/pergola-eclairage-led.webp",
-    "pilier_id": "terrasse",
-    "secondaire_slug": "pergola-eclairage"
   }
 ]
