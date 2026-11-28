@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 28 Nov 2026 12:50:52 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:54:08 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marque pergola bioclimatique : Biossun ou Stobag en 2026 ?</title>
+      <link>https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-bioclimatique-marques.html</guid>
+      <description>Comparatif des meilleures marques de pergola bioclimatique. Découvrez les différences entre Biossun et Stobag : prix, qualité, garantie et installation. Quel choix pour vos besoins ?</description>
+      <pubDate>Sat, 28 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Bioclimatique</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Devis pergola artisan : 8 questions essentielles pour bien comparer</title>
       <link>https://pergola-guide.fr/blog/devis-pergola-artisan.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez le prix installation pergola détaillé : coûts de main-d'œuvre, matériaux, pergola pas cher et bioclimatique. Devis et comparatif complet.</description>
       <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
       <category>Prix</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Rose grimpante pergola : variétés classiques ou modernes ?</title>
-      <link>https://pergola-guide.fr/blog/rose-grimpante-pergola.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/rose-grimpante-pergola.html</guid>
-      <description>Découvrez les meilleures variétés de roses grimpantes pour pergola : comparatif entre classiques et modernes, prix, entretien et conseils de plantation.</description>
-      <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>
