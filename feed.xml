@@ -5,8 +5,17 @@
     <link>https://pergola-guide.fr/</link>
     <description>Le guide de référence sur les pergolas en France</description>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 28 Nov 2026 17:52:18 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 18:45:48 +0100</lastBuildDate>
     <atom:link href="https://pergola-guide.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Prix installation pergola : le vrai coût pour 24 m² à Toulouse</title>
+      <link>https://pergola-guide.fr/blog/prix-installation-pergola.html</link>
+      <guid isPermaLink="true">https://pergola-guide.fr/blog/prix-installation-pergola.html</guid>
+      <description>Découvrez le budget réel d'installation d'une pergola bioclimatique 24 m² à Toulouse : main-d'œuvre, pose, matériaux. Cas concret avec chiffres 2026.</description>
+      <pubDate>Sat, 28 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Prix</category>
+      <author>contact@eoliz.fr (Mathias D.)</author>
+    </item>
     <item>
       <title>Pergola en copropriété : quelles règles et autorisations ?</title>
       <link>https://pergola-guide.fr/blog/pergola-copropriete-regles.html</link>
@@ -176,15 +185,6 @@
       <description>Découvrez comment transformer votre pergola en espace 4 saisons : astuces pratiques, produits et aménagements pour profiter toute l'année. Guide complet 2025.</description>
       <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
       <category>Aménagement</category>
-      <author>contact@eoliz.fr (Mathias D.)</author>
-    </item>
-    <item>
-      <title>Aménager une cuisine extérieure pergola : le guide complet 2026</title>
-      <link>https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</link>
-      <guid isPermaLink="true">https://pergola-guide.fr/blog/pergola-cuisine-exterieure-amenager.html</guid>
-      <description>Découvrez comment aménager une cuisine extérieure pergola fonctionnelle et élégante. Plans, budget, matériaux et conseils d'expert pour transformer votre jardin.</description>
-      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Jardin</category>
       <author>contact@eoliz.fr (Mathias D.)</author>
     </item>
   </channel>

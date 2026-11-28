@@ -1,5 +1,15 @@
 [
   {
+    "slug": "prix-installation-pergola",
+    "titre": "Prix installation pergola : le vrai coût pour 24 m² à Toulouse",
+    "categorie": "Prix",
+    "description": "Découvrez le budget réel d'installation d'une pergola bioclimatique 24 m² à Toulouse : main-d'œuvre, pose, matériaux. Cas concret avec chiffres 2026.",
+    "date": "2026-11-28",
+    "thumb": "/images/blog/prix-installation-pergola.webp",
+    "pilier_id": "prix",
+    "secondaire_slug": "devis-pergola"
+  },
+  {
     "slug": "pergola-copropriete-regles",
     "titre": "Pergola en copropriété : quelles règles et autorisations ?",
     "categorie": "Réglementation",
@@ -4988,15 +4998,5 @@
     "thumb": "/images/blog/pergola-bois-exotique-avantages.webp",
     "pilier_id": "bois",
     "secondaire_slug": "pergola-bois-exotique"
-  },
-  {
-    "slug": "pergola-neige-poids-resistance",
-    "titre": "Pergola Neige Résistance : Quelle Structure Supporte le Poids ?",
-    "categorie": "Conseils",
-    "description": "Pergola neige résistance : découvrez les structures qui supportent le poids, les charges maximales et les meilleures matières pour l'hiver en France.",
-    "date": "2026-09-28",
-    "thumb": "/images/blog/pergola-neige-poids-resistance.webp",
-    "pilier_id": "aluminium",
-    "secondaire_slug": "pergola-aluminium-adossee"
   }
 ]
